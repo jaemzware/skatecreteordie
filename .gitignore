@@ -1,0 +1,83 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcuserdata/
+
+# Xcode Workspace
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+
+# IDE
+.idea/
+
+# User-specific files
+xcuserdata/
+*.xcuserstate
+UserInterfaceState.xcuserstate
+
+# Build
+build/
+DerivedData/
+
+# Sensitive Configuration Files
+*.plist
+!Info.plist
+!Base.lproj/Info.plist
+!Configuration.template.plist
+GoogleService-Info.plist
+Config.plist
+Secrets.plist
+Keys.plist
+Configuration.plist
+APIKeys.plist
+skatecreteordie/Configuration.plist
+
+# Environment Files
+.env
+.env.*
+*.xcconfig
+!Debug.xcconfig
+!Release.xcconfig
+
+# Certificates & Signing
+*.cer
+*.certSigningRequest
+*.p12
+*.mobileprovision
+*.provisionprofile
+*.der
+*.key
+AuthKey_*.p8
+
+# Authentication & API
+auth.json
+secrets.json
+api_keys.json
+credentials.json
+**/auth/*
+**/secrets/*
+
+# Third Party Dependencies
+Pods/
+Carthage/
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+fastlane/README.md
+
+# Crashlytics
+crashlytics-build.properties
+com_crashlytics_export_strings.xml
+
+*.developerprofile
+Podfile.lock
+Pods/
