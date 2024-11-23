@@ -1,5 +1,5 @@
 # skatecreteordie 🛹
-custom skatepark map and path tracking for iOS.
+custom skatepark map and path tracking for iOS. 
 
 
 ## Custom Skatepark Map: World-Class Skateparks at your immediate finger tips
