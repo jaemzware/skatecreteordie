@@ -81,3 +81,7 @@ com_crashlytics_export_strings.xml
 *.developerprofile
 Podfile.lock
 Pods/
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+.DS_Store
