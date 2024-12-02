@@ -86,4 +86,5 @@ xcuserdata/
 *.xcodeproj/xcuserdata/
 .DS_Store
 
-deployskateparkdata.sh
+DATA/deployskateparkdata.sh
+DATA/skateparks.json
