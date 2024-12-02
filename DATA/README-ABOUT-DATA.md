@@ -3,8 +3,6 @@
 3. sort by id
 4. export to DATA/skateparkdata.csv
 5. run convert_skateparkdata_csv_to_json.py 
-    python3 convert_skateparkdata_csv_to_json.py
 6. this creates skateparks.json, validate the contents on https://jsonlint.com/ 
 7. move skateparks.json to skateparkdata20240303.js
-    mv skateparks.json skateparkdata20240303.js
 8. submit a PR
