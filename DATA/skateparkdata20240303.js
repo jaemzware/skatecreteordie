@@ -2,7 +2,7 @@
     "skateparks": [
         {
             "name": "11th Street DIY",
-            "address": "499-451 E Lower 11th St, Tacoma, WA 98421",
+            "address": "499 E Lower 11th St, Tacoma, WA 98421, US",
             "id": "11thstDIY",
             "builder": "DIY.",
             "sqft": "7,800sqft",
@@ -18,7 +18,7 @@
         },
         {
             "name": "4-DirectionsSkatepark-PineRidge,SD",
-            "address": "BIA Highway 32, Pine Ridge, SD 57770, USA",
+            "address": "BIA Hwy 32, Pine Ridge, SD 57770, US",
             "id": "4-DirectionsSkatepark-PineRidgeSD",
             "builder": "Grindline",
             "sqft": "6,000sqft.",
@@ -34,7 +34,7 @@
         },
         {
             "name": "7 PRESIDENTS SKATEPARK",
-            "address": "465 Ocean Blvd N, Long Branch, NJ 07740, USA",
+            "address": "465 Ocean Blvd N, Long Branch, NJ 07740, US",
             "id": "7PRESIDENTSSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15,000 ft\u00b2",
@@ -50,7 +50,7 @@
         },
         {
             "name": "7 PRESIDENTS SKATEPARK PHASE 2",
-            "address": "465 Ocean Blvd N, Long Branch, NJ 07740, USA",
+            "address": "465 Ocean Blvd N, Long Branch, NJ 07740, US",
             "id": "7PRESIDENTSSKATEPARKPHASE2",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Abenraa Skatepark",
-            "address": "Nyl\u00f8kke 4, 6200 Aabenraa",
+            "address": "Nyl\u00f8kke 4, 6200 Aabenraa, Denmark",
             "id": "aabenraaDK",
             "builder": "SNEArchitects.",
             "sqft": "2,750.12 ft\u00b2 (255.49 m\u00b2)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Aberdeen Skatepark",
-            "address": "E Perry St & S Dewey St, Aberdeen, WA 98520",
+            "address": "E Perry St & S Dewey St, Aberdeen, WA 98520, US",
             "id": "aberdeen",
             "builder": "N/A",
             "sqft": "8,825.35 ft\u00b2",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Adams Skatepark",
-            "address": "Morrison St & Commercial St., Adams, OR 97810",
+            "address": "Commercial St & Morrison St, Adams, OR 97810, US",
             "id": "adamsOR",
             "builder": "N/A",
             "sqft": "2,036.52 ft\u00b2",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Adams",
-            "address": "230 Morrison St, Adams, OR 97810",
+            "address": "230 Morrison St, Adams, OR 97810, US",
             "id": "Adamsor",
             "builder": "Dreamland.",
             "sqft": "2,500 sqft.",
@@ -130,7 +130,7 @@
         },
         {
             "name": "Agedrup Skatepark",
-            "address": "Brolandsvej 16 5320 Agedrup",
+            "address": "Brolandvej 16, 5320 Agedrup, Denmark",
             "id": "Agedrup SkateparkDK",
             "builder": "FSR",
             "sqft": "480 m\u00b2",
@@ -146,7 +146,7 @@
         },
         {
             "name": "Albany Skatepark",
-            "address": "1375 Se 6th Ave, Albany, OR 97321",
+            "address": "1375 SE 6th Ave, Albany, OR 97321, US",
             "id": "albanyOR",
             "builder": "N/A",
             "sqft": "10,527.85 ft\u00b2",
@@ -162,7 +162,7 @@
         },
         {
             "name": "Alberta Skatepark",
-            "address": "5225 NE Alberta ST., Portland, OR 97218",
+            "address": "5225 NE Alberta St, Portland, OR 97218, US",
             "id": "albertaOR",
             "builder": "Evergreen.",
             "sqft": "3,000sqft.",
@@ -178,7 +178,7 @@
         },
         {
             "name": "ALBERTON, MONTANA SKATEPARK",
-            "address": "810 Railroad Ave, Alberton, MT 59820, USA",
+            "address": "810 Railroad Ave, Alberton, MT 59820, US",
             "id": "ALBERTONMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "5,648.16 ft\u00b2",
@@ -194,7 +194,7 @@
         },
         {
             "name": "Alex&Foussat(PrincePark)-Oceanside,CA",
-            "address": "San Luis Rey River Trail, Oceanside, CA 92058, USA",
+            "address": "San Luis Rey River Trail, Oceanside, CA 92058, US",
             "id": "Alex&Foussat(PrincePark)-OceansideCA",
             "builder": "Grindline.",
             "sqft": "23,000sqft.",
@@ -210,7 +210,7 @@
         },
         {
             "name": "Alvin Skatepark Alvin",
-            "address": "301 E Sealy St, Alvin, TX 77511, USA",
+            "address": "301 E Sealy St, Alvin, TX 77511, US",
             "id": "alvinskateparkalvin",
             "builder": "Newline",
             "sqft": "9,490.38 ft\u00b2",
@@ -226,7 +226,7 @@
         },
         {
             "name": "AMBASSADOR SKATE PLAZA",
-            "address": "612 W E St, Wilmington, CA 90744, USA",
+            "address": "612 W E St, Los Angeles, CA 90744, US",
             "id": "AMBASSADORSKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -258,7 +258,7 @@
         },
         {
             "name": "Amelia Mayberry Skatepark Whittier",
-            "address": "13201 Meyer Rd, Whittier, CA 90605, USA",
+            "address": "13201 Meyer Rd, Whittier, CA 90605, US",
             "id": "ameliamayberryskateparkwhittier",
             "builder": "Newline",
             "sqft": "18,465.26 ft\u00b2",
@@ -274,7 +274,7 @@
         },
         {
             "name": "Amherst Skate Plaza Amherst",
-            "address": "185 Church St, Amherst, NS B4H 3C7, Canada",
+            "address": "185 Church St, Amherst, NS B4H 3Z5, Canada",
             "id": "amherstskateplazaamherst",
             "builder": "Newline",
             "sqft": "9,160.04 ft\u00b2",
@@ -290,7 +290,7 @@
         },
         {
             "name": "Anaconda Skatepark",
-            "address": "Park Ave & Monroe Street, Anaconda, MT 59711",
+            "address": "Monroe St & E Park Ave, Anaconda, MT 59711, US",
             "id": "anacondaMT",
             "builder": "Dreamland.",
             "sqft": "5,700sqft.",
@@ -306,7 +306,7 @@
         },
         {
             "name": "Anacortes Skatepark",
-            "address": "R Ave & 23rd St, Anacortes, WA 98221",
+            "address": "R Ave & 23rd St, Anacortes, WA 98221, US",
             "id": "anacortes",
             "builder": "N/A",
             "sqft": "7,571.93 ft\u00b2",
@@ -338,7 +338,7 @@
         },
         {
             "name": "Apex, NC",
-            "address": "1250 Ambergate Station, Apex, NC 27502",
+            "address": "1250 Ambergate Station, Apex, NC 27502, US",
             "id": "apexnc",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -354,7 +354,7 @@
         },
         {
             "name": "Apollo Beach Skatepark",
-            "address": "664 Golf and Sea Blvd, Apollo Beach, FL 33572",
+            "address": "664 Golf & Sea Blvd, Apollo Beach, FL 33572, US",
             "id": "apollo",
             "builder": "Team Pain",
             "sqft": "11,000sqft.",
@@ -370,7 +370,7 @@
         },
         {
             "name": "Aptos Seacliff Park",
-            "address": "Canterbury Dr & McGregor Drive, Aptos, California 95003",
+            "address": "McGregor Dr & Canterbury Dr, Seacliff, CA 95003, US",
             "id": "aptos",
             "builder": "Dreamland.",
             "sqft": "4,200 sqft.",
@@ -386,7 +386,7 @@
         },
         {
             "name": "Arena Assens",
-            "address": "R\u00e5dhus All\u00e9 25, 5610 Assens",
+            "address": "Arena Assens, R\u00e5dhus All\u00e9 25, 5610 Assens, Denmark",
             "id": "Arena AssensDK",
             "builder": "FSR",
             "sqft": "180 m\u00b2",
@@ -402,7 +402,7 @@
         },
         {
             "name": "Arlington Skatepark",
-            "address": "18501 59th Ave NE, Arlington, WA 98223",
+            "address": "18501 59th Ave NE, Arlington, WA 98223, US",
             "id": "arlington",
             "builder": "Grindline.",
             "sqft": "8,500sqft.",
@@ -418,7 +418,7 @@
         },
         {
             "name": "Arlington, VA",
-            "address": "6020 Wilson Blvd Arlington, VA 22205",
+            "address": "6020 Wilson Blvd, Arlington, VA 22205, US",
             "id": "arlingtonva",
             "builder": "Team Pain",
             "sqft": "16,300sqft.",
@@ -434,7 +434,7 @@
         },
         {
             "name": "ARMADA SKATE & BIKE PARK",
-            "address": "75400 North Ave, Armada, MI 48005, USA",
+            "address": "75400 North Ave, Armada, MI 48005, US",
             "id": "ARMADASKATEBIKEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -450,7 +450,7 @@
         },
         {
             "name": "Arovista Skatepark Brea",
-            "address": "500 W Elm St, Brea, CA 92821, USA",
+            "address": "500 W Elm St, Brea, CA 92821, US",
             "id": "arovistaskateparkbrea",
             "builder": "Newline",
             "sqft": "9,694.12 ft\u00b2",
@@ -466,7 +466,7 @@
         },
         {
             "name": "ARTHUR JOHNSON SKATEPARK",
-            "address": "1235 W 170th St, Gardena, CA 90247, USA",
+            "address": "1235 W 170th St, Gardena, CA 90247, US",
             "id": "ARTHURJOHNSONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -482,7 +482,7 @@
         },
         {
             "name": "ARTIVIO GUERRERO PARK",
-            "address": "5955 Lemon Park Way, Sacramento, CA 95824, USA",
+            "address": "5955 Lemon Park Way, Sacramento, CA 95824, US",
             "id": "ARTIVIOGUERREROPARK",
             "builder": "Spohn Ranch",
             "sqft": "3,000 ft\u00b2",
@@ -498,7 +498,7 @@
         },
         {
             "name": "Arvada, CO",
-            "address": "12920 W 72nd Ave, Arvada, CO 80005",
+            "address": "12920 W 72nd Ave, Arvada, CO 80005, US",
             "id": "arvada",
             "builder": "Team Pain",
             "sqft": "40,000sqft.",
@@ -514,7 +514,7 @@
         },
         {
             "name": "Ashland Skatepark",
-            "address": "W Hersey St & Water St, Ashland, OR 97520",
+            "address": "Water St & E Hersey St, Ashland, OR 97520, US",
             "id": "ashlandOR",
             "builder": "N/A",
             "sqft": "11,248.94 ft\u00b2",
@@ -530,7 +530,7 @@
         },
         {
             "name": "Aspen\u2019s Rio Grande Skatepark in Colorado",
-            "address": "501 Rio Grande Pl, Aspen, CO 81611",
+            "address": "501 Rio Grande Pl, Aspen, CO 81611, US",
             "id": "aspen",
             "builder": "Team Pain",
             "sqft": "17,000sqft.",
@@ -546,7 +546,7 @@
         },
         {
             "name": "Astoria Skatepark",
-            "address": "900 W Marine Dr, Astoria, Oregon 97103",
+            "address": "900 W Marine Dr, Astoria, OR 97103, US",
             "id": "astoriaOR",
             "builder": "Dreamland.",
             "sqft": "12,000sqft.",
@@ -562,7 +562,7 @@
         },
         {
             "name": "AthensSkatepark-Athens,OH",
-            "address": "Hockhocking Adena Bikeway, Athens, OH 45701, USA",
+            "address": "Hockhocking Adena Bikeway, Athens, OH , US",
             "id": "AthensSkatepark-AthensOH",
             "builder": "Grindline",
             "sqft": "13,000sqft",
@@ -578,7 +578,7 @@
         },
         {
             "name": "Atlantic Beach Skatepark - Atlantic Beach, NC",
-            "address": "915 W Fort Macon Rd, Atlantic Beach, NC 28512",
+            "address": "915 W Fort Macon Rd, Atlantic Beach, NC 28512, US",
             "id": "atlanticnc",
             "builder": "artisan",
             "sqft": "16,000sqft.",
@@ -594,7 +594,7 @@
         },
         {
             "name": "All Together Skatepark",
-            "address": "3500 Stone Way N, Seattle, WA 98103",
+            "address": "3500 Stone Way N, Seattle, WA 98103, US",
             "id": "ats",
             "builder": "N/A",
             "sqft": "3,574.05 ft\u00b2",
@@ -610,7 +610,7 @@
         },
         {
             "name": "Auburn Skatepark",
-            "address": "J St NE & 28th St NE Auburn, WA 98002",
+            "address": "28th St NE & J St NE, Auburn, WA 98002, US",
             "id": "auburn",
             "builder": "N/A",
             "sqft": "8,526.31 ft\u00b2",
@@ -626,7 +626,7 @@
         },
         {
             "name": "Aumsville Skatepark",
-            "address": "8773 Mill Creek Rd. SE, Aumsville, OR 97325",
+            "address": "8773 Mill Creek Rd SE, Aumsville, OR 97325, US",
             "id": "aumsvilleOR",
             "builder": "N/A",
             "sqft": "10,000sqft.",
@@ -642,7 +642,7 @@
         },
         {
             "name": "AztecSkatepark-Aztec,NM",
-            "address": "600 Llano St. Aztec, New Mexico",
+            "address": "600 Llano St, Aztec, NM 87410, US",
             "id": "AztecSkatepark-AztecNM",
             "builder": "Grindline",
             "sqft": "7,500sqft.",
@@ -658,7 +658,7 @@
         },
         {
             "name": "BAILEY PARK SKATEPARK",
-            "address": "Bailey Park, 1220 Prairie St, Grinnell, IA 50112, USA",
+            "address": "Bailey Park, 1220 Prairie St, Grinnell, IA 50112, US",
             "id": "BAILEYPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,500 ft\u00b2",
@@ -674,7 +674,7 @@
         },
         {
             "name": "Bainbridge Island Skatepark",
-            "address": "High School Rd NE, Bainbridge Island, WA 98110",
+            "address": "High School Rd NE, Bainbridge Island, WA 98110, US",
             "id": "bainbridge",
             "builder": "Grindline.",
             "sqft": "12,000sqft.",
@@ -690,7 +690,7 @@
         },
         {
             "name": "Baker City Skatepark",
-            "address": "500 Baker St., Baker City, OR 97814",
+            "address": "500 Baker St, Baker City, OR 97814, US",
             "id": "bakercityOR",
             "builder": "N/A",
             "sqft": "6,857.87 ft\u00b2",
@@ -706,7 +706,7 @@
         },
         {
             "name": "BakersfieldSkateparkExpansion\u2013Bakersfield,CA",
-            "address": "Kern River Parkway Bike Trail, Bakersfield, CA 93301, USA",
+            "address": "Kern River Parkway Bike Trail, Bakersfield, CA 93301, US",
             "id": "BakersfieldSkateparkExpansion\u2013BakersfieldCA",
             "builder": "Grindline.",
             "sqft": "18,000sqft.",
@@ -722,7 +722,7 @@
         },
         {
             "name": "Ballard Bowl",
-            "address": "5701 22nd Ave NW, Seattle, WA 98107",
+            "address": "5701 22nd Ave NW, Seattle, WA 98107, US",
             "id": "ballard",
             "builder": "Grindline.",
             "sqft": "5,000sqft.",
@@ -738,7 +738,7 @@
         },
         {
             "name": "Skatepark of Baltimore - Baltimore, MD",
-            "address": "1201 W 36th St, Baltimore, MD 21211",
+            "address": "1201 W 36th St, Baltimore, MD 21211, US",
             "id": "Baltimoremd",
             "builder": "artisan",
             "sqft": "18,000sqft.",
@@ -786,7 +786,7 @@
         },
         {
             "name": "BarS DIY",
-            "address": "6425 SW Admiral Way, Seattle, WA 98116",
+            "address": "6425 SW Admiral Wy, Seattle, WA 98116, US",
             "id": "bars",
             "builder": "DIY.",
             "sqft": "12,000sqft.",
@@ -802,7 +802,7 @@
         },
         {
             "name": "Battleground Skatepark",
-            "address": "912 E Main St, Battle Ground, WA 98604",
+            "address": "912 E Main St, Battle Ground, WA 98604, US",
             "id": "battleground",
             "builder": "Grindline.",
             "sqft": "27,000sqft.",
@@ -818,7 +818,7 @@
         },
         {
             "name": "Bay City Ken Downie Skatepark",
-            "address": "413 Marquette Ave, Bay City, MI 48706",
+            "address": "413 Marquette Ave, Bay City, MI 48706, US",
             "id": "Baycitykendownnie",
             "builder": "Dreamland.",
             "sqft": "6,000 sqft.",
@@ -834,7 +834,7 @@
         },
         {
             "name": "Bay City Skatepark",
-            "address": "4th and A St, Bay City, OR 97107",
+            "address": "A St, Bay City, OR 97107, US",
             "id": "baycityOR",
             "builder": "Dreamland.",
             "sqft": "6,000sqft.",
@@ -850,7 +850,7 @@
         },
         {
             "name": "BAY COUNTY SKATEPARK",
-            "address": "530 Jenks Ave, Panama City, FL 32401, USA",
+            "address": "530 Jenks Ave, Panama City, FL 32401, US",
             "id": "BAYCOUNTYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "20,000 ft\u00b2",
@@ -866,7 +866,7 @@
         },
         {
             "name": "BAYSWATER PARK SKATEPARK",
-            "address": "Bay 32nd St &, Falcon Ave, Far Rockaway, NY 11691, USA",
+            "address": "Falcon Ave & Bay 32 St, , NY 11691, US",
             "id": "BAYSWATERPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -882,7 +882,7 @@
         },
         {
             "name": "Beautiful Mountain Skate Plaza Beaumont",
-            "address": "999 Laurel Ave, Beaumont, TX 77701, USA",
+            "address": "999 Laurel Ave, Beaumont, TX 77701, US",
             "id": "beautifulmountainskateplazabeaumont",
             "builder": "Newline",
             "sqft": "9,609.41 ft\u00b2",
@@ -898,7 +898,7 @@
         },
         {
             "name": "Beaverton Skatepark",
-            "address": "15707 SW Walker Rd., Beaverton, OR 97006",
+            "address": "15707 SW Walker Rd, Beaverton, OR 97006, US",
             "id": "beavertonOR",
             "builder": "Dreamland.",
             "sqft": "4,500sqft.",
@@ -914,7 +914,7 @@
         },
         {
             "name": "BELDING, MICHIGAN SKATEPARK",
-            "address": "314 Gibson St, Belding, MI 48809, USA",
+            "address": "314 Gibson St, Belding, MI 48809, US",
             "id": "BELDINGMICHIGANSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "2,764.88 ft\u00b2",
@@ -930,7 +930,7 @@
         },
         {
             "name": "Belgrade",
-            "address": "283 E Main St, Belgrade, MT 59714",
+            "address": "283 E Main St, Belgrade, MT 59714, US",
             "id": "belgrade",
             "builder": "Dreamland.",
             "sqft": "3,290 sqft.",
@@ -946,7 +946,7 @@
         },
         {
             "name": "Bellevue Indoor",
-            "address": "14224 Bel-Red Rd, Bellevue, WA 98007",
+            "address": "14224 Bel-Red Rd, Bellevue, WA 98007, US",
             "id": "bellevueindoor",
             "builder": "N/A",
             "sqft": "6,204.74 ft\u00b2",
@@ -962,7 +962,7 @@
         },
         {
             "name": "Bellingham Skatepark",
-            "address": "1400 Puget St, Bellingham, WA 98229",
+            "address": "1400 Puget St, Bellingham, WA 98229, US",
             "id": "bellingham",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -978,7 +978,7 @@
         },
         {
             "name": "BELMONT SKATEPARK",
-            "address": "1401 E Catawba St, Belmont, NC 28012, USA",
+            "address": "1401 E Catawba St, Belmont, NC 28012, US",
             "id": "BELMONTSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6500 ft\u00b2",
@@ -994,7 +994,7 @@
         },
         {
             "name": "BEMIDJI SKATE PLAZA",
-            "address": "1504 23rd St NW #1334, Bemidji, MN 56601, USA",
+            "address": "1504 23rd St NW #1334, Bemidji, MN 56601, US",
             "id": "BEMIDJISKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "14,000 ft\u00b2",
@@ -1010,7 +1010,7 @@
         },
         {
             "name": "Bend Skatepark 1",
-            "address": "1320 SE Armour Rd Bend, OR 97702",
+            "address": "1320 SE Armour Rd, Bend, OR 97702, US",
             "id": "bend1OR",
             "builder": "N/A",
             "sqft": "11,806.07 ft\u00b2",
@@ -1026,7 +1026,7 @@
         },
         {
             "name": "Bend Skatepark 2",
-            "address": "1411 SE Wilson Ave Bend, OR 97702",
+            "address": "1411 SE Wilson Ave, Bend, OR 97702, US",
             "id": "bend2OR",
             "builder": "N/A",
             "sqft": "15,446.55 ft\u00b2",
@@ -1042,7 +1042,7 @@
         },
         {
             "name": "BENITO JUAREZ PARK SKATE SPOT",
-            "address": "Benito Ju\u00e1rez Park, 5515 Maywood Ave, Maywood, CA 90270, USA",
+            "address": "Benito Ju\u00e1rez Park, 5515 Maywood Ave, Maywood, CA 90270, US",
             "id": "BENITOJUAREZPARKSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "1,800 ft\u00b2",
@@ -1058,7 +1058,7 @@
         },
         {
             "name": "BETHUNE POINT SKATEPARK",
-            "address": "15 Fremont Ct, Daytona Beach, FL 32114, USA",
+            "address": "15 Fremont Ct, Daytona Beach, FL 32114, US",
             "id": "BETHUNEPOINTSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -1074,7 +1074,7 @@
         },
         {
             "name": "BETSY HEAD SKATEPARK",
-            "address": "Betsy Head Park, Dumont Ave, Brooklyn, NY 11212, USA",
+            "address": "Betsy Head Park, Dumont Ave, , NY 11212, US",
             "id": "BETSYHEADSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -1090,7 +1090,7 @@
         },
         {
             "name": "Biersted Skatepark",
-            "address": "Idr\u00e6tsvej 15, 9440, Aabybro",
+            "address": "Idr\u00e6tsvej 15, 9440 Aabybro, Denmark",
             "id": "Biersted SkateparkDK",
             "builder": "FSR",
             "sqft": "450 m\u00b2",
@@ -1106,7 +1106,7 @@
         },
         {
             "name": "Big Sandy Skatepark",
-            "address": "Vernon Ave. and 4th st Big Sandy, MT",
+            "address": "4th St, Big Sandy, MT 59520, US",
             "id": "bigsandyMT",
             "builder": "Evergreen.",
             "sqft": "5,000sqft.",
@@ -1122,7 +1122,7 @@
         },
         {
             "name": "BIG SANDY PHASE 2, MONTANA",
-            "address": "1086 4th St, Big Sandy, MT 59520, USA",
+            "address": "1086 4th St, Big Sandy, MT 59520, US",
             "id": "BIGSANDYPHASE2MONTANA",
             "builder": "Evergreen.",
             "sqft": "4,034.13 ft\u00b2",
@@ -1138,7 +1138,7 @@
         },
         {
             "name": "Big Sky Skatepark",
-            "address": "373 Little Coyote Rd, Big Sky, Mt 59716",
+            "address": "373 Little Coyote Rd, Big Sky, MT 59716, US",
             "id": "bigskyMT",
             "builder": "Dreamland.",
             "sqft": "6,800sqft.",
@@ -1154,7 +1154,7 @@
         },
         {
             "name": "Billeshave Efterskole",
-            "address": "Billeshavevej 51, 5500 Middelfart",
+            "address": "Billeshavevej 51, 5500 Middelfart, Denmark",
             "id": "Billeshave EfterskoleDK",
             "builder": "FSR",
             "sqft": "350 m\u00b2",
@@ -1170,7 +1170,7 @@
         },
         {
             "name": "Bingen Skatepark",
-            "address": "W Humboldt St & Willow St. Bingen, WA 98605",
+            "address": "W Humboldt St & Willow St, Bingen, WA 98605, US",
             "id": "bingen",
             "builder": "Grindline.",
             "sqft": "6,000sqft.",
@@ -1186,7 +1186,7 @@
         },
         {
             "name": "Birmingham Citywalk Skatepark Birmingham",
-            "address": "1706 9th Ave N, Birmingham, AL 35203, USA",
+            "address": "1706 9th Ave N, Birmingham, AL 35203, US",
             "id": "birminghamcitywalkskateparkbirmingham",
             "builder": "Newline",
             "sqft": "56,000sqft.",
@@ -1202,7 +1202,7 @@
         },
         {
             "name": "Bjerringbro Byrum",
-            "address": "Niels Due Jensens Plads 5, 8850 Bjerringbro",
+            "address": "Niels Due Jensens Plads, Gr\u00f8nnegade 22D, 8850 Bjerringbro, Denmark",
             "id": "Bjerringbro ByrumDK",
             "builder": "FSR",
             "sqft": "970 m\u00b2",
@@ -1234,7 +1234,7 @@
         },
         {
             "name": "Black Market Skatespot",
-            "address": "2404 7th Ave, Seattle, WA 98121",
+            "address": "Parking lot, 2404 7th Ave, Seattle, WA 98121, US",
             "id": "blackmarket",
             "builder": "DIY.",
             "sqft": "307.54 ft\u00b2",
@@ -1250,7 +1250,7 @@
         },
         {
             "name": "Blanchard Woods Skatepark - Columbia County, GA",
-            "address": "4600 Blanchard Woods Dr, Evans, GA 30809",
+            "address": "4600 Blanchard Woods Dr, Evans, GA 30809, US",
             "id": "Blanchardga",
             "builder": "artisan",
             "sqft": "15,000sqft.",
@@ -1266,7 +1266,7 @@
         },
         {
             "name": "Bloomington",
-            "address": "2602 N Kinser Pike, Bloomington, IN 47404",
+            "address": "North Cascades Skatepark, 2602 N Kinser Pike, Bloomington, IN 47404, US",
             "id": "Bloomington",
             "builder": "Dreamland",
             "sqft": "11,000 sqft.",
@@ -1282,7 +1282,7 @@
         },
         {
             "name": "BLUEBONNET SKATEPARK",
-            "address": "2890 N Veterans Blvd, Eagle Pass, TX 78852, USA",
+            "address": "2890 N Veterans Blvd, Eagle Pass, TX 78852, US",
             "id": "BLUEBONNETSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,500 ft\u00b2",
@@ -1298,7 +1298,7 @@
         },
         {
             "name": "Bluffton Skatepark - Beaufort, SC",
-            "address": "905 Buckwalter Pkwy, Bluffton, SC 29910",
+            "address": "905 Buckwalter Pkwy, Bluffton, SC 29910, US",
             "id": "Blufftonsc",
             "builder": "artisan",
             "sqft": "13,000sqft.",
@@ -1314,7 +1314,7 @@
         },
         {
             "name": "Bolbro Skatepark",
-            "address": "Christmas M\u00f8llers Vej 17, 5200 Odense V",
+            "address": "Christmas M\u00f8llers Vej 17, 5200 Odense, Denmark",
             "id": "Bolbro SkateparkDK",
             "builder": "FSR",
             "sqft": "25 m\u00b2",
@@ -1346,7 +1346,7 @@
         },
         {
             "name": "Bond Skatepark",
-            "address": "213 E Randolph St, Mason, MI 48854",
+            "address": "213 E Randolph St, Mason, MI 48854, US",
             "id": "bondjames",
             "builder": "Team Pain",
             "sqft": "12,000sqft.",
@@ -1362,7 +1362,7 @@
         },
         {
             "name": "BOND PARK SKATEPARK",
-            "address": "201 N Oakhill Ave, Janesville, WI 53548, USA",
+            "address": "201 N Oakhill Ave, Janesville, WI 53548, US",
             "id": "BONDPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -1378,7 +1378,7 @@
         },
         {
             "name": "Bonney Lake Skatepark",
-            "address": "7203 W Tapps Hwy E, Bonney Lake, WA 98391",
+            "address": "7203 W Tapps Hwy E, Bonney Lake, WA 98391, US",
             "id": "bonneylake",
             "builder": "N/A",
             "sqft": "14,316.33 ft\u00b2",
@@ -1394,7 +1394,7 @@
         },
         {
             "name": "B\u00f8rkop Skatepark",
-            "address": "Skolebakken 1, 7080 B\u00f8rkop",
+            "address": "Skolebakken 1, 7080 B\u00f8rkop, Denmark",
             "id": "B\u00f8rkop SkateparkDK",
             "builder": "FSR",
             "sqft": "320 m\u00b2",
@@ -1410,7 +1410,7 @@
         },
         {
             "name": "Bowler Park",
-            "address": "4403 S Surprise Way, Boise, ID 83716",
+            "address": "4403 S Surprise Way, Boise, ID 83716, US",
             "id": "bowlerboiseID",
             "builder": "N/A",
             "sqft": "2,903.86 ft\u00b2",
@@ -1426,7 +1426,7 @@
         },
         {
             "name": "BOX ELDER, MONTANA SKATEPARK",
-            "address": "476 Box Elder Rd, Box Elder, MT 59521, USA",
+            "address": "476 Box Elder Rd, Box Elder, MT 59521, US",
             "id": "BOXELDERMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "5,818.53 ft\u00b2",
@@ -1442,7 +1442,7 @@
         },
         {
             "name": "BOZEMAN, MONTANA SKATEPARK",
-            "address": "235 E Mendenhall St, Bozeman, MT 59715, USA",
+            "address": "235 E Mendenhall St, Bozeman, MT 59715, US",
             "id": "BOZEMANMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "1,276.53 ft\u00b2",
@@ -1458,7 +1458,7 @@
         },
         {
             "name": "Bozeman Skatepark",
-            "address": "2-246 N 20th Ave, Bozeman, MT 59718",
+            "address": "2 N 20th Ave, Bozeman, MT 59718, US",
             "id": "bozemanMT",
             "builder": "Dreamland.",
             "sqft": "1,550sqft.",
@@ -1474,7 +1474,7 @@
         },
         {
             "name": "Bozeman Skatepark",
-            "address": "203 N 20th Ave, Bozeman, MT 59718",
+            "address": "Kirk Park, 203 N 20th Ave, Bozeman, MT 59718, US",
             "id": "bozemanmt",
             "builder": "Team Pain",
             "sqft": "9,000sqft.",
@@ -1490,7 +1490,7 @@
         },
         {
             "name": "Bradenton Riverwalk Skatepark",
-            "address": "101 Waterfront Dr, Bradenton, FL 34205",
+            "address": "101 Waterfront Dr, Bradenton, FL 34205, US",
             "id": "bradenton",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -1506,7 +1506,7 @@
         },
         {
             "name": "Brandon, FL",
-            "address": "5720 Providence Rd, Riverview, FL 33578",
+            "address": "5720 Providence Rd, Riverview, FL 33578, US",
             "id": "brandon",
             "builder": "Team Pain",
             "sqft": "14,500sqft.",
@@ -1522,7 +1522,7 @@
         },
         {
             "name": "Breckenridge Skatepark",
-            "address": "880 Airport Road Breckenridge, CO 80424",
+            "address": "880 Airport Rd, Breckenridge, CO 80424, US",
             "id": "breckenridge",
             "builder": "Team Pain",
             "sqft": "12,000sqft.",
@@ -1538,7 +1538,7 @@
         },
         {
             "name": "Bremerton Skatepark",
-            "address": "1950 Homer Jones Drive. Bremerton, WA 98310",
+            "address": "1950 Homer Jones Dr, Bremerton, WA 98310, US",
             "id": "bremerton",
             "builder": "N/A",
             "sqft": "9,060.51 ft\u00b2",
@@ -1554,7 +1554,7 @@
         },
         {
             "name": "BRISTOL BAY SKATEPARK",
-            "address": "4481 Sarasota Ave, Yorkville, IL 60560, USA",
+            "address": "4481 Sarasota Ave, Yorkville, IL 60560, US",
             "id": "BRISTOLBAYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5000 ft\u00b2",
@@ -1570,7 +1570,7 @@
         },
         {
             "name": "Brookings Skatepark",
-            "address": "Third & Hassett ST, Brookings, OR 97415",
+            "address": "3rd St & Hassett St, Brookings, OR 97415, US",
             "id": "brookingsOR",
             "builder": "Dreamland.",
             "sqft": "10,000sqft.",
@@ -1586,7 +1586,7 @@
         },
         {
             "name": "Brooklyn, NY Sgt. William Dougherty Park",
-            "address": "510 Vandervoort Ave, Brooklyn, NY 11222",
+            "address": "510 Vandervoort Ave, , NY 11222, US",
             "id": "Brooklynnyc",
             "builder": "Dreamland.",
             "sqft": "7,500 sqft.",
@@ -1602,7 +1602,7 @@
         },
         {
             "name": "Broomfield Skate Park",
-            "address": "150 Lamar St Broomfield CO 80020",
+            "address": "150 Lamar St, Broomfield, CO 80020, US",
             "id": "broomfield",
             "builder": "Team Pain",
             "sqft": "12,000sqft.",
@@ -1618,7 +1618,7 @@
         },
         {
             "name": "BrothersSkatepark-MammothLakes,California",
-            "address": "mammoth lakes skatepark california",
+            "address": "5955 Lemon Park Way, Sacramento, CA 95824, US",
             "id": "BrothersSkatepark-MammothLakesCalifornia",
             "builder": "Grindline.",
             "sqft": "40,000sqft.",
@@ -1634,7 +1634,7 @@
         },
         {
             "name": "Brushy Creek Skatepark Cedar Park",
-            "address": "2310 Brushy Creek Rd, Cedar Park, TX 78613, USA",
+            "address": "2310 Brushy Creek Rd, Cedar Park, TX 78613, US",
             "id": "brushycreekskateparkcedarpark",
             "builder": "Newline",
             "sqft": "15,858.93 ft\u00b2",
@@ -1650,7 +1650,7 @@
         },
         {
             "name": "Islands Brygge Skatepark",
-            "address": "Islands Brygge 4 2300 K\u00f8benhavn S",
+            "address": "Islands Brygge 4, 2300 K\u00f8benhavn, Denmark",
             "id": "bryggeDK",
             "builder": "N/A",
             "sqft": "2,912.89 ft\u00b2 (270.62 m\u00b2)",
@@ -1666,7 +1666,7 @@
         },
         {
             "name": "BUFFALO, NEW YORK SKATE PLAZA",
-            "address": "400 Inman Ave, Colonia, NJ 07067, USA",
+            "address": "400 Inman Ave, Woodbridge Township, NJ 07067, US",
             "id": "BUFFALONEWYORKSKATEPLAZA",
             "builder": "Evergreen.",
             "sqft": "12,439.19 ft\u00b2",
@@ -1682,7 +1682,7 @@
         },
         {
             "name": "BuffaloSkatepark-Buffalo,WY",
-            "address": "2-238 Klondike Drive, Buffalo, WY 82834, USA",
+            "address": "238 Klondike Dr #2, Buffalo, WY 82834, US",
             "id": "BuffaloSkatepark-BuffaloWY",
             "builder": "Grindline",
             "sqft": "10,000sqft.",
@@ -1698,7 +1698,7 @@
         },
         {
             "name": "Buhl Skatepark",
-            "address": "424 7th Ave N., Buhl, ID 83316",
+            "address": "424 7th Ave N, Buhl, ID 83316, US",
             "id": "buhlID",
             "builder": "Dreamland.",
             "sqft": "6,200sqft.",
@@ -1714,7 +1714,7 @@
         },
         {
             "name": "Burlington Skatepark - Burlinton, VT",
-            "address": "1 Lake St, Burlington, VT 05401",
+            "address": "1 Lake St, Burlington, VT 05401, US",
             "id": "bulingtonvt",
             "builder": "artisan",
             "sqft": "21,000sqft.",
@@ -1730,7 +1730,7 @@
         },
         {
             "name": "Burien Skatepark",
-            "address": "14491 4th Ave SW, Seattle, WA 98166",
+            "address": "14491 4th Ave SW, Burien, WA 98166, US",
             "id": "burien",
             "builder": "N/A",
             "sqft": "11,366.63 ft\u00b2",
@@ -1746,7 +1746,7 @@
         },
         {
             "name": "Burlington Skatepark",
-            "address": "871 S Section St, Burlington, WA 98233",
+            "address": "871 S Section St, Burlington, WA 98233, US",
             "id": "burlington",
             "builder": "N/A",
             "sqft": "10,603.27 ft\u00b2",
@@ -1762,7 +1762,7 @@
         },
         {
             "name": "Burnside Skatepark",
-            "address": "165 E Burnside St, Portland, OR 97214",
+            "address": "165 E Burnside St, Portland, OR 97214, US",
             "id": "burnsideOR",
             "builder": "DIY.",
             "sqft": "11,068.46 ft\u00b2",
@@ -1778,7 +1778,7 @@
         },
         {
             "name": "Butte Skatepark",
-            "address": "Garden Ave & E 2nd St, Butte, MT 59701",
+            "address": "E 2nd St & Garden Ave, Butte, MT 59701, US",
             "id": "butteMT",
             "builder": "Dreamland.",
             "sqft": "8,900sqft.",
@@ -1794,7 +1794,7 @@
         },
         {
             "name": "BUTTERFIELD PARK SKATEPARK",
-            "address": "3700 29th Ave, Marion, IA 52302, USA",
+            "address": "3700 29th Ave, Marion, IA 52302, US",
             "id": "BUTTERFIELDPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "3,500 ft\u00b2",
@@ -1810,7 +1810,7 @@
         },
         {
             "name": "Buxton, North Carolina",
-            "address": "46792 North Carolina Hwy 12, Buxton, NC 27920",
+            "address": "46792 North Carolina Hwy 12, Buxton, NC 27920, US",
             "id": "buxtonnc",
             "builder": "artisan",
             "sqft": "5,200sqft.",
@@ -1826,7 +1826,7 @@
         },
         {
             "name": "Caldwell Skatepark",
-            "address": "Skyway Dr & Slipstream Way, Caldwell, ID 83605",
+            "address": "Slipstream Way, Caldwell, ID 83605, US",
             "id": "caldwellID",
             "builder": "CaliforniaSkateparks.",
             "sqft": "20,000sqft.",
@@ -1858,7 +1858,7 @@
         },
         {
             "name": "CAMPBELL COUNTY SKATEPARK",
-            "address": "2301 S 4-J Rd, Gillette, WY 82718, USA",
+            "address": "2301 S 4-J Rd, Gillette, WY 82718, US",
             "id": "CAMPBELLCOUNTYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -1874,7 +1874,7 @@
         },
         {
             "name": "Camp Woodward",
-            "address": "134 Sports Camp Dr, Woodward, PA 16882",
+            "address": "134 Sports Camp Dr, Woodward, PA 16882, US",
             "id": "campwoodward",
             "builder": "Team Pain",
             "sqft": "14,000sqft.",
@@ -1890,7 +1890,7 @@
         },
         {
             "name": "CAMP WOOD YMCA, - ELMDALE, KANSAS",
-            "address": "1101 B Campwood Rd, Elmdale, KS 66850, USA",
+            "address": "1101 B Campwood Rd, Elmdale, KS 66850, US",
             "id": "CAMPWOODYMCA-ELMDALEKANSAS",
             "builder": "Evergreen.",
             "sqft": "5,816.58 ft\u00b2",
@@ -1922,7 +1922,7 @@
         },
         {
             "name": "Canon City Skatepark",
-            "address": "922 N Orchard Ave, Ca\u00f1on City, CO 81212",
+            "address": "922 N Orchard Ave, Ca\u00f1on City, CO 81212, US",
             "id": "canon",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -1938,7 +1938,7 @@
         },
         {
             "name": "CAPE MAY COUNTY SKATEPARK",
-            "address": "550 Asbury Ave, Ocean City, NJ 08226, USA",
+            "address": "550 Asbury Ave, Ocean City, NJ 08226, US",
             "id": "CAPEMAYCOUNTYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -1954,7 +1954,7 @@
         },
         {
             "name": "CARBONDALE, COLORADO PHASE II",
-            "address": "311 Meadowood Dr, Carbondale, CO 81623, USA",
+            "address": "311 Meadowood Dr, Carbondale, CO 81623, US",
             "id": "CARBONDALECOLORADOPHASEII",
             "builder": "Evergreen.",
             "sqft": "16,416.13 ft\u00b2",
@@ -1970,7 +1970,7 @@
         },
         {
             "name": "CarbondaleSkatepark-Carbondale,CO",
-            "address": "Roaring Fork Ave. Carbondale, Colorado",
+            "address": "Roaring Fork Ave, Carbondale, CO 81623, US",
             "id": "CarbondaleSkatepark-CarbondaleCO",
             "builder": "Grindline",
             "sqft": "14,000sqft.",
@@ -1986,7 +1986,7 @@
         },
         {
             "name": "Cal Anderson Courts",
-            "address": "1635 11th Ave, Seattle, WA 98122",
+            "address": "1635 11th Ave, Seattle, WA 98122, US",
             "id": "carlanderson",
             "builder": "N/A",
             "sqft": "7,773.43 ft\u00b2",
@@ -2002,7 +2002,7 @@
         },
         {
             "name": "Carnation Skatepark",
-            "address": "31999 Blanche St, Carnation, WA 98014",
+            "address": "31999 Blanche St, Carnation, WA 98014, US",
             "id": "carnation",
             "builder": "Grindline",
             "sqft": "4,443.11 ft\u00b2",
@@ -2018,7 +2018,7 @@
         },
         {
             "name": "Carrington Skate Spot Calgary",
-            "address": "EB 140 Av @, 14 St NW, Calgary, AB T3P 0C9, Canada",
+            "address": "EB 140 Av @ 14 St NW, Calgary, AB T3P 0C9, Canada",
             "id": "carringtonskatespotcalgary",
             "builder": "Newline",
             "sqft": "5,804.10 ft\u00b2",
@@ -2034,7 +2034,7 @@
         },
         {
             "name": "CARROLLWOOD VILLAGE SKATEPARK",
-            "address": "4690 W Village Dr, Tampa, FL 33624, USA",
+            "address": "4690 W Village Dr, Tampa, FL 33624, US",
             "id": "CARROLLWOODVILLAGESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -2050,7 +2050,7 @@
         },
         {
             "name": "Carstairs Skatepark Carstairs",
-            "address": "1005-1201 Gough Rd, Carstairs, AB T0M 0N0, Canada",
+            "address": "1201 Gough Rd #1005, Carstairs, AB T0M 0N0, Canada",
             "id": "carstairsskateparkcarstairs",
             "builder": "Newline",
             "sqft": "7,129.28 ft\u00b2",
@@ -2066,7 +2066,7 @@
         },
         {
             "name": "Cashmere Skatepark",
-            "address": "119 W Pleasant Ave, Cashmere, WA 98815",
+            "address": "119 W Pleasant Ave, Cashmere, WA 98815, US",
             "id": "cashmereWA",
             "builder": "Evergreen.",
             "sqft": "4,500sqft.",
@@ -2082,7 +2082,7 @@
         },
         {
             "name": "CASHMERE, WASHINGTON",
-            "address": "201 Riverside Dr, Cashmere, WA 98815, USA",
+            "address": "201 Riverside Dr, Cashmere, WA 98815, US",
             "id": "CASHMEREWASHINGTON",
             "builder": "Evergreen.",
             "sqft": "4,217.03 ft\u00b2",
@@ -2098,7 +2098,7 @@
         },
         {
             "name": "CASTAIC SKATEPARK",
-            "address": "31230 Castaic Rd, Castaic, CA 91384, USA",
+            "address": "31230 Castaic Rd, Castaic, CA 91384, US",
             "id": "CASTAICSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -2114,7 +2114,7 @@
         },
         {
             "name": "San Pedro Channel Street",
-            "address": "610 W Channel St. San Pedro, CA 90731",
+            "address": "610 W Channel St, Los Angeles, CA 90731, US",
             "id": "channelstCA",
             "builder": "DIY.",
             "sqft": "10,000sqft.",
@@ -2130,7 +2130,7 @@
         },
         {
             "name": "Charleston, SC",
-            "address": "1549 Oceanic St. Charleston, SC 29403",
+            "address": "1549 Oceanic St, Charleston, SC 29405, US",
             "id": "charlestonsc",
             "builder": "Team Pain",
             "sqft": "32,500sqft.",
@@ -2146,7 +2146,7 @@
         },
         {
             "name": "Charlottesville, Virginia McIntire Skatepark",
-            "address": "1021 Birdwood Rd, Charlottesville, VA 22903",
+            "address": "1021 Birdwood Rd, Charlottesville, VA 22903, US",
             "id": "charlottesville",
             "builder": "Dreamland.",
             "sqft": "32,000sqft.",
@@ -2194,7 +2194,7 @@
         },
         {
             "name": "Cherokee Skatepark - Cherokee, NC",
-            "address": "1036 Acquoni Rd, Cherokee, NC 28719",
+            "address": "1036 Acquoni Rd, Cherokee, NC 28719, US",
             "id": "chrokeenc",
             "builder": "artisan",
             "sqft": "18,000sqft.",
@@ -2226,7 +2226,7 @@
         },
         {
             "name": "CityPark-Aurora,CO",
-            "address": "Aurora City Park 9701 E 16th Ave. Aurora, Colorado",
+            "address": "Aurora City Park, 9701 E 16th Ave, Aurora, CO 80010, US",
             "id": "CityPark-AuroraCO",
             "builder": "Grindline",
             "sqft": "4,500sqft.",
@@ -2242,7 +2242,7 @@
         },
         {
             "name": "C Jay Smith Skate Plaza And Pump Track Newnan",
-            "address": "5 Glenn St, Newnan, GA 30263, USA",
+            "address": "5 Glenn St, Newnan, GA 30263, US",
             "id": "cjaysmithskateplazaandpumptracknewnan",
             "builder": "Newline",
             "sqft": "32,122.94 ft\u00b2",
@@ -2274,7 +2274,7 @@
         },
         {
             "name": "CLARKDALE SKATEPARK",
-            "address": "22008 Clarkdale Ave, Hawaiian Gardens, CA 90716, USA",
+            "address": "22008 Clarkdale Ave, Hawaiian Gardens, CA 90716, US",
             "id": "CLARKDALESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,500 ft\u00b2",
@@ -2290,7 +2290,7 @@
         },
         {
             "name": "CLAWSON, MICHIGAN SKATEPARK",
-            "address": "935 N Custer Ave, Troy, MI 48083, USA",
+            "address": "935 N Custer Ave, Troy, MI 48083, US",
             "id": "CLAWSONMICHIGANSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "7,297.65 ft\u00b2",
@@ -2306,7 +2306,7 @@
         },
         {
             "name": "CLELAND SKATEPARK",
-            "address": "2212 Modularity Dr, Fort Liberty, NC 28310, USA",
+            "address": "2212 Modularity Dr, Fort Liberty, NC 28310, US",
             "id": "CLELANDSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -2338,7 +2338,7 @@
         },
         {
             "name": "Coalpad DIY",
-            "address": "9989 Mt Baker Hwy, Glacier, WA 98244",
+            "address": "9989 Mt Baker Hwy, Deming, WA 98244, US",
             "id": "coalpadWA",
             "builder": "DIY.",
             "sqft": "10,000sqft.",
@@ -2370,7 +2370,7 @@
         },
         {
             "name": "Cocoa Beach, FL",
-            "address": "1450 Minutemen Causeway, Cocoa Beach, FL 32931",
+            "address": "1450 Minutemen Causeway, Cocoa Beach, FL 32931, US",
             "id": "cocoabeach",
             "builder": "Team Pain",
             "sqft": "13,000sqft.",
@@ -2386,7 +2386,7 @@
         },
         {
             "name": "CodySkatepark-Cody,WY",
-            "address": "2413 Davidson Avenue, Cody, WY 82414, USA",
+            "address": "2413 Davidson Ave, Cody, WY 82414, US",
             "id": "CodySkatepark-CodyWY",
             "builder": "Grindline",
             "sqft": "9,000sqft.",
@@ -2402,7 +2402,7 @@
         },
         {
             "name": "Coeur d`Alene Skatepark",
-            "address": "480 W Garden Ave, Coeur d`Alene, ID 83814",
+            "address": "480 W Garden Ave, Coeur d'Alene, ID 83814, US",
             "id": "coeurdaleneID",
             "builder": "Evergreen",
             "sqft": "14,000sqft.",
@@ -2418,7 +2418,7 @@
         },
         {
             "name": "COEUR DALENE, IDAHO SKATEPARK",
-            "address": "Millennium Skate Park, 300 N Greensferry Rd, Post Falls, ID 83854, USA",
+            "address": "Millennium Skate Park, 300 N Greensferry Rd, Post Falls, ID 83854, US",
             "id": "COEURDALENEIDAHOSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "8,283.25 ft\u00b2",
@@ -2434,7 +2434,7 @@
         },
         {
             "name": "COFFMAN PARK SKATEPARK",
-            "address": "6565 Commerce Pkwy, Dublin, OH 43017, USA",
+            "address": "6565 Commerce Pkwy, Dublin, OH 43017, US",
             "id": "COFFMANPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "14,000 ft\u00b2",
@@ -2450,7 +2450,7 @@
         },
         {
             "name": "Cold Lake Skatepark Cold Lake",
-            "address": "7825 51 St, Cold Lake, AB T0A 0T0, Canada",
+            "address": "7825 51 St, Cold Lake, AB T9M, Canada",
             "id": "coldlakeskateparkcoldlake",
             "builder": "Newline",
             "sqft": "15,541.37 ft\u00b2",
@@ -2466,7 +2466,7 @@
         },
         {
             "name": "ColePark-CorpusChristi,TX",
-            "address": "1526 Ocean Drive, Corpus Christi, TX, United States",
+            "address": "1526 Ocean Dr, Corpus Christi, TX 78404, US",
             "id": "ColePark-CorpusChristiTX",
             "builder": "Grindline",
             "sqft": "11,000sqft.",
@@ -2482,7 +2482,7 @@
         },
         {
             "name": "Colin's Dream Park Orange City",
-            "address": "Coleman Park, 210 E Blue Springs Ave, Orange City, FL 32763, USA",
+            "address": "Coleman Park, 210 E Blue Springs Ave, Orange City, FL 32763, US",
             "id": "colinsdreamparkorangecity",
             "builder": "Newline",
             "sqft": "3,239.92 ft\u00b2",
@@ -2498,7 +2498,7 @@
         },
         {
             "name": "COLLINS PARK SKATEPARK",
-            "address": "200 W 1st St, Bayonne, NJ 07002, USA",
+            "address": "200 W 1st St, Bayonne, NJ 07002, US",
             "id": "COLLINSPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -2514,7 +2514,7 @@
         },
         {
             "name": "Colorado Springs",
-            "address": "1605 E Pikes Peak Ave, Colorado Springs, CO 80909",
+            "address": "1605 E Pikes Peak Ave, Colorado Springs, CO 80909, US",
             "id": "coloradosprings",
             "builder": "Team Pain",
             "sqft": "45,000sqft.",
@@ -2530,7 +2530,7 @@
         },
         {
             "name": "Commonwealth Skatepark",
-            "address": "1425 SE 20th Ave., Portland, OR 97214",
+            "address": "1425 SE 20th Ave, Portland, OR 97214, US",
             "id": "commonwealthOR",
             "builder": "Evergreen.",
             "sqft": "4,500sqft.",
@@ -2546,7 +2546,7 @@
         },
         {
             "name": "COOPER PARK SKATEPARK",
-            "address": "Cooper Park Sharon Street &, Olive St, Brooklyn, NY 11211, USA",
+            "address": "Cooper Park, Maspeth Ave, , NY 11211, US",
             "id": "COOPERPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -2562,7 +2562,7 @@
         },
         {
             "name": "Copenhagen Skatepark",
-            "address": "Enghavevej 80 2450 K\u00f8benhavn SV",
+            "address": "Enghavevej 80, 2450 K\u00f8benhavn, Denmark",
             "id": "copenhagenDK",
             "builder": "N/A",
             "sqft": "7,065.54 ft\u00b2 (656.41 m\u00b2)",
@@ -2578,7 +2578,7 @@
         },
         {
             "name": "COPPER SKY SKATE PLAZA",
-            "address": "44345 M.L.K. Jr. Blvd, Maricopa, AZ 85138, USA",
+            "address": "44345 M.L.K. Jr. Blvd, Maricopa, AZ 85138, US",
             "id": "COPPERSKYSKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -2594,7 +2594,7 @@
         },
         {
             "name": "Corning",
-            "address": "1485 Toomes Ave, Corning, CA 96021",
+            "address": "1485 Toomes Ave, Corning, CA 96021, US",
             "id": "Corning",
             "builder": "Dreamland.",
             "sqft": "27,000 sqft.",
@@ -2610,7 +2610,7 @@
         },
         {
             "name": "Corning Skatepark",
-            "address": "1485 Toomes Ave, Corning, CA 96021",
+            "address": "1485 Toomes Ave, Corning, CA 96021, US",
             "id": "corningCA",
             "builder": "Dreamland",
             "sqft": "27,000sqft.",
@@ -2626,7 +2626,7 @@
         },
         {
             "name": "Corvallis Skatepark",
-            "address": "SW 2nd St & SW B Ave., Corvallis, OR 97333",
+            "address": "SW B Ave & SW 2nd St, Corvallis, OR 97333, US",
             "id": "corvallisOR",
             "builder": "N/A",
             "sqft": "13,683.18 ft\u00b2",
@@ -2642,7 +2642,7 @@
         },
         {
             "name": "COTTAGE GROVE SKATEPARK",
-            "address": "352 Clark St, Cottage Grove, WI 53527, USA",
+            "address": "352 Clark St, Cottage Grove, WI 53527, US",
             "id": "COTTAGEGROVESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -2658,7 +2658,7 @@
         },
         {
             "name": "CREEKSIDE PARK SKATEPARK",
-            "address": "9685 Main St, Monte Rio, CA 95462, USA",
+            "address": "9685 Main St, Monte Rio, CA 95462, US",
             "id": "CREEKSIDEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -2690,7 +2690,7 @@
         },
         {
             "name": "CrookedRiverSkatePark\u2013Cleveland,OH",
-            "address": "1824 Columbus Road, Cleveland, OH 44113, USA",
+            "address": "1824 Columbus Rd, Cleveland, OH 44113, US",
             "id": "CrookedRiverSkatePark\u2013ClevelandOH",
             "builder": "Grindline",
             "sqft": "9,000sqft.",
@@ -2706,7 +2706,7 @@
         },
         {
             "name": "Crossroads Skatepark",
-            "address": "16000 NE 10th St., Bellevue, WA 98008",
+            "address": "16000 NE 10th St, Bellevue, WA 98008, US",
             "id": "crossroads",
             "builder": "Grindline.",
             "sqft": "5,000sqft.",
@@ -2722,7 +2722,7 @@
         },
         {
             "name": "CROW CREEK SKATEPARK, FORT THOMPSON, SOUTH DAKOTA",
-            "address": "817 SD-47, Fort Thompson, SD 57339, USA",
+            "address": "817 SD-47, Fort Thompson, SD 57339, US",
             "id": "CROWCREEKSKATEPARKFORTTHOMPSONSOUTHDAKOTA",
             "builder": "Evergreen.",
             "sqft": "22,583.24 ft\u00b2",
@@ -2738,7 +2738,7 @@
         },
         {
             "name": "CROWLEY LAKE SKATEPARK",
-            "address": "58 Pearson Rd, Crowley Lake, CA 93546, USA",
+            "address": "58 Pearson Rd, Toms Place, CA 93546, US",
             "id": "CROWLEYLAKESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -2754,7 +2754,7 @@
         },
         {
             "name": "Crown Hill Skatepark",
-            "address": "9089 Holman Rd NW, Seattle, WA 98117",
+            "address": "9089 Holman Rd NW, Seattle, WA 98117, US",
             "id": "crownhill",
             "builder": "Grindline.",
             "sqft": "3,000sqft.",
@@ -2770,7 +2770,7 @@
         },
         {
             "name": "CULLMAN SKATEPARK",
-            "address": "Cullman Skatepark, 601 2nd Ave NE, Cullman, AL 35055, USA",
+            "address": "601 2nd Ave NE, Cullman, AL 35055, US",
             "id": "CULLMANSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8000 ft\u00b2",
@@ -2786,7 +2786,7 @@
         },
         {
             "name": "Culver City Skatepark",
-            "address": "9910 Jefferson Blvd., Culver City, CA 90230",
+            "address": "9910 Jefferson Blvd, Culver City, CA 90232, US",
             "id": "culvercityCA",
             "builder": "N/A",
             "sqft": "13,434sqft.",
@@ -2802,7 +2802,7 @@
         },
         {
             "name": "CurrituckCountySkatepark-Maple,NC",
-            "address": "208 Airport Road, Maple, NC, United States",
+            "address": "208 Airport Rd, Maple, NC 27956, US",
             "id": "CurrituckCountySkatepark-MapleNC",
             "builder": "Grindline",
             "sqft": "6,000sqft.",
@@ -2818,7 +2818,7 @@
         },
         {
             "name": "Cusick Skatepark",
-            "address": "100-110 Timber St Cusick, WA 99119",
+            "address": "100 Timber St, Cusick, WA 99119, US",
             "id": "cusick",
             "builder": "Dreamland.",
             "sqft": "9,000sqft.",
@@ -2834,7 +2834,7 @@
         },
         {
             "name": "Dahl Skatepot",
-            "address": "7700 25th Ave NE, Seattle, WA 98115",
+            "address": "7700 25th Ave NE, Seattle, WA 98115, US",
             "id": "dahl",
             "builder": "Newline.",
             "sqft": "4,195.94 ft\u00b2",
@@ -2850,7 +2850,7 @@
         },
         {
             "name": "Dalles Skatepark",
-            "address": "W 2nd St & Cherry Heights Rd., The Dalles, OR 97058",
+            "address": "Cherry Heights Rd, The Dalles, OR 97058, US",
             "id": "dallesOR",
             "builder": "N/A",
             "sqft": "7,660.60 ft\u00b2",
@@ -2866,7 +2866,7 @@
         },
         {
             "name": "Aberdeen",
-            "address": "214 S Tilden St, Aberdeen, WA 98520",
+            "address": "214 S Tilden St, Aberdeen, WA 98520, US",
             "id": "DAN01",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2882,7 +2882,7 @@
         },
         {
             "name": "Adams",
-            "address": "Morrison St. & Commercial St. Adams, OR 97810",
+            "address": "Commercial St & Morrison St, Adams, OR 97810, US",
             "id": "DAN02",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2898,7 +2898,7 @@
         },
         {
             "name": "Airdrie",
-            "address": "2853 Chinook Winds Drive Southwest Airdrie, AB T4B 3S5, Canada",
+            "address": "2853 Chinook Winds Drive Southwest, Airdrie, AB T4B 3S5, Canada",
             "id": "DAN03",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2914,7 +2914,7 @@
         },
         {
             "name": "Airway Heights",
-            "address": "8th Ave W, Airway Heights, WA 99001",
+            "address": "8th Ave W, Airway Heights, WA 99001, US",
             "id": "DAN04",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2930,7 +2930,7 @@
         },
         {
             "name": "Alabaster, Alabama",
-            "address": "7305 Hwy 119, Alabaster, AL 35007",
+            "address": "7305 Hwy 119, Alabaster, AL 35007, US",
             "id": "DAN05",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2946,7 +2946,7 @@
         },
         {
             "name": "Alamosa, Colorado",
-            "address": "500 2nd St. Alamosa, CO 81101",
+            "address": "500 2nd St, Alamosa, CO 81101, US",
             "id": "DAN06",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2962,7 +2962,7 @@
         },
         {
             "name": "Albany, Oregon",
-            "address": "1375 SE 6th Ave, Albany, OR 97321",
+            "address": "1375 SE 6th Ave, Albany, OR 97321, US",
             "id": "DAN07",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2978,7 +2978,7 @@
         },
         {
             "name": "Albert Lea",
-            "address": "705 N Shore Ave., Albert Lea, MN 56007",
+            "address": "705 N Shore Ave, Albert Lea, MN 56007, US",
             "id": "DAN08",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -2994,7 +2994,7 @@
         },
         {
             "name": "Alberton, Montana",
-            "address": "811 Railroad Ave, Alberton, MT 59820",
+            "address": "811 Railroad Ave, Alberton, MT 59820, US",
             "id": "DAN09",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3010,7 +3010,7 @@
         },
         {
             "name": "Albuquerque (Alamosa), New Mexico",
-            "address": "6900 Gonzales Rd SW, Albuquerque, NM 87121",
+            "address": "6900 Gonzales Rd SW, Albuquerque, NM 87121, US",
             "id": "DAN10",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3026,7 +3026,7 @@
         },
         {
             "name": "Bend (Rockridge)",
-            "address": "Egypt Dr & NE 18th St Bend, OR 97701",
+            "address": "1320 SE Armour Rd, Bend, OR 97702, US",
             "id": "DAN100",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3042,7 +3042,7 @@
         },
         {
             "name": "Seattle (Judkins), Washington",
-            "address": "2161 S Judkins St. Seattle, WA 98144",
+            "address": "2161 S Judkins St, Seattle, WA 98144, US",
             "id": "DAN1000",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3058,7 +3058,7 @@
         },
         {
             "name": "Seattle (Lower Woodland), Washington",
-            "address": "Green Lake Way N & N 54th St, Seattle, WA 98103",
+            "address": "N 54th St & Green Lake Way N, Seattle, WA 98103, US",
             "id": "DAN1001",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3074,7 +3074,7 @@
         },
         {
             "name": "Seattle (Marginal Way), Washington",
-            "address": "1099 SW Hanford St, Seattle, WA 98134",
+            "address": "1099 SW Hanford St, Seattle, WA 98134, US",
             "id": "DAN1002",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3090,7 +3090,7 @@
         },
         {
             "name": "Seattle (Northgate), Washington",
-            "address": "3rd Ave NE & NE 112th St. Seattle, WA 98125",
+            "address": "NE 112th St & 3rd Ave NE, Seattle, WA 98125, US",
             "id": "DAN1003",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3106,7 +3106,7 @@
         },
         {
             "name": "Seattle (Roxhill Park)",
-            "address": "9208 29th Ave SW Seattle, WA 98126",
+            "address": "9208 29th Ave SW, Seattle, WA 98126, US",
             "id": "DAN1004",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3122,7 +3122,7 @@
         },
         {
             "name": "Seattle Center, Washington",
-            "address": "313 Taylor Ave N, Seattle, WA 98109",
+            "address": "313 Taylor Ave N, Seattle, WA 98109, US",
             "id": "DAN1005",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3138,7 +3138,7 @@
         },
         {
             "name": "Sedona, Arizona",
-            "address": "434 Posse Ground Rd. Sedona, AZ 86336",
+            "address": "434 Posse Ground Rd, Sedona, AZ 86336, US",
             "id": "DAN1006",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3154,7 +3154,7 @@
         },
         {
             "name": "Sedro-Woolley, Washington",
-            "address": "324 Metcalf St, Sedro-Woolley, WA 98284",
+            "address": "324 Metcalf St, Sedro-Woolley, WA 98284, US",
             "id": "DAN1007",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3170,7 +3170,7 @@
         },
         {
             "name": "Selah, Washington",
-            "address": "300 E Goodlander Rd, Selah, WA 98942",
+            "address": "300 E Goodlander Rd, Selah, WA 98942, US",
             "id": "DAN1008",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3186,7 +3186,7 @@
         },
         {
             "name": "Sequim, Washington",
-            "address": "E Cedar St & N Blake Ave Sequim, WA 98382",
+            "address": "E Cedar St & N Blake Ave, Sequim, WA 98382, US",
             "id": "DAN1009",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3202,7 +3202,7 @@
         },
         {
             "name": "Benicia",
-            "address": "Dempsey Drive Benicia, CA 94510",
+            "address": "Dempsey Drive, Benicia, CA 94510, US",
             "id": "DAN101",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3218,7 +3218,7 @@
         },
         {
             "name": "Severance",
-            "address": "512 Mallard Dr, Severance, CO 80550",
+            "address": "512 Mallard Dr, Severance, CO 80550, US",
             "id": "DAN1010",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3234,7 +3234,7 @@
         },
         {
             "name": "Seymour (Shields Park), Indiana",
-            "address": "703 N Park St, Seymour, IN 47274",
+            "address": "703 N Park St, Seymour, IN 47274, US",
             "id": "DAN1011",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3250,7 +3250,7 @@
         },
         {
             "name": "Shawnee",
-            "address": "15120 W 63rd St. Shawnee, KS 66217",
+            "address": "15120 W 63rd St, Shawnee, KS 66217, US",
             "id": "DAN1012",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3266,7 +3266,7 @@
         },
         {
             "name": "Sheboygan (Kiwanis Park), Wisconsin",
-            "address": "726 Kiwanis Park Rd, Sheboygan, WI 53081",
+            "address": "726 Kiwanis Park Rd, Sheboygan, WI 53081, US",
             "id": "DAN1013",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3282,7 +3282,7 @@
         },
         {
             "name": "Shelby, Montana",
-            "address": "120 7th Ave N, Shelby, MT 59474",
+            "address": "120 7th Ave N, Shelby, MT 59474, US",
             "id": "DAN1014",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3298,7 +3298,7 @@
         },
         {
             "name": "Shelley",
-            "address": "274 S Hanson Ave, Shelley, ID 83274",
+            "address": "274 S Hanson Ave, Shelley, ID 83274, US",
             "id": "DAN1015",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3314,7 +3314,7 @@
         },
         {
             "name": "Sheridan, Colorado",
-            "address": "3325 W Oxford Ave, Denver, CO 80236",
+            "address": "3325 W Oxford Ave, Denver, CO 80236, US",
             "id": "DAN1016",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3330,7 +3330,7 @@
         },
         {
             "name": "Sheridan, Oregon",
-            "address": "599 NE Yamhill St, Sheridan, OR 97378",
+            "address": "599 NE Yamhill St, Sheridan, OR 97378, US",
             "id": "DAN1017",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3346,7 +3346,7 @@
         },
         {
             "name": "Sheridan, Wyoming",
-            "address": "Dana Ave & W 13th St. Sheridan, WY 82801",
+            "address": "238 Klondike Dr #2, Buffalo, WY 82834, US",
             "id": "DAN1018",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3362,7 +3362,7 @@
         },
         {
             "name": "Shorline, Washington",
-            "address": "901 NE 155th St Shoreline, WA 98155",
+            "address": "901 NE 155th St, Shoreline, WA 98155, US",
             "id": "DAN1019",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3378,7 +3378,7 @@
         },
         {
             "name": "Bennett, Colorado",
-            "address": "105 Palmer Ave, Bennett, CO 80102",
+            "address": "105 Palmer Ave, Bennett, CO 80102, US",
             "id": "DAN102",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3394,7 +3394,7 @@
         },
         {
             "name": "Shoshone",
-            "address": "103 N Rail St W, Shoshone, ID 83352",
+            "address": "103 N Rail St W, Shoshone, ID 83352, US",
             "id": "DAN1020",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3410,7 +3410,7 @@
         },
         {
             "name": "Siletz",
-            "address": "484 SW Swan Ave. Siletz, OR 97380",
+            "address": "484 SW Swan Ave, Siletz, OR 97380, US",
             "id": "DAN1021",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3426,7 +3426,7 @@
         },
         {
             "name": "Silverthorne, Colorado",
-            "address": "590 Rainbow Dr, Silverthorne, CO 80498",
+            "address": "590 Rainbow Dr, Silverthorne, CO 80498, US",
             "id": "DAN1022",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3442,7 +3442,7 @@
         },
         {
             "name": "Silverton",
-            "address": "115 Westfield St. Silverton, OR 97381",
+            "address": "115 Westfield St, Silverton, OR 97381, US",
             "id": "DAN1023",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3458,7 +3458,7 @@
         },
         {
             "name": "Sioux City, Iowa",
-            "address": "505 Market St. Sioux City, IA 51103",
+            "address": "505 Market St, Sioux City, IA 51101, US",
             "id": "DAN1024",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3474,7 +3474,7 @@
         },
         {
             "name": "Sioux Falls (Drake Springs)",
-            "address": "331 S Fairfax Ave., Sioux Falls, SD 57106",
+            "address": "331 S Fairfax Ave, Sioux Falls, SD 57106, US",
             "id": "DAN1025",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3490,7 +3490,7 @@
         },
         {
             "name": "Sioux Falls (Kuehn Park)",
-            "address": "3201 S Kuehn Park Rd., Sioux Falls, SD 57106",
+            "address": "3201 S Kuehn Park Rd, Sioux Falls, SD 57106, US",
             "id": "DAN1026",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3506,7 +3506,7 @@
         },
         {
             "name": "Sioux Falls (Nelson Park)",
-            "address": "301 S Cliff Ave, Sioux Falls, SD 57103",
+            "address": "301 S Cliff Ave, Sioux Falls, SD 57103, US",
             "id": "DAN1027",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3522,7 +3522,7 @@
         },
         {
             "name": "Sisseton",
-            "address": "457th Ave Sisseton, SD 57262",
+            "address": "457th Ave, Sisseton, SD , US",
             "id": "DAN1028",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3538,7 +3538,7 @@
         },
         {
             "name": "Sisters, Oregon",
-            "address": "1750 McKinney Butte Road Sisters, OR 97759",
+            "address": "1750 McKinney Butte Rd, Sisters, OR 97759, US",
             "id": "DAN1029",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3554,7 +3554,7 @@
         },
         {
             "name": "Bentonville",
-            "address": "John Deshields Blvd & NE Martin Luther King Jr Pkwy Bentonville, AR 72712",
+            "address": "NE John Deshields Blvd & NE Martin Luther King Jr Pkwy, Bentonville, AR 72712, US",
             "id": "DAN103",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3570,7 +3570,7 @@
         },
         {
             "name": "Smithfield, Utah",
-            "address": "100 N 100 W Smithfield, UT 84335",
+            "address": "100 N 100 W, Smithfield, UT 84335, US",
             "id": "DAN1030",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3586,7 +3586,7 @@
         },
         {
             "name": "Smithville, Texas",
-            "address": "350 NW 1st St, Smithville, TX 78957",
+            "address": "350 NW 1st St, Smithville, TX 78957, US",
             "id": "DAN1031",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3602,7 +3602,7 @@
         },
         {
             "name": "Snohomish",
-            "address": "264 Pine Ave Snohomish, WA 98290",
+            "address": "264 Pine Ave, Snohomish, WA 98290, US",
             "id": "DAN1032",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3618,7 +3618,7 @@
         },
         {
             "name": "Snoqualmie, Washington",
-            "address": "Borden Ave SE & SE Ridge St. Snoqualmie, WA 98065",
+            "address": "Borden Ave SE & SE Ridge St, Snoqualmie, WA 98065, US",
             "id": "DAN1033",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3634,7 +3634,7 @@
         },
         {
             "name": "Snowmass Village, Colorado",
-            "address": "2835 Brush Creek Road Snowmass Village, CO 81615",
+            "address": "2835 Brush Creek Rd, Aspen, CO 81611, US",
             "id": "DAN1034",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3650,7 +3650,7 @@
         },
         {
             "name": "Soap Lake, Washington",
-            "address": "125 1st Ave NW, Soap Lake, WA 98851",
+            "address": "125 1st Ave NW, Soap Lake, WA 98851, US",
             "id": "DAN1035",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3666,7 +3666,7 @@
         },
         {
             "name": "Solvang",
-            "address": "501 Chalk Hill Rd Solvang, CA 93463",
+            "address": "501 Chalk Hill Rd, Solvang, CA 93463, US",
             "id": "DAN1036",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3682,7 +3682,7 @@
         },
         {
             "name": "South Bend (O\u00e2\u20ac\u2122Brien Park), Indiana",
-            "address": "321 E Walter St, South Bend, IN 46614",
+            "address": "321 E Walter St, South Bend, IN 46614, US",
             "id": "DAN1037",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3698,7 +3698,7 @@
         },
         {
             "name": "South Jordan, Utah",
-            "address": "10866 S Redwood Rd. South Jordan, UT 84095",
+            "address": "10866 S Redwood Rd, South Jordan, UT 84095, US",
             "id": "DAN1038",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3714,7 +3714,7 @@
         },
         {
             "name": "South Jordan/Daybreak (The Spoke), Utah Pump Track",
-            "address": "11347 Sandbank Way South Jordan, UT 84009",
+            "address": "11347 Sandbank Way, South Jordan, UT 84009, US",
             "id": "DAN1039",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3730,7 +3730,7 @@
         },
         {
             "name": "Berthoud (Main Street Park), Colorado",
-            "address": "485 N 2nd St, Berthoud, CO 80513",
+            "address": "485 N 2nd St, Berthoud, CO 80513, US",
             "id": "DAN104",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3746,7 +3746,7 @@
         },
         {
             "name": "South Lake Tahoe, California",
-            "address": "1201 Al Tahoe Blvd. South Lake Tahoe, CA 96150",
+            "address": "1201 Al Tahoe Blvd, South Lake Tahoe, CA 96150, US",
             "id": "DAN1040",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3762,7 +3762,7 @@
         },
         {
             "name": "South Ogden",
-            "address": "580 40th St, South Ogden, UT 84403",
+            "address": "580 40th St, South Ogden, UT 84403, US",
             "id": "DAN1041",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3778,7 +3778,7 @@
         },
         {
             "name": "Spanaway (Sprinker), Washington",
-            "address": "14824 C St S Tacoma, WA 98444",
+            "address": "14824 C St S, Parkland, WA 98444, US",
             "id": "DAN1042",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3794,7 +3794,7 @@
         },
         {
             "name": "Spanish Fork, Utah",
-            "address": "521 S 600 E Spanish Fork, UT 84660",
+            "address": "521 S 600 E St, Spanish Fork, UT 84660, US",
             "id": "DAN1043",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3810,7 +3810,7 @@
         },
         {
             "name": "Sparks, Nevada",
-            "address": "Pyramid Way & Holman Way Sparks, NV 89431",
+            "address": "Holman Way & Pyramid Way, Sparks, NV 89431, US",
             "id": "DAN1044",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3826,7 +3826,7 @@
         },
         {
             "name": "Spartanburg, South Carolina",
-            "address": "339 Union St, Spartanburg, SC 29306",
+            "address": "339 Union St, Spartanburg, SC 29306, US",
             "id": "DAN1045",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3842,7 +3842,7 @@
         },
         {
             "name": "Spencer, Iowa",
-            "address": "305 4th St. S.E. Spencer, IA 51301",
+            "address": "305 4th St SE, Spencer, IA 51301, US",
             "id": "DAN1046",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3858,7 +3858,7 @@
         },
         {
             "name": "Spirit Lake",
-            "address": "6181 Adams St, Spirit Lake, ID 83869",
+            "address": "6181 Adams St, Spirit Lake, ID 83869, US",
             "id": "DAN1047",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3874,7 +3874,7 @@
         },
         {
             "name": "Spokane (Hillyard), Washington",
-            "address": "6018 N Regal St, Spokane, WA 99208",
+            "address": "6018 N Regal St, Spokane, WA 99208, US",
             "id": "DAN1048",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3890,7 +3890,7 @@
         },
         {
             "name": "Spokane (Joe Albi)",
-            "address": "5701 N Assembly St, Spokane, WA 99205",
+            "address": "5701 N Assembly St, Spokane, WA 99205, US",
             "id": "DAN1049",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3906,7 +3906,7 @@
         },
         {
             "name": "Berthoud (Waggener Farm), Colorado",
-            "address": "1000 Berthoud Pkwy, Berthoud, CO 80513",
+            "address": "1000 Berthoud Pkwy, Berthoud, CO 80513, US",
             "id": "DAN105",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3922,7 +3922,7 @@
         },
         {
             "name": "Spokane (Riverfront Park)",
-            "address": "832 N Howard St St1, Spokane, WA 99201",
+            "address": "Parking lot, 832 N Howard St, Spokane, WA 99201, US",
             "id": "DAN1050",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3938,7 +3938,7 @@
         },
         {
             "name": "Spokane Valley (Browns Park)",
-            "address": "3101 S Pines Rd, Spokane Valley, WA 99216",
+            "address": "3101 S Pines Rd, Spokane Valley, WA 99216, US",
             "id": "DAN1051",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3954,7 +3954,7 @@
         },
         {
             "name": "Spokane Valley (YMCA)",
-            "address": "2421 N Discovery Pl, Spokane Valley, WA 99216",
+            "address": "2421 N Discovery Pl, Spokane Valley, WA 99216, US",
             "id": "DAN1052",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3970,7 +3970,7 @@
         },
         {
             "name": "Springfield",
-            "address": "945 W Meadowmere St. Springfield, MO 65807",
+            "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "DAN1053",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -3986,7 +3986,7 @@
         },
         {
             "name": "Springfield (Williamalane), Oregon",
-            "address": "1276 G St, Springfield, OR 97477",
+            "address": "1276 G St, Springfield, OR 97477, US",
             "id": "DAN1054",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4002,7 +4002,7 @@
         },
         {
             "name": "Springville, Utah",
-            "address": "200 S 700 E Springville, UT 84663",
+            "address": "200 S 700 E, Springville, UT 84663, US",
             "id": "DAN1055",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4018,7 +4018,7 @@
         },
         {
             "name": "St George, Utah",
-            "address": "171 East 1160 South St George, UT 84770",
+            "address": "171 E 1160 S, St. George, UT 84770, US",
             "id": "DAN1056",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4034,7 +4034,7 @@
         },
         {
             "name": "St. Anthony",
-            "address": "945 W 1st N, St Anthony, ID 83445",
+            "address": "945 W 1st N, Saint Anthony, ID 83445, US",
             "id": "DAN1057",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4050,7 +4050,7 @@
         },
         {
             "name": "St. Augustine (Hamilton Upchurch Park), Florida",
-            "address": "200 Red Cox Dr. St Augustine, FL 32080",
+            "address": "200 Red Cox Dr, St. Augustine, FL 32080, US",
             "id": "DAN1058",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4066,7 +4066,7 @@
         },
         {
             "name": "St. Augustine (Treaty), Florida",
-            "address": "1595 Wildwood Dr. St Augustine, FL 32086",
+            "address": "1595 Wildwood Dr, St. Augustine, FL 32086, US",
             "id": "DAN1059",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4082,7 +4082,7 @@
         },
         {
             "name": "Big Sandy",
-            "address": "Vernon Ave. and 4th st. Big Sandy, MT",
+            "address": "4th St, Big Sandy, MT 59520, US",
             "id": "DAN106",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4098,7 +4098,7 @@
         },
         {
             "name": "St. Charles",
-            "address": "3740 Huster Rd. St Charles, MO 63301",
+            "address": "3740 Huster Rd, Saint Charles, MO 63301, US",
             "id": "DAN1060",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4114,7 +4114,7 @@
         },
         {
             "name": "St. Cloud",
-            "address": "225 33rd Ave N, St Cloud, MN 56303",
+            "address": "225 33rd Ave N, St. Cloud, MN 56303, US",
             "id": "DAN1061",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4130,7 +4130,7 @@
         },
         {
             "name": "St. George (Airport Ditch), Utah",
-            "address": "Hwy 7 St. George, Utah 84790",
+            "address": "UT-7, St. George, UT 84790, US",
             "id": "DAN1062",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4146,7 +4146,7 @@
         },
         {
             "name": "St. Helens",
-            "address": "475 S 18th St, St Helens, OR 97051",
+            "address": "475 S 18th St, St. Helens, OR 97051, US",
             "id": "DAN1063",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4162,7 +4162,7 @@
         },
         {
             "name": "St. Ignatius, Montana",
-            "address": "357 Mission Dr., St Ignatius, MT 59865",
+            "address": "357 Mission Dr, Saint Ignatius, MT 59865, US",
             "id": "DAN1064",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4178,7 +4178,7 @@
         },
         {
             "name": "St. Louis (Morganford)",
-            "address": "4415 Morganford Rd. St. Louis, MO 63116",
+            "address": "4415 Morgan Ford Rd, St. Louis, MO 63116, US",
             "id": "DAN1065",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4194,7 +4194,7 @@
         },
         {
             "name": "St. Paul (Gateway)",
-            "address": "2290 Ford Pkwy, St Paul, MN 55116",
+            "address": "2290 Ford Pkwy, Saint Paul, MN 55105, US",
             "id": "DAN1066",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4210,7 +4210,7 @@
         },
         {
             "name": "Stansbury Park, Utah",
-            "address": "8 Plaza Stansbury Park, UT 84074",
+            "address": "8 Plaza, Stansbury Park, UT 84074, US",
             "id": "DAN1067",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4226,7 +4226,7 @@
         },
         {
             "name": "Stanton, California",
-            "address": "10660 Western Ave Stanton, CA 90680",
+            "address": "10660 Western Ave, Stanton, CA 90680, US",
             "id": "DAN1068",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4242,7 +4242,7 @@
         },
         {
             "name": "Star",
-            "address": "1558 N Star Rd. Star, ID 83669",
+            "address": "1558 N Star Rd, Star, ID 83669, US",
             "id": "DAN1069",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4258,7 +4258,7 @@
         },
         {
             "name": "Big Sky",
-            "address": "373 Little Coyote Rd. Big Sky, MT 59716",
+            "address": "373 Little Coyote Rd, Big Sky, MT 59716, US",
             "id": "DAN107",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4274,7 +4274,7 @@
         },
         {
             "name": "Steamboat Springs",
-            "address": "1834 Lagoon Ct. Steamboat Springs, CO 80487",
+            "address": "1834 Lagoon Ct, Steamboat Springs, CO 80487, US",
             "id": "DAN1070",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4290,7 +4290,7 @@
         },
         {
             "name": "Sterling",
-            "address": "N Division Ave & Washington St. Sterling, CO 80751",
+            "address": "Washington St & N Division Ave, Sterling, CO 80751, US",
             "id": "DAN1071",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4306,7 +4306,7 @@
         },
         {
             "name": "Sterling Heights, Michigan",
-            "address": "40111 Dodge Park Rd, Sterling Heights, MI 48313",
+            "address": "40111 Dodge Park Rd, Sterling Heights, MI 48313, US",
             "id": "DAN1072",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4322,7 +4322,7 @@
         },
         {
             "name": "Stevensville",
-            "address": "Lewis and Clark Park Stevensville, MT 59870",
+            "address": "Lewis & Clark Park, Stevensville, MT 59870, US",
             "id": "DAN1073",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4338,7 +4338,7 @@
         },
         {
             "name": "Stockton, California",
-            "address": "6137 N El Dorado St, Stockton, CA 95207",
+            "address": "6137 N El Dorado St, Stockton, CA 95207, US",
             "id": "DAN1074",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4354,7 +4354,7 @@
         },
         {
             "name": "StoneMountain, Georgia",
-            "address": "2859 N Deshong Rd, Stone Mountain, GA 30087",
+            "address": "2859 N Deshong Rd, Stone Mountain, GA 30087, US",
             "id": "DAN1075",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4370,7 +4370,7 @@
         },
         {
             "name": "Stoughton",
-            "address": "401 Mandt Pkwy, Stoughton, WI 53589",
+            "address": "401 Mandt Pkwy, Stoughton, WI 53589, US",
             "id": "DAN1076",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4386,7 +4386,7 @@
         },
         {
             "name": "Strathmore",
-            "address": "170 Brent Blvd. Strathmore, AB T1P, Canada",
+            "address": "170 Brent Blvd, Strathmore, AB T1P 1V3, Canada",
             "id": "DAN1077",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4402,7 +4402,7 @@
         },
         {
             "name": "Sturgeon Bay, Wisconsin",
-            "address": "16 W Spruce St, Sturgeon Bay, WI 54235",
+            "address": "16 W Spruce St, Sturgeon Bay, WI 54235, US",
             "id": "DAN1078",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4418,7 +4418,7 @@
         },
         {
             "name": "Sturgis Pump Track, South Dakota",
-            "address": "Blanche St, Sturgis, SD 57785",
+            "address": "Blanche St, Sturgis, SD 57785, US",
             "id": "DAN1079",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4434,7 +4434,7 @@
         },
         {
             "name": "Billings",
-            "address": "S 27th st & 1st Ave S Billings, MT 59101",
+            "address": "1st Ave S & S 27th St, Billings, MT 59101, US",
             "id": "DAN108",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4450,7 +4450,7 @@
         },
         {
             "name": "Sturtevant (East Park), Wisconsin",
-            "address": "2845 87th St, Sturtevant, WI 53177",
+            "address": "2845 87th St, Sturtevant, WI 53177, US",
             "id": "DAN1080",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4466,7 +4466,7 @@
         },
         {
             "name": "Sultan, Washington",
-            "address": "Main St, Sultan, WA 98294",
+            "address": "Main St, Sultan, WA 98294, US",
             "id": "DAN1081",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4482,7 +4482,7 @@
         },
         {
             "name": "Sumner, Washington",
-            "address": "15201 Washington St. Sumner, WA 98390",
+            "address": "15201 Washington St, Sumner, WA 98390, US",
             "id": "DAN1082",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4498,7 +4498,7 @@
         },
         {
             "name": "Sunnyside (Central Park), Washington",
-            "address": "719 E Edison Ave, Sunnyside, WA 98944",
+            "address": "719 E Edison Ave, Sunnyside, WA 98944, US",
             "id": "DAN1083",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4514,7 +4514,7 @@
         },
         {
             "name": "Sunnyside (Sunnyview Park), Washington",
-            "address": "31211 Yakima Valley Hwy, Sunnyside, WA 98944",
+            "address": "31211 Yakima Valley Hwy, Sunnyside, WA 98944, US",
             "id": "DAN1084",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4530,7 +4530,7 @@
         },
         {
             "name": "Sunnyvale, California",
-            "address": "540 Fair Oaks Ave, Sunnyvale, CA 94085",
+            "address": "540 Fair Oaks Ave, Sunnyvale, CA 94085, US",
             "id": "DAN1085",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4546,7 +4546,7 @@
         },
         {
             "name": "Sunset, Utah",
-            "address": "166 W 2400 N., Sunset, UT 84015",
+            "address": "166 W 2400 N, Sunset, UT 84015, US",
             "id": "DAN1086",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4562,7 +4562,7 @@
         },
         {
             "name": "Superior",
-            "address": "409 5th Ave E Superior, MT 59872",
+            "address": "Eva Horning Park, 409 5th Ave E, Superior, MT 59872, US",
             "id": "DAN1087",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4578,7 +4578,7 @@
         },
         {
             "name": "Superior",
-            "address": "2828 Hammond Ave., Superior, WI 54880",
+            "address": "2828 Hammond Ave, Superior, WI 54880, US",
             "id": "DAN1088",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4594,7 +4594,7 @@
         },
         {
             "name": "Superior, Colorado",
-            "address": "1830 Honey Creek Drive Superior, CO 80027",
+            "address": "1830 Honey Creek Dr, Superior, CO 80027, US",
             "id": "DAN1089",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4610,7 +4610,7 @@
         },
         {
             "name": "Bingen, Washington",
-            "address": "413 W Humboldt St #401, Bingen, WA 98605",
+            "address": "413 W Humboldt St #401, Cook, WA 98605, US",
             "id": "DAN109",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4626,7 +4626,7 @@
         },
         {
             "name": "Suwanee (Settles Bridge), Georgia",
-            "address": "380 Johnson Rd, Suwanee, GA 30024",
+            "address": "380 Johnson Rd, Suwanee, GA 30024, US",
             "id": "DAN1090",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4642,7 +4642,7 @@
         },
         {
             "name": "Swift Current",
-            "address": "SK, Canada 13 Ave NE & Riverdene Park Dr. Swift Current, SK, Canada",
+            "address": "13 Ave NE & Riverdene Park Dr, Swift Current, SK S0N 2Y0, Canada",
             "id": "DAN1091",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4658,7 +4658,7 @@
         },
         {
             "name": "Syracuse, Utah",
-            "address": "Banbury Dr & W 1500 S Syracuse, UT 84075",
+            "address": "W 1500 S & Banbury Dr, Syracuse, UT 84075, US",
             "id": "DAN1092",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4674,7 +4674,7 @@
         },
         {
             "name": "Taber",
-            "address": "50th ave and 48 St. Taber, AB T1G 1H1, Canada",
+            "address": "48 St, Taber, AB T1G 1H1, Canada",
             "id": "DAN1093",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4690,7 +4690,7 @@
         },
         {
             "name": "Tacoma (11th Street DIY), Washington",
-            "address": "1201 E D St, Tacoma, WA 98421",
+            "address": "1201 E D St, Tacoma, WA 98421, US",
             "id": "DAN1094",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4706,7 +4706,7 @@
         },
         {
             "name": "Tacoma (Kandle Park)",
-            "address": "5302 N 26th St. Tacoma, WA 98407",
+            "address": "5302 N 26th St, Tacoma, WA 98406, US",
             "id": "DAN1095",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4722,7 +4722,7 @@
         },
         {
             "name": "Tacoma (Norpoint), Washington",
-            "address": "4818 Nassau Ave NE, Tacoma, WA 98422",
+            "address": "Centre at Norpoint, 4818 Nassau Ave NE, Tacoma, WA 98422, US",
             "id": "DAN1096",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4738,7 +4738,7 @@
         },
         {
             "name": "Tacoma (Stewart Heights Park), Washington",
-            "address": "598 E 56th St, Tacoma, WA 98404",
+            "address": "598 E 56th St, Tacoma, WA 98404, US",
             "id": "DAN1097",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4754,7 +4754,7 @@
         },
         {
             "name": "Tacoma (Thea\u00e2\u20ac\u2122s Park), Washington",
-            "address": "535 Dock St. Tacoma WA 98402",
+            "address": "535 Dock St, Tacoma, WA 98402, US",
             "id": "DAN1098",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4770,7 +4770,7 @@
         },
         {
             "name": "Talent, Oregon",
-            "address": "104 S Front St, Talent, OR 97540",
+            "address": "104 S Front St, Talent, OR 97540, US",
             "id": "DAN1099",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4786,7 +4786,7 @@
         },
         {
             "name": "Albuquerque (Calvary), New Mexico",
-            "address": "4001 Osuna Rd NE, Albuquerque, NM 87109",
+            "address": "4001 Osuna Rd NE, Albuquerque, NM 87109, US",
             "id": "DAN11",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4802,7 +4802,7 @@
         },
         {
             "name": "Bismarck, North Dakota",
-            "address": "E Boulevard Ave & N 17th St. Bismarck, ND 58501",
+            "address": "N 17th St & E Boulevard Ave, Bismarck, ND 58501, US",
             "id": "DAN110",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4818,7 +4818,7 @@
         },
         {
             "name": "Tampa (Community park), Florida",
-            "address": "17302 Commerce Park Blvd. Tampa, FL 33647",
+            "address": "17302 Commerce Park Blvd, Tampa, FL 33647, US",
             "id": "DAN1100",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4834,7 +4834,7 @@
         },
         {
             "name": "Taylor, Texas",
-            "address": "326 Porter St, Taylor, TX 76574",
+            "address": "326 Porter St, Taylor, TX 76574, US",
             "id": "DAN1101",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4850,7 +4850,7 @@
         },
         {
             "name": "Taylorsville, Utah",
-            "address": "4743 Plymouth View Dr, Taylorsville, UT 84123",
+            "address": "4743 Plymouth View Dr, Taylorsville, UT 84123, US",
             "id": "DAN1102",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4866,7 +4866,7 @@
         },
         {
             "name": "Telluride, Colorado",
-            "address": "500 E Colorado Ave. Telluride, CO 81435",
+            "address": "500 E Colorado Ave, Telluride, CO 81435, US",
             "id": "DAN1103",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4882,7 +4882,7 @@
         },
         {
             "name": "Temecula, California",
-            "address": "42569 Margarita Rd, Temecula, CA 92592",
+            "address": "Sports Park Parking, 42569 Margarita Rd, Temecula, CA 92592, US",
             "id": "DAN1104",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4898,7 +4898,7 @@
         },
         {
             "name": "Tempe (Victory Acres), Arizona",
-            "address": "2407 E. McArthur Drive Tempe, AZ 85281",
+            "address": "2407 E McArthur Dr, Tempe, AZ 85288, US",
             "id": "DAN1105",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4914,7 +4914,7 @@
         },
         {
             "name": "Tempe, Arizona",
-            "address": "8401 S Hardy Dr., Tempe, AZ 85284",
+            "address": "8401 S Hardy Dr, Tempe, AZ 85284, US",
             "id": "DAN1106",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4930,7 +4930,7 @@
         },
         {
             "name": "Templeton",
-            "address": "S Main St & 6th St. Templeton, CA 93465",
+            "address": "6th St & S Main St, Templeton, CA 93465, US",
             "id": "DAN1107",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4946,7 +4946,7 @@
         },
         {
             "name": "Terre Haute",
-            "address": "Prairieton Rd & Boring St. Terre Haute, IN 47802",
+            "address": "Boring St & Prairieton Rd, Terre Haute, IN 47802, US",
             "id": "DAN1108",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4962,7 +4962,7 @@
         },
         {
             "name": "The Black Pearl",
-            "address": "(The Grand Cayman Island) 1053 Crewe Rd, Grand Harbour, Cayman Islands",
+            "address": "1053 Crewe Rd, Grand Harbour, Cayman Islands",
             "id": "DAN1109",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4978,7 +4978,7 @@
         },
         {
             "name": "Black Diamond, Washington",
-            "address": "Railroad Ave & Park St. Black Diamond, WA 98010",
+            "address": "Park St & Railroad Ave, Black Diamond, WA 98010, US",
             "id": "DAN111",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -4994,7 +4994,7 @@
         },
         {
             "name": "The Colony, Texas",
-            "address": "5151 N Colony Blvd, The Colony, TX 75056",
+            "address": "5151 N Colony Blvd, The Colony, TX 75056, US",
             "id": "DAN1110",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5010,7 +5010,7 @@
         },
         {
             "name": "The Dalles, Oregon",
-            "address": "602 W 2nd St, The Dalles, OR 97058",
+            "address": "Thompson City Park, 602 W 2nd St, The Dalles, OR 97058, US",
             "id": "DAN1111",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5026,7 +5026,7 @@
         },
         {
             "name": "The Woodlands (Bear Branch)",
-            "address": "5200 Research Forest Dr., The Woodlands, TX 77381",
+            "address": "5200 Research Forest Dr, The Woodlands, TX 77381, US",
             "id": "DAN1112",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5042,7 +5042,7 @@
         },
         {
             "name": "The Woodlands (Harper\u00e2\u20ac\u2122s Landing)",
-            "address": "845 S Trade Center Blvd #825, Conroe, TX 77385",
+            "address": "845 S Trade Center Blvd #825, Conroe, TX 77385, US",
             "id": "DAN1113",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5058,7 +5058,7 @@
         },
         {
             "name": "Thompsonville, Michigan",
-            "address": "7658 3rd St, Thompsonville, MI 49683",
+            "address": "7658 3rd St, Thompsonville, MI 49683, US",
             "id": "DAN1114",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5074,7 +5074,7 @@
         },
         {
             "name": "Thornton (Carpenter Park), Colorado",
-            "address": "3551 E 112th Ave. Thornton, CO 80233",
+            "address": "3551 E 112th Ave, Thornton, CO 80233, US",
             "id": "DAN1115",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5090,7 +5090,7 @@
         },
         {
             "name": "Thornton (Pecos Park)",
-            "address": "1598 W 96th Ave, Thornton, CO 80260",
+            "address": "1598 W 96th Ave, Thornton, CO 80260, US",
             "id": "DAN1116",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5106,7 +5106,7 @@
         },
         {
             "name": "Thornton (Thomas J. Slocum Memorial)",
-            "address": "2141 E 95th Ave, Thornton, CO 80229",
+            "address": "2141 E 95th Ave, Thornton, CO 80229, US",
             "id": "DAN1117",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5122,7 +5122,7 @@
         },
         {
             "name": "Thornton (Trail Winds Park), Colorado",
-            "address": "13385 Holly St. Thornton, CO 80241",
+            "address": "13385 Holly St, Thornton, CO 80241, US",
             "id": "DAN1118",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5138,7 +5138,7 @@
         },
         {
             "name": "Tigard, Oregon",
-            "address": "13037 SW Beaverton-Tualatin Hwy, Portland, OR 97223",
+            "address": "13037 SW Beaverton-Tualatin Hwy, Tigard, OR 97223, US",
             "id": "DAN1119",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5154,7 +5154,7 @@
         },
         {
             "name": "Blackfoot",
-            "address": "723 Jensen Grove Dr, Blackfoot, ID 83221",
+            "address": "723 Jensen Grove Dr, Blackfoot, ID 83221, US",
             "id": "DAN112",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5170,7 +5170,7 @@
         },
         {
             "name": "Toledo, Oregon",
-            "address": "737 NW A St, Toledo, OR 97391",
+            "address": "Skateboard Park, 737 NW A St, Toledo, OR 97391, US",
             "id": "DAN1120",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5186,7 +5186,7 @@
         },
         {
             "name": "Tonasket, Washington",
-            "address": "501 Railroad Ave. Tonasket, WA 98855",
+            "address": "501 Railroad Ave, Tonasket, WA 98855, US",
             "id": "DAN1121",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5202,7 +5202,7 @@
         },
         {
             "name": "Tooele (Dow James Memorial), Utah",
-            "address": "W 400 N & Landmark Dr. Tooele, UT 84074",
+            "address": "Landmark Dr & W 400 N, Tooele, UT 84074, US",
             "id": "DAN1122",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5218,7 +5218,7 @@
         },
         {
             "name": "Tooele (Spencer\u00e2\u20ac\u2122s Field), Utah",
-            "address": "Timpie Rd & S 810 W Tooele, UT 84074",
+            "address": "S 810 W & Timpie Rd, Tooele, UT 84074, US",
             "id": "DAN1123",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5234,7 +5234,7 @@
         },
         {
             "name": "Topeka (Oakland)",
-            "address": "801 NE Poplar St. Topeka, KS 66616",
+            "address": "Oakland-Billard Park, 801 NE Poplar St, Topeka, KS 66616, US",
             "id": "DAN1124",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5250,7 +5250,7 @@
         },
         {
             "name": "Topeka (Shunga)",
-            "address": "SW Washburn Ave & SW 23rd St. Topeka, KS 66604",
+            "address": "SW Washburn Ave & SW 23rd St, Topeka, KS 66604, US",
             "id": "DAN1125",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5266,7 +5266,7 @@
         },
         {
             "name": "Torrington",
-            "address": "2726 E G St, Torrington, WY 82240",
+            "address": "2726 E G St, Torrington, WY 82240, US",
             "id": "DAN1126",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5282,7 +5282,7 @@
         },
         {
             "name": "Townsend",
-            "address": "S Walnut and D St. Townsend, MT 59644",
+            "address": "D St, Townsend, MT 59644, US",
             "id": "DAN1127",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5298,7 +5298,7 @@
         },
         {
             "name": "Tracy, California",
-            "address": "301 W Grant Line Rd, Tracy, CA 95376",
+            "address": "301 W Grant Line Rd, Tracy, CA 95376, US",
             "id": "DAN1128",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5314,7 +5314,7 @@
         },
         {
             "name": "Traverse City (Civic Center Park), Michigan",
-            "address": "1213 W Civic Center Dr, Traverse City, MI 49686",
+            "address": "1213 W Civic Center Dr, Traverse City, MI 49686, US",
             "id": "DAN1129",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5330,7 +5330,7 @@
         },
         {
             "name": "Blaine",
-            "address": "1150 Paul Pkwy NE Blaine, MN 55434",
+            "address": "1150 Paul Pkwy NE, Blaine, MN 55434, US",
             "id": "DAN113",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5346,7 +5346,7 @@
         },
         {
             "name": "Tremonton, Utah",
-            "address": "760 N & N 6800 W Tremonton, UT 84337",
+            "address": "N 6800 W & 760 N, Tremonton, UT 84337, US",
             "id": "DAN1130",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5362,7 +5362,7 @@
         },
         {
             "name": "Trinidad, Colorado",
-            "address": "Beshoar Ave. Trinidad, CO 81082",
+            "address": "Beshoar Ave, Trinidad, CO 81082, US",
             "id": "DAN1131",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5378,7 +5378,7 @@
         },
         {
             "name": "Troy",
-            "address": "221 Roosevelt Parkway, Troy, MT 59935",
+            "address": "221 Roosevelt Pkwy, Troy, MT 59935, US",
             "id": "DAN1132",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5394,7 +5394,7 @@
         },
         {
             "name": "Troy (Clawson Park), Michigan",
-            "address": "935 N Custer Ave, Troy, MI 48083",
+            "address": "935 N Custer Ave, Troy, MI 48083, US",
             "id": "DAN1133",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5410,7 +5410,7 @@
         },
         {
             "name": "Truckee, California",
-            "address": "10695 Brockway Rd, Truckee, CA 96161",
+            "address": "10695 Brockway Rd, Truckee, CA 96161, US",
             "id": "DAN1134",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5426,7 +5426,7 @@
         },
         {
             "name": "Tualatin, Oregon",
-            "address": "8515 SW Tualatin Rd. Tualatin, OR 97062",
+            "address": "8515 SW Tualatin Rd, Tualatin, OR 97062, US",
             "id": "DAN1135",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5442,7 +5442,7 @@
         },
         {
             "name": "Tucson (Rita Ranch/Purple Heart), Arizona",
-            "address": "9776 E Esmond Loop, Tucson, AZ 85747",
+            "address": "9776 E Esmond Loop, Tucson, AZ 85747, US",
             "id": "DAN1136",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5458,7 +5458,7 @@
         },
         {
             "name": "Tucson (Santa Rita), Arizona",
-            "address": "401 E 22nd St. Tucson, AZ 85701",
+            "address": "401 E 22nd St, Tucson, AZ 85713, US",
             "id": "DAN1137",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5474,7 +5474,7 @@
         },
         {
             "name": "Tucson (YMCA)",
-            "address": "401 S Prudence Rd. Tucson, AZ 85710",
+            "address": "401 S Prudence Rd, Tucson, AZ 85710, US",
             "id": "DAN1138",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5490,7 +5490,7 @@
         },
         {
             "name": "Tukwila, Washington",
-            "address": "12424 42nd Ave S. Seattle, WA 98168",
+            "address": "12424 42nd Ave S, Tukwila, WA 98168, US",
             "id": "DAN1139",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5506,7 +5506,7 @@
         },
         {
             "name": "Blaine",
-            "address": "635 4th St, Blaine, WA 98230",
+            "address": "635 4th St, Blaine, WA 98230, US",
             "id": "DAN114",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5522,7 +5522,7 @@
         },
         {
             "name": "Tulalip",
-            "address": "6710 Totem Beach Rd., Marysville, WA 98271",
+            "address": "6710 Totem Beach Rd, Marysville, WA 98271, US",
             "id": "DAN1140",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5538,7 +5538,7 @@
         },
         {
             "name": "Tulsa, Oklahoma",
-            "address": "Gathering Place, River Parks East Trail, Tulsa, OK 74105",
+            "address": "Gathering Place, 2650 S John Williams Way, Tulsa, OK 74114, US",
             "id": "DAN1141",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5554,7 +5554,7 @@
         },
         {
             "name": "Tuscaloosa, Alabama",
-            "address": "3701 Fosters Ferry Rd, Tuscaloosa, AL 35401",
+            "address": "3701 Fosters Ferry Rd, Tuscaloosa, AL 35401, US",
             "id": "DAN1142",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5570,7 +5570,7 @@
         },
         {
             "name": "Tustin",
-            "address": "42 Lansdowne Rd Tustin, CA 92780",
+            "address": "42 Lansdowne Rd, Tustin, CA 92780, US",
             "id": "DAN1143",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5586,7 +5586,7 @@
         },
         {
             "name": "Twin Falls, Idaho",
-            "address": "1545 Harmon Park Ave Twin Falls, ID 83301",
+            "address": "1545 Harmon Park Ave, Twin Falls, ID 83301, US",
             "id": "DAN1144",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5602,7 +5602,7 @@
         },
         {
             "name": "Two Harbors",
-            "address": "301 8th Ave, Two Harbors, MN 55616",
+            "address": "301 8th Ave, Two Harbors, MN 55616, US",
             "id": "DAN1145",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5618,7 +5618,7 @@
         },
         {
             "name": "Tyler (Faulkner), Texas",
-            "address": "574 W Cumberland Rd, Tyler, TX 75703",
+            "address": "574 W Cumberland Rd, Tyler, TX 75703, US",
             "id": "DAN1146",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5634,7 +5634,7 @@
         },
         {
             "name": "Union Gap",
-            "address": "E Washington Ave & S 18th St Union Gap, WA 98903",
+            "address": "E Washington Ave & S 18th St, Union Gap, WA 98903, US",
             "id": "DAN1147",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5650,7 +5650,7 @@
         },
         {
             "name": "University Place, Washington",
-            "address": "7454 Cirque Dr W, University Place, WA 98467",
+            "address": "7454 Cirque Dr W, University Place, WA 98467, US",
             "id": "DAN1148",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5666,7 +5666,7 @@
         },
         {
             "name": "Upland, California",
-            "address": "1299 San Bernardino Rd, Upland, CA 91786",
+            "address": "1299 San Bernardino Rd, Upland, CA 91786, US",
             "id": "DAN1149",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5682,7 +5682,7 @@
         },
         {
             "name": "Blanding, Utah",
-            "address": "1200 S 300 W. Blanding, UT 84511",
+            "address": "1200 S 300 W, Blanding, UT 84511, US",
             "id": "DAN115",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5698,7 +5698,7 @@
         },
         {
             "name": "Urbandale",
-            "address": "9000 Douglas Ave Urbandale, IA 50322",
+            "address": "9000 Douglas Ave, Urbandale, IA 50322, US",
             "id": "DAN1150",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5714,7 +5714,7 @@
         },
         {
             "name": "Vail, Colorado",
-            "address": "395 E Lionshead Cir. Vail, CO 81657",
+            "address": "Lionshead Parking Structure, 395 E Lionshead Cir, Vail, CO 81657, US",
             "id": "DAN1151",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5730,7 +5730,7 @@
         },
         {
             "name": "Vancouver (Downtown), Washington",
-            "address": "2401 E 4th Plain Blvd. Vancouver, WA 98661",
+            "address": "2401 E 4th Plain Blvd, Vancouver, WA 98661, US",
             "id": "DAN1152",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5746,7 +5746,7 @@
         },
         {
             "name": "Vancouver (East), Washington",
-            "address": "15th St & NE 164th Ave. Vancouver, Washington 98684",
+            "address": "NE 164th Ave, Vancouver, WA 98684, US",
             "id": "DAN1153",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5762,7 +5762,7 @@
         },
         {
             "name": "Vancouver (Hastings)",
-            "address": "BC, Canada 3000 E Pender St, Vancouver, BC V5K 4G4, Canada",
+            "address": "3000 E Pender St, Vancouver, BC V5K 4G4, Canada",
             "id": "DAN1154",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5778,7 +5778,7 @@
         },
         {
             "name": "Vans",
-            "address": "Orange, California A, 20 City Blvd W ste 2, Orange, CA 92868",
+            "address": "20 City Blvd W Suite 2, Orange, CA 92868, US",
             "id": "DAN1155",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5794,7 +5794,7 @@
         },
         {
             "name": "Vashon Island, Washington",
-            "address": "10500 SW 228th St. Vashon, WA 98070",
+            "address": "10500 SW 228th St, Vashon, WA 98070, US",
             "id": "DAN1156",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5810,7 +5810,7 @@
         },
         {
             "name": "Veneta",
-            "address": "88082 Territorial Hwy, Veneta, OR 97487",
+            "address": "88082 Territorial Hwy, Veneta, OR 97487, US",
             "id": "DAN1157",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5826,7 +5826,7 @@
         },
         {
             "name": "Venice Beach",
-            "address": "1800 Ocean Front Walk, Venice, CA 90291",
+            "address": "1800 Ocean Front Walk, Los Angeles, CA 90291, US",
             "id": "DAN1158",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5842,7 +5842,7 @@
         },
         {
             "name": "Ventura (Hobert)",
-            "address": "9404-9498 Telegraph Rd, Ventura, CA 93004",
+            "address": "9404-9498 Telegraph Rd, Ventura, CA 93004, US",
             "id": "DAN1159",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5858,7 +5858,7 @@
         },
         {
             "name": "Bloomington",
-            "address": "2602 N Kinser Pike Bloomington, IN 47404",
+            "address": "North Cascades Skatepark, 2602 N Kinser Pike, Bloomington, IN 47404, US",
             "id": "DAN116",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5874,7 +5874,7 @@
         },
         {
             "name": "Ventura (Pacific)",
-            "address": "374 Chapel Dr, Ventura, CA 93003",
+            "address": "374 Chapel Dr, Ventura, CA 93003, US",
             "id": "DAN1160",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5890,7 +5890,7 @@
         },
         {
             "name": "Ventura (West)",
-            "address": "339 W Park Row Ave. Ventura, CA 93001",
+            "address": "339 W Park Row Ave, Ventura, CA 93001, US",
             "id": "DAN1161",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5906,7 +5906,7 @@
         },
         {
             "name": "Vernon Hills, Illinois",
-            "address": "538 Atrium Dr, Vernon Hills, IL 60061",
+            "address": "538 Atrium Dr, Vernon Hills, IL 60061, US",
             "id": "DAN1162",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5922,7 +5922,7 @@
         },
         {
             "name": "Victorville",
-            "address": "16451 Pebble Beach Dr Victorville, CA 92395",
+            "address": "16451 Pebble Beach Dr, Victorville, CA 92395, US",
             "id": "DAN1163",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5938,7 +5938,7 @@
         },
         {
             "name": "Villa Park",
-            "address": "400 N lowa Ave. Villa Park, IL 60181",
+            "address": "400 N Iowa Ave, Villa Park, IL 60181, US",
             "id": "DAN1164",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5954,7 +5954,7 @@
         },
         {
             "name": "Vulcan",
-            "address": "1 St N & 6 Ave N. Vulcan, AB T0L 2B0, Canada",
+            "address": "6 Ave N & 1 St N, Vulcan, AB T0L 2B0, Canada",
             "id": "DAN1165",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5970,7 +5970,7 @@
         },
         {
             "name": "Waco",
-            "address": "500 N 14th St, Waco, TX 76707",
+            "address": "500 N 14th St, Waco, TX 76707, US",
             "id": "DAN1166",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -5986,7 +5986,7 @@
         },
         {
             "name": "Waldport, Oregon",
-            "address": "1270 S Crestline Dr, Waldport, OR 97394",
+            "address": "1270 S Crestline Dr, Waldport, OR 97394, US",
             "id": "DAN1167",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6002,7 +6002,7 @@
         },
         {
             "name": "Walla Walla (Fort Walla Walla), Washington",
-            "address": "1550 Dalles Military Rd. Walla Walla, WA 99362",
+            "address": "1550 Dalles Military Rd, Walla Walla, WA 99362, US",
             "id": "DAN1168",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6018,7 +6018,7 @@
         },
         {
             "name": "Walla Walla (Mill Creek), Washington",
-            "address": "400 N Tausick Way Walla Walla, WA 99362",
+            "address": "400 Tausick Way, Walla Walla, WA 99362, US",
             "id": "DAN1169",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6034,7 +6034,7 @@
         },
         {
             "name": "Bloomington (Switchyard Park), Indiana",
-            "address": "1601 S Rogers St, Bloomington, IN 47403",
+            "address": "1601 S Rogers St, Bloomington, IN 47403, US",
             "id": "DAN117",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6050,7 +6050,7 @@
         },
         {
             "name": "Wallace, Idaho",
-            "address": "(Located under the freeway) 415 7th St, Wallace, ID 83873",
+            "address": "415 7th St, Wallace, ID 83873, US",
             "id": "DAN1170",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6066,7 +6066,7 @@
         },
         {
             "name": "Watauga",
-            "address": "7901 Indian Springs Rd, Watauga, TX 76148",
+            "address": "7901 Indian Springs Rd, Watauga, TX 76148, US",
             "id": "DAN1171",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6082,7 +6082,7 @@
         },
         {
             "name": "Waterloo",
-            "address": "999 Park Rd, Waterloo, IA 50703",
+            "address": "999 Park Rd, Waterloo, IA 50703, US",
             "id": "DAN1172",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6098,7 +6098,7 @@
         },
         {
             "name": "Watertown",
-            "address": "314 21st St SW Watertown, SD 57201",
+            "address": "314 21st St SW, Watertown, SD 57201, US",
             "id": "DAN1173",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6114,7 +6114,7 @@
         },
         {
             "name": "Weed",
-            "address": "1299 Railroad Ave. Weed, CA 96094",
+            "address": "1299 Railroad Ave, Weed, CA 96094, US",
             "id": "DAN1174",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6130,7 +6130,7 @@
         },
         {
             "name": "Wellington",
-            "address": "3820 Cleveland Ave, Wellington, CO 80549",
+            "address": "3820 Cleveland Ave, Wellington, CO 80549, US",
             "id": "DAN1175",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6146,7 +6146,7 @@
         },
         {
             "name": "Wenatchee (Hale Park), Washington",
-            "address": "Worthen Street, Wenatchee, WA 98801",
+            "address": "Worthen St, Wenatchee, WA 98801, US",
             "id": "DAN1176",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6162,7 +6162,7 @@
         },
         {
             "name": "Wenatchee, Washington",
-            "address": "349 Fuller St . Wenatchee, WA 98801",
+            "address": "349 Fuller St, Wenatchee, WA 98801, US",
             "id": "DAN1177",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6178,7 +6178,7 @@
         },
         {
             "name": "West Allis (Joyce Radtke Park), Wisconsin",
-            "address": "8320 W National Ave, West Allis, WI 53214",
+            "address": "8320 W National Ave, West Allis, WI 53214, US",
             "id": "DAN1178",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6194,7 +6194,7 @@
         },
         {
             "name": "West Des Moines",
-            "address": "301 Vine St, West Des Moines, IA 50265",
+            "address": "301 Vine St, West Des Moines, IA 50265, US",
             "id": "DAN1179",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6210,7 +6210,7 @@
         },
         {
             "name": "Blue Diamond",
-            "address": "4 Diamond St, Blue Diamond, NV 89004",
+            "address": "Blue Diamond Park, 4 Diamond St, Blue Diamond, NV 89004, US",
             "id": "DAN118",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6226,7 +6226,7 @@
         },
         {
             "name": "West Jordan (Mountain View Corridor ditch), Utah",
-            "address": "Maple Water Dr & Maple Canyon Rd. West Jordan, UT 84081",
+            "address": "Maple Canyon Rd & Maple Water Dr, West Jordan, UT 84081, US",
             "id": "DAN1180",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6242,7 +6242,7 @@
         },
         {
             "name": "West Jordan (Wheels Park), Utah",
-            "address": "6110 New Bingham Hwy, West Jordan, UT 84081",
+            "address": "6110 New Bingham Hwy, West Jordan, UT 84081, US",
             "id": "DAN1181",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6258,7 +6258,7 @@
         },
         {
             "name": "West Jordan (Wheels Park), Utah",
-            "address": "6110 New Bingham Hwy, West Jordan, UT 84081",
+            "address": "6110 New Bingham Hwy, West Jordan, UT 84081, US",
             "id": "DAN1182",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6274,7 +6274,7 @@
         },
         {
             "name": "West Jordan, Utah (Maple Hills)",
-            "address": "6543 W 7400 S, West Jordan, UT 84081",
+            "address": "6543 W 7400 S, West Jordan, UT 84081, US",
             "id": "DAN1183",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6290,7 +6290,7 @@
         },
         {
             "name": "West Linn",
-            "address": "3344 Parker Rd #3182, West Linn, OR 97068West Linn, OR 97068",
+            "address": "3344 Parker Rd #3182, West Linn, OR 97068, US",
             "id": "DAN1184",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6306,7 +6306,7 @@
         },
         {
             "name": "West Linn (Robinwood Park), Oregon",
-            "address": "648 SW 2nd St, Corvallis, OR 97333",
+            "address": "648 SW 2nd St, Corvallis, OR 97333, US",
             "id": "DAN1185",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6322,7 +6322,7 @@
         },
         {
             "name": "West Point, Mississippi",
-            "address": "119 Wood St, West Point, MS 39773",
+            "address": "Marshall Park, 119 Wood St, West Point, MS 39773, US",
             "id": "DAN1186",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6338,7 +6338,7 @@
         },
         {
             "name": "West Valley City, Utah",
-            "address": "3189 5600 W, West Valley City, UT 84128",
+            "address": "3189 5600 W, West Valley City, UT 84128, US",
             "id": "DAN1187",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6354,7 +6354,7 @@
         },
         {
             "name": "Westlake Village",
-            "address": "31107 Thousand Oaks Blvd, Westlake Village, CA 91362",
+            "address": "31107 Thousand Oaks Blvd, Westlake Village, CA 91362, US",
             "id": "DAN1188",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6370,7 +6370,7 @@
         },
         {
             "name": "Westland (Tattan Park), Michigan",
-            "address": "36601 Ford Rd, Westland, MI 48185",
+            "address": "36601 Ford Rd, Westland, MI 48185, US",
             "id": "DAN1189",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6386,7 +6386,7 @@
         },
         {
             "name": "Bluffdale",
-            "address": "15257 S 1300 W Bluffdale, UT 84065",
+            "address": "15257 S 1300 W, Bluffdale, UT 84065, US",
             "id": "DAN119",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6402,7 +6402,7 @@
         },
         {
             "name": "Westminster (Kings Mill Park), Colorado",
-            "address": "9018 Field St. Westminster, CO 80021",
+            "address": "9018 Field St, Westminster, CO 80021, US",
             "id": "DAN1190",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6418,7 +6418,7 @@
         },
         {
             "name": "Westminster, California",
-            "address": "13866-, 13930 Monroe St, Westminster, CA 92683",
+            "address": "13930 Monroe St, Westminster, CA 92683, US",
             "id": "DAN1191",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6434,7 +6434,7 @@
         },
         {
             "name": "Westminster, Colorado",
-            "address": "10459 N Sheridan Blvd, Westminster, CO 80020",
+            "address": "10459 Sheridan Boulevard, Westminster, CO 80020, US",
             "id": "DAN1192",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6450,7 +6450,7 @@
         },
         {
             "name": "Weston",
-            "address": "301 S Water St., Weston, OR 97886",
+            "address": "301 S Water St, Weston, OR 97886, US",
             "id": "DAN1193",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6466,7 +6466,7 @@
         },
         {
             "name": "Wheat Ridge, Colorado",
-            "address": "3701 Johnson St, Wheat Ridge, CO 80033",
+            "address": "3701 Johnson St, Wheat Ridge, CO 80033, US",
             "id": "DAN1194",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6482,7 +6482,7 @@
         },
         {
             "name": "Wheeling, West Virginia",
-            "address": "99 Community St. Wheeling, WV 26003",
+            "address": "99 Community St, Wheeling, WV 26003, US",
             "id": "DAN1195",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6498,7 +6498,7 @@
         },
         {
             "name": "Whitefish, Montana",
-            "address": "290 Armory Rd. Whitefish, MT 59937",
+            "address": "290 Armory Rd, Whitefish, MT 59937, US",
             "id": "DAN1196",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6514,7 +6514,7 @@
         },
         {
             "name": "Whitehall",
-            "address": "W Legion Ave & N Brooke St. Whitehall, MT 59759",
+            "address": "W Legion Ave & N Brooke St, Whitehall, MT 59759, US",
             "id": "DAN1197",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6530,7 +6530,7 @@
         },
         {
             "name": "Wichita Falls, Texas",
-            "address": "1721 Maurine St, Wichita Falls, TX 76306",
+            "address": "1721 Maurine St, Wichita Falls, TX 76306, US",
             "id": "DAN1198",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6546,7 +6546,7 @@
         },
         {
             "name": "Wichita, Kansas",
-            "address": "645 St Francis, Wichita, KS 67211",
+            "address": "645 St Francis, Wichita, KS 67202, US",
             "id": "DAN1199",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6562,7 +6562,7 @@
         },
         {
             "name": "Albuquerque (Los Altos), New Mexico",
-            "address": "9750 Lomas Blvd. NE Albuquerque, NM 87112",
+            "address": "9750 Lomas Blvd NE, Albuquerque, NM 87112, US",
             "id": "DAN12",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6578,7 +6578,7 @@
         },
         {
             "name": "Boise (Fort Boise Park), Idaho",
-            "address": "350 E Garrison Rd. Boise, ID 83702",
+            "address": "350 E Garrison Rd, Boise, ID 83702, US",
             "id": "DAN120",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6594,7 +6594,7 @@
         },
         {
             "name": "Wickenburg",
-            "address": "N Tegner St & Swilling Ave. Wickenburg, AZ 85390",
+            "address": "N Tegner St & Swilling Ave, Wickenburg, AZ 85390, US",
             "id": "DAN1200",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6610,7 +6610,7 @@
         },
         {
             "name": "Wiggins",
-            "address": "545 W 2nd Ave, Wiggins, CO 80654",
+            "address": "545 W 2nd Ave, Wiggins, CO 80654, US",
             "id": "DAN1201",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6626,7 +6626,7 @@
         },
         {
             "name": "Wiggins",
-            "address": "545 W 2nd Ave, Wiggins, CO 80654",
+            "address": "545 W 2nd Ave, Wiggins, CO 80654, US",
             "id": "DAN1202",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6642,7 +6642,7 @@
         },
         {
             "name": "Wilkeson",
-            "address": "398 Carbonado South Prairie Rd. Buckley, WA 98321",
+            "address": "398 Carbonado South Prairie Rd, Buckley, WA 98321, US",
             "id": "DAN1203",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6658,7 +6658,7 @@
         },
         {
             "name": "Williston",
-            "address": "US-2 BUS & 1st Ave W. Williston, ND 58801",
+            "address": "US-2 BUS & 1st Ave W, Williston, ND 58801, US",
             "id": "DAN1204",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6674,7 +6674,7 @@
         },
         {
             "name": "Wilson Creek, Washington",
-            "address": "204 4th St, Wilson Creek, WA 98860",
+            "address": "204 4th St, Wilson Creek, WA 98860, US",
             "id": "DAN1205",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6690,7 +6690,7 @@
         },
         {
             "name": "Wilsonville",
-            "address": "SW Palermo St & SW Paris Ave. Wilsonville, OR 97070",
+            "address": "SW Palermo St & SW Paris Ave, Wilsonville, OR 97070, US",
             "id": "DAN1206",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6706,7 +6706,7 @@
         },
         {
             "name": "Winamac (Rinehart Park), Indiana",
-            "address": "120 W 15th St, Winamac, IN 46996",
+            "address": "120 W 15th St, Winamac, IN 46996, US",
             "id": "DAN1207",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6722,7 +6722,7 @@
         },
         {
             "name": "Windsor, Colorado",
-            "address": "31715 Eastman Park Dr. Windsor, CO 80550",
+            "address": "31715 Eastman Park Dr, Windsor, CO 80550, US",
             "id": "DAN1208",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6738,7 +6738,7 @@
         },
         {
             "name": "Winlock",
-            "address": "King Rd & NW Dexter Ave Winlock, WA 98596",
+            "address": "NW Dexter Ave, Winlock, WA 98596, US",
             "id": "DAN1209",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6754,7 +6754,7 @@
         },
         {
             "name": "Boise (Ivywild Park)",
-            "address": "416 W Ivywild St, Boise, ID 83706",
+            "address": "416 W Ivywild St, Boise, ID 83706, US",
             "id": "DAN121",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6770,7 +6770,7 @@
         },
         {
             "name": "Winter Park",
-            "address": "Ski Idlewild Rd & Sawyer Cir. Winter Park, CO 80482",
+            "address": "Sawyer Cir & Ski Idlewild Rd, Winter Park, CO 80482, US",
             "id": "DAN1210",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6786,7 +6786,7 @@
         },
         {
             "name": "Winterset",
-            "address": "450 N 4th Ave, Winterset, IA 50273",
+            "address": "450 N 4th Ave, Winterset, IA 50273, US",
             "id": "DAN1211",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6802,7 +6802,7 @@
         },
         {
             "name": "Wolf Point, Montana",
-            "address": "BIA Rd 168, Wolf Point, MT 59201",
+            "address": "BIA Rd 168, Wolf Point, MT 59201, US",
             "id": "DAN1212",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6818,7 +6818,7 @@
         },
         {
             "name": "Woodbridge, Virginia",
-            "address": "14300 Veterans Dr. Woodbridge, VA 22191",
+            "address": "14300 Veterans Dr, Woodbridge, VA 22191, US",
             "id": "DAN1213",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6834,7 +6834,7 @@
         },
         {
             "name": "Woodburn, Oregon",
-            "address": "400 S Settlemier Ave. Woodburn, OR 97071",
+            "address": "400 S Settlemier Ave, Woodburn, OR 97071, US",
             "id": "DAN1214",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6850,7 +6850,7 @@
         },
         {
             "name": "Woodinville, Washington",
-            "address": "19518 136th Ave NE Woodinville, WA 98072",
+            "address": "19518 136th Ave NE, Woodinville, WA 98072, US",
             "id": "DAN1215",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6866,7 +6866,7 @@
         },
         {
             "name": "Woodland Park, Colorado",
-            "address": "1001-1199 Evergreen Heights Dr. Woodland Park, CO 80863",
+            "address": "1001 Evergreen Heights Dr, Woodland Park, CO 80863, US",
             "id": "DAN1216",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6882,7 +6882,7 @@
         },
         {
             "name": "Woodland, Washington",
-            "address": "785 Lakeshore Dr. Woodland, WA 98674",
+            "address": "785 Lakeshore Dr, Woodland, WA 98674, US",
             "id": "DAN1217",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6898,7 +6898,7 @@
         },
         {
             "name": "Woodlands (Lakeside)",
-            "address": "5001 Alden Bridge Dr., The Woodlands, TX 77382",
+            "address": "5001 S Alden Bridge Dr, The Woodlands, TX 77382, US",
             "id": "DAN1218",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6914,7 +6914,7 @@
         },
         {
             "name": "Woodward (Park City), Utah",
-            "address": "3863 Kilby Rd, Park City, UT 84098",
+            "address": "3863 Kilby Rd, Park City, UT 84098, US",
             "id": "DAN1219",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6930,7 +6930,7 @@
         },
         {
             "name": "Boise (McMillian), Idaho",
-            "address": "5101 N Eagle Rd, Boise, ID 83713",
+            "address": "5101 N Eagle Rd, Boise, ID 83713, US",
             "id": "DAN122",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6946,7 +6946,7 @@
         },
         {
             "name": "Woodward West, California",
-            "address": "28400 Stallion Springs Drive Tehachapi, CA 93561",
+            "address": "28400 Stallion Springs Dr, Tehachapi, CA 93561, US",
             "id": "DAN1220",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6962,7 +6962,7 @@
         },
         {
             "name": "Worthington",
-            "address": "W. 11th Ave. & Tower St, Worthington, MN 56187",
+            "address": "Tower St & W 11th Ave, Worthington, MN 56187, US",
             "id": "DAN1221",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6978,7 +6978,7 @@
         },
         {
             "name": "Yakima (Chesterley), Washington",
-            "address": "River Rd & N 40th Ave Yakima, WA 98902",
+            "address": "N 40th Ave, Yakima, WA 98902, US",
             "id": "DAN1222",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -6994,7 +6994,7 @@
         },
         {
             "name": "Yakima (Kiwanis), Washington",
-            "address": "1109 E. Maple Street Yakima, WA 98901",
+            "address": "1109 E Maple St, Yakima, WA 98901, US",
             "id": "DAN1223",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7010,7 +7010,7 @@
         },
         {
             "name": "Yankton",
-            "address": "Park Dr & Spruce St. Yankton, SD 57078",
+            "address": "Park Dr & Spruce St, Yankton, SD 57078, US",
             "id": "DAN1224",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7026,7 +7026,7 @@
         },
         {
             "name": "Yelm, Washington",
-            "address": "1st St SE & Washington Ave SE, Yelm, WA 98597",
+            "address": "Washington St SE & Washington Ave SE, Yelm, WA 98597, US",
             "id": "DAN1225",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7042,7 +7042,7 @@
         },
         {
             "name": "York",
-            "address": "306 S Kingsley Ave. York, NE 68467",
+            "address": "306 S Kingsley Ave, York, NE 68467, US",
             "id": "DAN1226",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7058,7 +7058,7 @@
         },
         {
             "name": "York, Pennsylvania",
-            "address": "901 Vander Ave, York, PA 17403",
+            "address": "901 Vander Ave, York, PA 17403, US",
             "id": "DAN1227",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7074,7 +7074,7 @@
         },
         {
             "name": "Ypsilanti (Clark Park), Michigan",
-            "address": "1850 E Clark Rd, Ypsilanti, MI 48198",
+            "address": "1850 E Clark Rd, Ypsilanti, MI 48198, US",
             "id": "DAN1228",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7090,7 +7090,7 @@
         },
         {
             "name": "Ypsilanti (Prospect Park), Michigan",
-            "address": "550 N Prospect Rd, Ypsilanti, MI 48197",
+            "address": "550 N Prospect Rd, Ypsilanti, MI 48197, US",
             "id": "DAN1229",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7106,7 +7106,7 @@
         },
         {
             "name": "Boise (Molenaar), Idaho",
-            "address": "2815 S Maple Grove Rd, Boise, ID 83709",
+            "address": "2815 S Maple Grove Rd, Boise, ID 83709, US",
             "id": "DAN123",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7122,7 +7122,7 @@
         },
         {
             "name": "Yucca Valley",
-            "address": "57090 Twentynine Palms Highway, Yucca Valley, CA 92284",
+            "address": "57090 29 Palms Hwy, Yucca Valley, CA 92284, US",
             "id": "DAN1230",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7138,7 +7138,7 @@
         },
         {
             "name": "Zionsville",
-            "address": "9613 Whitestown Rd. Zionsville, IN 46077",
+            "address": "9613 Whitestown Rd, Zionsville, IN 46077, US",
             "id": "DAN1231",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7154,7 +7154,7 @@
         },
         {
             "name": "Boise (Rhodes)",
-            "address": "1555 W Front St., Boise, ID 83702",
+            "address": "1555 W Front St, Boise, ID 83702, US",
             "id": "DAN124",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7170,7 +7170,7 @@
         },
         {
             "name": "Bonney Lake (Allan Yorke Park), Washington",
-            "address": "7203 W Tapps Hwy E, Bonney Lake, WA 98391",
+            "address": "7203 W Tapps Hwy E, Bonney Lake, WA 98391, US",
             "id": "DAN125",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7186,7 +7186,7 @@
         },
         {
             "name": "Bonney Lake (The Edge), Washington",
-            "address": "Canyon View Blvd E, Bonney Lake, WA 98391",
+            "address": "Canyon View Blvd E, Tehaleh, WA 98391, US",
             "id": "DAN126",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7202,7 +7202,7 @@
         },
         {
             "name": "Boulder",
-            "address": "N Madison St & Leslie St. Boulder, MT 59632",
+            "address": "N Madison St & Leslie St, Boulder, MT 59632, US",
             "id": "DAN127",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7218,7 +7218,7 @@
         },
         {
             "name": "Boulder (Green Block), Colorado",
-            "address": "5333 Valmont Rd, Boulder, CO 80301",
+            "address": "5333 Valmont Rd, Boulder, CO 80301, US",
             "id": "DAN128",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7234,7 +7234,7 @@
         },
         {
             "name": "Boulder (Howard Heuston Park), Colorado",
-            "address": "3200 34th St, Boulder, CO 80301",
+            "address": "3200 34th St, Boulder, CO 80301, US",
             "id": "DAN129",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7250,7 +7250,7 @@
         },
         {
             "name": "Albuquerque (North Domingo)",
-            "address": "7521 Carmel Ave NE. Albuquerque, NM 87113",
+            "address": "7521 Carmel Ave NE, Albuquerque, NM 87113, US",
             "id": "DAN13",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7266,7 +7266,7 @@
         },
         {
             "name": "Boulder (Valmont Park), Colorado",
-            "address": "5333 Valmont Rd, Boulder, CO 80301",
+            "address": "5333 Valmont Rd, Boulder, CO 80301, US",
             "id": "DAN130",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7282,7 +7282,7 @@
         },
         {
             "name": "Boulder City",
-            "address": "1650 Buchanan Blvd., Boulder City, NV 89005",
+            "address": "1650 Buchanan Blvd, Boulder City, NV 89005, US",
             "id": "DAN131",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7298,7 +7298,7 @@
         },
         {
             "name": "Boulder City (River Mountain Trail) Ditch, Nevada",
-            "address": "788 US-93 Boulder City, NV 89005",
+            "address": "US-93, Boulder City, NV 89005, US",
             "id": "DAN132",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7314,7 +7314,7 @@
         },
         {
             "name": "Boulder, Colorado",
-            "address": "1505 30th St, Boulder, CO 80303",
+            "address": "1505 30th St, Boulder, CO 80303, US",
             "id": "DAN133",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7330,7 +7330,7 @@
         },
         {
             "name": "Bountiful",
-            "address": "359 W 740 S, Bountiful, UT 84010",
+            "address": "359 W 740 S, Bountiful, UT 84010, US",
             "id": "DAN134",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7346,7 +7346,7 @@
         },
         {
             "name": "Bowie, Maryland",
-            "address": "3106 Mitchellville Rd, Bowie, MD 20716",
+            "address": "3106 Mitchellville Rd, Bowie, MD 20716, US",
             "id": "DAN135",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7362,7 +7362,7 @@
         },
         {
             "name": "Bowling Green",
-            "address": "200 E 6th Ave. Bowling Green, KY 42101",
+            "address": "200 E 6th Ave, Bowling Green, KY 42101, US",
             "id": "DAN136",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7378,7 +7378,7 @@
         },
         {
             "name": "Box Elder, Montana",
-            "address": "Box Elder, MT 59521",
+            "address": "476 Box Elder Rd, Box Elder, MT 59521, US",
             "id": "DAN137",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7394,7 +7394,7 @@
         },
         {
             "name": "Bozeman",
-            "address": "147 N 20th Ave Bozeman, MT 59718",
+            "address": "147 N 20th Ave, Bozeman, MT 59718, US",
             "id": "DAN138",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7410,7 +7410,7 @@
         },
         {
             "name": "Bozeman (Big Sky Youth Empowerment)",
-            "address": "225 E Mendenhall St, Bozeman, MT 59715",
+            "address": "225 E Mendenhall St, Bozeman, MT 59715, US",
             "id": "DAN139",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7426,7 +7426,7 @@
         },
         {
             "name": "Albuquerque (Northwest)",
-            "address": "Coors Blvd Bypass NW & 7 Bar Loop Rd NW, Albuquerque, NM 87114",
+            "address": "7 Bar Loop Rd NW & Coors Blvd Bypass NW, Albuquerque, NM 87114, US",
             "id": "DAN14",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7442,7 +7442,7 @@
         },
         {
             "name": "Branson",
-            "address": "625 Stockstill Ln. Branson, MO 65616",
+            "address": "625 Stockstill Ln, Branson, MO 65616, US",
             "id": "DAN140",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7458,7 +7458,7 @@
         },
         {
             "name": "Breckenridge",
-            "address": "880 Airport Rd. Breckenridge, CO 80424",
+            "address": "880 Airport Rd, Breckenridge, CO 80424, US",
             "id": "DAN141",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7474,7 +7474,7 @@
         },
         {
             "name": "Bremerton, Washington",
-            "address": "1950 Homer Jones Drive. Bremerton, WA 98310",
+            "address": "1950 Homer Jones Dr, Bremerton, WA 98310, US",
             "id": "DAN142",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7490,7 +7490,7 @@
         },
         {
             "name": "Brier, Washington",
-            "address": "228th St SW & 25th Ave W. Lynnwood, WA 98036",
+            "address": "228th St SW & 25th Ave W, Brier, WA 98036, US",
             "id": "DAN143",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7506,7 +7506,7 @@
         },
         {
             "name": "Brighton",
-            "address": "1101 Judicial Center Dr. Brighton, CO 80601",
+            "address": "1101 Judicial Center Dr, Brighton, CO 80601, US",
             "id": "DAN144",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7522,7 +7522,7 @@
         },
         {
             "name": "Brighton (Benedict Park)",
-            "address": "1701 Skeel St, Brighton, CO 80601",
+            "address": "1701 Skeel St, Brighton, CO 80601, US",
             "id": "DAN145",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7538,7 +7538,7 @@
         },
         {
             "name": "Bringham City, Utah",
-            "address": "530 E 700 S Brigham City, UT 84302",
+            "address": "530 E 700 S, Brigham City, UT 84302, US",
             "id": "DAN146",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7554,7 +7554,7 @@
         },
         {
             "name": "Brookings",
-            "address": "885 3rd St, Brookings, OR 97415",
+            "address": "885 3rd St, Brookings, OR 97415, US",
             "id": "DAN147",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7570,7 +7570,7 @@
         },
         {
             "name": "Brooks",
-            "address": "Sutherland Dr E & 8 St E Brooks, AB T1R, Canada",
+            "address": "8 St E & Sutherland Dr E, Brooks, AB T1R, Canada",
             "id": "DAN148",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7586,7 +7586,7 @@
         },
         {
             "name": "Broomfield (Community Park)",
-            "address": "150 Lamar St, Broomfield, CO 80020",
+            "address": "150 Lamar St, Broomfield, CO 80020, US",
             "id": "DAN149",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7602,7 +7602,7 @@
         },
         {
             "name": "Albuquerque (Rio Bravo)",
-            "address": "3912 Isleta Blvd SW. Albuquerque, NM 87105",
+            "address": "3912 Isleta Blvd SW, Albuquerque, NM 87105, US",
             "id": "DAN15",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7618,7 +7618,7 @@
         },
         {
             "name": "Broomfield Pump Track, Colorado",
-            "address": "15663 Sheridan Blvd, Broomfield, CO 80023",
+            "address": "15663 Sheridan Boulevard, Lafayette, CO 80026, US",
             "id": "DAN150",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7634,7 +7634,7 @@
         },
         {
             "name": "Browning",
-            "address": "Starr School Rd & College Homes Browning, Mt 59417",
+            "address": "College Homes & Starr School Rd, North Browning, MT 59417, US",
             "id": "DAN151",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7650,7 +7650,7 @@
         },
         {
             "name": "Brush",
-            "address": "Mill St. & Hospital Rd. Brush, CO 80723",
+            "address": "Hospital Rd & Mill St, Brush, CO 80723, US",
             "id": "DAN152",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7666,7 +7666,7 @@
         },
         {
             "name": "Buckley",
-            "address": "River Ave. and Jefferson Ave. Buckley, WA 98321",
+            "address": "Jefferson Ave & River Ave, Buckley, WA 98321, US",
             "id": "DAN153",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7682,7 +7682,7 @@
         },
         {
             "name": "Buda, Texas",
-            "address": "480 S Loop 4, Buda, TX 78610",
+            "address": "480 S Loop 4, Buda, TX 78610, US",
             "id": "DAN154",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7698,7 +7698,7 @@
         },
         {
             "name": "Buena Vista, Colorado",
-            "address": "715 Cedar St, Buena Vista, CO 81211",
+            "address": "715 Cedar St, Buena Vista, CO 81211, US",
             "id": "DAN155",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7714,7 +7714,7 @@
         },
         {
             "name": "Buffalo, Wyoming",
-            "address": "N Desmet Ave & Klondike Dr. Buffalo, WY 82834",
+            "address": "N Desmet Ave & Klondike Dr, Buffalo, WY 82834, US",
             "id": "DAN156",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7730,7 +7730,7 @@
         },
         {
             "name": "Buhl",
-            "address": "642 Poplar St. Buhl, ID 83316",
+            "address": "642 Poplar St, Buhl, ID 83316, US",
             "id": "DAN157",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7746,7 +7746,7 @@
         },
         {
             "name": "Bullhead City, Arizona",
-            "address": "Riverview Dr & Balboa Dr., Bullhead City, AZ 86442",
+            "address": "Riverview Dr & Balboa Dr, Bullhead City, AZ 86442, US",
             "id": "DAN158",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7762,7 +7762,7 @@
         },
         {
             "name": "Burien, Washington",
-            "address": "14549 4th Ave SW, Burien, WA 98166",
+            "address": "14549 4th Ave SW, Burien, WA 98166, US",
             "id": "DAN159",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7778,7 +7778,7 @@
         },
         {
             "name": "Allen",
-            "address": "201 St Mary Dr., Allen, TX 75002",
+            "address": "201 St Mary Dr, Allen, TX 75002, US",
             "id": "DAN16",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7794,7 +7794,7 @@
         },
         {
             "name": "Burlington, Washington",
-            "address": "821 S Section St, Burlington, WA 98233",
+            "address": "821 S Section St, Burlington, WA 98233, US",
             "id": "DAN160",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7810,7 +7810,7 @@
         },
         {
             "name": "Burnaby (Bonsor)",
-            "address": "BC, Canada 6754 Jubilee Ave. Burnaby, BC V5H 3G8, Canada",
+            "address": "6754 Jubilee Ave, Burnaby, BC V5H 3G8, Canada",
             "id": "DAN161",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7826,7 +7826,7 @@
         },
         {
             "name": "Burnside, (Portland) Oregon",
-            "address": "SE 2nd Ave, Portland, OR 97232",
+            "address": "SE 2nd Ave, Portland, OR 97232, US",
             "id": "DAN162",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7842,7 +7842,7 @@
         },
         {
             "name": "Burnsville",
-            "address": "151 Civic Center Pkwy., Burnsville, MN 55337",
+            "address": "151 Civic Center Pkwy, Burnsville, MN 55337, US",
             "id": "DAN163",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7858,7 +7858,7 @@
         },
         {
             "name": "Butte, Montana",
-            "address": "E 2nd St., Butte, MT 59701",
+            "address": "E 2nd St, Butte, MT 59701, US",
             "id": "DAN164",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7874,7 +7874,7 @@
         },
         {
             "name": "Caldwell, Idaho",
-            "address": "4150 Sky Way Caldwell, ID 83605",
+            "address": "4150 Skyway St, Caldwell, ID 83605, US",
             "id": "DAN165",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7890,7 +7890,7 @@
         },
         {
             "name": "Calgary (Deer Run)",
-            "address": "2223 146 Ave SE Calgary, AB T2J 6P9, Canada",
+            "address": "2223 146 Ave SE, Calgary, AB T2J 5T2, Canada",
             "id": "DAN166",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7906,7 +7906,7 @@
         },
         {
             "name": "Calgary (Huntington Hills)",
-            "address": "Centre St N & 64 Ave NE Calgary, AB T2K, Canada",
+            "address": "64 Ave NW & Centre St N, Calgary, AB T2K, Canada",
             "id": "DAN167",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7922,7 +7922,7 @@
         },
         {
             "name": "Calgary (Midnapore)",
-            "address": "50 Midpark Rise SE Calgary, AB T2X 1L7, Canada",
+            "address": "50 Midpark Rise SE, Calgary, AB T2X 1L7, Canada",
             "id": "DAN168",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7938,7 +7938,7 @@
         },
         {
             "name": "Calgary (Millennium Park)",
-            "address": "1220 9 Ave SW Calgary, AB T2P 2C4, Canada",
+            "address": "1220 9 Ave SW, Calgary, AB T2P 2C4, Canada",
             "id": "DAN169",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7954,7 +7954,7 @@
         },
         {
             "name": "Alliance",
-            "address": "Burnham Dr, Alliance, NE 69301",
+            "address": "Burnham Dr, Alliance, NE 69301, US",
             "id": "DAN17",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -7970,7 +7970,7 @@
         },
         {
             "name": "Calgary (New Brighton)",
-            "address": "5801 130 Ave SE Calgary, AB T2Z, Canada",
+            "address": "5801 130 Ave SE, Calgary, AB T2Z 0S5, Canada",
             "id": "DAN170",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8002,7 +8002,7 @@
         },
         {
             "name": "Camarillo (Pleasant Valley)",
-            "address": "1030 Temple Ave. Camarillo, CA 93010",
+            "address": "1030 Temple Ave, Camarillo, CA 93010, US",
             "id": "DAN172",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8018,7 +8018,7 @@
         },
         {
             "name": "Canadian",
-            "address": "1307 Willard Ave, Canadian, TX 79014",
+            "address": "1307 Willard Ave, Canadian, TX 79014, US",
             "id": "DAN173",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8034,7 +8034,7 @@
         },
         {
             "name": "Canon City, Colorado",
-            "address": "918 N Orchard Ave. Canon City, CO 81212",
+            "address": "918 N Orchard Ave, Ca\u00f1on City, CO 81212, US",
             "id": "DAN174",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8050,7 +8050,7 @@
         },
         {
             "name": "Carbondale, Colorado",
-            "address": "94 Meadowood Dr. Carbondale, CO 81623",
+            "address": "94 Meadowood Dr, Carbondale, CO 81623, US",
             "id": "DAN175",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8066,7 +8066,7 @@
         },
         {
             "name": "Carlsbad (Alga Norte), California",
-            "address": "6565 Alicante Road, Carlsbad, CA 92009",
+            "address": "6565 Alicante Rd, Carlsbad, CA 92009, US",
             "id": "DAN176",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8082,7 +8082,7 @@
         },
         {
             "name": "Carlsbad, California",
-            "address": "2560 Orion Way Carlsbad, CA 92010",
+            "address": "2560 Orion Way, Carlsbad, CA 92010, US",
             "id": "DAN177",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8098,7 +8098,7 @@
         },
         {
             "name": "Carmel",
-            "address": "1235 Central Park Dr E Carmel, IN 46032",
+            "address": "1235 Central Park Dr E, Carmel, IN 46032, US",
             "id": "DAN178",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8114,7 +8114,7 @@
         },
         {
             "name": "Carnation, Washington",
-            "address": "31999 Blanche St, Carnation, WA 98014",
+            "address": "31999 Blanche St, Carnation, WA 98014, US",
             "id": "DAN179",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8130,7 +8130,7 @@
         },
         {
             "name": "Alma, Colorado",
-            "address": "59 E Buckskin Rd. Alma, CO 80420",
+            "address": "880 Airport Rd, Breckenridge, CO 80424, US",
             "id": "DAN18",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8146,7 +8146,7 @@
         },
         {
             "name": "Cashmere, Washington",
-            "address": "399 Riverside Dr, Cashmere, WA 98815",
+            "address": "399 Riverside Dr, Cashmere, WA 98815, US",
             "id": "DAN180",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8162,7 +8162,7 @@
         },
         {
             "name": "Casper (Boys & Girls Club), Wyoming",
-            "address": "1701 E K St. Casper, WY 82609",
+            "address": "1701 E K St, Casper, WY 82601, US",
             "id": "DAN181",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8178,7 +8178,7 @@
         },
         {
             "name": "Casper (YMCA), Wyoming",
-            "address": "Casper Mountain Rd & Durbin St. Casper, WY 82601",
+            "address": "S Durbin St & Casper Mountain Rd, Casper, WY 82601, US",
             "id": "DAN182",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8194,7 +8194,7 @@
         },
         {
             "name": "Castle Dale, Utah",
-            "address": "E 200 S & S 500 E. Castle Dale, UT 84513",
+            "address": "E 200 S & S 500 E, Castle Dale, UT 84513, US",
             "id": "DAN183",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8210,7 +8210,7 @@
         },
         {
             "name": "Castle Rock",
-            "address": "Dike Rd & 3rd Ave SW Castle Rock, WA 98611",
+            "address": "3rd Ave SW & Dike Rd, Castle Rock, WA 98611, US",
             "id": "DAN184",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8226,7 +8226,7 @@
         },
         {
             "name": "Castle Rock, Colorado",
-            "address": "3950 Trail Boss Ln, Castle Rock, CO 80104",
+            "address": "3950 Trail Boss Ln, Castle Rock, CO 80104, US",
             "id": "DAN185",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8242,7 +8242,7 @@
         },
         {
             "name": "Cayucos",
-            "address": "55B Ocean Front Ave. Cayucos, CA 93430",
+            "address": "55B Ocean Front Ave, Cayucos, CA 93430, US",
             "id": "DAN186",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8258,7 +8258,7 @@
         },
         {
             "name": "Cedar Park",
-            "address": "2310 Brushy Creek Rd., Cedar Park, TX 78613",
+            "address": "2310 Brushy Creek Rd, Cedar Park, TX 78613, US",
             "id": "DAN187",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8274,7 +8274,7 @@
         },
         {
             "name": "Cedaredge, Colorado",
-            "address": "160 SE High Country Dr, Cedaredge, CO 81413",
+            "address": "160 SE High Country Ave, Cedaredge, CO 81413, US",
             "id": "DAN188",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8290,7 +8290,7 @@
         },
         {
             "name": "Centennial, Colorado",
-            "address": "16799 E Lake Ave. Centennial, CO 80016",
+            "address": "16799 E Lake Ave, Centennial, CO 80016, US",
             "id": "DAN189",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8306,7 +8306,7 @@
         },
         {
             "name": "Alpine",
-            "address": "460 Elk Run Alpine, WY 83128",
+            "address": "Elk Run, Alpine, WY 83128, US",
             "id": "DAN19",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8322,7 +8322,7 @@
         },
         {
             "name": "Central City, Nebraska",
-            "address": "1301 18th street, Central City, NE 68826",
+            "address": "1301 18th St, Central City, NE 68826, US",
             "id": "DAN190",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8338,7 +8338,7 @@
         },
         {
             "name": "Centralia, Washington",
-            "address": "Lowe St. Centralia, WA 98531, USA",
+            "address": "Lowe St, Centralia, WA 98531, US",
             "id": "DAN191",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8354,7 +8354,7 @@
         },
         {
             "name": "Cerritos, California",
-            "address": "19900 Bloomfield Ave, Cerritos, CA 90703",
+            "address": "19900 Bloomfield Ave, Cerritos, CA 90703, US",
             "id": "DAN192",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8370,7 +8370,7 @@
         },
         {
             "name": "Champaign",
-            "address": "753 N Elm St. Champaign, IL 61820",
+            "address": "753 N Elm St, Champaign, IL 61820, US",
             "id": "DAN193",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8386,7 +8386,7 @@
         },
         {
             "name": "Chandler (The Bridge), Arizona",
-            "address": "824 W Germann Rd., Chandler, AZ 85286",
+            "address": "824 W Germann Rd, Chandler, AZ 85286, US",
             "id": "DAN194",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8402,7 +8402,7 @@
         },
         {
             "name": "Chandler, Arizona",
-            "address": "4500 S Basha Rd. Chandler, AZ 85248",
+            "address": "4500 S Basha Rd, Chandler, AZ 85248, US",
             "id": "DAN195",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8418,7 +8418,7 @@
         },
         {
             "name": "Charlotte",
-            "address": "700 S Lincoln St. Charlotte, MI 48813",
+            "address": "700 S Lincoln St, Charlotte, MI 48813, US",
             "id": "DAN196",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8434,7 +8434,7 @@
         },
         {
             "name": "Chelan, Washington",
-            "address": "500 N Manson Rd Chelan, WA 98816",
+            "address": "500 W Manson Rd, Chelan, WA 98816, US",
             "id": "DAN197",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8450,7 +8450,7 @@
         },
         {
             "name": "Cherokee",
-            "address": "499 E Main St, Cherokee, IA 51012",
+            "address": "499 E Main St, Cherokee, IA 51012, US",
             "id": "DAN198",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8466,7 +8466,7 @@
         },
         {
             "name": "Cherokee, North Carolina",
-            "address": "1108 Acquoni Rd, Cherokee, NC 28719",
+            "address": "1108 Acquoni Rd, Cherokee, NC 28719, US",
             "id": "DAN199",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8482,7 +8482,7 @@
         },
         {
             "name": "Altoona",
-            "address": "Venbury Dr & Lindsay Ct SW Altoona, IA 50009",
+            "address": "Venbury Dr & Lindsay Ct SW, Altoona, IA 50009, US",
             "id": "DAN20",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8498,7 +8498,7 @@
         },
         {
             "name": "Chestermere",
-            "address": "AB-1A & Rainbow Rd & Range Rd 283 Rocky View No. 44, AB T1X, Canada",
+            "address": "1 Rainbow Rd S, Chestermere, AB T1X 0B4, Canada",
             "id": "DAN200",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8514,7 +8514,7 @@
         },
         {
             "name": "Cheyenne, Wyoming",
-            "address": "E Pershing Blvd & Windmill Rd. Cheyenne, WY 82001",
+            "address": "E Pershing Blvd & Windmill Rd, Cheyenne, WY 82001, US",
             "id": "DAN201",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8530,7 +8530,7 @@
         },
         {
             "name": "Chicago (Wilson)",
-            "address": "W Wilson Ave, Chicago, IL 60640",
+            "address": "W Wilson Ave, Chicago, IL 60640, US",
             "id": "DAN202",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8546,7 +8546,7 @@
         },
         {
             "name": "Chino Hills, California",
-            "address": "16337 Fairfield Ranch Rd., Chino Hills, CA 91709",
+            "address": "16337 Fairfield Ranch Rd, Chino Hills, CA 91709, US",
             "id": "DAN203",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8562,7 +8562,7 @@
         },
         {
             "name": "Chino, California",
-            "address": "5575 Edison Ave., Chino, CA 91710",
+            "address": "5575 Edison Ave, Chino, CA 91710, US",
             "id": "DAN204",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8578,7 +8578,7 @@
         },
         {
             "name": "Chula Vista (Len Moore), California",
-            "address": "1301 Oleander Ave. Chula Vista, CA 91911",
+            "address": "1301 Oleander Ave, Chula Vista, CA 91911, US",
             "id": "DAN205",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8594,7 +8594,7 @@
         },
         {
             "name": "Citrus Heights, California",
-            "address": "7413 Antelope Rd., Citrus Heights, CA 95621",
+            "address": "7413 Antelope Rd, Citrus Heights, CA 95621, US",
             "id": "DAN206",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8610,7 +8610,7 @@
         },
         {
             "name": "Clarkston",
-            "address": "Chestnut St & 2nd St. Clarkston, WA 99403",
+            "address": "Chestnut St & 2nd St, Clarkston, WA 99403, US",
             "id": "DAN207",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8626,7 +8626,7 @@
         },
         {
             "name": "Clarksville, Tennessee",
-            "address": "1161 Peachers Mill Rd, Clarksville, TN 37042",
+            "address": "1161 Peachers Mill Rd, Clarksville, TN 37042, US",
             "id": "DAN208",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8642,7 +8642,7 @@
         },
         {
             "name": "Cle Elum, Washington",
-            "address": "Alpha Way & W 2nd ST, Cle Elum, WA 98922",
+            "address": "W 2nd St & Alpha Way, Cle Elum, WA 98922, US",
             "id": "DAN209",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8658,7 +8658,7 @@
         },
         {
             "name": "Amarillo (John Stiff)",
-            "address": "Kwahadi Trail & Shoshone Trail Amarillo, TX 79109",
+            "address": "Kwahadi Trail & Shoshone Trail, Amarillo, TX 79109, US",
             "id": "DAN21",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8674,7 +8674,7 @@
         },
         {
             "name": "Clearfield, Utah",
-            "address": "906 S 1000 E Clearfield, UT 84015",
+            "address": "906 S 1000 E, Clearfield, UT 84015, US",
             "id": "DAN210",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8690,7 +8690,7 @@
         },
         {
             "name": "Clinton",
-            "address": "10011 Stitt St, Clinton, MT 59825",
+            "address": "10011 Stitt St, Clinton, MT 59825, US",
             "id": "DAN211",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8706,7 +8706,7 @@
         },
         {
             "name": "Clinton",
-            "address": "10011 Stitt St, Clinton, MT 59825",
+            "address": "10011 Stitt St, Clinton, MT 59825, US",
             "id": "DAN212",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8722,7 +8722,7 @@
         },
         {
             "name": "Clinton, Utah",
-            "address": "N 1700 W & 1740 N., Clinton, UT 84015",
+            "address": "N 1700 W & 1740 N, Clinton, UT 84015, US",
             "id": "DAN213",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8738,7 +8738,7 @@
         },
         {
             "name": "Cloquet",
-            "address": "1405 Prospect Ave., Cloquet, MN 55720",
+            "address": "1405 Prospect Ave, Cloquet, MN 55720, US",
             "id": "DAN214",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8754,7 +8754,7 @@
         },
         {
             "name": "Coaldale",
-            "address": "22nd Ave & 24th St. Coaldale, AB, Canada",
+            "address": "24th St & 22nd Ave, Coaldale, AB T1M, Canada",
             "id": "DAN215",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8770,7 +8770,7 @@
         },
         {
             "name": "Coca Beach",
-            "address": "1450 Minutemen Causeway Cocoa Beach, FL 32931",
+            "address": "1450 Minutemen Causeway, Cocoa Beach, FL 32931, US",
             "id": "DAN216",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8786,7 +8786,7 @@
         },
         {
             "name": "Cody, Wyoming",
-            "address": "Cougar Ave & Blackburn Ave. Cody, WY 82414",
+            "address": "Cougar Ave & Blackburn St, Cody, WY 82414, US",
             "id": "DAN217",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8802,7 +8802,7 @@
         },
         {
             "name": "Coeur d'Alene, Idaho",
-            "address": "480 W Garden Ave, Coeur d'Alene, ID 83814",
+            "address": "480 W Garden Ave, Coeur d'Alene, ID 83814, US",
             "id": "DAN218",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8818,7 +8818,7 @@
         },
         {
             "name": "Colfax",
-            "address": "1408 N Parkview Dr, Colfax, WA 99111",
+            "address": "1408 N Parkview Dr, Colfax, WA 99111, US",
             "id": "DAN219",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8834,7 +8834,7 @@
         },
         {
             "name": "Amarillo (Martin)",
-            "address": "1300 N Mirror St. Amarillo, TX 79107",
+            "address": "1300 N Mirror St, Amarillo, TX 79107, US",
             "id": "DAN22",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8850,7 +8850,7 @@
         },
         {
             "name": "College Station",
-            "address": "1520 Rock Prairie Rd, College Station, TX 77845",
+            "address": "1520 Rock Prairie Rd, College Station, TX 77845, US",
             "id": "DAN220",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8866,7 +8866,7 @@
         },
         {
             "name": "Colorado Springs (Goose Gossage)",
-            "address": "3870 Mark Dabling Blvd. Colorado Springs, CO 80907",
+            "address": "3870 Mark Dabling Blvd, Colorado Springs, CO 80907, US",
             "id": "DAN221",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8882,7 +8882,7 @@
         },
         {
             "name": "Colorado Springs (John L Stone)",
-            "address": "4017 Family Pl. Colorado Springs, CO 80920",
+            "address": "4017 Family Pl, Colorado Springs, CO 80920, US",
             "id": "DAN222",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8898,7 +8898,7 @@
         },
         {
             "name": "Colorado Springs (Memorial Park), Colorado",
-            "address": "1315 E Pikes Peak Ave, Colorado Springs, CO 80909",
+            "address": "1315 E Pikes Peak Ave, Colorado Springs, CO 80910, US",
             "id": "DAN223",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8914,7 +8914,7 @@
         },
         {
             "name": "Colorado Springs (Widefield), Colorado",
-            "address": "705 Aspen Dr. Colorado Springs, CO 80911",
+            "address": "705 Aspen Dr, Colorado Springs, CO 80911, US",
             "id": "DAN224",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8930,7 +8930,7 @@
         },
         {
             "name": "Colstrip",
-            "address": "226 Cherry St Colstrip, MT 59323",
+            "address": "Cottonwood Park, 226 Cherry St, Colstrip, MT 59323, US",
             "id": "DAN225",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8946,7 +8946,7 @@
         },
         {
             "name": "Columbus (Clifty Park), Indiana",
-            "address": "Ave & Marr Road, Columbus, IN 47201",
+            "address": "Marr Rd, Columbus, IN 47203, US",
             "id": "DAN226",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8962,7 +8962,7 @@
         },
         {
             "name": "Columbus (Pawnee Park)",
-            "address": "3420 Pawnee Plaza, Columbus, NE 68601",
+            "address": "3420 Pawnee Plaza, Columbus, NE 68601, US",
             "id": "DAN227",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8978,7 +8978,7 @@
         },
         {
             "name": "Columbus, Georgia",
-            "address": "200 4th St, Columbus, GA 31901",
+            "address": "200 4th St, Columbus, GA 31901, US",
             "id": "DAN228",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -8994,7 +8994,7 @@
         },
         {
             "name": "Commerce City (Fronterra), Colorado",
-            "address": "10020 Joplin St, Commerce City, CO 80022",
+            "address": "10020 Joplin St, Commerce City, CO 80022, US",
             "id": "DAN229",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9010,7 +9010,7 @@
         },
         {
             "name": "American Falls",
-            "address": "39 Hillcrest Ave American Falls, ID 83211",
+            "address": "39 Hillcrest Ave, American Falls, ID 83211, US",
             "id": "DAN23",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9026,7 +9026,7 @@
         },
         {
             "name": "Commerce City (Turnberry), Colorado",
-            "address": "10725 Wheeling St, Commerce City, CO 80022",
+            "address": "10725 Wheeling St, Commerce City, CO 80022, US",
             "id": "DAN230",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9042,7 +9042,7 @@
         },
         {
             "name": "Commerce City, Colorado",
-            "address": "5902 Holly St, Commerce City, CO 80022",
+            "address": "5902 Holly St, Commerce City, CO 80022, US",
             "id": "DAN231",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9058,7 +9058,7 @@
         },
         {
             "name": "Cookeville, Tennessee",
-            "address": "580 Scott Ave, Cookeville, TN 38501",
+            "address": "580 Scott Ave, Cookeville, TN 38501, US",
             "id": "DAN232",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9074,7 +9074,7 @@
         },
         {
             "name": "Corona (City Park), California",
-            "address": "1009 E 6th St., Corona, CA 92879",
+            "address": "1009 E 6th St, Corona, CA 92879, US",
             "id": "DAN233",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9090,7 +9090,7 @@
         },
         {
             "name": "Corona (Deleo), California",
-            "address": "25655 Santiago Canyon Rd Corona, CA 92883",
+            "address": "25655 Santiago Canyon Rd, Corona, CA 92883, US",
             "id": "DAN234",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9106,7 +9106,7 @@
         },
         {
             "name": "Corona (Harada Heritage Park), California",
-            "address": "13099 65th St., Corona, CA 92880",
+            "address": "13099 65th St, Corona, CA 92880, US",
             "id": "DAN235",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9122,7 +9122,7 @@
         },
         {
             "name": "Corona (Huber Park), California",
-            "address": "14122 Pioneer Ct., Corona, CA 92880",
+            "address": "14122 Pioneer Ct, Corona, CA 92880, US",
             "id": "DAN236",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9138,7 +9138,7 @@
         },
         {
             "name": "Corona (Santana Park), California",
-            "address": "2290 Kellogg Ave. Corona, CA 92879",
+            "address": "2290 Kellogg Ave, Corona, CA 92879, US",
             "id": "DAN237",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9154,7 +9154,7 @@
         },
         {
             "name": "Coronado, California",
-            "address": "2000 Mullinix Dr. Coronado, Ca 92118",
+            "address": "2000 Mullinex Dr, Coronado, CA 92118, US",
             "id": "DAN238",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9170,7 +9170,7 @@
         },
         {
             "name": "Corrales",
-            "address": "500 Jones Rd. Corrales, NM 87048",
+            "address": "500 Jones Rd, Corrales, NM 87048, US",
             "id": "DAN239",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9186,7 +9186,7 @@
         },
         {
             "name": "American Fork, Utah",
-            "address": "220 E 500 S American Fork, UT 84003",
+            "address": "220 E 500 S, American Fork, UT 84003, US",
             "id": "DAN24",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9202,7 +9202,7 @@
         },
         {
             "name": "Cortez",
-            "address": "425 Roger Smith Ave, Cortez, CO 81321",
+            "address": "425 Roger Smith Ave, Cortez, CO 81321, US",
             "id": "DAN240",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9218,7 +9218,7 @@
         },
         {
             "name": "Corvallis, Oregon",
-            "address": "648 SW 2nd St, Corvallis, OR 97333",
+            "address": "648 SW 2nd St, Corvallis, OR 97333, US",
             "id": "DAN241",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9234,7 +9234,7 @@
         },
         {
             "name": "Costa Mesa (Volcom), California",
-            "address": "900 Arlington Dr., Costa Mesa, CA 92626",
+            "address": "gtbuy, 900 Arlington Dr, Costa Mesa, CA 92626, US",
             "id": "DAN242",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9250,7 +9250,7 @@
         },
         {
             "name": "Cottage Grove (Phoebe Bakken Park)",
-            "address": "352 Clark St, Cottage Grove, WI 53527",
+            "address": "352 Clark St, Cottage Grove, WI 53527, US",
             "id": "DAN243",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9266,7 +9266,7 @@
         },
         {
             "name": "Cottonwood Heights, Utah",
-            "address": "2415 E Bengal Blvd. Cottonwood Heights, UT 84121",
+            "address": "2415 Bengal Blvd, Cottonwood Heights, UT 84121, US",
             "id": "DAN244",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9282,7 +9282,7 @@
         },
         {
             "name": "Council Bluffs",
-            "address": "1300 W Broadway Council Bluffs, IA 51501",
+            "address": "Broadway Park, 1300 W Broadway, Council Bluffs, IA 51501, US",
             "id": "DAN245",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9298,7 +9298,7 @@
         },
         {
             "name": "Covington, Washington",
-            "address": "25064 164th Ave SE, Covington, WA 98042",
+            "address": "25064 164th Ave SE, Covington, WA 98042, US",
             "id": "DAN246",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9314,7 +9314,7 @@
         },
         {
             "name": "Craig",
-            "address": "2000 Baker Dr. Craig, CO 81625",
+            "address": "2000 Baker Dr, Craig, CO 81625, US",
             "id": "DAN247",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9330,7 +9330,7 @@
         },
         {
             "name": "Culver City, California",
-            "address": "9910 Jefferson Blvd., Culver City, CA 90230",
+            "address": "9910 Jefferson Blvd, Culver City, CA 90232, US",
             "id": "DAN248",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9346,7 +9346,7 @@
         },
         {
             "name": "Cusick, Washington",
-            "address": "Monumental Way & S 1st Ave Cusick, WA 99119",
+            "address": "S 1st Ave & Monumental Way, Cusick, WA 99119, US",
             "id": "DAN249",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9362,7 +9362,7 @@
         },
         {
             "name": "Anaconda, Montana",
-            "address": "201-251 Monroe St., Anaconda, MT 59711",
+            "address": "201 Monroe St, Anaconda, MT 59711, US",
             "id": "DAN25",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9378,7 +9378,7 @@
         },
         {
             "name": "Custer",
-            "address": "S 8th St, Custer, SD 57730",
+            "address": "S 8th St, Custer, SD 57730, US",
             "id": "DAN250",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9394,7 +9394,7 @@
         },
         {
             "name": "Dacula (Duncan Creek), Georgia",
-            "address": "3700 Braselton Hwy, Dacula, GA 30019",
+            "address": "3700 Braselton Hwy, Dacula, GA 30019, US",
             "id": "DAN251",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9410,7 +9410,7 @@
         },
         {
             "name": "Darby",
-            "address": "318 Rodeo Rd, Darby, MT 59829",
+            "address": "318 Rodeo Rd, Darby, MT 59829, US",
             "id": "DAN252",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9426,7 +9426,7 @@
         },
         {
             "name": "Darrington, Washington",
-            "address": "1026 Alvord St, Darrington, WA 98241",
+            "address": "1026 Alvord St, Darrington, WA 98241, US",
             "id": "DAN253",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9442,7 +9442,7 @@
         },
         {
             "name": "Davenport",
-            "address": "900 W River Dr, Davenport, IA 52802",
+            "address": "900 W River Dr, Davenport, IA 52802, US",
             "id": "DAN254",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9458,7 +9458,7 @@
         },
         {
             "name": "Daybreak, Utah",
-            "address": "Topview Rd & W Dorena Ln. South Jordan, UT 84095",
+            "address": "Topview Rd, South Jordan, UT 84009, US",
             "id": "DAN255",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9474,7 +9474,7 @@
         },
         {
             "name": "Daytona Beach (Bethune Point Park)",
-            "address": "11 Bellevue Ave, Daytona Beach, FL 32114",
+            "address": "11 Bellevue Ave, Daytona Beach, FL 32114, US",
             "id": "DAN256",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9490,7 +9490,7 @@
         },
         {
             "name": "Daytona Beach (Stone Edge)",
-            "address": "1848 S Ridgewood Ave. Daytona Beach, FL 32119",
+            "address": "1848 S Ridgewood Ave, South Daytona, FL 32119, US",
             "id": "DAN257",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9506,7 +9506,7 @@
         },
         {
             "name": "DeBeque, Colorado",
-            "address": "Stewart Ave & Lena Ln. De Beque, CO 81630",
+            "address": "Lena Ln, De Beque, CO 81630, US",
             "id": "DAN258",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9522,7 +9522,7 @@
         },
         {
             "name": "Deer Lodge",
-            "address": "509 Higgins Ave Deer Lodge, MT 59722",
+            "address": "509 Higgins Ave, Deer Lodge, MT 59722, US",
             "id": "DAN259",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9538,7 +9538,7 @@
         },
         {
             "name": "Anacortes",
-            "address": "R Ave & 23rd St. Anacortes, WA 98221",
+            "address": "R Ave & 23rd St, Anacortes, WA 98221, US",
             "id": "DAN26",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9554,7 +9554,7 @@
         },
         {
             "name": "Deer Park",
-            "address": "S Arnim Ave, Deer Park, WA 99006",
+            "address": "S Arnim Ave, Deer Park, WA 99006, US",
             "id": "DAN260",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9570,7 +9570,7 @@
         },
         {
             "name": "Deerfield, Illinois",
-            "address": "836 Jewett Park Dr, Deerfield, IL 60015",
+            "address": "836 Jewett Park Dr, Deerfield, IL 60015, US",
             "id": "DAN261",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9586,7 +9586,7 @@
         },
         {
             "name": "Delta, Utah",
-            "address": "115 N 100 W Delta, UT 84624",
+            "address": "115 N 100 W Rd, Delta, UT 84624, US",
             "id": "DAN262",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9602,7 +9602,7 @@
         },
         {
             "name": "Deming (Coalpad DIY), Washington",
-            "address": "Coal Creek Rd, Deming, WA 98244",
+            "address": "9989 Mt Baker Hwy, Deming, WA 98244, US",
             "id": "DAN263",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9618,7 +9618,7 @@
         },
         {
             "name": "Denver (Elyria), Colorado",
-            "address": "Race St & E 49th Ave. Denver, CO 80216",
+            "address": "Race St & E 49th Ave, Denver, CO 80216, US",
             "id": "DAN264",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9634,7 +9634,7 @@
         },
         {
             "name": "Denver (Green Valley Ranch), Colorado",
-            "address": "18900 E 51st Ave, Denver, CO 80249",
+            "address": "18900 E 51st Ave, Denver, CO 80249, US",
             "id": "DAN265",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9650,7 +9650,7 @@
         },
         {
             "name": "Denver (Greenway Park), Colorado",
-            "address": "9021 E 26th Ave, Denver, Colorado 80238",
+            "address": "9021 E 26th Ave, Denver, CO 80238, US",
             "id": "DAN266",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9666,7 +9666,7 @@
         },
         {
             "name": "Denver (High Plains) Pump Track, Colorado",
-            "address": "8901 E 56th Ave, Denver, CO 80022",
+            "address": "8901 E 56th Ave, Denver, CO 80022, US",
             "id": "DAN267",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9682,7 +9682,7 @@
         },
         {
             "name": "Denver (La Alma Park)",
-            "address": "1325 W 11th Ave, Denver, CO 80204",
+            "address": "1325 W 11th Ave, Denver, CO 80204, US",
             "id": "DAN268",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9698,7 +9698,7 @@
         },
         {
             "name": "Denver (Montbello Park) Pump Track, Colorado",
-            "address": "13600 Crown Blvd, Denver, CO 80239",
+            "address": "13600 Crown Blvd, Denver, CO 80239, US",
             "id": "DAN269",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9714,7 +9714,7 @@
         },
         {
             "name": "Anaheim (Manzanita)",
-            "address": "1260 N Riviera St Anaheim, CA 92801",
+            "address": "1260 N Riviera St, Anaheim, CA 92801, US",
             "id": "DAN27",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9730,7 +9730,7 @@
         },
         {
             "name": "Denver (Montbello), Colorado",
-            "address": "15555 E 53rd Ave. Denver, CO 80239",
+            "address": "15555 E 53rd Ave, Denver, CO 80239, US",
             "id": "DAN270",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9746,7 +9746,7 @@
         },
         {
             "name": "Denver (Paco Sanchez)",
-            "address": "1280 Knox Ct, Denver, CO 80204",
+            "address": "1280 Knox Ct, Denver, CO 80204, US",
             "id": "DAN271",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9762,7 +9762,7 @@
         },
         {
             "name": "Denver (RiNo Art Park)",
-            "address": "3511 Ringsby Ct, Denver, CO 80216",
+            "address": "3511 Ringsby Ct, Denver, CO 80216, US",
             "id": "DAN272",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9778,7 +9778,7 @@
         },
         {
             "name": "Denver (Sloan\u00e2\u20ac\u2122s Lake) Pump Track, Colorado",
-            "address": "1700 N Sheridan Blvd, Denver, CO 80212",
+            "address": "1700 Sheridan Boulevard, Denver, CO 80214, US",
             "id": "DAN273",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9794,7 +9794,7 @@
         },
         {
             "name": "Denver (Westwood Park)",
-            "address": "876 S Irving St, Denver, CO 80219",
+            "address": "876 S Irving St, Denver, CO 80219, US",
             "id": "DAN274",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9810,7 +9810,7 @@
         },
         {
             "name": "Denver, Colorado",
-            "address": "2205 19th St, Denver, CO 80202",
+            "address": "2205 19th St, Denver, CO 80202, US",
             "id": "DAN275",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9826,7 +9826,7 @@
         },
         {
             "name": "Derby, Kansas",
-            "address": "424 E Market St, Derby, KS 67037",
+            "address": "424 E Market St, Derby, KS 67037, US",
             "id": "DAN276",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9842,7 +9842,7 @@
         },
         {
             "name": "Des Moines",
-            "address": "3711 Easton Blvd. Des Moines, IA 50317",
+            "address": "3711 Easton Blvd, Des Moines, IA 50317, US",
             "id": "DAN277",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9858,7 +9858,7 @@
         },
         {
             "name": "Des Moines, (Lauridsen), Iowa",
-            "address": "901 2nd Avenue, Des Moines, Iowa 50309",
+            "address": "H9VJ+C5V, 901 2nd Ave, Des Moines, IA 50309, US",
             "id": "DAN278",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9874,7 +9874,7 @@
         },
         {
             "name": "Des Moines, Washington",
-            "address": "11th Ave S & S 219th St. Des Moines, WA 98198",
+            "address": "S 219th St & 11th Ave S, Des Moines, WA 98198, US",
             "id": "DAN279",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9890,7 +9890,7 @@
         },
         {
             "name": "Anderson (Mays Park), Indiana",
-            "address": "901 Hst W 10th St, Anderson, IN 46016",
+            "address": "901 Hst W 10th St, Anderson, IN 46016, US",
             "id": "DAN28",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9906,7 +9906,7 @@
         },
         {
             "name": "Desert Hot Springs, California",
-            "address": "11777 West Dr., Desert Hot Springs, CA 92240",
+            "address": "11-777 West Dr, Desert Hot Springs, CA 92240, US",
             "id": "DAN280",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9922,7 +9922,7 @@
         },
         {
             "name": "Detroit (Chandler Park), Michigan",
-            "address": "12200 Chandler Park Dr, Detroit, MI 48213",
+            "address": "12200 Chandler Park Dr, Detroit, MI 48213, US",
             "id": "DAN281",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9938,7 +9938,7 @@
         },
         {
             "name": "Detroit (Hamtramck Park), Michigan",
-            "address": "3414 E Davison St, Hamtramck, MI 48212",
+            "address": "3414 E Davison St, Hamtramck, MI 48212, US",
             "id": "DAN282",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9954,7 +9954,7 @@
         },
         {
             "name": "Detroit (Riverside Park), Michigan",
-            "address": "3511 W Jefferson Ave, Detroit, MI 48216",
+            "address": "3511 W Jefferson Ave, Detroit, MI 48216, US",
             "id": "DAN283",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9970,7 +9970,7 @@
         },
         {
             "name": "Dillon",
-            "address": "655 E Center St., Dillon, MT 59725",
+            "address": "655 E Center St, Dillon, MT 59725, US",
             "id": "DAN284",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -9986,7 +9986,7 @@
         },
         {
             "name": "Donald, Oregon",
-            "address": "10853 Main St NE Aurora, OR 97002",
+            "address": "10853 Main St NE, Aurora, OR 97002, US",
             "id": "DAN285",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10002,7 +10002,7 @@
         },
         {
             "name": "Douglas",
-            "address": "823 Bartling St., Douglas, WY 82633",
+            "address": "823 Bartling St, Douglas, WY 82633, US",
             "id": "DAN286",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10018,7 +10018,7 @@
         },
         {
             "name": "Draper, Utah",
-            "address": "13400 South 300 East Draper, UT 84020",
+            "address": "13400 S 300 E, Draper, UT 84020, US",
             "id": "DAN287",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10034,7 +10034,7 @@
         },
         {
             "name": "Driggs",
-            "address": "S Baseline Rd & Gemstone Ave. Driggs, ID 83422",
+            "address": "S Baseline Rd & E Gemstone Ave, Driggs, ID 83422, US",
             "id": "DAN288",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10050,7 +10050,7 @@
         },
         {
             "name": "Drumheller",
-            "address": "100 1 Ave W. Drumheller, AB T0J 0Y4, Canada",
+            "address": "100 1 Ave W, Drumheller, AB T0J 0Y4, Canada",
             "id": "DAN289",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10066,7 +10066,7 @@
         },
         {
             "name": "Ankeny",
-            "address": "1400 NW Prairie Ridge Dr. Ankeny, IA 50023",
+            "address": "1400 NW Prairie Ridge Dr, Ankeny, IA 50023, US",
             "id": "DAN29",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10082,7 +10082,7 @@
         },
         {
             "name": "Duarte, California",
-            "address": "1401 Central Ave., Duarte, CA 91010",
+            "address": "1401 Central Ave, Duarte, CA 91010, US",
             "id": "DAN290",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10098,7 +10098,7 @@
         },
         {
             "name": "Dubuque",
-            "address": "1805 Flora Park Dr, Dubuque, IA 52001",
+            "address": "1805 Flora Park Dr, Dubuque, IA 52001, US",
             "id": "DAN291",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10114,7 +10114,7 @@
         },
         {
             "name": "Duluth",
-            "address": "3501 Grand Ave. Duluth, MN 55807",
+            "address": "3501 Grand Ave, Duluth, MN 55807, US",
             "id": "DAN292",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10130,7 +10130,7 @@
         },
         {
             "name": "Duluth (Keene Creek)",
-            "address": "Bristol Street & N 63rd Ave W, Duluth, MN 55807",
+            "address": "Bristol St & N 63rd Ave W, Duluth, MN 55807, US",
             "id": "DAN293",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10146,7 +10146,7 @@
         },
         {
             "name": "Duluth (Midtown Park)",
-            "address": "230 N 20th Ave W, Duluth, MN 55806",
+            "address": "230 N 20th Ave W, Duluth, MN 55806, US",
             "id": "DAN294",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10162,7 +10162,7 @@
         },
         {
             "name": "Dunedin",
-            "address": "550 Laura Ln. Dunedin, FL 34698",
+            "address": "550 Laura Ln, Dunedin, FL 34698, US",
             "id": "DAN295",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10178,7 +10178,7 @@
         },
         {
             "name": "Durango, Colorado",
-            "address": "950 Roosa Ave. Durango, CO 81301",
+            "address": "950 Roosa Ave, Durango, CO 81301, US",
             "id": "DAN296",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10194,7 +10194,7 @@
         },
         {
             "name": "Duvall, Washington",
-            "address": "28430 NE Big Rock Rd, Duvall, WA 98019",
+            "address": "28430 NE Big Rock Rd, Duvall, WA 98019, US",
             "id": "DAN297",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10210,7 +10210,7 @@
         },
         {
             "name": "Eagan",
-            "address": "4201 Lexington Ave S., Eagan, MN 55123",
+            "address": "4201 Lexington Ave S, Eagan, MN 55123, US",
             "id": "DAN298",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10226,7 +10226,7 @@
         },
         {
             "name": "Eagle Mountain (Fire fly Park), Utah",
-            "address": "2223 W Wander Ln, Fairfield, UT 84013",
+            "address": "2223 W Wander Ln, Fairfield, UT 84013, US",
             "id": "DAN299",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10242,7 +10242,7 @@
         },
         {
             "name": "Ann Arbor",
-            "address": "2290 Dexter Ave. Ann Arbor, Michigan",
+            "address": "2290 Dexter Ave, Ann Arbor, MI 48103, US",
             "id": "DAN30",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10258,7 +10258,7 @@
         },
         {
             "name": "Eagle Mountain (Overland), Utah Pump Track",
-            "address": "6176 N Sheps Ridge Rd, Eagle Mountain, UT 84005",
+            "address": "6176 N Sheps Ridge Rd, Eagle Mountain, UT 84005, US",
             "id": "DAN300",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10274,7 +10274,7 @@
         },
         {
             "name": "Eagle Mountain (Smith Ranch Park), Utah",
-            "address": "3839 E Smith Ranch Rd. Eagle Mountain, UT 84005",
+            "address": "3839 E Smith Rnch Rd, Eagle Mountain, UT 84005, US",
             "id": "DAN301",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10290,7 +10290,7 @@
         },
         {
             "name": "Eagle Mountain, Utah",
-            "address": "Eagle Mountain Blvd & N Major St. Eagle Mountain, UT 84005",
+            "address": "Eagle Mountain Blvd, Eagle Mountain, UT 84005, US",
             "id": "DAN302",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10306,7 +10306,7 @@
         },
         {
             "name": "Eagle, Idaho",
-            "address": "3151 E Greenbrook St, Eagle, ID 83714",
+            "address": "3151 E Greenbrook St, Eagle, ID 83616, US",
             "id": "DAN303",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10322,7 +10322,7 @@
         },
         {
             "name": "East Wenatchee (Eastmont Park), Washington Pump Track",
-            "address": "600 N James Ave, East Wenatchee, WA 98802",
+            "address": "600 N James Ave, East Wenatchee, WA 98802, US",
             "id": "DAN304",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10338,7 +10338,7 @@
         },
         {
             "name": "East Wenatchee (Kenroy Park), Washington",
-            "address": "600 N James Ave, East Wenatchee, WA 98802",
+            "address": "600 N James Ave, East Wenatchee, WA 98802, US",
             "id": "DAN305",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10354,7 +10354,7 @@
         },
         {
             "name": "Eatonville",
-            "address": "219 Oak St E, Eatonville, WA 98328",
+            "address": "219 Oak St E, Eatonville, WA 98328, US",
             "id": "DAN306",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10370,7 +10370,7 @@
         },
         {
             "name": "Eau Claire",
-            "address": "900 Broadway St., Eau Claire, WI 54703",
+            "address": "900 Broadway St, Eau Claire, WI 54703, US",
             "id": "DAN307",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10386,7 +10386,7 @@
         },
         {
             "name": "Echo",
-            "address": "10 W Main St, Echo, OR 97826",
+            "address": "10 W Main St, Echo, OR 97826, US",
             "id": "DAN308",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10402,7 +10402,7 @@
         },
         {
             "name": "Eden Prairie",
-            "address": "16691 Valley View Rd., Eden Prairie, MN 55346",
+            "address": "16691 Valley View Rd, Eden Prairie, MN 55344, US",
             "id": "DAN309",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10418,7 +10418,7 @@
         },
         {
             "name": "Anna (Slayter Creek Park)",
-            "address": "425 W Rosamond Pkwy, Anna, TX 75409",
+            "address": "425 W Rosamond Pkwy, Anna, TX 75409, US",
             "id": "DAN31",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10434,7 +10434,7 @@
         },
         {
             "name": "Edina, Minnesota",
-            "address": "7355 York Avenue South Edina, MN 55435",
+            "address": "7355 York Ave S, Edina, MN 55435, US",
             "id": "DAN310",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10450,7 +10450,7 @@
         },
         {
             "name": "Edmond",
-            "address": "N Kelly Ave & Prairie Village Dr. Edmond, OK 73003",
+            "address": "Prairie Village Dr & N Kelly Ave, Edmond, OK 73003, US",
             "id": "DAN311",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10466,7 +10466,7 @@
         },
         {
             "name": "Edmonds, Washington",
-            "address": "310 6th Ave N, Edmonds, WA 98020, USA",
+            "address": "310 6th Ave N, Edmonds, WA 98020, US",
             "id": "DAN312",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10482,7 +10482,7 @@
         },
         {
             "name": "Edwards, Colorado",
-            "address": "450 Miller Ranch Rd. Edwards, CO 81632",
+            "address": "450 Miller Ranch Rd, Edwards, CO 81632, US",
             "id": "DAN313",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10498,7 +10498,7 @@
         },
         {
             "name": "El Cajon, California",
-            "address": "400 N 4th St, El Cajon, El Cajon, CA 92019",
+            "address": "400 N 4th St, El Cajon, CA 92019, US",
             "id": "DAN314",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10514,7 +10514,7 @@
         },
         {
             "name": "El Mirage",
-            "address": "10100 N El Mirage Rd. El Mirage, AZ 85335",
+            "address": "10100 N El Mirage Rd, El Mirage, AZ 85335, US",
             "id": "DAN315",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10530,7 +10530,7 @@
         },
         {
             "name": "El Reno",
-            "address": "Sunset Drive and Indian Trial El Reno, OK 73036",
+            "address": "Indian Tr, El Reno, OK 73036, US",
             "id": "DAN316",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10546,7 +10546,7 @@
         },
         {
             "name": "Elizabeth",
-            "address": "34721 Co Rd 17, Elizabeth, CO 80107",
+            "address": "34721 Co Rd 17, Elizabeth, CO 80107, US",
             "id": "DAN317",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10562,7 +10562,7 @@
         },
         {
             "name": "Elko, Nevada",
-            "address": "658 Country Club Dr., Elko, NV 89801",
+            "address": "658 Country Club Dr, Elko, NV 89801, US",
             "id": "DAN318",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10578,7 +10578,7 @@
         },
         {
             "name": "Ellensburg, Washington",
-            "address": "N Pearl St & W 2nd Ave, Ellensburg, WA 98926",
+            "address": "N Pearl St & W 2nd Ave, Ellensburg, WA 98926, US",
             "id": "DAN319",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10594,7 +10594,7 @@
         },
         {
             "name": "Apple Valley",
-            "address": "21839 Powhatan Rd. Apple Valley, CA 92308",
+            "address": "21839 Powhatan Rd, Apple Valley, CA 92308, US",
             "id": "DAN32",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10610,7 +10610,7 @@
         },
         {
             "name": "Encinitas (Community)",
-            "address": "429 Santa Fe Dr., Encinitas, CA 92024",
+            "address": "429 Santa Fe Dr, Encinitas, CA 92007, US",
             "id": "DAN320",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10626,7 +10626,7 @@
         },
         {
             "name": "Encinitas, California",
-            "address": "200 Saxony Rd., Encinitas, CA 92024",
+            "address": "200 Saxony Rd, Encinitas, CA 92024, US",
             "id": "DAN321",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10642,7 +10642,7 @@
         },
         {
             "name": "Englewood, Colorado",
-            "address": "Inca St &, 700 W Dartmouth Ave, Englewood, CO 80110",
+            "address": "700 W Dartmouth Ave, Englewood, CO 80110, US",
             "id": "DAN322",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10674,7 +10674,7 @@
         },
         {
             "name": "Enumclaw, Washington",
-            "address": "1670 Hillcrest Ave, Enumclaw, WA 98022",
+            "address": "1670 Hillcrest Ave, Enumclaw, WA 98022, US",
             "id": "DAN324",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10690,7 +10690,7 @@
         },
         {
             "name": "Ephraim",
-            "address": "650 S 100 E, Ephraim, UT 84627",
+            "address": "650 S 100 E, Ephraim, UT 84627, US",
             "id": "DAN325",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10706,7 +10706,7 @@
         },
         {
             "name": "Ephrata, Washington",
-            "address": "780 A St SE, Ephrata, WA 98823",
+            "address": "780 A St SE, Ephrata, WA 98823, US",
             "id": "DAN326",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10722,7 +10722,7 @@
         },
         {
             "name": "Erie (Coal Creek Park), Colorado",
-            "address": "575 Kattell St, Erie, CO 80516",
+            "address": "575 Kattell St, Erie, CO 80516, US",
             "id": "DAN327",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10738,7 +10738,7 @@
         },
         {
             "name": "Erie (Community Park), Colorado",
-            "address": "400 Powers St. Erie, CO 80516",
+            "address": "400 Powers St, Erie, CO 80516, US",
             "id": "DAN328",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10754,7 +10754,7 @@
         },
         {
             "name": "Erie Pump Track, Colorado",
-            "address": "1202 Maxwell Cir, Erie, CO 80516",
+            "address": "Maxwell Cir, Erie, CO 80516, US",
             "id": "DAN329",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10770,7 +10770,7 @@
         },
         {
             "name": "Arcadia, California",
-            "address": "207 Bonita St. Arcadia, CA 91006",
+            "address": "Bonita Park, 207 Bonita St, Arcadia, CA 91006, US",
             "id": "DAN33",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10786,7 +10786,7 @@
         },
         {
             "name": "Estacada, Oregon",
-            "address": "677 NW Wade St. Estacada, OR 97023",
+            "address": "677 NW Wade St, Estacada, OR 97023, US",
             "id": "DAN330",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10802,7 +10802,7 @@
         },
         {
             "name": "Estes Park (Lawson Park), Colorado",
-            "address": "380 Community Dr, Estes Park, CO 80517",
+            "address": "380 Community Dr, Estes Park, CO 80517, US",
             "id": "DAN331",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10818,7 +10818,7 @@
         },
         {
             "name": "Estevan",
-            "address": "SK, Canada 701 Souris Ave. Estevan, SK S4A 2T1, Canada",
+            "address": "701 Souris Ave, Estevan, SK S4A 2T1, Canada",
             "id": "DAN332",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10834,7 +10834,7 @@
         },
         {
             "name": "Etnies",
-            "address": "of Lake Forest, California 20028 Lake Forest Dr., Lake Forest, CA 92630",
+            "address": "20028 Lake Forest Dr, Lake Forest, CA 92630, US",
             "id": "DAN333",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10850,7 +10850,7 @@
         },
         {
             "name": "Eugene (Amazon), Oregon",
-            "address": "22 Amazon Pkwy, Eugene, OR 97405",
+            "address": "22 Amazon Pkwy, Eugene, OR 97405, US",
             "id": "DAN334",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10866,7 +10866,7 @@
         },
         {
             "name": "Eugene (Bethel), Oregon",
-            "address": "5700 Babe Ruth Dr, Eugene, OR 97402",
+            "address": "5700 Babe Ruth Dr, Eugene, OR 97402, US",
             "id": "DAN335",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10882,7 +10882,7 @@
         },
         {
             "name": "Eugene (Cal Young), Oregon",
-            "address": "2555 Gilham Rd. Eugene, OR 97408",
+            "address": "2555 Gilham Rd, Eugene, OR 97408, US",
             "id": "DAN336",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10898,7 +10898,7 @@
         },
         {
             "name": "Eugene (Churchill), Oregon",
-            "address": "2032 Bailey Hill Rd Eugene, OR 97405",
+            "address": "2032 Bailey Hill Rd, Eugene, OR 97405, US",
             "id": "DAN337",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10914,7 +10914,7 @@
         },
         {
             "name": "Eugene (Emerald), Oregon",
-            "address": "1400 Lake Dr. Eugene, OR 97404",
+            "address": "1400 Lake Dr, Eugene, OR 97404, US",
             "id": "DAN338",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10930,7 +10930,7 @@
         },
         {
             "name": "Eugene (W.J.), Oregon",
-            "address": "St. and Jefferson St, Eugene, OR 97401",
+            "address": "Jefferson St, Eugene, OR 97401, US",
             "id": "DAN339",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10946,7 +10946,7 @@
         },
         {
             "name": "Arlee",
-            "address": "3804 Pow Wow Rd, Arlee, MT 59821",
+            "address": "3804 Pow Wow Rd, Arlee, MT 59821, US",
             "id": "DAN34",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10962,7 +10962,7 @@
         },
         {
             "name": "Eureka Springs",
-            "address": "Grand Ave & Washington St. Eureka Springs, AR 72632",
+            "address": "Washington St & Grand Ave, Eureka Springs, AR 72632, US",
             "id": "DAN340",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10978,7 +10978,7 @@
         },
         {
             "name": "Evans, Colorado",
-            "address": "4100 Harbor Ln, Evans, CO 80620",
+            "address": "4100 Harbor Ln, Evans, CO 80620, US",
             "id": "DAN341",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -10994,7 +10994,7 @@
         },
         {
             "name": "Evanston",
-            "address": "6th St & Uinta St, Evanston, WY 82930",
+            "address": "6th St & Uinta St, Evanston, WY 82930, US",
             "id": "DAN342",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11010,7 +11010,7 @@
         },
         {
             "name": "Evanston (Twiggs Park), Illinois",
-            "address": "Green Bay Rd &, Noyes St, Evanston, IL 60201",
+            "address": "Green Bay Rd & Noyes St, Evanston, IL 60201, US",
             "id": "DAN343",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11026,7 +11026,7 @@
         },
         {
             "name": "Everett, Washington",
-            "address": "#2 2808 10th St, Everett, WA 98201",
+            "address": "2808 10th St, Everett, WA 98201, US",
             "id": "DAN344",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11042,7 +11042,7 @@
         },
         {
             "name": "Everett, Washington",
-            "address": "1226 W Casino Rd. Everett, WA 98204",
+            "address": "1226 W Casino Rd, Everett, WA 98204, US",
             "id": "DAN345",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11058,7 +11058,7 @@
         },
         {
             "name": "Fairfield",
-            "address": "202 W Fillmore Ave, Fairfield, IA 52556",
+            "address": "202 W Fillmore Ave, Fairfield, IA 52556, US",
             "id": "DAN346",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11074,7 +11074,7 @@
         },
         {
             "name": "Fairfield",
-            "address": "103 1st St, Fairfield, WA 83851",
+            "address": "103 1st St, Plummer, WA 83851, US",
             "id": "DAN347",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11090,7 +11090,7 @@
         },
         {
             "name": "Fairplay Colorado,",
-            "address": "1190 Bullet Rd, Fairplay, CO 80440",
+            "address": "1190 Bullet Rd, Fairplay, CO 80440, US",
             "id": "DAN348",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11106,7 +11106,7 @@
         },
         {
             "name": "Fargo (YMCA), North Dakota",
-            "address": "4243 19th Ave SW Fargo, ND 58103",
+            "address": "4243 19th Ave SW, Fargo, ND 58103, US",
             "id": "DAN349",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11122,7 +11122,7 @@
         },
         {
             "name": "Arlington",
-            "address": "18501 59th Ave NE, Arlington, WA 98223",
+            "address": "18501 59th Ave NE, Arlington, WA 98223, US",
             "id": "DAN35",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11138,7 +11138,7 @@
         },
         {
             "name": "Fargo, North Dakota",
-            "address": "310 4th St S. Fargo, ND 58103",
+            "address": "310 4th St S, Moorhead, ND 56560, US",
             "id": "DAN350",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11154,7 +11154,7 @@
         },
         {
             "name": "Farmers Branch",
-            "address": "14050 Heartside Pl, Farmers Branch, TX 75234",
+            "address": "Don Showman Park, 14050 Heartside Pl, Farmers Branch, TX 75234, US",
             "id": "DAN351",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11170,7 +11170,7 @@
         },
         {
             "name": "Farmington Hills (Riley)",
-            "address": "35520 Eight Mile Rd. Farmington Hills, MI 48335",
+            "address": "35520 Eight Mile W, Farmington Hills, MI 48335, US",
             "id": "DAN352",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11186,7 +11186,7 @@
         },
         {
             "name": "Farmington, New Mexico",
-            "address": "1911 N Dustin Ave, Farmington, NM 87401",
+            "address": "Tickson Scout Hut, 1911 N Dustin Ave, Farmington, NM 87401, US",
             "id": "DAN353",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11202,7 +11202,7 @@
         },
         {
             "name": "Farmington, Utah",
-            "address": "1384 S Frontage Rd. Farmington, UT 84025",
+            "address": "1384 S Frontage Rd, Farmington, UT 84025, US",
             "id": "DAN354",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11218,7 +11218,7 @@
         },
         {
             "name": "Fayetteville",
-            "address": "S block Ave and E 13th St. Fayetteville, AR 72701",
+            "address": "S Block Ave & E 13th St, Fayetteville, AR 72701, US",
             "id": "DAN355",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11234,7 +11234,7 @@
         },
         {
             "name": "Federal Heights (Hyland Hills), Colorado",
-            "address": "8650 Zuni St, Federal Heights, CO 80260",
+            "address": "8650 Zuni St, Federal Heights, CO 80260, US",
             "id": "DAN356",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11250,7 +11250,7 @@
         },
         {
             "name": "Federal Way, Washington",
-            "address": "2645 S 312th St, Federal Way, WA 98003",
+            "address": "2645 S 312th St, Federal Way, WA 98003, US",
             "id": "DAN357",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11266,7 +11266,7 @@
         },
         {
             "name": "Ferndale (Donald Red Geary Park), Michigan",
-            "address": "2024 Pinecrest Dr, Ferndale, MI 48220",
+            "address": "2024 Pinecrest Dr, Ferndale, MI 48220, US",
             "id": "DAN358",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11282,7 +11282,7 @@
         },
         {
             "name": "Fillmore",
-            "address": "1110 River St #1032, Fillmore, CA 93015",
+            "address": "1110 River St #1032, Fillmore, CA 93015, US",
             "id": "DAN359",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11298,7 +11298,7 @@
         },
         {
             "name": "Arlington",
-            "address": "2800 S Center St., Arlington, TX 76014",
+            "address": "2800 S Center St, Arlington, TX 76014, US",
             "id": "DAN36",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11314,7 +11314,7 @@
         },
         {
             "name": "Fillmore, Utah",
-            "address": "434 N 100 E St., Fillmore, UT 84631",
+            "address": "434 N 100 E St, Fillmore, UT 84631, US",
             "id": "DAN360",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11330,7 +11330,7 @@
         },
         {
             "name": "Flagstaff, Arizona (Bushmaster Park)",
-            "address": "3150 N Alta Vista Dr., Flagstaff, AZ 86004",
+            "address": "3150 N Alta Vista Dr, Flagstaff, AZ 86004, US",
             "id": "DAN361",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11346,7 +11346,7 @@
         },
         {
             "name": "Flagstaff, Arizona (Fox Glenn Park)",
-            "address": "4200 E Butler Ave., Flagstaff, AZ 86004",
+            "address": "4200 E Butler Ave, Flagstaff, AZ 86004, US",
             "id": "DAN362",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11362,7 +11362,7 @@
         },
         {
             "name": "Florence",
-            "address": "Ewing Blvd & Veterans Memorial Dr. Florence, KY 41042",
+            "address": "Veterans Memorial Dr & Ewing Blvd, Florence, KY 41042, US",
             "id": "DAN363",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11378,7 +11378,7 @@
         },
         {
             "name": "Florence, Oregon",
-            "address": "110 W, 18th St, Florence, OR 97439",
+            "address": "18th St, Florence, OR 97439, US",
             "id": "DAN364",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11394,7 +11394,7 @@
         },
         {
             "name": "Folsom, California",
-            "address": "1775 Creekside Dr., Folsom, CA 95630",
+            "address": "1775 Creekside Dr, Folsom, CA 95630, US",
             "id": "DAN365",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11410,7 +11410,7 @@
         },
         {
             "name": "Fontana (North), California",
-            "address": "5553 Lytle Creek Rd. Fontana, CA 92336",
+            "address": "5553 Lytle Creek Rd, Fontana, CA 92336, US",
             "id": "DAN366",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11426,7 +11426,7 @@
         },
         {
             "name": "Fontana (South), California",
-            "address": "9520 Juniper Ave. Fontana, CA 92335",
+            "address": "9520 Juniper Ave, Fontana, CA 92335, US",
             "id": "DAN367",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11442,7 +11442,7 @@
         },
         {
             "name": "Forks, Washington",
-            "address": "437 Tillicum Ln Forks, WA 98331",
+            "address": "437 Tillicum Ln, Forks, WA 98331, US",
             "id": "DAN368",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11458,7 +11458,7 @@
         },
         {
             "name": "Fort Atkinson (Ralph Park)",
-            "address": "520 Jefferson St, Fort Atkinson, WI 53538",
+            "address": "520 Jefferson St, Fort Atkinson, WI 53538, US",
             "id": "DAN369",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11474,7 +11474,7 @@
         },
         {
             "name": "Arlington (Burl Wilkes Park), Texas",
-            "address": "2000 Reever Street Arlington, Texas 76010",
+            "address": "2000 Reever St, Arlington, TX 76010, US",
             "id": "DAN37",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11490,7 +11490,7 @@
         },
         {
             "name": "Fort Collins (Edora), Colorado",
-            "address": "1420 E Stuart St. Fort Collins, CO 80525",
+            "address": "1420 E Stuart St, Fort Collins, CO 80525, US",
             "id": "DAN370",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11506,7 +11506,7 @@
         },
         {
             "name": "Fort Collins (Fossil Creek)",
-            "address": "5821 S Lemay Ave. Fort Collins, CO 80525",
+            "address": "5821 S Lemay Ave, Fort Collins, CO 80525, US",
             "id": "DAN371",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11522,7 +11522,7 @@
         },
         {
             "name": "Fort Collins (North)",
-            "address": "112 Willow St. Fort Collins, CO 80524",
+            "address": "112 Willow St, Fort Collins, CO 80524, US",
             "id": "DAN372",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11538,7 +11538,7 @@
         },
         {
             "name": "Fort Collins (Spring Canyon), Colorado",
-            "address": "3156 S Overland Trail, Fort Collins, CO 80526",
+            "address": "3156 S Overland Trail, Fort Collins, CO 80526, US",
             "id": "DAN373",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11554,7 +11554,7 @@
         },
         {
             "name": "Fort Collins (Water's Way)",
-            "address": "Bellewood Ln & San Juan Dr. Fort Collins, CO 80525",
+            "address": "Bellewood Ln & San Juan Dr, Fort Collins, CO 80525, US",
             "id": "DAN374",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11570,7 +11570,7 @@
         },
         {
             "name": "Fort Duchesne",
-            "address": "Small Loop Rd & E 800 S. Fort Duchesne, UT 84026",
+            "address": "Small Loop Rd & E 800 S, Fort Duchesne, UT 84026, US",
             "id": "DAN375",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11586,7 +11586,7 @@
         },
         {
             "name": "Fort Lupton, Colorado",
-            "address": "203 S Harrison Ave. Fort Lupton, CO 80621",
+            "address": "203 S Harrison Ave, Fort Lupton, CO 80621, US",
             "id": "DAN376",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11602,7 +11602,7 @@
         },
         {
             "name": "Fort Morgan, Colorado",
-            "address": "120 Cheyenne St. Fort Morgan, CO 80701",
+            "address": "120 Cheyenne St, Fort Morgan, CO 80701, US",
             "id": "DAN377",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11618,7 +11618,7 @@
         },
         {
             "name": "Fort Scott",
-            "address": "Scott Ave & E 4th St. Fort Scott, KS 66701",
+            "address": "Scott Ave & E 4th St, Fort Scott, KS 66701, US",
             "id": "DAN378",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11634,7 +11634,7 @@
         },
         {
             "name": "Fort Thompson (Crow Creek)",
-            "address": "Bill Bird Dr & Drifting Goose Dr. Fort Thompson, SD 57325",
+            "address": "Bill Bird Dr & Drifting Goose Dr, Fort Thompson, SD 57325, US",
             "id": "DAN379",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11650,7 +11650,7 @@
         },
         {
             "name": "Arlington (Cody Rocamontes)",
-            "address": "1901 W Randol Mill Rd, Arlington, TX 76012",
+            "address": "1901 W Randol Mill Rd, Arlington, TX 76012, US",
             "id": "DAN38",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11666,7 +11666,7 @@
         },
         {
             "name": "Fort Worth",
-            "address": "4680 McPherson Blvd., Fort Worth, TX 76123",
+            "address": "4680 McPherson Blvd, Fort Worth, TX 76123, US",
             "id": "DAN380",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11682,7 +11682,7 @@
         },
         {
             "name": "FortWayne (Lawton Park), Indiana",
-            "address": "1600 N Clinton St, Fort Wayne, IN 46805",
+            "address": "1600 N Clinton St, Fort Wayne, IN 46805, US",
             "id": "DAN381",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11698,7 +11698,7 @@
         },
         {
             "name": "Fortworth (Fire Station), Texas",
-            "address": "1616 Hemphill St, Fort Worth, TX 76104",
+            "address": "1616 Hemphill St, Fort Worth, TX 76104, US",
             "id": "DAN382",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11714,7 +11714,7 @@
         },
         {
             "name": "Fountain (Mesa), Colorado",
-            "address": "7150 Woodstock St, Fountain, CO 80911",
+            "address": "7150 Woodstock St, Colorado Springs, CO 80911, US",
             "id": "DAN383",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11730,7 +11730,7 @@
         },
         {
             "name": "Fountain (Metcalfe) Pump Track, Colorado",
-            "address": "618 E Ohio Ave, Fountain, CO 80817",
+            "address": "John Metcalf Park, 618 E Ohio Ave, Fountain, CO 80817, US",
             "id": "DAN384",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11746,7 +11746,7 @@
         },
         {
             "name": "Fountain (Metcalfe), Colorado",
-            "address": "618 E Ohio Ave, Fountain, CO 80817",
+            "address": "John Metcalf Park, 618 E Ohio Ave, Fountain, CO 80817, US",
             "id": "DAN385",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11762,7 +11762,7 @@
         },
         {
             "name": "Frankfort (Market Square Park), Michigan",
-            "address": "7th St & Sky Pl, Frankfort, MI 49635",
+            "address": "7th St & Sky Pl, Frankfort, MI 49635, US",
             "id": "DAN386",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11778,7 +11778,7 @@
         },
         {
             "name": "Franklin, Tennessee",
-            "address": "705 Boyd Mill Ave, Franklin, TN 37064",
+            "address": "705 Boyd Mill Ave, Franklin, TN 37064, US",
             "id": "DAN387",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11794,7 +11794,7 @@
         },
         {
             "name": "Frederick, Colorado",
-            "address": "5659 Godding Hollow Pkwy, Longmont, CO 80504",
+            "address": "5659 Godding Hollow Pkwy, Longmont, CO 80504, US",
             "id": "DAN388",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11810,7 +11810,7 @@
         },
         {
             "name": "Frederick, Maryland",
-            "address": "100 Hill St, Frederick, MD 21703",
+            "address": "100 Hill St, Frederick, MD 21703, US",
             "id": "DAN389",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11826,7 +11826,7 @@
         },
         {
             "name": "Arlington (Webb Community), Texas",
-            "address": "1100 Mansfield Webb Rd, Arlington, TX 76002",
+            "address": "1100 Mansfield Webb Rd, Arlington, TX 76002, US",
             "id": "DAN39",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11842,7 +11842,7 @@
         },
         {
             "name": "Fredericksburg, Texas",
-            "address": "412 S Lincoln St, Fredericksburg, TX 78624",
+            "address": "412 S Lincoln St, Fredericksburg, TX 78624, US",
             "id": "DAN390",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11858,7 +11858,7 @@
         },
         {
             "name": "Fremont, California",
-            "address": "40500 Paseo Padre Pkwy Fremont, CA 94538",
+            "address": "40500 Paseo Padre Pkwy, Fremont, CA 94538, US",
             "id": "DAN391",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11874,7 +11874,7 @@
         },
         {
             "name": "Fresno",
-            "address": "4650 N Marks Ave., Fresno, CA 93722",
+            "address": "4650 N Marks Ave, Fresno, CA 93722, US",
             "id": "DAN392",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11890,7 +11890,7 @@
         },
         {
             "name": "Frisco",
-            "address": "12895 Honey Grove Dr, Frisco, TX 75035",
+            "address": "12895 Honey Grove Dr, Frisco, TX 75035, US",
             "id": "DAN393",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11906,7 +11906,7 @@
         },
         {
             "name": "Frisco, Colorado",
-            "address": "621 Recreation Way Frisco, CO 80443",
+            "address": "621 Recreation Way, Frisco, CO 80443, US",
             "id": "DAN394",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11922,7 +11922,7 @@
         },
         {
             "name": "Fruita, Colorado",
-            "address": "273 N Cherry St. Fruita, CO 81521",
+            "address": "273 N Cherry St, Fruita, CO 81521, US",
             "id": "DAN395",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11938,7 +11938,7 @@
         },
         {
             "name": "Fullerton, California",
-            "address": "801 W Valencia Dr Fullerton, CA 92832",
+            "address": "801 W Valencia Dr, Fullerton, CA 92832, US",
             "id": "DAN396",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11954,7 +11954,7 @@
         },
         {
             "name": "Gabriel",
-            "address": "SW 45th Ave & SW Nevada St., Portland, OR 97219",
+            "address": "SW 45th Ave & SW Nevada Ct, Portland, OR 97219, US",
             "id": "DAN397",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11970,7 +11970,7 @@
         },
         {
             "name": "Galveston, Texas",
-            "address": "2249 27th St, Galveston, TX 77550",
+            "address": "2249 27th St, Galveston, TX 77550, US",
             "id": "DAN398",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -11986,7 +11986,7 @@
         },
         {
             "name": "Garden City, Michigan",
-            "address": "200 N Log Cabin Rd, Garden City, MI 48135",
+            "address": "200 N Log Cabin Rd, Garden City, MI 48135, US",
             "id": "DAN399",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12002,7 +12002,7 @@
         },
         {
             "name": "Arlington, Virginia",
-            "address": "6020 Wilson Blvd. Arlington, VA 22205",
+            "address": "6020 Wilson Blvd, Arlington, VA 22205, US",
             "id": "DAN40",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12018,7 +12018,7 @@
         },
         {
             "name": "Garden Grove, California",
-            "address": "13641 Deodara Dr., Garden Grove, CA 92844",
+            "address": "13641 Deodara Dr, Garden Grove, CA 92844, US",
             "id": "DAN400",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12034,7 +12034,7 @@
         },
         {
             "name": "Gardnerville, Nevada",
-            "address": "1327 Waterloo Ln. Gardnerville, NV 89410",
+            "address": "1327 Waterloo Ln, Gardnerville, NV 89410, US",
             "id": "DAN401",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12050,7 +12050,7 @@
         },
         {
             "name": "Garland (Boneyard), Texas",
-            "address": "1010 W Miller Rd, Garland, TX 75041",
+            "address": "1010 W Miller Rd, Garland, TX 75041, US",
             "id": "DAN402",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12066,7 +12066,7 @@
         },
         {
             "name": "Gering",
-            "address": "834 17th St, Gering, NE 69341",
+            "address": "834 17th St, Gering, NE 69341, US",
             "id": "DAN403",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12082,7 +12082,7 @@
         },
         {
             "name": "Gig Harbor, Washington",
-            "address": "3510 Grandview St. Gig Harbor, WA",
+            "address": "3510 Grandview St, Gig Harbor, WA 98335, US",
             "id": "DAN404",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12098,7 +12098,7 @@
         },
         {
             "name": "Gilbert, Arizona",
-            "address": "1045 E Juniper Ave., Gilbert, AZ 85234",
+            "address": "1045 E Juniper Ave, Gilbert, AZ 85234, US",
             "id": "DAN405",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12114,7 +12114,7 @@
         },
         {
             "name": "Gillette",
-            "address": "2301 S 4-J Rd, Gillette, WY 82718",
+            "address": "2301 S 4-J Rd, Gillette, WY 82718, US",
             "id": "DAN406",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12130,7 +12130,7 @@
         },
         {
             "name": "Gillette",
-            "address": "2301 S 4-J Rd, Gillette, WY 82718",
+            "address": "2301 S 4-J Rd, Gillette, WY 82718, US",
             "id": "DAN407",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12146,7 +12146,7 @@
         },
         {
             "name": "Gilroy, California",
-            "address": "510 Mantelli Dr. Gilroy, CA 95020",
+            "address": "510 Mantelli Dr, Gilroy, CA 95020, US",
             "id": "DAN408",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12162,7 +12162,7 @@
         },
         {
             "name": "Glendale (Union Hills), Arizona",
-            "address": "5752 W Union Hills Dr., Glendale, AZ 85308",
+            "address": "5752 W Union Hills Dr, Glendale, AZ 85308, US",
             "id": "DAN409",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12178,7 +12178,7 @@
         },
         {
             "name": "Armada (Jason R. Friewald Memorial Park), Michigan",
-            "address": "75400 North Ave, Armada, MI 48005",
+            "address": "75400 North Ave, Armada, MI 48005, US",
             "id": "DAN41",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12194,7 +12194,7 @@
         },
         {
             "name": "Glendale (X-Court)",
-            "address": "6101 N 83rd Ave., Glendale, AZ 85303",
+            "address": "6101 N 83rd Ave, Glendale, AZ 85303, US",
             "id": "DAN410",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12210,7 +12210,7 @@
         },
         {
             "name": "Glendale, California",
-            "address": "1621 Canada Blvd. Glendale, CA 91208",
+            "address": "1621 Canada Blvd, Glendale, CA 91208, US",
             "id": "DAN411",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12226,7 +12226,7 @@
         },
         {
             "name": "Glendive",
-            "address": "820 Park Ave. Glendive, MT 59330",
+            "address": "820 Park Ave, Glendive, MT 59330, US",
             "id": "DAN412",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12242,7 +12242,7 @@
         },
         {
             "name": "Glenhaven (Portland), Oregon",
-            "address": "7900 NE Siskiyou St, Portland, OR 97213",
+            "address": "7900 NE Siskiyou St, Portland, OR 97213, US",
             "id": "DAN413",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12258,7 +12258,7 @@
         },
         {
             "name": "Glenns Ferry",
-            "address": "N Logan St & E 2nd Ave Glenns Ferry, ID 83623",
+            "address": "N Logan St & E 2nd Ave, Glenns Ferry, ID 83623, US",
             "id": "DAN414",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12274,7 +12274,7 @@
         },
         {
             "name": "Glenpool, Oklahoma",
-            "address": "95 West 145th St S, Glenpool, OK 74033",
+            "address": "Black Gold Park, 95 West 145th St S, Glenpool, OK 74033, US",
             "id": "DAN415",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12290,7 +12290,7 @@
         },
         {
             "name": "Glenwood Springs, Colorado",
-            "address": "740 Devereux Rd, Glenwood Springs, CO 81601",
+            "address": "740 Devereux Rd, Glenwood Springs, CO 81601, US",
             "id": "DAN416",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12306,7 +12306,7 @@
         },
         {
             "name": "Golden Valley (3rd Lair)",
-            "address": "850 Florida Ave S., Golden Valley, MN 55426",
+            "address": "850 Florida Ave S, Minneapolis, MN 55426, US",
             "id": "DAN417",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12322,7 +12322,7 @@
         },
         {
             "name": "Golden, Colorado",
-            "address": "1201 Ulysses St, Golden, CO 80401",
+            "address": "1201 Ulysses St, Golden, CO 80401, US",
             "id": "DAN418",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12338,7 +12338,7 @@
         },
         {
             "name": "Golden, Colorado",
-            "address": "16360 W 4th Ave. Golden, CO 80401",
+            "address": "16360 W 4th Ave, Golden, CO 80401, US",
             "id": "DAN419",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12354,7 +12354,7 @@
         },
         {
             "name": "Arvada (Apex Center)",
-            "address": "12920 W 72nd Ave, Northwest Arvada, CO 80005",
+            "address": "12920 W 72nd Ave, Arvada, CO 80005, US",
             "id": "DAN42",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12370,7 +12370,7 @@
         },
         {
             "name": "Gooding",
-            "address": "911 4th Ave W, Gooding, ID 83330",
+            "address": "911 W 4th Ave, Gooding, ID 83330, US",
             "id": "DAN420",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12386,7 +12386,7 @@
         },
         {
             "name": "Goodyear, Arizona",
-            "address": "3151 N Litchfield Rd., Goodyear, AZ 85395",
+            "address": "3151 N Litchfield Rd, Goodyear, AZ 85395, US",
             "id": "DAN421",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12402,7 +12402,7 @@
         },
         {
             "name": "Granbury",
-            "address": "1100 Crossland Rd, Granbury, TX 76048",
+            "address": "1100 Crossland Rd, Granbury, TX 76048, US",
             "id": "DAN422",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12418,7 +12418,7 @@
         },
         {
             "name": "Granby",
-            "address": "70 W Jasper Ave. Granby, CO 80446",
+            "address": "70 W Jasper Ave, Granby, CO 80446, US",
             "id": "DAN423",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12434,7 +12434,7 @@
         },
         {
             "name": "Grand Forks",
-            "address": "703 S 4th St., Grand Forks, ND 58201",
+            "address": "703 S 4th St, Grand Forks, ND 58201, US",
             "id": "DAN424",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12450,7 +12450,7 @@
         },
         {
             "name": "Grand Haven (Mulligan\u00e2\u20ac\u2122s Hollow Park), Michigan",
-            "address": "16 Sherman Ave, Grand Haven, MI 49417",
+            "address": "16 Sherman Ave, Grand Haven, MI 49417, US",
             "id": "DAN425",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12466,7 +12466,7 @@
         },
         {
             "name": "Grand Island, Nebraska",
-            "address": "500 S Oak St, Grand Island, NE 68801",
+            "address": "500 S Oak St, Grand Island, NE 68801, US",
             "id": "DAN426",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12482,7 +12482,7 @@
         },
         {
             "name": "Grand Junction (Eagle Rim Park), Colorado",
-            "address": "2746 Cheyenne Dr. Grand Junction, CO 81503",
+            "address": "2746 Cheyenne Dr, Grand Junction, CO 81503, US",
             "id": "DAN427",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12498,7 +12498,7 @@
         },
         {
             "name": "Grand Junction (Longs Memorial Park), Colorado",
-            "address": "3118 E 1/2 Rd, Fruitvale, CO 81504",
+            "address": "3118 E 1/2 Rd, Fruitvale, CO 81504, US",
             "id": "DAN428",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12514,7 +12514,7 @@
         },
         {
             "name": "Grand Junction, Colorado",
-            "address": "325 W Orchard Ave, Grand Junction, CO 81505",
+            "address": "325 W Orchard Ave, Grand Junction, CO 81501, US",
             "id": "DAN429",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12530,7 +12530,7 @@
         },
         {
             "name": "Arvada (Memorial Park), Colorado",
-            "address": "8001 W 59th Ave, Arvada, CO 80004",
+            "address": "8001 W 59th Ave, Arvada, CO 80004, US",
             "id": "DAN43",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12546,7 +12546,7 @@
         },
         {
             "name": "Grand Rapids (Roberto Clemente Park), Michigan",
-            "address": "546 Rumsey St SW, Grand Rapids, MI 49503",
+            "address": "546 Rumsey St SW, Grand Rapids, MI 49503, US",
             "id": "DAN430",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12562,7 +12562,7 @@
         },
         {
             "name": "Granite Falls, Washington",
-            "address": "107 W Pioneer St, Granite Falls, WA 98252",
+            "address": "107 W Pioneer St, Granite Falls, WA 98252, US",
             "id": "DAN431",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12578,7 +12578,7 @@
         },
         {
             "name": "Grants Pass, Oregon",
-            "address": "820 SE M St, Grants Pass, OR 97526",
+            "address": "820 SE M St, Grants Pass, OR 97526, US",
             "id": "DAN432",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12594,7 +12594,7 @@
         },
         {
             "name": "Grantsville, Utah",
-            "address": "60 E Cherry St Grantsville, UT 84029",
+            "address": "60 E Cherry St, Grantsville, UT 84029, US",
             "id": "DAN433",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12610,7 +12610,7 @@
         },
         {
             "name": "Grass Valley",
-            "address": "544 Butler St., Grass Valley, CA 95945",
+            "address": "544 Butler St, Grass Valley, CA 95945, US",
             "id": "DAN434",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12626,7 +12626,7 @@
         },
         {
             "name": "Great Falls, Montana",
-            "address": "311 River Drive North Great Falls, MT",
+            "address": "311 River Dr N, Great Falls, MT 59401, US",
             "id": "DAN435",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12642,7 +12642,7 @@
         },
         {
             "name": "Greeley (3rd Street)",
-            "address": "228 11th Ave, Greeley, CO 80631",
+            "address": "228 11th Ave, Greeley, CO 80631, US",
             "id": "DAN436",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12658,7 +12658,7 @@
         },
         {
             "name": "Greeley (Centennial Park), Colorado",
-            "address": "2201 23rd Ave. Greeley, CO 80634",
+            "address": "2201 23rd Ave, Greeley, CO 80634, US",
             "id": "DAN437",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12674,7 +12674,7 @@
         },
         {
             "name": "Greeley (Peakview Park), Colorado",
-            "address": "W 13th St & 58th Ave. Greeley, CO 80634",
+            "address": "W 13th St & 58th Ave, Greeley, CO 80634, US",
             "id": "DAN438",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12690,7 +12690,7 @@
         },
         {
             "name": "Green Bay (Joannes Park), Wisconsin",
-            "address": "315 S Baird St, Green Bay, WI 54301",
+            "address": "315 S Baird St, Green Bay, WI 54301, US",
             "id": "DAN439",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12706,7 +12706,7 @@
         },
         {
             "name": "Arvada (Skyline)",
-            "address": "11200 W 58th Ave. Arvada, CO 80002",
+            "address": "11200 W 58th Ave, Arvada, CO 80002, US",
             "id": "DAN44",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12722,7 +12722,7 @@
         },
         {
             "name": "Green River, Wyoming",
-            "address": "550 Uinta Dr. Green River, WY 82935",
+            "address": "550 Uinta Dr, Green River, WY 82935, US",
             "id": "DAN440",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12738,7 +12738,7 @@
         },
         {
             "name": "Green Skate Lab, Washington DC",
-            "address": "2901 20th St NE Washington, DC 20018",
+            "address": "2901 20th St NE, Washington, DC 20018, US",
             "id": "DAN441",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12754,7 +12754,7 @@
         },
         {
             "name": "Greenbelt, Maryland",
-            "address": "99 Centerway, Greenbelt, MD 20770",
+            "address": "99 Centerway, Greenbelt, MD 20770, US",
             "id": "DAN442",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12770,7 +12770,7 @@
         },
         {
             "name": "Greencastle",
-            "address": "3649 Cold Spring Rd. Indianapolis, IN 46222",
+            "address": "3649 Cold Spring Rd, Indianapolis, IN 46222, US",
             "id": "DAN443",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12786,7 +12786,7 @@
         },
         {
             "name": "Greencastle",
-            "address": "S bloomington St. and Tennessee St. Greencastle, IN 46135",
+            "address": "S Bloomington St & Tennessee St, Greencastle, IN 46135, US",
             "id": "DAN444",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12802,7 +12802,7 @@
         },
         {
             "name": "Greeneville, Tennessee",
-            "address": "617 Crescent Dr, Greeneville, TN 37743",
+            "address": "617 Crescent Dr, Greeneville, TN 37743, US",
             "id": "DAN445",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12818,7 +12818,7 @@
         },
         {
             "name": "Greenwood (Northeast Park), Indiana",
-            "address": "100 Crestview Dr, Greenwood, IN 46143",
+            "address": "100 Crestview Dr, Greenwood, IN 46143, US",
             "id": "DAN446",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12834,7 +12834,7 @@
         },
         {
             "name": "Greenwood Village, Colorado",
-            "address": "6000 S Quebec St, Greenwood Village, CO 80111",
+            "address": "6000 S Quebec St, Greenwood Village, CO 80111, US",
             "id": "DAN447",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12850,7 +12850,7 @@
         },
         {
             "name": "Gresham",
-            "address": "SE Roberts Ave & SE 2nd St. Gresham, OR 97080",
+            "address": "SE Roberts Ave & SE 2nd St, Gresham, OR 97080, US",
             "id": "DAN448",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12866,7 +12866,7 @@
         },
         {
             "name": "Grinnell",
-            "address": "Prince St & 8th Ave Grinnell, IA 50112",
+            "address": "Prince St & 8th Ave, Grinnell, IA 50112, US",
             "id": "DAN449",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12882,7 +12882,7 @@
         },
         {
             "name": "Arvada (Wolff Park), Colorado",
-            "address": "8500 W 57th Ave, Arvada, CO 80002",
+            "address": "8500 W 57th Ave, Arvada, CO 80002, US",
             "id": "DAN45",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12898,7 +12898,7 @@
         },
         {
             "name": "Grove City",
-            "address": "3728 Hoover Rd. Grove City, OH 43123",
+            "address": "3728 Hoover Rd, Grove City, OH 43123, US",
             "id": "DAN450",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12914,7 +12914,7 @@
         },
         {
             "name": "Grover Beach",
-            "address": "1750 Ramona Ave. Grover Beach, CA 93433",
+            "address": "1750 Ramona Ave, Grover Beach, CA 93433, US",
             "id": "DAN451",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12930,7 +12930,7 @@
         },
         {
             "name": "Guernsey",
-            "address": "748 River Rd, Guernsey, WY 82215",
+            "address": "748 River Rd, Hartville, WY 82215, US",
             "id": "DAN452",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12946,7 +12946,7 @@
         },
         {
             "name": "Gunnison, Colorado",
-            "address": "200 S Adams St, Gunnison, CO 81230",
+            "address": "200 S Adams St, Gunnison, CO 81230, US",
             "id": "DAN453",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12962,7 +12962,7 @@
         },
         {
             "name": "Gunnison, Utah",
-            "address": "260 N Main St, Gunnison, UT 84634",
+            "address": "260 N Main St, Gunnison, UT 84634, US",
             "id": "DAN454",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12978,7 +12978,7 @@
         },
         {
             "name": "Gypsum (@ Library), Colorado",
-            "address": "46 Lundgen Blvd. Gypsum, CO 81637",
+            "address": "46 Lundgren Blvd, Gypsum, CO 81637, US",
             "id": "DAN455",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -12994,7 +12994,7 @@
         },
         {
             "name": "Gypsum (@ Sports Complex)",
-            "address": "3295 Cooley Mesa Rd, Gypsum, CO 81637",
+            "address": "3295 Cooley Mesa Rd, Gypsum, CO 81637, US",
             "id": "DAN456",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13010,7 +13010,7 @@
         },
         {
             "name": "Hailey, Idaho",
-            "address": "820 S Main St, Hailey, ID 83333",
+            "address": "820 S Main St, Hailey, ID 83333, US",
             "id": "DAN457",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13026,7 +13026,7 @@
         },
         {
             "name": "Haleiwa (Banzai)",
-            "address": "Oahu, Hawaii 59460 Kamehameha Hwy Haleiwa, HI 96712",
+            "address": "59460 Kamehameha Hwy, Haleiwa, HI 96712, US",
             "id": "DAN458",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13042,7 +13042,7 @@
         },
         {
             "name": "Hamilton",
-            "address": "200 N 10th St. Hamilton, MT 59840",
+            "address": "200 N 10th St, Hamilton, MT 59840, US",
             "id": "DAN459",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13058,7 +13058,7 @@
         },
         {
             "name": "Asheville, North Carolina",
-            "address": "50 Cherry St N, Asheville, NC 28801",
+            "address": "50 Cherry St N, Asheville, NC 28801, US",
             "id": "DAN46",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13074,7 +13074,7 @@
         },
         {
             "name": "Hammond (Hessville Park), Indiana",
-            "address": "173rd St, Hammond, IN 46323",
+            "address": "173rd St, Hammond, IN 46323, US",
             "id": "DAN460",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13090,7 +13090,7 @@
         },
         {
             "name": "Harbor Springs (Kosequat Park), Michigan",
-            "address": "740 E Main St, Harbor Springs, MI 49740",
+            "address": "740 E Main St, Harbor Springs, MI 49740, US",
             "id": "DAN461",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13106,7 +13106,7 @@
         },
         {
             "name": "Hardin",
-            "address": "927 N Cody Ave Hardin, MT 59034",
+            "address": "927 N Cody Ave, Hardin, MT 59034, US",
             "id": "DAN462",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13122,7 +13122,7 @@
         },
         {
             "name": "Harlan",
-            "address": "2115 8th St, Harlan, IA 51537",
+            "address": "2115 8th St, Harlan, IA 51537, US",
             "id": "DAN463",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13138,7 +13138,7 @@
         },
         {
             "name": "Harrisburg, Oregon",
-            "address": "550 Smith St, Harrisburg, OR 97446",
+            "address": "550 Smith St, Harrisburg, OR 97446, US",
             "id": "DAN464",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13154,7 +13154,7 @@
         },
         {
             "name": "Havre",
-            "address": "9th Ave & 9th St. Havre, MT 59501",
+            "address": "9th St & 9th Ave, Havre, MT 59501, US",
             "id": "DAN465",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13170,7 +13170,7 @@
         },
         {
             "name": "Hayden",
-            "address": "350 S Poplar St. Hayden, CO 81639",
+            "address": "350 S Poplar St, Hayden, CO 81639, US",
             "id": "DAN466",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13186,7 +13186,7 @@
         },
         {
             "name": "Hays",
-            "address": "163 Dora Helgeson Rd. Hays, MT 59527",
+            "address": "9th St & 9th Ave, Havre, MT 59501, US",
             "id": "DAN467",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13202,7 +13202,7 @@
         },
         {
             "name": "Heber, Utah",
-            "address": "758 W Midway Ln, Heber, UT 84032",
+            "address": "758 W Midway Ln, Heber City, UT 84032, US",
             "id": "DAN468",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13218,7 +13218,7 @@
         },
         {
             "name": "Helena",
-            "address": "1200 N Last Chance Gulch Helena, MT 59601",
+            "address": "1200 N Last Chance Gulch, Helena, MT 59601, US",
             "id": "DAN469",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13234,7 +13234,7 @@
         },
         {
             "name": "Ashland",
-            "address": "258 Water St. Ashland, OR 97520",
+            "address": "258 Water St, Ashland, OR 97520, US",
             "id": "DAN47",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13250,7 +13250,7 @@
         },
         {
             "name": "Henderson (Anthem Hills), Nevada",
-            "address": "2256 Reunion Dr, Henderson, Nevada 89052",
+            "address": "2256 Reunion Dr, Henderson, NV 89052, US",
             "id": "DAN470",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13266,7 +13266,7 @@
         },
         {
             "name": "Henderson (Cactus Wren Park), Nevada",
-            "address": "2900 Ivanpah Dr, Henderson, NV 89074",
+            "address": "2900 Ivanpah Dr, Henderson, NV 89074, US",
             "id": "DAN471",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13282,7 +13282,7 @@
         },
         {
             "name": "Henderson (Hayley Hendricks)",
-            "address": "London Ave & Cannes St. Henderson, NV 89015",
+            "address": "Cannes St & London Ave, Henderson, NV 89015, US",
             "id": "DAN472",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13298,7 +13298,7 @@
         },
         {
             "name": "Henderson (Hidden Falls)",
-            "address": "281 W Horizon Dr. Henderson, NV 89002",
+            "address": "281 W Horizon Dr, Henderson, NV 89002, US",
             "id": "DAN473",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13314,7 +13314,7 @@
         },
         {
             "name": "Henderson (Morrell)",
-            "address": "500 Harris St, Henderson, NV 89015",
+            "address": "500 Harris St, Henderson, NV 89015, US",
             "id": "DAN474",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13330,7 +13330,7 @@
         },
         {
             "name": "Henderson (Tuscany)",
-            "address": "1550 E Galleria Dr, Henderson, NV 89014",
+            "address": "1550 E Galleria Dr, Henderson, NV 89014, US",
             "id": "DAN475",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13346,7 +13346,7 @@
         },
         {
             "name": "Hendersonville, North Carolina",
-            "address": "114 E Clairmont Dr, Hendersonville, NC 28792",
+            "address": "114 E Clairmont Dr, Hendersonville, NC 28791, US",
             "id": "DAN476",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13362,7 +13362,7 @@
         },
         {
             "name": "Hermiston (Adventure Park), Oregon",
-            "address": "345 S 1st St, Hermiston, OR 97838",
+            "address": "345 S 1st St, Hermiston, OR 97838, US",
             "id": "DAN477",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13378,7 +13378,7 @@
         },
         {
             "name": "Hermiston, Oregon",
-            "address": "595 S 1st Street Hermiston, OR 97838",
+            "address": "595 S 1st St, Hermiston, OR 97838, US",
             "id": "DAN478",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13394,7 +13394,7 @@
         },
         {
             "name": "Hernando, Mississippi",
-            "address": "3369 Hwy 51 S #3323, Hernando, MS 38632",
+            "address": "3369 Hwy 51 S #3323, Hernando, MS 38632, US",
             "id": "DAN479",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13410,7 +13410,7 @@
         },
         {
             "name": "Aspen, Colorado",
-            "address": "501 Rio Grande Pl, Aspen, CO 81611",
+            "address": "501 Rio Grande Pl, Aspen, CO 81611, US",
             "id": "DAN48",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13426,7 +13426,7 @@
         },
         {
             "name": "Herriman, Utah",
-            "address": "5900 13400 S, Herriman, UT 84096",
+            "address": "5900 13400 S, Herriman, UT 84096, US",
             "id": "DAN480",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13442,7 +13442,7 @@
         },
         {
             "name": "Hickman, Nebraska",
-            "address": "3rd & Main st. Hickman, Nebraska 68372",
+            "address": "Main St & E 3rd St, Hickman, NE 68372, US",
             "id": "DAN481",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13458,7 +13458,7 @@
         },
         {
             "name": "High River",
-            "address": "1320 10 St SE High River, AB T1V 2B9, Canada",
+            "address": "1320 10 St SE, Aldersyde, AB T0L 0A0, Canada",
             "id": "DAN482",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13474,7 +13474,7 @@
         },
         {
             "name": "Highland (Sheppard Park), Indiana",
-            "address": "9160 Liable Rd, Highland, IN 46322",
+            "address": "9160 Liable Rd, Highland, IN 46322, US",
             "id": "DAN483",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13490,7 +13490,7 @@
         },
         {
             "name": "Highlands Ranch (Tanks Park)",
-            "address": "10371 S Broadway, Highlands Ranch, CO 80126",
+            "address": "10371 S Broadway, Highlands Ranch, CO 80126, US",
             "id": "DAN484",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13506,7 +13506,7 @@
         },
         {
             "name": "Highlands Ranch, Colorado",
-            "address": "3280 Redstone Park Cir, Highlands Ranch, CO 80129",
+            "address": "3280 Redstone Park Cir, Littleton, CO 80129, US",
             "id": "DAN485",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13522,7 +13522,7 @@
         },
         {
             "name": "Hines (Juniper)",
-            "address": "119 Circle Dr N, Hines, OR 97738",
+            "address": "119 Circle Dr N, Hines, OR 97738, US",
             "id": "DAN486",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13538,7 +13538,7 @@
         },
         {
             "name": "Holladay",
-            "address": "4580 S 2300 E Holladay, UT 84117",
+            "address": "4580 S 2300 E, Holladay, UT 84117, US",
             "id": "DAN487",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13554,7 +13554,7 @@
         },
         {
             "name": "Holly Farm (Portland), Oregon",
-            "address": "10819 SW Capitol Hwy, Portland, OR 97219",
+            "address": "10819 SW Capitol Hwy, Portland, OR 97219, US",
             "id": "DAN488",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13570,7 +13570,7 @@
         },
         {
             "name": "Honolulu (Aala)",
-            "address": "Oahu, Hawaii 228 N Beretania St., Honolulu, HI 96817",
+            "address": "228 N Beretania St, Honolulu, HI 96817, US",
             "id": "DAN489",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13586,7 +13586,7 @@
         },
         {
             "name": "Astoria",
-            "address": "900 W Marine Dr, Astoria, OR 97103",
+            "address": "900 W Marine Dr, Astoria, OR 97103, US",
             "id": "DAN49",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13602,7 +13602,7 @@
         },
         {
             "name": "Honolulu (Makiki)",
-            "address": "Oahu, Hawaii 1429 Keeaumoku St., Honolulu, HI 96822",
+            "address": "1429 Ke\u2019eaumoku St, Honolulu, HI 96822, US",
             "id": "DAN490",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13618,7 +13618,7 @@
         },
         {
             "name": "Hood River, Oregon",
-            "address": "N 20th St & Wasco St, Hood River, OR 97031",
+            "address": "N 20th St & Wasco St, Hood River, OR 97031, US",
             "id": "DAN491",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13634,7 +13634,7 @@
         },
         {
             "name": "Hopkins (Overpass)",
-            "address": "100 Washington Ave S., Hopkins, MN 55343",
+            "address": "100 Washington Ave S, Hopkins, MN 55343, US",
             "id": "DAN492",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13650,7 +13650,7 @@
         },
         {
             "name": "Hoquiam, Washington",
-            "address": "494 W Emerson Ave. Hoquiam, WA 98550",
+            "address": "494 W Emerson Ave, Hoquiam, WA 98550, US",
             "id": "DAN493",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13666,7 +13666,7 @@
         },
         {
             "name": "Horseshoe Bend",
-            "address": "300 ID-55, Horseshoe Bend, ID 83629",
+            "address": "300 ID-55, Horseshoe Bend, ID 83629, US",
             "id": "DAN494",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13682,7 +13682,7 @@
         },
         {
             "name": "Houghton (East Houghton Waterfront Park), Michigan",
-            "address": "1298 E Lakeshore Dr, Houghton, MI 49931",
+            "address": "1298 E Lakeshore Dr, Houghton, MI 49931, US",
             "id": "DAN495",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13698,7 +13698,7 @@
         },
         {
             "name": "Houston (EZ-7 Ditch), Texas",
-            "address": "Watonga Blvd, Houston, TX 77092",
+            "address": "Watonga Blvd, Houston, TX 77092, US",
             "id": "DAN496",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13714,7 +13714,7 @@
         },
         {
             "name": "Houston (Lee and Joe Jamail), Texas",
-            "address": "103 Sabine St Houston, TX 77007",
+            "address": "103 Sabine St, Houston, TX 77007, US",
             "id": "DAN497",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13730,7 +13730,7 @@
         },
         {
             "name": "Houston (Spring)",
-            "address": "12351 Kuykendahl Rd, Houston, TX 77090",
+            "address": "12351 Kuykendahl Rd, Houston, TX 77090, US",
             "id": "DAN498",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13746,7 +13746,7 @@
         },
         {
             "name": "Huntington Beach (Vans), California",
-            "address": "7471 Center Ave., Huntington Beach, CA 92647",
+            "address": "7471 Center Ave, Huntington Beach, CA 92647, US",
             "id": "DAN499",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13762,7 +13762,7 @@
         },
         {
             "name": "Athena",
-            "address": "E Main St & South 1st Street, Athena, OR 97813",
+            "address": "301 S Water St, Weston, OR 97886, US",
             "id": "DAN50",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13778,7 +13778,7 @@
         },
         {
             "name": "Huntington Beach, California",
-            "address": "7000 Norma Dr. Huntington Beach, CA 92647",
+            "address": "7000 Norma Dr, Huntington Beach, CA 92647, US",
             "id": "DAN500",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13794,7 +13794,7 @@
         },
         {
             "name": "Hurricane",
-            "address": "92 S 100 W, Hurricane, UT 84737",
+            "address": "92 S 100 W, Hurricane, UT 84737, US",
             "id": "DAN501",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13810,7 +13810,7 @@
         },
         {
             "name": "Hutchinson",
-            "address": "605 3rd Ave SE, Hutchinson, MN 55350",
+            "address": "605 3rd Ave SE, Hutchinson, MN 55350, US",
             "id": "DAN502",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13826,7 +13826,7 @@
         },
         {
             "name": "Hyrum, Utah",
-            "address": "176 S 1300 E #148, Hyrum, UT 84319",
+            "address": "176 S 1300 E #148, Hyrum, UT 84319, US",
             "id": "DAN503",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13842,7 +13842,7 @@
         },
         {
             "name": "Idaho City",
-            "address": "Four Pines Rd and hwy 21 Idaho City, ID 83631",
+            "address": "ID-21 & Four Pines Rd, Idaho City, ID 83631, US",
             "id": "DAN504",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13858,7 +13858,7 @@
         },
         {
             "name": "Idaho Falls, Idaho",
-            "address": "Soft Ball Dr. Idaho Falls, ID 83402",
+            "address": "Soft Ball Dr, Idaho Falls, ID 83402, US",
             "id": "DAN505",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13874,7 +13874,7 @@
         },
         {
             "name": "Idaho Springs",
-            "address": "3334 Riverside DR. Idaho Springs, CO",
+            "address": "3334 Riverside Dr, Idaho Springs, CO 80452, US",
             "id": "DAN506",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13890,7 +13890,7 @@
         },
         {
             "name": "Imperial Beach, California",
-            "address": "425 Imperial Beach Blvd. Imperial Beach, CA 91932",
+            "address": "425 Imperial Beach Blvd, Imperial Beach, CA 91932, US",
             "id": "DAN507",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13906,7 +13906,7 @@
         },
         {
             "name": "Independence",
-            "address": "S Hardy Ave & East 20th St S. Independence, MO 64052",
+            "address": "East 20th St S & S Hardy Ave, Independence, MO 64052, US",
             "id": "DAN508",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13922,7 +13922,7 @@
         },
         {
             "name": "Indianapolis (Willard Park), Indiana",
-            "address": "1901 E Washington St, Indianapolis, IN 46201",
+            "address": "1901 E Washington St, Indianapolis, IN 46201, US",
             "id": "DAN509",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13938,7 +13938,7 @@
         },
         {
             "name": "Athens",
-            "address": "701 E State St. Athens, OH 45701",
+            "address": "701 E State St, Athens, OH 45701, US",
             "id": "DAN51",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13954,7 +13954,7 @@
         },
         {
             "name": "Indianola",
-            "address": "602 N G St, Indianola, IA 50125",
+            "address": "602 N G St, Indianola, IA 50125, US",
             "id": "DAN510",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13970,7 +13970,7 @@
         },
         {
             "name": "Ione",
-            "address": "690 S Church St. Ione, CA 95640",
+            "address": "690 S Church St, Ione, CA 95640, US",
             "id": "DAN511",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -13986,7 +13986,7 @@
         },
         {
             "name": "Iowa City",
-            "address": "1201 N Dubuque St, Iowa City, IA 52245",
+            "address": "Beckwith Boat House, 1201 N Dubuque St, Iowa City, IA 52245, US",
             "id": "DAN512",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14002,7 +14002,7 @@
         },
         {
             "name": "Iron River (Bachman Park), Michigan",
-            "address": "449 W Franklin St, Iron River, MI 49935",
+            "address": "449 W Franklin St, Iron River, MI 49935, US",
             "id": "DAN513",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14018,7 +14018,7 @@
         },
         {
             "name": "Irrigon, Oregon",
-            "address": "8 NE Main Ave, Irrigon, OR 97844",
+            "address": "8 NE Main Ave, Irrigon, OR 97844, US",
             "id": "DAN514",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14034,7 +14034,7 @@
         },
         {
             "name": "Irvine, California",
-            "address": "14701 Harvard Ave., Irvine, CA 92606",
+            "address": "14701 Harvard Ave, Irvine, CA 92606, US",
             "id": "DAN515",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14050,7 +14050,7 @@
         },
         {
             "name": "Irving",
-            "address": "909 N O'Connor Rd., Irving, TX 75061",
+            "address": "909 N O'Connor Rd, Irving, TX 75061, US",
             "id": "DAN516",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14066,7 +14066,7 @@
         },
         {
             "name": "Irwindale, California",
-            "address": "5027 N Irwindale Ave., Irwindale, CA 91706",
+            "address": "5027 N Irwindale Ave, Irwindale, CA 91706, US",
             "id": "DAN517",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14082,7 +14082,7 @@
         },
         {
             "name": "Issaquah",
-            "address": "965 12th Ave NW Issaquah, WA 98027",
+            "address": "965 12th Ave NW, Issaquah, WA 98027, US",
             "id": "DAN518",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14098,7 +14098,7 @@
         },
         {
             "name": "Ivins",
-            "address": "200 W 400S, Ivins, UT 84738",
+            "address": "200 W 400 S, Ivins, UT 84738, US",
             "id": "DAN519",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14114,7 +14114,7 @@
         },
         {
             "name": "Athens, Georgia",
-            "address": "4440 Lexington Rd, Athens, GA 30605",
+            "address": "4440 Lexington Rd, Athens, GA 30605, US",
             "id": "DAN52",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14130,7 +14130,7 @@
         },
         {
             "name": "Jackson (Nixon Park), Michigan",
-            "address": "400 E North St, Jackson, MI 49202",
+            "address": "400 E North St, Jackson, MI 49202, US",
             "id": "DAN520",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14146,7 +14146,7 @@
         },
         {
             "name": "Jackson, Wyoming",
-            "address": "1374 Gregory Lane, Jackson, WY 83001",
+            "address": "1374 Gregory Ln, Jackson, WY 83001, US",
             "id": "DAN521",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14162,7 +14162,7 @@
         },
         {
             "name": "Jacksonville",
-            "address": "3751 Cemetery Rd., Jacksonville, OR 97530",
+            "address": "3751 Cemetery Rd, Jacksonville, OR 97530, US",
             "id": "DAN522",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14178,7 +14178,7 @@
         },
         {
             "name": "Jacksonville (Ed Austin Park), Florida",
-            "address": "Monument Rd & Cancun Dr. Jacksonville, FL 32225",
+            "address": "Monument Rd & Cancun Dr, Jacksonville, FL 32225, US",
             "id": "DAN523",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14194,7 +14194,7 @@
         },
         {
             "name": "Jacksonville (Kona!), Florida",
-            "address": "8739 Kona Ave. Jacksonville, FL 32211",
+            "address": "8739 Kona Ave, Jacksonville, FL 32211, US",
             "id": "DAN524",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14210,7 +14210,7 @@
         },
         {
             "name": "Janesville",
-            "address": "201 N Oakhill Ave, Janesville, WI 53548",
+            "address": "201 N Oakhill Ave, Janesville, WI 53548, US",
             "id": "DAN525",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14226,7 +14226,7 @@
         },
         {
             "name": "Jerome, Idaho",
-            "address": "301 1st Ave E, Jerome, ID 83338",
+            "address": "301 1st Ave E, Jerome, ID 83338, US",
             "id": "DAN526",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14242,7 +14242,7 @@
         },
         {
             "name": "Johnson City, Texas",
-            "address": "259 Old River Crossing, Johnson City, TX 78636",
+            "address": "259 Old River Crossing, Johnson City, TX 78636, US",
             "id": "DAN527",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14258,7 +14258,7 @@
         },
         {
             "name": "Joplin",
-            "address": "952 E 5th St. Joplin, MO 64801",
+            "address": "952 E 5th St, Joplin, MO 64801, US",
             "id": "DAN528",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14274,7 +14274,7 @@
         },
         {
             "name": "Kailua (Keolu)",
-            "address": "Oahu, Hawaii 1416 Keolu Dr., Kailua, HI 96734",
+            "address": "1416 Keolu Dr, Kailua, HI 96734, US",
             "id": "DAN529",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14290,7 +14290,7 @@
         },
         {
             "name": "Atlanta (4th Ward), Georgia",
-            "address": "830 Willoughby Way NE, Atlanta, GA 30312",
+            "address": "830 Willoughby Way NE, Atlanta, GA 30312, US",
             "id": "DAN53",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14306,7 +14306,7 @@
         },
         {
             "name": "Kalispell, Montana",
-            "address": "Woodland Park Dr & Shady Glen Dr. Kalispell, MT 59901",
+            "address": "Woodland Park Dr & Shady Glen Dr, Kalispell, MT 59901, US",
             "id": "DAN530",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14322,7 +14322,7 @@
         },
         {
             "name": "Kamiah",
-            "address": "801 2nd St, Kamiah, ID 83536",
+            "address": "801 2nd St, Kamiah, ID 83536, US",
             "id": "DAN531",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14338,7 +14338,7 @@
         },
         {
             "name": "Kamiloiki",
-            "address": "Oahu, Hawaii 830 Lunalilo Home Rd, Honolulu, HI 96825",
+            "address": "830 Lunalilo Home Rd, Honolulu, HI 96825, US",
             "id": "DAN532",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14354,7 +14354,7 @@
         },
         {
             "name": "Kanab",
-            "address": "Main Street and W 450 N St. Kanab, UT 84741",
+            "address": "W 450 N St, Kanab, UT 84741, US",
             "id": "DAN533",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14370,7 +14370,7 @@
         },
         {
             "name": "Kaneohe",
-            "address": "Oahu, Hawaii 45-691 Keaahala Rd., Kaneohe, HI 96744",
+            "address": "45-691 Keaahala Rd, Kaneohe, HI 96744, US",
             "id": "DAN534",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14386,7 +14386,7 @@
         },
         {
             "name": "Kansas City (Penn Valley)",
-            "address": "2900 Pennsylvania Ave. Kansas City, MO 64108",
+            "address": "2900 Pennsylvania Ave, Kansas City, MO 64108, US",
             "id": "DAN535",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14402,7 +14402,7 @@
         },
         {
             "name": "Kansas City (Pleasant Valley)",
-            "address": "5613 NE Pleasant Valley Rd. Kansas City, MO 64119",
+            "address": "5613 NE Pleasant Valley Rd, Kansas City, MO 64119, US",
             "id": "DAN536",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14418,7 +14418,7 @@
         },
         {
             "name": "Kapaau (Hawaii), Hawaii",
-            "address": "Kamehameha Park Rd, Kapaau, HI 96755",
+            "address": "Kamehameha Park Rd, Kapaau, HI 96755, US",
             "id": "DAN537",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14434,7 +14434,7 @@
         },
         {
             "name": "Kapolei",
-            "address": "Oahu, Hawaii 1077 Manawai St., Kapolei, HI 96707",
+            "address": "1077 Manawai St, Kapolei, HI 96707, US",
             "id": "DAN538",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14450,7 +14450,7 @@
         },
         {
             "name": "Kearney (Apollo), Nebraska",
-            "address": "507 W 33rd St, Kearney, NE 68845",
+            "address": "507 W 33rd St, Kearney, NE 68845, US",
             "id": "DAN539",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14466,7 +14466,7 @@
         },
         {
             "name": "Atlantic Beach",
-            "address": "850 Seminole Rd, Atlantic Beach, FL 32233",
+            "address": "850 Seminole Rd, Atlantic Beach, FL 32233, US",
             "id": "DAN54",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14482,7 +14482,7 @@
         },
         {
             "name": "Kearns, Utah",
-            "address": "5850 S 4800 W, Kearns, UT 84118",
+            "address": "5850 S 4800 W, Kearns, UT 84118, US",
             "id": "DAN540",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14498,7 +14498,7 @@
         },
         {
             "name": "Keenesburg",
-            "address": "Colorado",
+            "address": "203 S Harrison Ave, Fort Lupton, CO 80621, US",
             "id": "DAN541",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14514,7 +14514,7 @@
         },
         {
             "name": "Keizer, Oregon",
-            "address": "Rickman Rd NE & Hyson Ct NE Keizer, OR 97303",
+            "address": "Hyson Ct NE & Rickman Rd NE, Keizer, OR 97303, US",
             "id": "DAN542",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14530,7 +14530,7 @@
         },
         {
             "name": "Kellogg, Idaho",
-            "address": "511 Main St, Wardner, ID 83837",
+            "address": "511 Main St, Wardner, ID 83837, US",
             "id": "DAN543",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14546,7 +14546,7 @@
         },
         {
             "name": "Kelso, Washington",
-            "address": "1400 Burcham St Kelso, WA 98626",
+            "address": "1400 Burcham St, Kelso, WA 98626, US",
             "id": "DAN544",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14562,7 +14562,7 @@
         },
         {
             "name": "Kendallville, Indiana",
-            "address": "524 S Allen Chapel Rd, Kendallville, IN 46755",
+            "address": "524 S Allen Chapel Rd, Kendallville, IN 46755, US",
             "id": "DAN545",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14578,7 +14578,7 @@
         },
         {
             "name": "Kenmore",
-            "address": "68th Ave NE & NE 182nd St. Kenmore, WA 98028",
+            "address": "68th Ave NE & NE 182nd St, Kenmore, WA 98028, US",
             "id": "DAN546",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14594,7 +14594,7 @@
         },
         {
             "name": "Kennesaw, Georgia",
-            "address": "3140 Old 41 Hwy NW, Kennesaw, GA 30144",
+            "address": "3140 Old 41 Hwy NW, Kennesaw, GA 30144, US",
             "id": "DAN547",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14610,7 +14610,7 @@
         },
         {
             "name": "Kennewick, Washington",
-            "address": "741 S Dayton St, Kennewick, WA 99336",
+            "address": "741 S Dayton St, Kennewick, WA 99336, US",
             "id": "DAN548",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14626,7 +14626,7 @@
         },
         {
             "name": "Kent (Arbor Heights 360), Washington",
-            "address": "11525 SE 240th St, Kent, WA 98031",
+            "address": "11525 SE 240th St, Kent, WA 98031, US",
             "id": "DAN549",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14642,7 +14642,7 @@
         },
         {
             "name": "Auburn",
-            "address": "855 Pacific Ave. Auburn, CA 95603",
+            "address": "855 Pacific Ave, Auburn, CA 95603, US",
             "id": "DAN55",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14658,7 +14658,7 @@
         },
         {
             "name": "Kent (West Hill), Washington",
-            "address": "26005 42nd Ave S, Kent, WA 98032",
+            "address": "26005 42nd Ave S, Kent, WA 98032, US",
             "id": "DAN550",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14674,7 +14674,7 @@
         },
         {
             "name": "Kent, Washington",
-            "address": "W Smith St & N 7th Ave. Kent, WA 98032",
+            "address": "N 7th Ave & W Smith St, Kent, WA 98032, US",
             "id": "DAN551",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14690,7 +14690,7 @@
         },
         {
             "name": "Ketchum, Idaho",
-            "address": "1178 Warm Springs Rd, Ketchum, ID 83340",
+            "address": "Guy Cole Skate Park, 1178 Warm Springs Rd, Ketchum, ID 83340, US",
             "id": "DAN552",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14706,7 +14706,7 @@
         },
         {
             "name": "Kettle Falls, Washington",
-            "address": "600 S Meyers St. Kettle Falls, Washington 99141",
+            "address": "S Meyers St, Kettle Falls, WA 99141, US",
             "id": "DAN553",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14722,7 +14722,7 @@
         },
         {
             "name": "Kids That Rip!",
-            "address": "1927 N Gilbert Rd Mesa, AZ 85203",
+            "address": "1927 N Gilbert Rd, Mesa, AZ 85203, US",
             "id": "DAN554",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14738,7 +14738,7 @@
         },
         {
             "name": "Kingsport, Tennessee",
-            "address": "717 W Center St, Kingsport, TN 37660",
+            "address": "717 W Center St, Kingsport, TN 37660, US",
             "id": "DAN555",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14754,7 +14754,7 @@
         },
         {
             "name": "Kirkland, Washington",
-            "address": "211 Parkplace Center, Kirkland, WA 98033",
+            "address": "348 Parkplace Center, Kirkland, WA 98033, US",
             "id": "DAN556",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14770,7 +14770,7 @@
         },
         {
             "name": "Klamath Falls",
-            "address": "4500 Foothills Blvd., Klamath Falls, OR 97603",
+            "address": "4500 Foothills Blvd, Klamath Falls, OR 97603, US",
             "id": "DAN557",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14786,7 +14786,7 @@
         },
         {
             "name": "Knoxville",
-            "address": "526 N Lincoln St, Knoxville, IA 50138",
+            "address": "526 N Lincoln St, Knoxville, IA 50138, US",
             "id": "DAN558",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14802,7 +14802,7 @@
         },
         {
             "name": "Knoxville (Baker Creek), Tennessee Pump Track",
-            "address": "3700 Lancaster Dr, Knoxville, TN 37920",
+            "address": "Parking lot, 3700 Lancaster Dr, Knoxville, TN 37920, US",
             "id": "DAN559",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14818,7 +14818,7 @@
         },
         {
             "name": "Auburn",
-            "address": "1019 28th St NE, Auburn, WA 98002",
+            "address": "1019 28th St NE, Auburn, WA 98002, US",
             "id": "DAN56",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14834,7 +14834,7 @@
         },
         {
             "name": "Knoxville (Fountain City), Tennessee",
-            "address": "2540 Maple Dr, Knoxville, TN 37918,",
+            "address": "2540 Maple Dr, Knoxville, TN 37918, US",
             "id": "DAN560",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14850,7 +14850,7 @@
         },
         {
             "name": "Knoxville (Tyson Park), Tennessee",
-            "address": "Tyson McGhee Park St SW, Knoxville, TN 37919,",
+            "address": "Tyson McGhee Park St SW, Knoxville, TN 37919, US",
             "id": "DAN561",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14866,7 +14866,7 @@
         },
         {
             "name": "Kokomo",
-            "address": "400 W Pipeline Way, Kokomo, IN 46902",
+            "address": "400 W Pipeline Way, Kokomo, IN 46902, US",
             "id": "DAN562",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14882,7 +14882,7 @@
         },
         {
             "name": "Kokomo (Foster Park), Indiana",
-            "address": "215, W Superior St, Kokomo, IN 46901",
+            "address": "215 W Superior St, Kokomo, IN 46901, US",
             "id": "DAN563",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14898,7 +14898,7 @@
         },
         {
             "name": "Kokomo (Northside Park), Indiana Pump Track",
-            "address": "2200 N Main St, Kokomo, IN 46901",
+            "address": "2200 N Main St, Kokomo, IN 46901, US",
             "id": "DAN564",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14914,7 +14914,7 @@
         },
         {
             "name": "Kremmling, Colorado",
-            "address": "208 12th St, Kremmling, CO 80459",
+            "address": "208 12th St, Kremmling, CO 80459, US",
             "id": "DAN565",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14930,7 +14930,7 @@
         },
         {
             "name": "Kuna, Idaho",
-            "address": "351 W 2nd St, Kuna, ID 83634",
+            "address": "351 W 2nd St, Kuna, ID 83634, US",
             "id": "DAN566",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14946,7 +14946,7 @@
         },
         {
             "name": "La Center",
-            "address": "1000 E 4th St. La Center, WA 98629",
+            "address": "1000 E 4th St, La Center, WA 98629, US",
             "id": "DAN567",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14962,7 +14962,7 @@
         },
         {
             "name": "La Conner, Washington",
-            "address": "399 N 6th St, La Conner, WA 98257 La Conner, WA 98257",
+            "address": "399 N 6th St, La Conner, WA 98257, US",
             "id": "DAN568",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14978,7 +14978,7 @@
         },
         {
             "name": "La Grand",
-            "address": "Oak St & Palmer Ave. La Grande, OR 97850",
+            "address": "Palmer Ave, La Grande, OR 97850, US",
             "id": "DAN569",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -14994,7 +14994,7 @@
         },
         {
             "name": "Auburn (Eckhart Park), Indiana",
-            "address": "1500 S Cedar St, Auburn, IN 46706",
+            "address": "1500 S Cedar St, Auburn, IN 46706, US",
             "id": "DAN57",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15010,7 +15010,7 @@
         },
         {
             "name": "La Junta, Colorado",
-            "address": "Park Ave & W 12th St. La Junta, CO 81050",
+            "address": "W 12th St, La Junta, CO 81050, US",
             "id": "DAN570",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15026,7 +15026,7 @@
         },
         {
             "name": "La Mesa, California",
-            "address": "8855 Dallas St., La Mesa, CA 91942",
+            "address": "8855 Dallas St, La Mesa, CA 91942, US",
             "id": "DAN571",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15042,7 +15042,7 @@
         },
         {
             "name": "La Puente (Avocado Height), California",
-            "address": "621 4th Ave., Bassett, CA 91746",
+            "address": "621 4th Ave, Avocado Heights, CA 91746, US",
             "id": "DAN572",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15058,7 +15058,7 @@
         },
         {
             "name": "Ladera Ranch, California",
-            "address": "26203 Sienna Pkwy., Mission Viejo, CA 92692",
+            "address": "26203 Sienna Pkwy, Ladera Ranch, CA 92694, US",
             "id": "DAN573",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15074,7 +15074,7 @@
         },
         {
             "name": "Lafayette, Colorado",
-            "address": "450 N 111th St, Lafayette, CO 80026",
+            "address": "450 N 111th St, Lafayette, CO 80026, US",
             "id": "DAN574",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15090,7 +15090,7 @@
         },
         {
             "name": "LaGrange, Georgia",
-            "address": "309 Pierce St, LaGrange, GA 30240",
+            "address": "309 Pierce St, LaGrange, GA 30240, US",
             "id": "DAN575",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15106,7 +15106,7 @@
         },
         {
             "name": "Laguna Hills, California",
-            "address": "25401 Alicia Pkwy., Laguna Hills, CA 92653",
+            "address": "25401 Alicia Pkwy, Laguna Hills, CA 92653, US",
             "id": "DAN576",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15122,7 +15122,7 @@
         },
         {
             "name": "Laguna Niguel, California",
-            "address": "27745 Alicia Pkwy. Laguna Niguel, CA 92656",
+            "address": "27745 Alicia Pkwy, Laguna Niguel, CA 92677, US",
             "id": "DAN577",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15138,7 +15138,7 @@
         },
         {
             "name": "Lake City",
-            "address": "2700 NE 123rd St, Seattle, WA 98125",
+            "address": "2700 NE 123rd St, Seattle, WA 98125, US",
             "id": "DAN578",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15154,7 +15154,7 @@
         },
         {
             "name": "Lake Delton",
-            "address": "90 Progressive Dr, Lake Delton, WI 53940",
+            "address": "90 Progressive Dr, Lake Delton, WI 53940, US",
             "id": "DAN579",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15170,7 +15170,7 @@
         },
         {
             "name": "Ault",
-            "address": "Alpine Ave & Hwy 14, Ault, CO 80610",
+            "address": "CO-14 & Alpine Ave, Ault, CO 80610, US",
             "id": "DAN58",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15186,7 +15186,7 @@
         },
         {
             "name": "Lake Elsinore (McVicker Park), California",
-            "address": "29355 McVicker Canyon Park Rd, Lake Elsinore, CA 92530",
+            "address": "29355 McVicker Canyon Park Rd, Lake Elsinore, CA 92530, US",
             "id": "DAN580",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15202,7 +15202,7 @@
         },
         {
             "name": "Lake Elsinore (Serenity Park), California",
-            "address": "19800 Palomar St, Lake Elsinore, CA 92530",
+            "address": "19800 Palomar St, Lake Elsinore, CA 92530, US",
             "id": "DAN581",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15218,7 +15218,7 @@
         },
         {
             "name": "Lake Elsinore (Serenity Park), California Pump Track",
-            "address": "19800 Palomar St, Lake Elsinore, CA 92530",
+            "address": "19800 Palomar St, Lake Elsinore, CA 92530, US",
             "id": "DAN582",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15234,7 +15234,7 @@
         },
         {
             "name": "Lake Elsinore (Summerly Park), California",
-            "address": "29381 Vlg Pkwy Lp, Lake Elsinore, CA 92595",
+            "address": "29381 Vlg Pkwy Lp, Lake Elsinore, CA 92530, US",
             "id": "DAN583",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15250,7 +15250,7 @@
         },
         {
             "name": "Lake Havasu City, Arizona",
-            "address": "95 & S Smoketree Ave. Lake Havasu City, AZ 86403",
+            "address": "95 S Smoketree Ave, Lake Havasu City, AZ 86403, US",
             "id": "DAN584",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15266,7 +15266,7 @@
         },
         {
             "name": "Lake Mary, Florida",
-            "address": "550 Rantoul Ln. Lake Mary, FL 32746",
+            "address": "550 Rantoul Ln, Lake Mary, FL 32746, US",
             "id": "DAN585",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15282,7 +15282,7 @@
         },
         {
             "name": "Lake Stevens, Washington",
-            "address": "7708 20th St SE, Lake Stevens, WA 98258",
+            "address": "7708 20th St SE, Lake Stevens, WA 98258, US",
             "id": "DAN586",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15298,7 +15298,7 @@
         },
         {
             "name": "Lakeway, Texas",
-            "address": "3107 Lakeway Blvd. Austin, TX 78734",
+            "address": "3107 Lakeway Blvd, Lakeway, TX 78734, US",
             "id": "DAN587",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15314,7 +15314,7 @@
         },
         {
             "name": "Lakewood",
-            "address": "6002 Fairlawn Rd SW, Lakewood, WA 98499",
+            "address": "6002 Fairlawn Drive SW, Lakewood, WA 98499, US",
             "id": "DAN588",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15330,7 +15330,7 @@
         },
         {
             "name": "Lakewood (Skate Street), Colorado",
-            "address": "1231 S Reed St. Lakewood, CO 80226",
+            "address": "1231 S Reed St, Lakewood, CO 80226, US",
             "id": "DAN589",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15346,7 +15346,7 @@
         },
         {
             "name": "Aumsville",
-            "address": "8824 Mill Creek Rd SE. Aumsville, OR 97325",
+            "address": "8824 Mill Creek Rd SE, Aumsville, OR 97325, US",
             "id": "DAN59",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15362,7 +15362,7 @@
         },
         {
             "name": "Lakewood (Snake Run), Colorado",
-            "address": "930 S Youngfield Ct, Lakewood, CO 80228",
+            "address": "930 S Youngfield Ct, Lakewood, CO 80228, US",
             "id": "DAN590",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15378,7 +15378,7 @@
         },
         {
             "name": "Lakewood, Colorado",
-            "address": "1701 Harlan St, Lakewood, CO 80214",
+            "address": "1701 Harlan St, Lakewood, CO 80214, US",
             "id": "DAN591",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15394,7 +15394,7 @@
         },
         {
             "name": "Lancaster",
-            "address": "716 W Oldfield St Lancaster, CA 93534",
+            "address": "716 W Oldfield St, Lancaster, CA 93534, US",
             "id": "DAN592",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15410,7 +15410,7 @@
         },
         {
             "name": "Lancaster, Pennsylvania",
-            "address": "99 Yeates Ct, Lancaster, PA 17602",
+            "address": "99 Yeates Ct, Lancaster, PA 17602, US",
             "id": "DAN593",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15426,7 +15426,7 @@
         },
         {
             "name": "Lander",
-            "address": "Jefferson St & N 8th St Lander, WY 82520",
+            "address": "N 8th St, Lander, WY 82520, US",
             "id": "DAN594",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15442,7 +15442,7 @@
         },
         {
             "name": "Langdon",
-            "address": "170 Brent Blvd. Strathmore, AB T1P, Canada",
+            "address": "170 Brent Blvd, Strathmore, AB T1P 1V3, Canada",
             "id": "DAN595",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15458,7 +15458,7 @@
         },
         {
             "name": "Lansdowne",
-            "address": "3349 Bero Rd., Lansdowne, MD 21227",
+            "address": "3349 Bero Rd, Lansdowne, MD 21227, US",
             "id": "DAN596",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15474,7 +15474,7 @@
         },
         {
             "name": "Lansing (Ranney)",
-            "address": "3201 E Michigan Ave. Lansing, MI 48912",
+            "address": "3201 E Michigan Ave, Lansing, MI 48912, US",
             "id": "DAN597",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15490,7 +15490,7 @@
         },
         {
             "name": "Lapwai",
-            "address": "101 N Main St, Lapwai, ID 83540",
+            "address": "101 N Main St, Lapwai, ID 83540, US",
             "id": "DAN598",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15506,7 +15506,7 @@
         },
         {
             "name": "Laramie",
-            "address": "N 5th St & E Canby St, Laramie, WY 82072",
+            "address": "E Canby St & N 5th St, Laramie, WY 82072, US",
             "id": "DAN599",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15522,7 +15522,7 @@
         },
         {
             "name": "Aurora (Dayton), Colorado",
-            "address": "9701 E 16th Ave, Aurora, CO 80010",
+            "address": "9701 E 16th Ave, Aurora, CO 80010, US",
             "id": "DAN60",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15538,7 +15538,7 @@
         },
         {
             "name": "Las Vegas (Buffalo/Doc Romeo Park), Nevada",
-            "address": "7400 Peak Dr, Las Vegas, NV 89128",
+            "address": "7400 Peak Dr, Las Vegas, NV 89128, US",
             "id": "DAN600",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15554,7 +15554,7 @@
         },
         {
             "name": "Las Vegas (Cambridge)",
-            "address": "3930 S Cambridge St. Las Vegas, NV 89119",
+            "address": "3930 Cambridge St, Las Vegas, NV 89119, US",
             "id": "DAN601",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15570,7 +15570,7 @@
         },
         {
             "name": "Las Vegas (Desert Breeze), Nevada",
-            "address": "8425 Spring Mountain Rd, Las Vegas, NV 89147",
+            "address": "8425 Spring Mountain Rd, Las Vegas, NV 89147, US",
             "id": "DAN602",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15586,7 +15586,7 @@
         },
         {
             "name": "Las Vegas (Duck Creek), Nevada",
-            "address": "8699 Park Villa St, Las Vegas, NV 89123",
+            "address": "8699 Park Villa St, Las Vegas, NV 89123, US",
             "id": "DAN603",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15602,7 +15602,7 @@
         },
         {
             "name": "Las Vegas (Durango), Nevada",
-            "address": "3521 N Durango Dr. Las Vegas, NV 89129",
+            "address": "3521 N Durango Dr, Las Vegas, NV 89129, US",
             "id": "DAN604",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15618,7 +15618,7 @@
         },
         {
             "name": "Las Vegas (Freedom)",
-            "address": "N Mojave Rd & E Harris Ave. Las Vegas, NV 89101",
+            "address": "E Harris Ave & N Mojave Rd, Las Vegas, NV 89101, US",
             "id": "DAN605",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15634,7 +15634,7 @@
         },
         {
             "name": "Las Vegas (Garehime Heights)",
-            "address": "3850 N Campbell Rd. Las Vegas, NV 89129",
+            "address": "3850 N Campbell Rd, Las Vegas, NV 89129, US",
             "id": "DAN606",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15650,7 +15650,7 @@
         },
         {
             "name": "Las Vegas (Hollywood Park), Nevada",
-            "address": "1650 S Hollywood Blvd, Las Vegas, NV 89142",
+            "address": "1650 S Hollywood Blvd, Las Vegas, NV 89142, US",
             "id": "DAN607",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15666,7 +15666,7 @@
         },
         {
             "name": "Las Vegas (James Gay)",
-            "address": "Jackson Ave & B St. Las Vegas, NV 89106",
+            "address": "B St, Las Vegas, NV 89106, US",
             "id": "DAN608",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15682,7 +15682,7 @@
         },
         {
             "name": "Las Vegas (Metro Park), Nevada",
-            "address": "9911 W Gowan Rd. Las Vegas, NV 89147",
+            "address": "9911 W Gowan Rd, Las Vegas, NV 89147, US",
             "id": "DAN609",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15698,7 +15698,7 @@
         },
         {
             "name": "Aurora (Pathfinder), Colorado",
-            "address": "23493 E Minnow Dr, Aurora, CO 80016",
+            "address": "23493 E Minnow Dr, Aurora, CO 80016, US",
             "id": "DAN61",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15714,7 +15714,7 @@
         },
         {
             "name": "Las Vegas (MLK), Nevada",
-            "address": "5439 E Carey Ave Las Vegas, NV 89156",
+            "address": "Martin Luther King Skatepark, 5439 E Carey Ave, Las Vegas, NV 89156, US",
             "id": "DAN610",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15730,7 +15730,7 @@
         },
         {
             "name": "Las Vegas (Mt. Ridge)",
-            "address": "7151 Oso Blanca Rd. Las Vegas, NV 89149",
+            "address": "Mountain Ridge Park, 7151 Oso Blanca Rd, Las Vegas, NV 89149, US",
             "id": "DAN611",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15746,7 +15746,7 @@
         },
         {
             "name": "Las Vegas (Silverado Ranch), Nevada",
-            "address": "9855 Gilespie St, Las Vegas, NV 89183",
+            "address": "9855 Gilespie St, Las Vegas, NV 89183, US",
             "id": "DAN612",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15762,7 +15762,7 @@
         },
         {
             "name": "Las Vegas (Sunny Springs), Nevada",
-            "address": "7620 Golden Talon Ave, Las Vegas, NV 89131",
+            "address": "7620 Golden Talon Ave, Las Vegas, NV 89131, US",
             "id": "DAN613",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15778,7 +15778,7 @@
         },
         {
             "name": "Las Vegas (Wayne Bunker), Nevada",
-            "address": "7351 W Alexander Rd, Las Vegas, NV 89129",
+            "address": "7351 W Alexander Rd, Las Vegas, NV 89129, US",
             "id": "DAN614",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15794,7 +15794,7 @@
         },
         {
             "name": "Las Vegas (West Flamingo), Nevada",
-            "address": "6255 W. Flamingo Road Las Vegas, Nevada, 89103",
+            "address": "6255 W Flamingo Rd, Las Vegas, NV 89103, US",
             "id": "DAN615",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15810,7 +15810,7 @@
         },
         {
             "name": "Las Vegas (Winchester), Nevada",
-            "address": "3130 McLeod Dr. Las Vegas, NV 89121",
+            "address": "3130 McLeod Dr, Las Vegas, NV 89121, US",
             "id": "DAN616",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15826,7 +15826,7 @@
         },
         {
             "name": "Las Vegas, New Mexico",
-            "address": "1751 N Grand Ave, Las Vegas, NM 87701",
+            "address": "1751 N Grand Ave, Las Vegas, NM 87701, US",
             "id": "DAN617",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15842,7 +15842,7 @@
         },
         {
             "name": "Lawrence (Centennial Park), Kansas",
-            "address": "600 Rockledge Rd, Lawrence, KS 66049",
+            "address": "600 Rockledge Rd, Lawrence, KS 66049, US",
             "id": "DAN618",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15858,7 +15858,7 @@
         },
         {
             "name": "Lawrence (Deerfield Park), Kansas",
-            "address": "2901 W Princeton Blvd, Lawrence, KS 66049",
+            "address": "2901 W Princeton Blvd, Lawrence, KS 66049, US",
             "id": "DAN619",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15874,7 +15874,7 @@
         },
         {
             "name": "Aurora (Traditions Park)",
-            "address": "100 S. Jackson Gap Way Aurora, Colorado 80018",
+            "address": "100 S Jackson Gap Way, Aurora, CO 80018, US",
             "id": "DAN62",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15890,7 +15890,7 @@
         },
         {
             "name": "Lawrenceburg",
-            "address": "148 Front St. Lawrenceburg, IN 47025",
+            "address": "148 Front St, Lawrenceburg, IN 47025, US",
             "id": "DAN620",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15906,7 +15906,7 @@
         },
         {
             "name": "Lawrenceville, Georgia",
-            "address": "2777 Five Forks Trickum Rd SW, Lawrenceville, GA 30044",
+            "address": "2777 Five Forks Trickum Rd SW, Lawrenceville, GA 30044, US",
             "id": "DAN621",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15922,7 +15922,7 @@
         },
         {
             "name": "Layton, Utah",
-            "address": "760 N 2200 W Layton, UT 84041",
+            "address": "760 N 2200 W, Layton, UT 84041, US",
             "id": "DAN622",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15938,7 +15938,7 @@
         },
         {
             "name": "Le Mars (O\u00e2\u20ac\u2122Toole)",
-            "address": "Central Ave & 5th St N.E Le Mars, IA 51031",
+            "address": "5th St SE & Central Ave S, Le Mars, IA 51031, US",
             "id": "DAN623",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15954,7 +15954,7 @@
         },
         {
             "name": "Le Mars, Iowa",
-            "address": "194 12th St. SE Le Mars, IA 51031",
+            "address": "194 12th St SE, Le Mars, IA 51031, US",
             "id": "DAN624",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15970,7 +15970,7 @@
         },
         {
             "name": "Lead",
-            "address": "288 Washington St, Lead, SD 57754",
+            "address": "288 Washington St, Lead, SD 57754, US",
             "id": "DAN625",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -15986,7 +15986,7 @@
         },
         {
             "name": "Leadville",
-            "address": "505 W 5th St, Leadville, CO 80461",
+            "address": "505 W 5th St, Leadville, CO 80461, US",
             "id": "DAN626",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16002,7 +16002,7 @@
         },
         {
             "name": "Leadville Pump Track, Colorado",
-            "address": "505 W 5th St, Leadville, CO 80461",
+            "address": "505 W 5th St, Leadville, CO 80461, US",
             "id": "DAN627",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16018,7 +16018,7 @@
         },
         {
             "name": "Leander",
-            "address": "1100 Halsey Dr, Leander, TX 78641",
+            "address": "1100 Halsey Dr, Leander, TX 78641, US",
             "id": "DAN628",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16034,7 +16034,7 @@
         },
         {
             "name": "Leander (Lakewood), Texas",
-            "address": "10870 E Crystal Falls Pkwy, Leander, TX 78641",
+            "address": "10870 E Crystal Falls Pkwy, Leander, TX 78641, US",
             "id": "DAN629",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16050,7 +16050,7 @@
         },
         {
             "name": "Aurora (Wheel Park), Colorado",
-            "address": "2465 S Chambers Rd, Aurora, CO 80010",
+            "address": "2465 S Chambers Rd, Aurora, CO 80010, US",
             "id": "DAN63",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16066,7 +16066,7 @@
         },
         {
             "name": "Leavenworth, Washington",
-            "address": "Enchantment Parkway, Leavenworth, WA 98826",
+            "address": "Enchantment Park Way, Leavenworth, WA 98826, US",
             "id": "DAN630",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16082,7 +16082,7 @@
         },
         {
             "name": "Leavenworth, Washington Pump Track",
-            "address": "300 Enchantment Parkway, Leavenworth, WA 98826",
+            "address": "300 Enchantment Park Way, Leavenworth, WA 98826, US",
             "id": "DAN631",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16098,7 +16098,7 @@
         },
         {
             "name": "Lebanon",
-            "address": "300 Harrison St. Lebanon, OR 97355",
+            "address": "300 Harrison St, Lebanon, OR 97355, US",
             "id": "DAN632",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16114,7 +16114,7 @@
         },
         {
             "name": "Lees Summit",
-            "address": "Douglas St & E Chipman Rd. Lee's Summit, MO 64063",
+            "address": "E Chipman Rd & NE Douglas St, Lee's Summit, MO 64086, US",
             "id": "DAN633",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16130,7 +16130,7 @@
         },
         {
             "name": "Lehi",
-            "address": "2006 W 2100 N, Lehi, UT 84043",
+            "address": "2006 W 2100 N, Lehi, UT 84043, US",
             "id": "DAN634",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16146,7 +16146,7 @@
         },
         {
             "name": "Lenexa (Sar Ko Par Park)",
-            "address": "W 87th St Pkwy & Acuff Ln. Lenexa, KS 66215",
+            "address": "Acuff Ln & W 87th St, Lenexa, KS 66215, US",
             "id": "DAN635",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16162,7 +16162,7 @@
         },
         {
             "name": "Lethbridge",
-            "address": "545 6 Ave N. Lethbridge, AB T1H, Canada",
+            "address": "Dave Elton Park, 545 6 Ave N, Lethbridge, AB T1H 6N8, Canada",
             "id": "DAN636",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16178,7 +16178,7 @@
         },
         {
             "name": "Lethbridge (SLP)",
-            "address": "2305 Parkside Dr S. Lethbridge, AB T1J 4W3, Canada",
+            "address": "2305 Parkside Dr S, Lethbridge, AB T1J 4W3, Canada",
             "id": "DAN637",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16194,7 +16194,7 @@
         },
         {
             "name": "Lewiston, Idaho",
-            "address": "1114 Snake River Ave, Lewiston, ID 83501",
+            "address": "1114 Snake River Ave, Lewiston, ID 83501, US",
             "id": "DAN638",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16210,7 +16210,7 @@
         },
         {
             "name": "Lewistown",
-            "address": "Prospect Ave & Sereday St. Lewistown, MT 59457",
+            "address": "Sereday St & NE Prospect Ave, Lewistown, MT 59457, US",
             "id": "DAN639",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16226,7 +16226,7 @@
         },
         {
             "name": "Austin (House Park)",
-            "address": "1213 Shoal Creek Blvd., Austin, TX 78701",
+            "address": "1213 Shoal Creek Blvd, Austin, TX 78701, US",
             "id": "DAN64",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16242,7 +16242,7 @@
         },
         {
             "name": "Lewisville",
-            "address": "1301 S Railroad St., Lewisville, TX 75057",
+            "address": "1301 S Railroad St, Lewisville, TX 75057, US",
             "id": "DAN640",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16258,7 +16258,7 @@
         },
         {
             "name": "Lexington",
-            "address": "E High St & Park Ave. Lexington, KY 40502",
+            "address": "E High St & Park Ave, Lexington, KY 40502, US",
             "id": "DAN641",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16274,7 +16274,7 @@
         },
         {
             "name": "Lexington (Arbor Park), Nebraska",
-            "address": "Plum Creek Pkwy, Lexington, NE 68850",
+            "address": "Plum Creek Pkwy, Lexington, NE 68850, US",
             "id": "DAN642",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16290,7 +16290,7 @@
         },
         {
             "name": "Liberty Lake",
-            "address": "N Molter Rd, Liberty Lake, WA 99019",
+            "address": "N Molter Rd, Liberty Lake, WA , US",
             "id": "DAN643",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16306,7 +16306,7 @@
         },
         {
             "name": "Lilburn, Georgia",
-            "address": "5050 Five Forks Trickum Rd SW, Lilburn, GA 30047",
+            "address": "5050 Five Forks Trickum Rd SW, Lilburn, GA 30047, US",
             "id": "DAN644",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16322,7 +16322,7 @@
         },
         {
             "name": "Lincoln (Peter Pan), Nebraska",
-            "address": "32nd & X, Lincoln, NE 68503",
+            "address": "X St & N 32nd St, Lincoln, NE 68503, US",
             "id": "DAN645",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16338,7 +16338,7 @@
         },
         {
             "name": "Lincoln (Tierra Briarhurst), Nebraska",
-            "address": "4931 S 30th St, Lincoln, NE 68516",
+            "address": "4931 S 30th St, Lincoln, NE 68516, US",
             "id": "DAN646",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16354,7 +16354,7 @@
         },
         {
             "name": "Lincoln City, Oregon",
-            "address": "2205 NE 22nd St, Lincoln City, OR 97367",
+            "address": "2205 NE 22nd St, Lincoln City, OR 97367, US",
             "id": "DAN647",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16370,7 +16370,7 @@
         },
         {
             "name": "Lincoln, Montana",
-            "address": "102 9th Ave, Lincoln, MT 59639",
+            "address": "102 9th Ave, Lincoln, MT 59639, US",
             "id": "DAN648",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16386,7 +16386,7 @@
         },
         {
             "name": "Littleton (Clement), Colorado",
-            "address": "7706 W Bowles Ave Littleton, CO 80123",
+            "address": "7706 W Bowles Ave, Littleton, CO 80123, US",
             "id": "DAN649",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16402,7 +16402,7 @@
         },
         {
             "name": "Austin (Lizard Ditch), Texas",
-            "address": "5106 Canella Dr, Austin, TX 78744",
+            "address": "5106 Canella Dr, Austin, TX 78744, US",
             "id": "DAN65",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16418,7 +16418,7 @@
         },
         {
             "name": "Littleton (Cornerstone), Colorado",
-            "address": "6000 S Gallup St, Littleton, CO 80120",
+            "address": "6000 S Gallup St, Littleton, CO 80120, US",
             "id": "DAN650",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16434,7 +16434,7 @@
         },
         {
             "name": "Littleton (Promise Park)",
-            "address": "233 W Powers Pl, Littleton, CO 80120",
+            "address": "Promise Park, 233 W Powers Pl, Littleton, CO 80120, US",
             "id": "DAN651",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16450,7 +16450,7 @@
         },
         {
             "name": "Livingston",
-            "address": "229 River Dr. Livingston, MT 59047",
+            "address": "229 River Dr, Livingston, MT 59047, US",
             "id": "DAN652",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16466,7 +16466,7 @@
         },
         {
             "name": "Lockhart, Texas",
-            "address": "416 Carver St, Lockhart, TX 78644",
+            "address": "416 Carver St, Lockhart, TX 78644, US",
             "id": "DAN653",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16482,7 +16482,7 @@
         },
         {
             "name": "Lodge Grass",
-            "address": "429 Hester Ave Lodge Grass, MT 59050",
+            "address": "429 Hester Ave, Lodge Grass, MT 59050, US",
             "id": "DAN654",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16498,7 +16498,7 @@
         },
         {
             "name": "Log Lane Village",
-            "address": "100 Elm St, Log Lane Village, CO 80705",
+            "address": "100 Elm St, Log Lane Village, CO 80705, US",
             "id": "DAN655",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16514,7 +16514,7 @@
         },
         {
             "name": "Logan, Utah",
-            "address": "600 W 500 S. Logan, UT 84321",
+            "address": "600 W 500 S, Logan, UT 84321, US",
             "id": "DAN656",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16530,7 +16530,7 @@
         },
         {
             "name": "Loganville (BayCreek) Georgia",
-            "address": "143 Ozora Rd, Loganville, GA 30052",
+            "address": "143 Ozora Rd, Loganville, GA 30052, US",
             "id": "DAN657",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16546,7 +16546,7 @@
         },
         {
             "name": "Lompoc",
-            "address": "305 W College Ave. Lompoc, CA 93436",
+            "address": "305 W College Ave, Lompoc, CA 93436, US",
             "id": "DAN658",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16562,7 +16562,7 @@
         },
         {
             "name": "Long Beach (Cherry), California",
-            "address": "2098 2nd St Long Beach, CA 90803",
+            "address": "2098 2nd St, Long Beach, CA 90803, US",
             "id": "DAN659",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16578,7 +16578,7 @@
         },
         {
             "name": "Austin (Mueller/Gaylord Sackler Memorial), Texas",
-            "address": "3730 Manor Rd, Austin, TX 78723",
+            "address": "3730 Manor Rd, Austin, TX 78723, US",
             "id": "DAN66",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16594,7 +16594,7 @@
         },
         {
             "name": "Long Beach (El Dorado), California",
-            "address": "2760 N Studebaker Rd Long Beach, CA 90815",
+            "address": "2760 N Studebaker Rd, Long Beach, CA 90815, US",
             "id": "DAN660",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16610,7 +16610,7 @@
         },
         {
             "name": "Long Beach (Houghton), California",
-            "address": "1170 E Harding St Long Beach, CA 90805",
+            "address": "1170 E Harding St, Long Beach, CA 90805, US",
             "id": "DAN661",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16626,7 +16626,7 @@
         },
         {
             "name": "Long Beach (Orizaba), California",
-            "address": "2937 E 14th St Long Beach, CA 90804",
+            "address": "2937 E 14th St, Long Beach, CA 90804, US",
             "id": "DAN662",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16642,7 +16642,7 @@
         },
         {
             "name": "Long Beach (Robert Gumbimer), California",
-            "address": "855 E 6th St Long Beach, CA 90802",
+            "address": "855 E 6th St, Long Beach, CA 90802, US",
             "id": "DAN663",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16658,7 +16658,7 @@
         },
         {
             "name": "Longmont (Blue Skies Park), Colorado",
-            "address": "1520 Mountain Dr, Longmont, CO 80503",
+            "address": "1520 Mountain Dr, Longmont, CO 80503, US",
             "id": "DAN664",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16674,7 +16674,7 @@
         },
         {
             "name": "Longmont (Mountain Shadows Park) Pump Track, Colorado",
-            "address": "11267 Carbondale St, Longmont, CO 80504",
+            "address": "11267 Carbondale St, Longmont, CO 80504, US",
             "id": "DAN665",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16690,7 +16690,7 @@
         },
         {
             "name": "Longmont (Quail Community Park), Colorado",
-            "address": "310 Quail Rd. Longmont, CO 80501",
+            "address": "310 Quail Rd, Longmont, CO 80501, US",
             "id": "DAN666",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16706,7 +16706,7 @@
         },
         {
             "name": "Longmont (Rough & Ready Park), Colorado",
-            "address": "301 E 21st Ave, Longmont, CO 80501",
+            "address": "301 E 21st Ave, Longmont, CO 80501, US",
             "id": "DAN667",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16722,7 +16722,7 @@
         },
         {
             "name": "Longmont (Sandstone Ranch Park), Colorado",
-            "address": "3001 CO-119, Longmont, CO 80504",
+            "address": "3001 CO-119, Longmont, CO 80504, US",
             "id": "DAN668",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16738,7 +16738,7 @@
         },
         {
             "name": "Longmont (Stephen Day Park), Colorado",
-            "address": "1340 Deerwood Dr. Longmont, CO 80504",
+            "address": "1340 Deerwood Dr, Longmont, CO 80504, US",
             "id": "DAN669",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16754,7 +16754,7 @@
         },
         {
             "name": "Austin (Wells Branch MUD), Texas",
-            "address": "3000 Shoreline Dr, Austin, TX 78728",
+            "address": "3000 Shoreline Dr, Austin, TX 78728, US",
             "id": "DAN67",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16770,7 +16770,7 @@
         },
         {
             "name": "Longview, Washington",
-            "address": "2750 Douglas St. Longview, WA 98632",
+            "address": "2750 Douglas St, Longview, WA 98632, US",
             "id": "DAN670",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16786,7 +16786,7 @@
         },
         {
             "name": "Los Angeles (Garvanza), California",
-            "address": "6240 Meridian St., Los Angeles, CA 90042",
+            "address": "6240 Meridian St, Los Angeles, CA 90042, US",
             "id": "DAN671",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16802,7 +16802,7 @@
         },
         {
             "name": "Los Angeles (Hansen Dam), California",
-            "address": "12074 Osborne St. Lake View Terrace, CA 91342",
+            "address": "12074 Osborne St, Los Angeles, CA 91342, US",
             "id": "DAN672",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16818,7 +16818,7 @@
         },
         {
             "name": "Los Angeles (Harbor City)",
-            "address": "24811 Frampton Ave Harbor City, CA 90710",
+            "address": "24811 Frampton Ave, Los Angeles, CA 90710, US",
             "id": "DAN673",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16834,7 +16834,7 @@
         },
         {
             "name": "Los Osos",
-            "address": "2180 Palisades Ave Los Osos, CA 93402",
+            "address": "2180 Palisades Ave, Baywood-Los Osos, CA 93402, US",
             "id": "DAN674",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16850,7 +16850,7 @@
         },
         {
             "name": "Louisville",
-            "address": "531 Franklin St. Louisville, KY 40202",
+            "address": "531 Franklin St, Louisville, KY 40202, US",
             "id": "DAN675",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16866,7 +16866,7 @@
         },
         {
             "name": "Louisville, Colorado",
-            "address": "W Via Appia Way & Eldorado Ln. Louisville, CO 80027",
+            "address": "Via Appia Way & Eldorado Ln, Louisville, CO 80027, US",
             "id": "DAN676",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16882,7 +16882,7 @@
         },
         {
             "name": "Loveland (Fairground Park), Colorado",
-            "address": "700 S Railroad Ave, Loveland, CO 80537",
+            "address": "700 S Railroad Ave, Loveland, CO 80537, US",
             "id": "DAN677",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16898,7 +16898,7 @@
         },
         {
             "name": "Loveland (Mehaffey Park), Colorado",
-            "address": "3350 W 29th St, Loveland, CO 80538",
+            "address": "3350 W 29th St, Loveland, CO 80538, US",
             "id": "DAN678",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16914,7 +16914,7 @@
         },
         {
             "name": "Loveland (Mehaffey Park), Colorado",
-            "address": "3350 W 29th St, Loveland, CO 80538",
+            "address": "3350 W 29th St, Loveland, CO 80538, US",
             "id": "DAN679",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16930,7 +16930,7 @@
         },
         {
             "name": "Austin, Texas ( Mabel Davis)",
-            "address": "3427 Parker Ln Austin, TX 78741",
+            "address": "3427 Parker Ln, Austin, TX 78741, US",
             "id": "DAN68",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16946,7 +16946,7 @@
         },
         {
             "name": "Loveland, Colorado",
-            "address": "950 N. Boyd Lake Ave. Loveland, CO 80537",
+            "address": "950 N Boyd Lake Ave, Loveland, CO 80537, US",
             "id": "DAN680",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16962,7 +16962,7 @@
         },
         {
             "name": "Lovell",
-            "address": "598 6th St #300 Lovell, WY 82431",
+            "address": "598 6th St #300, Lovell, WY 82431, US",
             "id": "DAN681",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16978,7 +16978,7 @@
         },
         {
             "name": "Lovelock, Nevada",
-            "address": "1085 Amherst Ave, Lovelock, NV 89419",
+            "address": "1085 Amherst Ave, Lovelock, NV 89419, US",
             "id": "DAN682",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -16994,7 +16994,7 @@
         },
         {
             "name": "Ludington (Stearns Park), Michigan",
-            "address": "420 N Lakeshore Dr, Ludington, MI 49431",
+            "address": "420 N Lakeshore Dr, Ludington, MI 49431, US",
             "id": "DAN683",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17010,7 +17010,7 @@
         },
         {
             "name": "Lusk",
-            "address": "345 N Elm St., Lusk, WY 82225",
+            "address": "345 N Elm St, Lusk, WY 82225, US",
             "id": "DAN684",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17026,7 +17026,7 @@
         },
         {
             "name": "Lyle, Washington",
-            "address": "Klickitat St & 3rd St. Lyle, WA 98635",
+            "address": "3rd St & Klickitat St, Lyle, WA 98635, US",
             "id": "DAN685",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17042,7 +17042,7 @@
         },
         {
             "name": "Lynnwood (Martha Lake), Washington",
-            "address": "200 146th St SW Lynnwood, WA 98087",
+            "address": "200 146th St SW, Lynnwood, WA 98087, US",
             "id": "DAN686",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17058,7 +17058,7 @@
         },
         {
             "name": "Lynnwood, Washington",
-            "address": "7326 Olympic View Dr. Edmonds, WA 98026",
+            "address": "7326 Olympic View Dr, Lynnwood, WA 98037, US",
             "id": "DAN687",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17074,7 +17074,7 @@
         },
         {
             "name": "Lynwood, California",
-            "address": "11301 Bullis Rd Lynwood, CA 90262",
+            "address": "11301 Bullis Rd, Lynwood, CA 90262, US",
             "id": "DAN688",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17090,7 +17090,7 @@
         },
         {
             "name": "Lyons, Colorado",
-            "address": "199 2nd Ave, Lyons, CO 80540",
+            "address": "199 2nd Ave, Lyons, CO 80540, US",
             "id": "DAN689",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17106,7 +17106,7 @@
         },
         {
             "name": "Aztec, New Mexico",
-            "address": "600 Llano St. Aztec, NM 87410",
+            "address": "600 Llano St, Aztec, NM 87410, US",
             "id": "DAN69",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17122,7 +17122,7 @@
         },
         {
             "name": "Madison",
-            "address": "1150 E Wilson St, Madison, WI 53703",
+            "address": "1150 E Wilson St, Madison, WI 53703, US",
             "id": "DAN690",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17138,7 +17138,7 @@
         },
         {
             "name": "Madras",
-            "address": "SW H St & SW Marshall St. Madras, OR 97741",
+            "address": "SW Marshall St & SW H St, Madras, OR 97741, US",
             "id": "DAN691",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17154,7 +17154,7 @@
         },
         {
             "name": "Malta",
-            "address": "S 12th St E & Ruby Ave. Malta, MT 59538",
+            "address": "S 12th St E & Ruby Ave, Malta, MT 59538, US",
             "id": "DAN692",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17170,7 +17170,7 @@
         },
         {
             "name": "Mammoth Lakes",
-            "address": "1390 Meridian Blvd. Mammoth Lakes, CA 93546",
+            "address": "1390 Meridian Blvd, Mammoth Lakes, CA 93546, US",
             "id": "DAN693",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17186,7 +17186,7 @@
         },
         {
             "name": "Mandan, North Dakota",
-            "address": "901 Division St NW, Mandan, ND 58554",
+            "address": "901 Division St NW, Mandan, ND 58554, US",
             "id": "DAN694",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17202,7 +17202,7 @@
         },
         {
             "name": "Manitou Springs Colorado,",
-            "address": "101 El Paso Blvd, Colorado Springs, CO 80903",
+            "address": "101 El Paso Blvd, Colorado Springs, CO 80903, US",
             "id": "DAN695",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17218,7 +17218,7 @@
         },
         {
             "name": "Mansfield (Clayton Chandler), Texas",
-            "address": "1530 N. Walnut Creek Drive Mansfield, TX 76063",
+            "address": "1530 N Walnut Creek Dr, Mansfield, TX 76063, US",
             "id": "DAN696",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17234,7 +17234,7 @@
         },
         {
             "name": "Manteca, California",
-            "address": "211 Elm Ave. Manteca, CA 95336",
+            "address": "211 Elm Ave, Manteca, CA 95336, US",
             "id": "DAN697",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17250,7 +17250,7 @@
         },
         {
             "name": "Maple Grove",
-            "address": "12951 Weaver Lake Rd., Maple Grove, MN 55369",
+            "address": "12951 Weaver Lake Rd, Maple Grove, MN 55369, US",
             "id": "DAN698",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17266,7 +17266,7 @@
         },
         {
             "name": "Maple Valley (Summit Park)",
-            "address": "23675 SE Tahoma Way, Maple Valley, WA 98038",
+            "address": "23675 SE Tahoma Way, Maple Valley, WA 98038, US",
             "id": "DAN699",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17282,7 +17282,7 @@
         },
         {
             "name": "Bagdad, Arizona",
-            "address": "poplar ct. and Palo Verde rd., Bagdad, AZ. 86321",
+            "address": "Palo Verde Rd & Poplar Ct, Bagdad, AZ 86321, US",
             "id": "DAN70",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17298,7 +17298,7 @@
         },
         {
             "name": "Maple Valley, Washington",
-            "address": "22010 SE 248th St. Maple Valley, WA 98038",
+            "address": "22010 SE 248th St, Maple Valley, WA 98038, US",
             "id": "DAN700",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17314,7 +17314,7 @@
         },
         {
             "name": "Marble Falls",
-            "address": "Buena Vista Dr & Yett St., Marble Falls, TX 78654",
+            "address": "Buena Vista Dr & Yett St, Marble Falls, TX 78654, US",
             "id": "DAN701",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17330,7 +17330,7 @@
         },
         {
             "name": "Marion (Butterfield Park)",
-            "address": "3500 29th Ave, Marion, IA 52302",
+            "address": "3500 29th Ave, Marion, IA 52302, US",
             "id": "DAN702",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17346,7 +17346,7 @@
         },
         {
             "name": "Marysville (Jennings Park), Washington Pump Track",
-            "address": "SR 528 and 53rd Avenue NE, Marysville, WA 98270",
+            "address": "WA-528 & 53rd Ave NE, Marysville, WA 98270, US",
             "id": "DAN703",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17362,7 +17362,7 @@
         },
         {
             "name": "Marysville, Washington",
-            "address": "1050 Columbia Ave, Marysville, WA 98270",
+            "address": "1050 Columbia Ave, Marysville, WA 98270, US",
             "id": "DAN704",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17378,7 +17378,7 @@
         },
         {
             "name": "Mason",
-            "address": "299 E Randolph St. Mason, MI 48854",
+            "address": "299 E Randolph St, Mason, MI 48854, US",
             "id": "DAN705",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17394,7 +17394,7 @@
         },
         {
             "name": "McCall, Idaho",
-            "address": "128 Idaho St. McCall, ID 83638",
+            "address": "128 Idaho St, McCall, ID 83638, US",
             "id": "DAN706",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17410,7 +17410,7 @@
         },
         {
             "name": "McCook, Nebraska",
-            "address": "71 E M St, McCook, NE 69001",
+            "address": "71 E M St, McCook, NE 69001, US",
             "id": "DAN707",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17426,7 +17426,7 @@
         },
         {
             "name": "McKinney",
-            "address": "7001 Eldorado Pkwy, McKinney, TX 75070",
+            "address": "7001 Eldorado Pkwy, McKinney, TX 75070, US",
             "id": "DAN708",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17442,7 +17442,7 @@
         },
         {
             "name": "McMinnville",
-            "address": "1650 E Brooks St, McMinnville, OR 97128",
+            "address": "1650 SE Brooks St, McMinnville, OR 97128, US",
             "id": "DAN709",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17458,7 +17458,7 @@
         },
         {
             "name": "Bainbridge Island",
-            "address": "7666 High School Rd NE, Bainbridge Island, WA 98110",
+            "address": "7666 High School Rd NE, Bainbridge Island, WA 98110, US",
             "id": "DAN71",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17474,7 +17474,7 @@
         },
         {
             "name": "Mead, Colorado",
-            "address": "Dillingham Ave & 1st St. Mead, CO 80542",
+            "address": "1st St & Dillingham Ave, Mead, CO 80542, US",
             "id": "DAN710",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17490,7 +17490,7 @@
         },
         {
             "name": "Medford, Oregon",
-            "address": "700 Highland Dr, Medford, OR 97504",
+            "address": "700 Highland Dr, Medford, OR 97504, US",
             "id": "DAN711",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17506,7 +17506,7 @@
         },
         {
             "name": "Medicine Hat",
-            "address": "88 Kipling St SE Medicine Hat, AB T1A 1Y3, Canada",
+            "address": "88 Kipling St SE, Medicine Hat, AB T1A 1Y3, Canada",
             "id": "DAN712",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17522,7 +17522,7 @@
         },
         {
             "name": "Memphis, Tennessee",
-            "address": "2599 Avery Ave, Memphis, TN 38112",
+            "address": "2599 Avery Ave, Memphis, TN 38112, US",
             "id": "DAN713",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17538,7 +17538,7 @@
         },
         {
             "name": "Menlo Park",
-            "address": "600 Alma St., Menlo Park, CA 94025",
+            "address": "600 Alma St, Menlo Park, CA 94025, US",
             "id": "DAN714",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17554,7 +17554,7 @@
         },
         {
             "name": "Mercer Island, Washington",
-            "address": "3009 77th Ave SE, Mercer Island, WA 98040",
+            "address": "3009 77th Ave SE, Mercer Island, WA 98040, US",
             "id": "DAN715",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17570,7 +17570,7 @@
         },
         {
             "name": "Meridian",
-            "address": "2500 N Linder Rd. Meridian, ID 83646",
+            "address": "2500 N Linder Rd, Meridian, ID 83646, US",
             "id": "DAN716",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17586,7 +17586,7 @@
         },
         {
             "name": "Meridian (Discovery Park), Idaho",
-            "address": "2121 E Lake Hazel Rd, Meridian, ID 83642",
+            "address": "2121 E Lake Hazel Rd, Meridian, ID 83642, US",
             "id": "DAN717",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17602,7 +17602,7 @@
         },
         {
             "name": "Middleton",
-            "address": "472 W Main St. Middleton, ID 83644",
+            "address": "472 W Main St, Middleton, ID 83644, US",
             "id": "DAN718",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17618,7 +17618,7 @@
         },
         {
             "name": "Middleton",
-            "address": "7701 Terrace Ave, Middleton, WI 53562",
+            "address": "7701 Terrace Ave, Middleton, WI 53562, US",
             "id": "DAN719",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17634,7 +17634,7 @@
         },
         {
             "name": "Baker",
-            "address": "6th St SE Baker, MT 59313",
+            "address": "6th St SE, Baker, MT 59313, US",
             "id": "DAN72",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17650,7 +17650,7 @@
         },
         {
             "name": "Midvale, Utah",
-            "address": "8446 Harrison St. Midvale, UT 84047",
+            "address": "8446 Harrison St, Midvale, UT 84047, US",
             "id": "DAN720",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17666,7 +17666,7 @@
         },
         {
             "name": "Mililani",
-            "address": "Oahu, Hawaii Lanikuhana Ave & Hokuala St. Mililani, HI 96789",
+            "address": "Lanikuhana Ave & Hokuala St, Mililani, HI 96789, US",
             "id": "DAN721",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17682,7 +17682,7 @@
         },
         {
             "name": "Mill Creek, Washington",
-            "address": "13901 Heatherwood Dr, Mill Creek, WA 98012",
+            "address": "13901 Heatherwood Dr, Mill Creek, WA 98012, US",
             "id": "DAN722",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17698,7 +17698,7 @@
         },
         {
             "name": "Milliken, Colorado",
-            "address": "Elm St & S Harriet Ave. Milliken, CO 80543",
+            "address": "S Harriet Ave, Milliken, CO 80543, US",
             "id": "DAN723",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17714,7 +17714,7 @@
         },
         {
             "name": "Milton-Freewater",
-            "address": "N.E. 8th Avenue and Robbins ST., Milton-Freewater, OR 97862",
+            "address": "Robbins St & NE 8th Ave, Milton-Freewater, OR 97862, US",
             "id": "DAN724",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17730,7 +17730,7 @@
         },
         {
             "name": "Milton, Washington",
-            "address": "903 23rd Ave, Milton, WA 98354",
+            "address": "903 23rd Ave, Milton, WA 98354, US",
             "id": "DAN725",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17746,7 +17746,7 @@
         },
         {
             "name": "Minneapolis (2nd Street)",
-            "address": "2000 NE 2nd St. Minneapolis, MN 55418",
+            "address": "2000 NE 2nd St, Minneapolis, MN 55418, US",
             "id": "DAN726",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17762,7 +17762,7 @@
         },
         {
             "name": "Minneapolis (Elliot)",
-            "address": "1000 E 14th St, Minneapolis, MN 55404",
+            "address": "1000 E 14th St, Minneapolis, MN 55404, US",
             "id": "DAN727",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17778,7 +17778,7 @@
         },
         {
             "name": "Minneapolis (JXT)",
-            "address": "2007 N Emerson Ave, Minneapolis, MN 55411",
+            "address": "2007 N Emerson Ave, Minneapolis, MN 55411, US",
             "id": "DAN728",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17794,7 +17794,7 @@
         },
         {
             "name": "Mission Viejo, California",
-            "address": "24171 Pavion, Mission Viejo, CA 92692",
+            "address": "24171 Pavion, Mission Viejo, CA 92692, US",
             "id": "DAN729",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17810,7 +17810,7 @@
         },
         {
             "name": "Baker City",
-            "address": "555 Baker St. Baker City, OR 97814",
+            "address": "555 Baker St, Baker City, OR 97814, US",
             "id": "DAN73",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17826,7 +17826,7 @@
         },
         {
             "name": "Missoula, Montana",
-            "address": "15 S Orange St. Missoula, MT 59801",
+            "address": "15 S Orange St, Missoula, MT 59801, US",
             "id": "DAN730",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17842,7 +17842,7 @@
         },
         {
             "name": "Moab",
-            "address": "370 N 100 W Moab, UT 84532",
+            "address": "370 N 100 W, Moab, UT 84532, US",
             "id": "DAN731",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17858,7 +17858,7 @@
         },
         {
             "name": "Monroe",
-            "address": "Fryelands Blvd & Wales St SE Monroe, WA 98272",
+            "address": "Wales St SE & Fryelands Blvd, Monroe, WA 98272, US",
             "id": "DAN732",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17874,7 +17874,7 @@
         },
         {
             "name": "Monrovia, California",
-            "address": "847 E Olive Ave., Monrovia, CA 91016",
+            "address": "847 E Olive Ave, Monrovia, CA 91016, US",
             "id": "DAN733",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17890,7 +17890,7 @@
         },
         {
             "name": "Montclair, California",
-            "address": "5201 Benito St., Montclair, CA 91763",
+            "address": "5201 Benito St, Montclair, CA 91763, US",
             "id": "DAN734",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17906,7 +17906,7 @@
         },
         {
             "name": "Monte Vista, Colorado",
-            "address": "1401-, 1475 Park Ave. Monte Vista, CO 81144",
+            "address": "1475 Park Ave, Monte Vista, CO 81144, US",
             "id": "DAN735",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17922,7 +17922,7 @@
         },
         {
             "name": "Monticello, Utah",
-            "address": "1st St N & N 100 E Monticello, UT 84535",
+            "address": "N 100 E & 1st St N, Monticello, UT 84535, US",
             "id": "DAN736",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17938,7 +17938,7 @@
         },
         {
             "name": "Montrose, Colorado",
-            "address": "205 Apollo Rd, Montrose, CO 81401",
+            "address": "205 Apollo Rd, Montrose, CO 81401, US",
             "id": "DAN737",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17954,7 +17954,7 @@
         },
         {
             "name": "Monument, Colorado",
-            "address": "552 Beacon Lite Rd. Monument, CO 80132",
+            "address": "552 Beacon Lite Rd, Monument, CO 80132, US",
             "id": "DAN738",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17970,7 +17970,7 @@
         },
         {
             "name": "Moorpark",
-            "address": "500 Poindexter Ave. Moorpark, CA 93021",
+            "address": "500 Poindexter Ave, Moorpark, CA 93021, US",
             "id": "DAN739",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -17986,7 +17986,7 @@
         },
         {
             "name": "Ballard, Washington",
-            "address": "5701 22nd Ave NW, Seattle, WA 98107",
+            "address": "5701 22nd Ave NW, Seattle, WA 98107, US",
             "id": "DAN74",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18002,7 +18002,7 @@
         },
         {
             "name": "Morgan Hill, California",
-            "address": "171 W Edmundson Ave., Morgan Hill, CA 95037",
+            "address": "171 W Edmundson Ave, Morgan Hill, CA 95037, US",
             "id": "DAN740",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18018,7 +18018,7 @@
         },
         {
             "name": "Morro Bay",
-            "address": "229 Atascadero Rd. Morro Bay, CA 93442",
+            "address": "229 Atascadero Rd, Morro Bay, CA 93442, US",
             "id": "DAN741",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18034,7 +18034,7 @@
         },
         {
             "name": "Moscow",
-            "address": "N Mountain View Rd, Moscow, ID 83843",
+            "address": "N Mountain View Rd, Moscow, ID 83843, US",
             "id": "DAN742",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18050,7 +18050,7 @@
         },
         {
             "name": "Moses Lake, Washington",
-            "address": "414 W 4th Ave, Moses Lake, WA 98837",
+            "address": "414 W 4th Ave, Moses Lake, WA 98837, US",
             "id": "DAN743",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18066,7 +18066,7 @@
         },
         {
             "name": "Mound",
-            "address": "2345 Cypress Ln., Mound, MN 55364",
+            "address": "2345 Cypress Ln, Mound, MN 55364, US",
             "id": "DAN744",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18082,7 +18082,7 @@
         },
         {
             "name": "Mount Vernon, Washington",
-            "address": "E Fir St, Mount Vernon, WA 98273",
+            "address": "E Fir St, Mount Vernon, WA 98273, US",
             "id": "DAN745",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18098,7 +18098,7 @@
         },
         {
             "name": "Mountain Home, Idaho",
-            "address": "E 10th N, Mountain Home, ID 83647",
+            "address": "E 10th St N, Mountain Home, ID 83647, US",
             "id": "DAN746",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18114,7 +18114,7 @@
         },
         {
             "name": "Mt. Horeb",
-            "address": "119 Telemark Pkwy, Mt Horeb, WI 53572",
+            "address": "Summer Frolic Sunrise Park, 119 Telemark Pkwy, Mount Horeb, WI 53572, US",
             "id": "DAN747",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18130,7 +18130,7 @@
         },
         {
             "name": "Mt. Pleasant (Wasatch Academy), Utah",
-            "address": "200 S 200 W Mt Pleasant, UT 84647",
+            "address": "200 S 200 W, Mount Pleasant, UT 84647, US",
             "id": "DAN748",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18146,7 +18146,7 @@
         },
         {
             "name": "Muckleshoot Reservation, Washington",
-            "address": "17112 SE 392nd St, Auburn, WA 98092",
+            "address": "17112 SE 392nd St, Auburn, WA 98092, US",
             "id": "DAN749",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18162,7 +18162,7 @@
         },
         {
             "name": "Barstow",
-            "address": "849 Belinda Ave. Barstow, CA 92311",
+            "address": "849 Belinda Ave, Barstow, CA 92311, US",
             "id": "DAN75",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18178,7 +18178,7 @@
         },
         {
             "name": "Mukilteo, Washington",
-            "address": "10601 47th Place West Mukilteo, WA 98275",
+            "address": "10601 47th Pl W, Mukilteo, WA 98275, US",
             "id": "DAN750",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18194,7 +18194,7 @@
         },
         {
             "name": "Murrieta, California",
-            "address": "40600 California Oaks Rd., Murrieta, CA 92562",
+            "address": "40600 California Oaks Rd, Murrieta, CA 92562, US",
             "id": "DAN751",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18210,7 +18210,7 @@
         },
         {
             "name": "Myrtle Creek, Oregon",
-            "address": "205 NE Rice St. Myrtle Creek, OR 97457",
+            "address": "205 NE Rice St, Myrtle Creek, OR 97457, US",
             "id": "DAN752",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18226,7 +18226,7 @@
         },
         {
             "name": "Nampa",
-            "address": "S Stanley Creek Pl, Nampa, ID 83686",
+            "address": "S Stanley Creek Pl, Nampa, ID 83686, US",
             "id": "DAN753",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18242,7 +18242,7 @@
         },
         {
             "name": "Nanton",
-            "address": "2222 18 St. Nanton, AB T0L 1R0, Canada",
+            "address": "2222 18 St, Nanton, AB T0L 1R0, Canada",
             "id": "DAN754",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18258,7 +18258,7 @@
         },
         {
             "name": "Napavine",
-            "address": "200 W Washington St, Napavine, WA 98532",
+            "address": "200-248 W Washington St, Napavine, WA 98532, US",
             "id": "DAN755",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18274,7 +18274,7 @@
         },
         {
             "name": "Naples, Florida",
-            "address": "1600 Fleischmann Blvd, Naples, FL 34102",
+            "address": "1600 Fleischmann Blvd, Naples, FL 34102, US",
             "id": "DAN756",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18290,7 +18290,7 @@
         },
         {
             "name": "Nashville (Victory Park), Indiana",
-            "address": "1001 Deer Run Ln, Nashville, IN 47448",
+            "address": "1001 Deer Run Ln, Nashville, IN 47448, US",
             "id": "DAN757",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18306,7 +18306,7 @@
         },
         {
             "name": "Nashville, Tennessee",
-            "address": "2320 2 Rivers Pkwy, Nashville, TN 37214",
+            "address": "2320 Two Rivers Pkwy, Nashville, TN 37214, US",
             "id": "DAN758",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18322,7 +18322,7 @@
         },
         {
             "name": "Navato, California",
-            "address": "1200 Hamilton Pkwy., Novato, CA 94949",
+            "address": "1200 Hamilton Pkwy, Novato, CA 94949, US",
             "id": "DAN759",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18338,7 +18338,7 @@
         },
         {
             "name": "Bartlesville, Oklahoma",
-            "address": "2200 SE Adams Blvd, Bartlesville, OK 74006",
+            "address": "2200 SE Adams Blvd, Bartlesville, OK 74006, US",
             "id": "DAN76",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18354,7 +18354,7 @@
         },
         {
             "name": "Nederland, Colorado",
-            "address": "151 East St, Nederland, CO 80466",
+            "address": "151 East St, Nederland, CO 80466, US",
             "id": "DAN760",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18370,7 +18370,7 @@
         },
         {
             "name": "Needles",
-            "address": "1500 Flip, Flip Mendez Parkway Needles, CA 92363",
+            "address": "Flip Mendez Pkwy, Needles, CA 92363, US",
             "id": "DAN761",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18386,7 +18386,7 @@
         },
         {
             "name": "Nehalem, Oregon",
-            "address": "36155 9th St, Nehalem, OR 97131",
+            "address": "36155 9th St, Nehalem, OR 97131, US",
             "id": "DAN762",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18402,7 +18402,7 @@
         },
         {
             "name": "New Castle (Baker Park), Indiana",
-            "address": "1958 S Main St, New Castle, IN 47362",
+            "address": "1958 S Main St, New Castle, IN 47362, US",
             "id": "DAN763",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18418,7 +18418,7 @@
         },
         {
             "name": "New Richmond",
-            "address": "Hatfield Lake Trail, New Richmond, WI 54017",
+            "address": "Hatfield Lake Trail, New Richmond, WI 54017, US",
             "id": "DAN764",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18434,7 +18434,7 @@
         },
         {
             "name": "New Smyrna Beach, Florida",
-            "address": "245 Industrial Park Ave, New Smyrna Beach, FL 32168",
+            "address": "245 Industrial Park Ave, New Smyrna Beach, FL 32168, US",
             "id": "DAN765",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18450,7 +18450,7 @@
         },
         {
             "name": "New Ulm",
-            "address": "315 1st N St, New Ulm, MN 56073",
+            "address": "315 1st N St, New Ulm, MN 56073, US",
             "id": "DAN766",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18466,7 +18466,7 @@
         },
         {
             "name": "Newberg, Oregon",
-            "address": "1201 S Blaine St, Newberg, OR 97132",
+            "address": "1201 S Blaine St, Newberg, OR 97132, US",
             "id": "DAN767",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18482,7 +18482,7 @@
         },
         {
             "name": "Newbury Park",
-            "address": "190 N Reino Rd. Newbury Park, CA 91320",
+            "address": "190 N Reino Rd, Thousand Oaks, CA 91320, US",
             "id": "DAN768",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18498,7 +18498,7 @@
         },
         {
             "name": "NewCastle, Colorado",
-            "address": "Hogback Skate Park, Castle Valley Blvd. New Castle, CO 81647",
+            "address": "Castle Valley Blvd, New Castle, CO 81647, US",
             "id": "DAN769",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18514,7 +18514,7 @@
         },
         {
             "name": "Basalt (Gisella Fiou Park), Colorado",
-            "address": "2 River Cove, Basalt, CO 81621",
+            "address": "2 River Cove, Basalt, CO 81621, US",
             "id": "DAN77",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18530,7 +18530,7 @@
         },
         {
             "name": "Newport, Oregon",
-            "address": "726 NW High St. Newport, OR 97365",
+            "address": "726 NW High St, Newport, OR 97365, US",
             "id": "DAN770",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18546,7 +18546,7 @@
         },
         {
             "name": "Niles (Riverfront Park), Michigan",
-            "address": "752 Front St., Niles, MI 49120",
+            "address": "752 Front St, Niles, MI 49120, US",
             "id": "DAN771",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18562,7 +18562,7 @@
         },
         {
             "name": "Noblesville (Dillon Park), Indiana",
-            "address": "6001 Edenshall Ln, Noblesville, IN 46062",
+            "address": "6001 Edenshall Ln, Noblesville, IN 46062, US",
             "id": "DAN772",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18578,7 +18578,7 @@
         },
         {
             "name": "Norfolk, Nebraska",
-            "address": "901 Blaine St, Norfolk, NE 68701",
+            "address": "901 Blaine St, Norfolk, NE 68701, US",
             "id": "DAN773",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18594,7 +18594,7 @@
         },
         {
             "name": "North Bend, Washington",
-            "address": "750 E North Bend Way, North Bend, WA 98045",
+            "address": "750 E North Bend Way, North Bend, WA 98045, US",
             "id": "DAN774",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18610,7 +18610,7 @@
         },
         {
             "name": "North Las Vegas (Craig Ranch)",
-            "address": "628 W Craig Rd. North Las Vegas, NV 89032",
+            "address": "628 W Craig Rd, North Las Vegas, NV 89032, US",
             "id": "DAN775",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18626,7 +18626,7 @@
         },
         {
             "name": "North Little Rock, Arkansas",
-            "address": "2800 River Rd, North Little Rock, AR 72114",
+            "address": "Riverview Park, 2800 River Rd, North Little Rock, AR 72114, US",
             "id": "DAN776",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18642,7 +18642,7 @@
         },
         {
             "name": "North Ogden, Utah",
-            "address": "530 E 2650 N North Ogden, UT 84414",
+            "address": "530 E 2650 N, North Ogden, UT 84414, US",
             "id": "DAN777",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18658,7 +18658,7 @@
         },
         {
             "name": "North Platte, Nebraska",
-            "address": "1300 McDonald Rd, North Platte, NE 69101",
+            "address": "1300 McDonald Rd, North Platte, NE 69101, US",
             "id": "DAN778",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18674,7 +18674,7 @@
         },
         {
             "name": "North Port, Florida",
-            "address": "5651 N Port Blvd North Port, FL 34287",
+            "address": "5651 N Port Blvd, North Port, FL 34287, US",
             "id": "DAN779",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18690,7 +18690,7 @@
         },
         {
             "name": "Batesville, Indiana",
-            "address": "671 Pohlman St, Batesville, IN 47006",
+            "address": "671 Pohlman St, Batesville, IN 47006, US",
             "id": "DAN78",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18706,7 +18706,7 @@
         },
         {
             "name": "North Vancouver (Seylynn)",
-            "address": "BC, Canada 3000 E Pender St, Vancouver, BC V5K 4G4, Canada",
+            "address": "3000 E Pender St, Vancouver, BC V5K 4G4, Canada",
             "id": "DAN780",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18722,7 +18722,7 @@
         },
         {
             "name": "Northbrook",
-            "address": "1750 Techny Rd. Northbrook, IL 60062",
+            "address": "1750 Techny Rd, Northbrook, IL 60062, US",
             "id": "DAN781",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18738,7 +18738,7 @@
         },
         {
             "name": "Northfield",
-            "address": "801 7th St E., Northfield, MN 55057",
+            "address": "801 7th St E, Northfield, MN 55057, US",
             "id": "DAN782",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18754,7 +18754,7 @@
         },
         {
             "name": "Northglenn, Colorado",
-            "address": "11801 Community Center Dr, Northglenn, CO 80233",
+            "address": "11801 Community Center Dr, Northglenn, CO 80233, US",
             "id": "DAN783",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18770,7 +18770,7 @@
         },
         {
             "name": "Northville (Unity), Michigan",
-            "address": "45745 Six Mile Rd, Northville, MI 48168",
+            "address": "45745 Six Mile Rd, Northville, MI 48168, US",
             "id": "DAN784",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18786,7 +18786,7 @@
         },
         {
             "name": "O\u00e2\u20ac\u2122Fallon",
-            "address": "285 N 7 Hills Rd. O'Fallon, IL 62269",
+            "address": "285 N 7 Hills Rd, O'Fallon, IL 62269, US",
             "id": "DAN785",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18802,7 +18802,7 @@
         },
         {
             "name": "O\u00e2\u20ac\u2122Fallon",
-            "address": "7801 State Highway N. O'Fallon, MO 63368",
+            "address": "7801 State Rte N, O'Fallon, MO 63368, US",
             "id": "DAN786",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18818,7 +18818,7 @@
         },
         {
             "name": "Oak Creek (Abendschein Community Park), Wisconsin",
-            "address": "1311 E Drexel Ave, Oak Creek, WI 53154",
+            "address": "1311 E Drexel Ave, Oak Creek, WI 53154, US",
             "id": "DAN787",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18834,7 +18834,7 @@
         },
         {
             "name": "Oak Harbor",
-            "address": "SE Glencoe St. and SE 3rd ave Oak Harbor, WA 98277",
+            "address": "SE 3rd Ave & SE Glencoe St, Oak Harbor, WA 98277, US",
             "id": "DAN788",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18850,7 +18850,7 @@
         },
         {
             "name": "Oakley, Utah",
-            "address": "4232 UT-32 Kamas, UT 84036",
+            "address": "4232 UT-32, Kamas, UT 84036, US",
             "id": "DAN789",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18866,7 +18866,7 @@
         },
         {
             "name": "Batesville, Indiana Pump Track",
-            "address": "671 Pohlman St, Batesville, IN 47006",
+            "address": "671 Pohlman St, Batesville, IN 47006, US",
             "id": "DAN79",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18882,7 +18882,7 @@
         },
         {
             "name": "Oberlin, Kansas",
-            "address": "U.S. Hwy 83 & West Adams Street, Oberlin, KS 67749",
+            "address": "US-83 & W Adams St, Oberlin, KS 67749, US",
             "id": "DAN790",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18898,7 +18898,7 @@
         },
         {
             "name": "Ocean City, Maryland",
-            "address": "St Louis Ave & 3rd St, Ocean City, MD 21842",
+            "address": "St Louis Ave & 3rd St, Ocean City, MD 21842, US",
             "id": "DAN791",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18914,7 +18914,7 @@
         },
         {
             "name": "Oceanside (Alex Road), California",
-            "address": "Foussat Rd & Alex Rd. Oceanside, CA 92058",
+            "address": "Alex Rd & Foussat Rd, Oceanside, CA 92058, US",
             "id": "DAN792",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18930,7 +18930,7 @@
         },
         {
             "name": "Oceanside (Bishop Park), California",
-            "address": "5306 N River Rd. Oceanside, CA 92057",
+            "address": "5306 N River Rd, Oceanside, CA 92057, US",
             "id": "DAN793",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18946,7 +18946,7 @@
         },
         {
             "name": "Oceanside, California",
-            "address": "4300 Mesa Dr., Oceanside, CA 92057",
+            "address": "4300 Mesa Dr, Oceanside, CA 92057, US",
             "id": "DAN794",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18962,7 +18962,7 @@
         },
         {
             "name": "Oconomowoc (Roosevelt Park), Wisconsin",
-            "address": "130 E Forest St, Oconomowoc, WI 53066",
+            "address": "130 E Forest St, Oconomowoc, WI 53066, US",
             "id": "DAN795",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18978,7 +18978,7 @@
         },
         {
             "name": "Ogallala, Nebraska",
-            "address": "410 E G St, Ogallala, NE 69153",
+            "address": "410 E G St, Ogallala, NE 69153, US",
             "id": "DAN796",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -18994,7 +18994,7 @@
         },
         {
             "name": "Ogden, Utah",
-            "address": "1643 Gramercy Ave. Ogden, UT 84404",
+            "address": "1643 Gramercy Ave, Ogden, UT 84404, US",
             "id": "DAN797",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19010,7 +19010,7 @@
         },
         {
             "name": "Ojai",
-            "address": "506 E Ojai Ave Ojai, California",
+            "address": "506 E Ojai Ave, Ojai, CA 93023, US",
             "id": "DAN798",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19026,7 +19026,7 @@
         },
         {
             "name": "Oklahoma City (Matt Hoffman)",
-            "address": "1700 S Robinson Ave. Oklahoma City, OK 73109",
+            "address": "1700 S Robinson Ave, Oklahoma City, OK 73109, US",
             "id": "DAN799",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19042,7 +19042,7 @@
         },
         {
             "name": "Battle Ground, Washington",
-            "address": "912 E Main St, Battle Ground, WA 98604",
+            "address": "912 E Main St, Battle Ground, WA 98604, US",
             "id": "DAN80",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19058,7 +19058,7 @@
         },
         {
             "name": "Oklahoma City (South Lakes)",
-            "address": "4302 SW 119th St. Oklahoma City, OK 73173",
+            "address": "4302 SW 119th St, Oklahoma City, OK 73173, US",
             "id": "DAN800",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19074,7 +19074,7 @@
         },
         {
             "name": "Okmulgee",
-            "address": "N Okmulgee Ave & W Fairfax St Okmulgee, OK 74447",
+            "address": "N Okmulgee Ave & W Fairfax St, Okmulgee, OK 74447, US",
             "id": "DAN801",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19090,7 +19090,7 @@
         },
         {
             "name": "Okotoks",
-            "address": "Milligan Dr & Okotoks Dr, Okotoks, AB T1S, Canada",
+            "address": "Okotoks Dr & Milligan Dr, Okotoks, AB T1S, Canada",
             "id": "DAN802",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19106,7 +19106,7 @@
         },
         {
             "name": "Olathe",
-            "address": "N Ridgeview Rd & Layton Dr. Olathe, KS 66061",
+            "address": "Layton Dr & N Ridgeview Rd, Olathe, KS 66061, US",
             "id": "DAN803",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19122,7 +19122,7 @@
         },
         {
             "name": "Old Bingham Hwy Ditch",
-            "address": "W Old Bingham Hwy & Wasatch Meadows Dr. West Jordan, UT 84088",
+            "address": "Wasatch Meadows Dr & W Old Bingham Hwy, West Jordan, UT 84088, US",
             "id": "DAN804",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19138,7 +19138,7 @@
         },
         {
             "name": "Olney, Maryland",
-            "address": "16651 Georgia Ave, Olney, MD 20832",
+            "address": "16651 Georgia Ave, Olney, MD 20832, US",
             "id": "DAN805",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19154,7 +19154,7 @@
         },
         {
             "name": "Olympia, Washington",
-            "address": "579 Cooper Point Rd SW, Olympia, WA 98502",
+            "address": "579 Cooper Point Rd SW, Olympia, WA 98502, US",
             "id": "DAN806",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19170,7 +19170,7 @@
         },
         {
             "name": "Omaha (Millwork Commons)",
-            "address": "1105 13th St, Omaha, NE 68102",
+            "address": "1105 13th St, Omaha, NE 68102, US",
             "id": "DAN807",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19186,7 +19186,7 @@
         },
         {
             "name": "Omaha (Roberts)",
-            "address": "730 N 78th St, Omaha, NE 68114",
+            "address": "730 N 78th St, Omaha, NE 68114, US",
             "id": "DAN808",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19202,7 +19202,7 @@
         },
         {
             "name": "Omaha (Seymour Smith)",
-            "address": "6802 Harrison St., Omaha, NE 68127",
+            "address": "6802 Harrison St, La Vista, NE 68128, US",
             "id": "DAN809",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19218,7 +19218,7 @@
         },
         {
             "name": "Battlement Mesa, Colorado",
-            "address": "64-66 Tamarisk Trail, Battlement Mesa, CO 81635",
+            "address": "64 Tamarisk Trail, Battlement Mesa, CO 81635, US",
             "id": "DAN81",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19234,7 +19234,7 @@
         },
         {
             "name": "Ontario",
-            "address": "SW 4th Ave & Southwest 7th Street, Ontario, OR 97914",
+            "address": "SW 7th St & SW 4th Ave, Ontario, OR 97914, US",
             "id": "DAN810",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19250,7 +19250,7 @@
         },
         {
             "name": "Orcas Island, Washington",
-            "address": "699 Mt Baker Rd. Eastsound, WA 98245",
+            "address": "699 Mt Baker Rd, Eastsound, WA 98245, US",
             "id": "DAN811",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19266,7 +19266,7 @@
         },
         {
             "name": "Oregon City, Oregon",
-            "address": "1955 Clackamette Dr. Oregon City, OR 97045",
+            "address": "1955 Clackamette Dr, Oregon City, OR 97045, US",
             "id": "DAN812",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19282,7 +19282,7 @@
         },
         {
             "name": "Orem, Utah",
-            "address": "355 1200 W, Orem, UT 84057",
+            "address": "355 1200 W, Orem, UT 84057, US",
             "id": "DAN813",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19298,7 +19298,7 @@
         },
         {
             "name": "Orlando (Barnett)",
-            "address": "4801 W Colonial Dr Orlando, FL 32808",
+            "address": "4801 W Colonial Dr, Orlando, FL 32808, US",
             "id": "DAN814",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19314,7 +19314,7 @@
         },
         {
             "name": "Orlando (Festival) Florida",
-            "address": "400 Festival Way, Orlando, FL 32803",
+            "address": "400 Festival Way, Orlando, FL 32803, US",
             "id": "DAN815",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19330,7 +19330,7 @@
         },
         {
             "name": "Orlando (Metro Skateboard Academy)",
-            "address": "4624 L B McLeod Rd. Orlando, FL 32811",
+            "address": "4624 L B McLeod Rd, Orlando, FL 32811, US",
             "id": "DAN816",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19346,7 +19346,7 @@
         },
         {
             "name": "Ormond Beach",
-            "address": "440 N Nova Rd. Ormond Beach, FL 32174",
+            "address": "440 N Nova Rd, Ormond Beach, FL 32174, US",
             "id": "DAN817",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19362,7 +19362,7 @@
         },
         {
             "name": "Orofino",
-            "address": "Dunlap Rd, Orofino, ID 83544",
+            "address": "Dunlap Rd, Orofino, ID 83544, US",
             "id": "DAN818",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19378,7 +19378,7 @@
         },
         {
             "name": "Oskaloosa",
-            "address": "259 High Ave W, Oskaloosa, IA 52577",
+            "address": "259 High Ave W, Oskaloosa, IA 52577, US",
             "id": "DAN819",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19394,7 +19394,7 @@
         },
         {
             "name": "Bay City",
-            "address": "4th St & A St. Bay City, OR 97107",
+            "address": "A St, Bay City, OR 97107, US",
             "id": "DAN82",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19410,7 +19410,7 @@
         },
         {
             "name": "Othello",
-            "address": "1099 E Hamlet St. Othello, WA 99344",
+            "address": "1099 E Hamlet St, Othello, WA 99344, US",
             "id": "DAN820",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19426,7 +19426,7 @@
         },
         {
             "name": "Ouray, Colorado",
-            "address": "1220 Main St. Ouray, CO 81427",
+            "address": "1220 Main St, Ouray, CO 81427, US",
             "id": "DAN821",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19442,7 +19442,7 @@
         },
         {
             "name": "Oviedo, Florida",
-            "address": "1600 Lockwood Blvd. Oviedo, FL 32765",
+            "address": "1600 Lockwood Blvd, Oviedo, FL 32765, US",
             "id": "DAN822",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19458,7 +19458,7 @@
         },
         {
             "name": "Owensboro",
-            "address": "1301 Bluff Ave. Owensboro, KY 42303",
+            "address": "1301 Bluff Ave, Owensboro, KY 42303, US",
             "id": "DAN823",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19474,7 +19474,7 @@
         },
         {
             "name": "Oxford, Mississippi",
-            "address": "502 Bramlett Blvd, Oxford, MS 38655",
+            "address": "502 Bramlett Blvd, Oxford, MS 38655, US",
             "id": "DAN824",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19490,7 +19490,7 @@
         },
         {
             "name": "Oxnard",
-            "address": "3250 S Rose Ave. Oxnard, CA 93033",
+            "address": "3250 S Rose Ave, Oxnard, CA 93033, US",
             "id": "DAN825",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19506,7 +19506,7 @@
         },
         {
             "name": "Pacifica",
-            "address": "540 Crespi Dr., Pacifica, CA 94044",
+            "address": "540 Crespi Dr, Pacifica, CA 94044, US",
             "id": "DAN826",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19522,7 +19522,7 @@
         },
         {
             "name": "Paducah, Kentucky",
-            "address": "2801 Park Ave, Paducah, KY 42001",
+            "address": "2801 Park Ave, Paducah, KY 42001, US",
             "id": "DAN827",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19538,7 +19538,7 @@
         },
         {
             "name": "Page",
-            "address": "148 6th Ave, Page, AZ 86040",
+            "address": "148 6th Ave, Page, AZ 86040, US",
             "id": "DAN828",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19554,7 +19554,7 @@
         },
         {
             "name": "Pala, California",
-            "address": "12196 Pala Mission Rd., Pala, CA 92059",
+            "address": "12196 Pala Mission Rd, Pala, CA 92059, US",
             "id": "DAN829",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19570,7 +19570,7 @@
         },
         {
             "name": "Bay City (DeFoe Park), Michigan",
-            "address": "413 Marquette Ave, Bay City, MI 48706",
+            "address": "413 Marquette Ave, Bay City, MI 48706, US",
             "id": "DAN83",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19586,7 +19586,7 @@
         },
         {
             "name": "Palisade, Colorado",
-            "address": "120 W 8th St. Palisade, CO 81526",
+            "address": "120 W 8th St, Palisade, CO 81526, US",
             "id": "DAN830",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19602,7 +19602,7 @@
         },
         {
             "name": "Palm Desert",
-            "address": "43906 San Pablo Ave., Palm Desert, CA 92260",
+            "address": "43906-43942 San Pablo Ave, Palm Desert, CA 92260, US",
             "id": "DAN831",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19618,7 +19618,7 @@
         },
         {
             "name": "Palm Springs, California",
-            "address": "405 S Pavilion Way Palm Springs, CA 92262",
+            "address": "405 S Pavilion Way, Palm Springs, CA 92262, US",
             "id": "DAN832",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19634,7 +19634,7 @@
         },
         {
             "name": "Palo Alto, California",
-            "address": "2860 W Bayshore Rd., Palo Alto, CA 94303",
+            "address": "2860 W Bayshore Rd, Palo Alto, CA 94303, US",
             "id": "DAN833",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19650,7 +19650,7 @@
         },
         {
             "name": "Palouse",
-            "address": "530 E Alder St, Palouse, WA 99161",
+            "address": "530 E Alder St, Palouse, WA 99161, US",
             "id": "DAN834",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19666,7 +19666,7 @@
         },
         {
             "name": "Paradise Island",
-            "address": "& Funplex 555 Fortenberry Rd. Merritt Island, FL 32952",
+            "address": "555 Fortenberry Rd, Merritt Island, FL 32952, US",
             "id": "DAN835",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19682,7 +19682,7 @@
         },
         {
             "name": "Paradise Valley",
-            "address": "17642 N 40th St., Phoenix, AZ 85032",
+            "address": "17642 N 40th St, Phoenix, AZ 85032, US",
             "id": "DAN836",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19698,7 +19698,7 @@
         },
         {
             "name": "Paramount (Village), California",
-            "address": "7718 Somerset Blvd Paramount, CA 90723",
+            "address": "7718 Somerset Blvd, Paramount, CA 90723, US",
             "id": "DAN837",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19714,7 +19714,7 @@
         },
         {
             "name": "Park City (Trailside), Utah",
-            "address": "5715 Trailside Dr. Park City, UT 84098",
+            "address": "5715 Trailside Dr, Park City, UT 84098, US",
             "id": "DAN838",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19730,7 +19730,7 @@
         },
         {
             "name": "Park City, Utah",
-            "address": "1220 Park Ave. Park City, UT 84060",
+            "address": "1220 Park Ave, Park City, UT 84060, US",
             "id": "DAN839",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19746,7 +19746,7 @@
         },
         {
             "name": "Beaverton (Shiffler Park)",
-            "address": "13471 SW Berthold Ave. Beaverton, OR 97005",
+            "address": "13471 SW Berthold Ave, Beaverton, OR 97005, US",
             "id": "DAN84",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19762,7 +19762,7 @@
         },
         {
             "name": "Parker, Colorado",
-            "address": "10543 Twenty Mile Rd, Parker, CO 80134",
+            "address": "10543 Twenty Mile Rd, Parker, CO 80134, US",
             "id": "DAN840",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19778,7 +19778,7 @@
         },
         {
             "name": "Paso Robles",
-            "address": "1128 19th St. Paso Robles, CA 93446",
+            "address": "1128 19th St, Paso Robles, CA 93446, US",
             "id": "DAN841",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19794,7 +19794,7 @@
         },
         {
             "name": "Payette",
-            "address": "400 S 6th St, Payette, ID 83661",
+            "address": "400 S 6th St, Payette, ID 83661, US",
             "id": "DAN842",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19810,7 +19810,7 @@
         },
         {
             "name": "Payson, Utah",
-            "address": "68 E 600 S Payson, UT 84651",
+            "address": "68 E 600 S, Payson, UT 84651, US",
             "id": "DAN843",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19826,7 +19826,7 @@
         },
         {
             "name": "Pearl City (Manana)",
-            "address": "Oahu, Hawaii 1310 Waimano Home Rd., Pearl City, HI 96782",
+            "address": "1310 Waimano Home Rd, Aiea, HI 96701, US",
             "id": "DAN844",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19842,7 +19842,7 @@
         },
         {
             "name": "Pecos",
-            "address": "17010 S 48th St., Phoenix, AZ 85048",
+            "address": "17010 S 48th St, Phoenix, AZ 85048, US",
             "id": "DAN845",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19858,7 +19858,7 @@
         },
         {
             "name": "Pedlow, California",
-            "address": "17334 Victory Blvd., Encino, CA 91316",
+            "address": "17334 Victory Blvd, Los Angeles, CA 91406, US",
             "id": "DAN846",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19874,7 +19874,7 @@
         },
         {
             "name": "Pegosa Springs, Colorado",
-            "address": "684 S 5th St. Pagosa Springs, CO 81147",
+            "address": "684 S 5th St, Pagosa Springs, CO 81147, US",
             "id": "DAN847",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19890,7 +19890,7 @@
         },
         {
             "name": "Pendleton (May Park), Oregon",
-            "address": "116 SE Isaac Ave. Pendleton, OR 97801",
+            "address": "116 SE Isaac Ave, Pendleton, OR 97801, US",
             "id": "DAN848",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19906,7 +19906,7 @@
         },
         {
             "name": "Pendleton, Oregon",
-            "address": "101 Northgate, Pendleton, OR 97801",
+            "address": "101 Northgate, Pendleton, OR 97801, US",
             "id": "DAN849",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19922,7 +19922,7 @@
         },
         {
             "name": "Beaverton (Tualatin Hills Sports Complex)",
-            "address": "15650 NW Blueridge Dr. Beaverton, OR 97006",
+            "address": "15650 NW Blueridge Dr, Beaverton, OR 97006, US",
             "id": "DAN85",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19938,7 +19938,7 @@
         },
         {
             "name": "Peoria, Arizona",
-            "address": "8866 W. Thunderbird RD Peoria, AZ 85381",
+            "address": "8866 W Thunderbird Rd, Peoria, AZ 85381, US",
             "id": "DAN850",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19954,7 +19954,7 @@
         },
         {
             "name": "Peru (River Walkway Park), Indiana",
-            "address": "W Canal St, Peru, IN 46970",
+            "address": "W Canal St, Peru, IN 46970, US",
             "id": "DAN851",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19970,7 +19970,7 @@
         },
         {
             "name": "Pescadero",
-            "address": "Mexico KM 64, M\u00c3\u00a9xico 19, Barrio las Palmitas, 23310 El Pescadero, B.C.S., Mexico",
+            "address": "91240 Xico, Ver., Mexico",
             "id": "DAN852",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -19986,7 +19986,7 @@
         },
         {
             "name": "Petaluma",
-            "address": "900 E Washington St., Petaluma, CA 94952",
+            "address": "900 E Washington St, Petaluma, CA 94952, US",
             "id": "DAN853",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20002,7 +20002,7 @@
         },
         {
             "name": "Petoskey (Riverbend Park), Michigan",
-            "address": "1601 Standish Ave, Petoskey, MI 49770",
+            "address": "1601 Standish Ave, Petoskey, MI 49770, US",
             "id": "DAN854",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20018,7 +20018,7 @@
         },
         {
             "name": "Pflugerville",
-            "address": "15500 Sun Light Near Way, Pflugerville, TX 78660",
+            "address": "15500 Sun Light Near Way, Pflugerville, TX 78660, US",
             "id": "DAN855",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20034,7 +20034,7 @@
         },
         {
             "name": "Philadelphia (FDR), Pennsylvania",
-            "address": "Broad and Pattison Avenue, Philadelphia, PA 19145",
+            "address": "Pattison Ave & Broad St, Philadelphia, PA 19145, US",
             "id": "DAN856",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20050,7 +20050,7 @@
         },
         {
             "name": "Philomath",
-            "address": "Applegate St & S 23rd St., Philomath, OR 97370",
+            "address": "Applegate St & S 23rd St, Philomath, OR 97370, US",
             "id": "DAN857",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20066,7 +20066,7 @@
         },
         {
             "name": "Phoenix (Cesar Chavez Skate Plaza)",
-            "address": "7858 S 35th Ave., Laveen Village, AZ 85339",
+            "address": "7858 S 35th Ave, Phoenix, AZ 85339, US",
             "id": "DAN858",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20082,7 +20082,7 @@
         },
         {
             "name": "Pine Ridge, South Dakota",
-            "address": "BIA Highway 32 and bakers hill Pine Ridge, SD 57770",
+            "address": "BIA Hwy 32 & Bakers Hill, Pine Ridge, SD 57770, US",
             "id": "DAN859",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20098,7 +20098,7 @@
         },
         {
             "name": "Belding (Central Riverside City Park), Michigan",
-            "address": "314 Gibson St, Belding, MI 48809",
+            "address": "314 Gibson St, Belding, MI 48809, US",
             "id": "DAN86",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20114,7 +20114,7 @@
         },
         {
             "name": "Pinedale, Wyoming",
-            "address": "S Tyler Ave & Charles St. Pinedale, WY 82941",
+            "address": "Charles St & S Tyler Ave, Pinedale, WY 82941, US",
             "id": "DAN860",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20130,7 +20130,7 @@
         },
         {
             "name": "Plano, Texas",
-            "address": "6701 Coit Rd, Plano, TX 75024",
+            "address": "6701 Coit Rd, Plano, TX 75024, US",
             "id": "DAN861",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20146,7 +20146,7 @@
         },
         {
             "name": "Plymouth",
-            "address": "3625 Fernbrook Ln N, Plymouth, MN 55446",
+            "address": "3625 Fernbrook Ln N, Plymouth, MN 55446, US",
             "id": "DAN862",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20162,7 +20162,7 @@
         },
         {
             "name": "Pocatello",
-            "address": "2901 S 2nd Ave Pocatello, ID 83204",
+            "address": "2901 S 2nd Ave, Pocatello, ID 83204, US",
             "id": "DAN863",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20178,7 +20178,7 @@
         },
         {
             "name": "Polson, Montana",
-            "address": "613 7th Ave W Polson, MT 59860",
+            "address": "613 7th Ave W, Polson, MT 59860, US",
             "id": "DAN864",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20194,7 +20194,7 @@
         },
         {
             "name": "Pontiac (Oakland Park), Michigan",
-            "address": "392 E Montcalm St, Pontiac, MI 48342",
+            "address": "Oakland Park, 392 E Montcalm St, Pontiac, MI 48342, US",
             "id": "DAN865",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20210,7 +20210,7 @@
         },
         {
             "name": "Port Angeles, Washington",
-            "address": "306 S Race St. Port Angeles, WA 98362",
+            "address": "252-306 S Race St, Port Angeles, WA 98362, US",
             "id": "DAN866",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20226,7 +20226,7 @@
         },
         {
             "name": "Port Huron (Optimist Park), Michigan",
-            "address": "1400 Whipple St, Port Huron, MI 48060",
+            "address": "1400 Whipple St, Port Huron, MI 48060, US",
             "id": "DAN867",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20242,7 +20242,7 @@
         },
         {
             "name": "Port Orange, Florida",
-            "address": "4655 City Center Cir, Port Orange, FL 32129",
+            "address": "4655 City Center Cir, Port Orange, FL 32129, US",
             "id": "DAN868",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20258,7 +20258,7 @@
         },
         {
             "name": "Port Orchard, Washington",
-            "address": "SE Lund Ave & Chase Rd SE Port Orchard, WA 98366",
+            "address": "Chase Rd SE & SE Lund Ave, East Port Orchard, WA 98366, US",
             "id": "DAN869",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20274,7 +20274,7 @@
         },
         {
             "name": "Belgrade",
-            "address": "283 E Main St. Belgrade, MT 59714",
+            "address": "283 E Main St, Belgrade, MT 59714, US",
             "id": "DAN87",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20290,7 +20290,7 @@
         },
         {
             "name": "Port Orford",
-            "address": "Arizona St & 14th St., Port Orford, OR 97465",
+            "address": "14th St & Arizona St, Port Orford, OR 97465, US",
             "id": "DAN870",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20306,7 +20306,7 @@
         },
         {
             "name": "Port Townsend, Washington",
-            "address": "250 Monroe St, Port Townsend, WA 98368",
+            "address": "Port Townsend Skateboard Park, 250 Monroe St, Port Townsend, WA 98368, US",
             "id": "DAN871",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20322,7 +20322,7 @@
         },
         {
             "name": "Portage (Goodyear Park)",
-            "address": "920 DeWitt St, Portage, WI 53901",
+            "address": "920 DeWitt St, Portage, WI 53901, US",
             "id": "DAN872",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20338,7 +20338,7 @@
         },
         {
             "name": "Portage (South Westnedge Park), Michigan",
-            "address": "9010 S Westnedge Ave, Portage, MI 49024",
+            "address": "9010 S Westnedge Ave, Portage, MI 49002, US",
             "id": "DAN873",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20354,7 +20354,7 @@
         },
         {
             "name": "Portland, Pier Park (St Johns) Oregon",
-            "address": "N Hudson St & N Bruce Ave, Portland, OR 97203",
+            "address": "N Hudson St & N Bruce Ave, Portland, OR 97203, US",
             "id": "DAN874",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20370,7 +20370,7 @@
         },
         {
             "name": "Post Falls, Idaho",
-            "address": "300 N Greensferry Rd, Post Falls, ID 83854",
+            "address": "300 N Greensferry Rd, Post Falls, ID 83854, US",
             "id": "DAN875",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20386,7 +20386,7 @@
         },
         {
             "name": "Poteau",
-            "address": "105 Reynolds Ave Poteau, OK 74953",
+            "address": "105 Reynolds Ave, Poteau, OK 74953, US",
             "id": "DAN876",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20402,7 +20402,7 @@
         },
         {
             "name": "Poway, California",
-            "address": "13094 Civic Center Dr., Poway, CA 92064",
+            "address": "13094 Civic Center Dr, Poway, CA 92064, US",
             "id": "DAN877",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20418,7 +20418,7 @@
         },
         {
             "name": "Prairie Village",
-            "address": "7710 Mission Rd, Prairie Village, KS 66208",
+            "address": "7710 Mission Rd, Prairie Village, KS 66208, US",
             "id": "DAN878",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20434,7 +20434,7 @@
         },
         {
             "name": "Prescott Valley, Arizona",
-            "address": "8361-8399 E Loos Dr., Prescott Valley, AZ 86314",
+            "address": "8361 E Loos Dr, Prescott Valley, AZ 86314, US",
             "id": "DAN879",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20450,7 +20450,7 @@
         },
         {
             "name": "Belleville",
-            "address": "709 N 2nd St. Belleville, IL 62220",
+            "address": "709 N 2nd St, Belleville, IL 62220, US",
             "id": "DAN88",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20466,7 +20466,7 @@
         },
         {
             "name": "Prescott, Arizona",
-            "address": "799 E Willis St #701, Prescott, AZ 86301",
+            "address": "799 E Willis St #701, Prescott, AZ 86301, US",
             "id": "DAN880",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20482,7 +20482,7 @@
         },
         {
             "name": "Price, Utah",
-            "address": "1050 E 7th N Price, UT 84501",
+            "address": "Terrace Hills Park, 1050 E 7th N, Price, UT 84501, US",
             "id": "DAN881",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20498,7 +20498,7 @@
         },
         {
             "name": "Priest River",
-            "address": "69 4th St, Priest River, ID 83856",
+            "address": "69 4th St, Priest River, ID 83856, US",
             "id": "DAN882",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20514,7 +20514,7 @@
         },
         {
             "name": "Prineville",
-            "address": "399 NE Juniper St, Prineville, OR 97754",
+            "address": "399 NE Juniper St, Prineville, OR 97754, US",
             "id": "DAN883",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20530,7 +20530,7 @@
         },
         {
             "name": "Prosser, Washington",
-            "address": "956 S Kinney Way Prosser, WA 99350",
+            "address": "Miller Park, 956 S Kinney Way, Prosser, WA 99350, US",
             "id": "DAN884",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20546,7 +20546,7 @@
         },
         {
             "name": "Providence",
-            "address": "100 N 200 W, Providence, UT 84332",
+            "address": "100 N & 200 W, Providence, UT 84332, US",
             "id": "DAN885",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20562,7 +20562,7 @@
         },
         {
             "name": "Providence Village, Texas",
-            "address": "9356 Waterman Dr, Aubrey, TX 76227",
+            "address": "9356 Waterman Dr, Aubrey, TX 76227, US",
             "id": "DAN886",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20578,7 +20578,7 @@
         },
         {
             "name": "Provo (Fort Utah), Utah",
-            "address": "300 N Geneva Rd. Provo, UT 84601",
+            "address": "300 N Geneva Rd, Provo, UT 84601, US",
             "id": "DAN887",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20594,7 +20594,7 @@
         },
         {
             "name": "Provo (Recreation Center), Utah",
-            "address": "N Freedom Blvd & W 650 N Provo, UT 84601",
+            "address": "W 650 N St & N Freedom Blvd, Provo, UT 84601, US",
             "id": "DAN888",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20610,7 +20610,7 @@
         },
         {
             "name": "Pueblo (Civic Center Park), Colorado",
-            "address": "61 E Civic Center Dr. Pueblo, CO 81007",
+            "address": "61 E Civic Center Dr, Pueblo, CO 81007, US",
             "id": "DAN889",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20626,7 +20626,7 @@
         },
         {
             "name": "Bellevue (Crossroads), Washington",
-            "address": "16000 NE 10th St. Bellevue, WA 98008",
+            "address": "16000 NE 10th St, Bellevue, WA 98008, US",
             "id": "DAN89",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20642,7 +20642,7 @@
         },
         {
             "name": "Pueblo (El Centro Del Quinto Sol), Colorado",
-            "address": "701 N Erie Ave. Pueblo, CO 81001",
+            "address": "701 N Erie Ave, Pueblo, CO 81001, US",
             "id": "DAN890",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20658,7 +20658,7 @@
         },
         {
             "name": "Pueblo (Sergeant Blake A. Harris), Colorado",
-            "address": "3430 Skateboard Lane Pueblo, CO 81005",
+            "address": "3430 Skateboard Ln, Pueblo, CO 81005, US",
             "id": "DAN891",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20674,7 +20674,7 @@
         },
         {
             "name": "Pullman",
-            "address": "325 E Spring St, Pullman, WA 99163",
+            "address": "325 E Spring St, Pullman, WA 99163, US",
             "id": "DAN892",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20690,7 +20690,7 @@
         },
         {
             "name": "Puyallup, Washington",
-            "address": "1299 4th St NW, Puyallup, WA 98371",
+            "address": "1299 4th St NW, Puyallup, WA 98371, US",
             "id": "DAN893",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20706,7 +20706,7 @@
         },
         {
             "name": "Quartz Hill",
-            "address": "5520 W Ave L8 Quartz Hill, CA 93536",
+            "address": "5520 W Ave L8, Lancaster, CA 93536, US",
             "id": "DAN894",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20722,7 +20722,7 @@
         },
         {
             "name": "Rancho Cucamonga, California",
-            "address": "7800 Elm Ave. Rancho Cucamonga, CA 91730",
+            "address": "7800 Elm Ave, Rancho Cucamonga, CA 91730, US",
             "id": "DAN895",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20738,7 +20738,7 @@
         },
         {
             "name": "Rancho Santa Margarita, California",
-            "address": "24328 Antonio Pkwy, Rancho Santa Margarita, CA 92688",
+            "address": "24328 Antonio Pkwy, Rancho Santa Margarita, CA 92688, US",
             "id": "DAN896",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20754,7 +20754,7 @@
         },
         {
             "name": "Rapid City, South Dakota",
-            "address": "209 New York St, Rapid City, SD 57701",
+            "address": "209 New York St, Rapid City, SD 57701, US",
             "id": "DAN897",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20770,7 +20770,7 @@
         },
         {
             "name": "Rathdrum",
-            "address": "805 Main St, Rathdrum, ID 83858",
+            "address": "805 Main St, Rathdrum, ID 83858, US",
             "id": "DAN898",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20786,7 +20786,7 @@
         },
         {
             "name": "Red Lodge, Montana",
-            "address": "114 Villard Ave N, Red Lodge, MT 59068",
+            "address": "114 Villard Ave N, Red Lodge, MT 59068, US",
             "id": "DAN899",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20802,7 +20802,7 @@
         },
         {
             "name": "Bellevue (Highland), Washington",
-            "address": "14224 Bel Red Rd. Bellevue, WA 98007",
+            "address": "14224 Bel-Red Rd, Bellevue, WA 98007, US",
             "id": "DAN90",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20818,7 +20818,7 @@
         },
         {
             "name": "Redmond, Oregon",
-            "address": "W Antler Ave & SW 15th St. Redmond, OR 97756",
+            "address": "W Antler Ave & SW 15th St, Redmond, OR 97756, US",
             "id": "DAN900",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20834,7 +20834,7 @@
         },
         {
             "name": "Redmond, Oregon Pump Track",
-            "address": "767 NW Canal Blvd, Redmond, OR 97756",
+            "address": "767 NW Canal Blvd, Redmond, OR 97756, US",
             "id": "DAN901",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20850,7 +20850,7 @@
         },
         {
             "name": "Redmond, Washington",
-            "address": "83rd St & 161st Ave NE Redmond, WA 98052",
+            "address": "161st Avenue Northeast & NE 83rd St, Redmond, WA 98052, US",
             "id": "DAN902",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20866,7 +20866,7 @@
         },
         {
             "name": "Redwood City, California",
-            "address": "711 Nevada St., Redwood City, CA 94061",
+            "address": "711 Nevada St, Redwood City, CA 94061, US",
             "id": "DAN903",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20882,7 +20882,7 @@
         },
         {
             "name": "Reedsport",
-            "address": "150 N 20th St, Reedsport, OR 97467",
+            "address": "Lions Park, 150 N 20th St, Reedsport, OR 97467, US",
             "id": "DAN904",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20898,7 +20898,7 @@
         },
         {
             "name": "Regina",
-            "address": "SK, Canada 5255 Rochdale Blvd. Regina, SK S4X 4C7, Canada",
+            "address": "5255 Rochdale Blvd, Regina, SK S4X 4C7, Canada",
             "id": "DAN905",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20914,7 +20914,7 @@
         },
         {
             "name": "Reno (Idlewild), Nevada",
-            "address": "2055 Idlewild Dr, Reno, NV 89509",
+            "address": "2055 Idlewild Dr, Reno, NV 89509, US",
             "id": "DAN906",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20930,7 +20930,7 @@
         },
         {
             "name": "Reno (Rattlesnake Mt.), Nevada",
-            "address": "2692 S McCarran Blvd, Reno, NV 89502",
+            "address": "2692 S McCarran Blvd, Reno, NV 89502, US",
             "id": "DAN907",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20946,7 +20946,7 @@
         },
         {
             "name": "Renton (Longacres DIY), Washington",
-            "address": "1400 Monster Rd SW Renton, WA 98057",
+            "address": "1400 Monster Rd SW, Renton, WA 98057, US",
             "id": "DAN908",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20962,7 +20962,7 @@
         },
         {
             "name": "Renton, Washington",
-            "address": "101 Houser Way N. Renton, WA 98057",
+            "address": "101 Houser Way N, Renton, WA 98057, US",
             "id": "DAN909",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20978,7 +20978,7 @@
         },
         {
             "name": "Bellevue (Lakemont), Washington",
-            "address": "5170 Village Park Dr SE Bellevue, WA 98006",
+            "address": "5170 Village Park Dr SE, Bellevue, WA 98006, US",
             "id": "DAN91",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -20994,7 +20994,7 @@
         },
         {
             "name": "Rexburg",
-            "address": "Nature Park Dr, Rexburg, ID 83440",
+            "address": "Nature Park Dr, Rexburg, ID 83440, US",
             "id": "DAN910",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21010,7 +21010,7 @@
         },
         {
             "name": "Rialto, California",
-            "address": "201 N Willow Ave., Rialto, CA 92376",
+            "address": "Margaret Todd Park, 201 N Willow Ave, Rialto, CA 92376, US",
             "id": "DAN911",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21026,7 +21026,7 @@
         },
         {
             "name": "Richfield",
-            "address": "7000 Nicollet Ave., Minneapolis, MN 55423",
+            "address": "7000 Nicollet Ave, Minneapolis, MN 55423, US",
             "id": "DAN912",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21042,7 +21042,7 @@
         },
         {
             "name": "Richfield, Utah",
-            "address": "700 W 400 N., Richfield, UT 84701",
+            "address": "700 W 400 N, Richfield, UT 84701, US",
             "id": "DAN913",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21058,7 +21058,7 @@
         },
         {
             "name": "Richland",
-            "address": "1185 Carondelet Dr. Richland, WA 99352",
+            "address": "1185 Carondelet Dr, Richland, WA 99352, US",
             "id": "DAN914",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21074,7 +21074,7 @@
         },
         {
             "name": "Richmond",
-            "address": "N 22nd St. and N D St. Richmond, IN 47374",
+            "address": "N D St & N 22nd St, Richmond, IN 47374, US",
             "id": "DAN915",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21090,7 +21090,7 @@
         },
         {
             "name": "Ridgway, Colorado",
-            "address": "498 Chipeta Dr. Ridgway, CO 81432",
+            "address": "498 Chipeta Dr, Ridgway, CO 81432, US",
             "id": "DAN916",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21106,7 +21106,7 @@
         },
         {
             "name": "Rifle, Colorado",
-            "address": "200 E 16th St, Rifle, CO 81650",
+            "address": "200 E 16th St, Rifle, CO 81650, US",
             "id": "DAN917",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21122,7 +21122,7 @@
         },
         {
             "name": "Rio Rancho, New Mexico",
-            "address": "5150 Santa Fe Hills Blvd. NE, Rio Rancho, New Mexico",
+            "address": "5150 Santa Fe Hills Blvd NE, Rio Rancho, NM 87144, US",
             "id": "DAN918",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21138,7 +21138,7 @@
         },
         {
             "name": "Ripon, California",
-            "address": "1250 Hughes Ln, Ripon, CA 95366",
+            "address": "1250 Hughes Ln, Ripon, CA 95366, US",
             "id": "DAN919",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21154,7 +21154,7 @@
         },
         {
             "name": "Bellflower, California",
-            "address": "10500 Flora Vista St. Bellflower, CA 90706",
+            "address": "10500 Flora Vista St, Bellflower, CA 90706, US",
             "id": "DAN92",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21170,7 +21170,7 @@
         },
         {
             "name": "River City (South Park, Seattle), Washington",
-            "address": "736 S Cloverdale St. Seattle, WA 98108",
+            "address": "736 S Cloverdale St, Seattle, WA 98108, US",
             "id": "DAN920",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21186,7 +21186,7 @@
         },
         {
             "name": "Riverton, Utah",
-            "address": "1435 W 12600 S Riverton, UT 84065",
+            "address": "1435 W 12600 S, Riverton, UT 84065, US",
             "id": "DAN921",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21202,7 +21202,7 @@
         },
         {
             "name": "Riverton, Wyoming",
-            "address": "1001 E Fremont Ave., Riverton, WY 82501",
+            "address": "1001 E Fremont Ave, Riverton, WY 82501, US",
             "id": "DAN922",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21218,7 +21218,7 @@
         },
         {
             "name": "Roanoke",
-            "address": "700 Cannon Pkwy, Roanoke, TX 76262",
+            "address": "700 Cannon Pkwy, Roanoke, TX 76262, US",
             "id": "DAN923",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21234,7 +21234,7 @@
         },
         {
             "name": "Rochester",
-            "address": "840 7th St NE, Rochester, MN 55906",
+            "address": "840 7th St NE, Rochester, MN 55906, US",
             "id": "DAN924",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21250,7 +21250,7 @@
         },
         {
             "name": "Rock Springs, Wyoming",
-            "address": "N Side Belt Route & Powerhouse Dr. Rock Springs, WY 82901",
+            "address": "N Side Belt Route & Powerhouse Drive, Rock Springs, WY 82901, US",
             "id": "DAN925",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21266,7 +21266,7 @@
         },
         {
             "name": "Rocklin, California",
-            "address": "5480 5th St, Rocklin, CA 95677",
+            "address": "5480 5th St, Rocklin, CA 95677, US",
             "id": "DAN926",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21282,7 +21282,7 @@
         },
         {
             "name": "Roeland Park",
-            "address": "4600 Sycamore Dr. Roeland Park, KS 66205",
+            "address": "4600 Sycamore Dr, Roeland Park, KS 66205, US",
             "id": "DAN927",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21298,7 +21298,7 @@
         },
         {
             "name": "Rose Park, Utah",
-            "address": "1426 N 1200 W Salt Lake City, UT 84116",
+            "address": "1426 N 1200 W, Salt Lake City, UT 84116, US",
             "id": "DAN928",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21314,7 +21314,7 @@
         },
         {
             "name": "Roseburg",
-            "address": "929 NW Garden Valley Blvd., Roseburg, OR 97471",
+            "address": "929 NW Garden Valley Blvd, Roseburg, OR 97471, US",
             "id": "DAN929",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21330,7 +21330,7 @@
         },
         {
             "name": "Bellingham",
-            "address": "1400 Puget St, Bellingham, WA 98229",
+            "address": "1400 Puget St, Bellingham, WA 98229, US",
             "id": "DAN93",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21346,7 +21346,7 @@
         },
         {
             "name": "Rosemount",
-            "address": "3335 142nd St W, Rosemount, MN 55068",
+            "address": "3335 142nd St W, Rosemount, MN 55068, US",
             "id": "DAN930",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21362,7 +21362,7 @@
         },
         {
             "name": "Roseville (Huron Park), Michigan",
-            "address": "25979 Kelly Rd, Roseville, MI 48066",
+            "address": "25979 Kelly Rd, Roseville, MI 48066, US",
             "id": "DAN931",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21378,7 +21378,7 @@
         },
         {
             "name": "Round Rock, Texas",
-            "address": "1600 Gattis School Rd, Round Rock, TX 78664",
+            "address": "1600 Gattis School Rd, Round Rock, TX 78664, US",
             "id": "DAN932",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21394,7 +21394,7 @@
         },
         {
             "name": "Roxborough Park, Colorado",
-            "address": "7523 N. Rampart Range Rd. Roxborough Park, CO 80125",
+            "address": "7523 N Rampart Range Rd, Littleton, CO 80125, US",
             "id": "DAN933",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21410,7 +21410,7 @@
         },
         {
             "name": "Roy City, Utah",
-            "address": "2900 W 4600 S Roy, UT 84067",
+            "address": "S 2900 W & 4600 S St, Roy, UT 84067, US",
             "id": "DAN934",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21426,7 +21426,7 @@
         },
         {
             "name": "Sacramento",
-            "address": "8200 Ramona Ave, Sacramento, CA 95826",
+            "address": "8200 Ramona Ave, Sacramento, CA 95826, US",
             "id": "DAN935",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21442,7 +21442,7 @@
         },
         {
             "name": "Saginaw (Frank N. Andersen Park), Michigan",
-            "address": "1830 Fordney St, Saginaw, MI 48601",
+            "address": "1830 Fordney St, Saginaw, MI 48601, US",
             "id": "DAN936",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21458,7 +21458,7 @@
         },
         {
             "name": "Saint Helena",
-            "address": "360 S Crane Ave, St Helena, CA 94574",
+            "address": "360 S Crane Ave, St. Helena, CA 94574, US",
             "id": "DAN937",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21474,7 +21474,7 @@
         },
         {
             "name": "Saint Paul (Front Street)",
-            "address": "485 Stinson Ave W., St. Paul, MN 55117",
+            "address": "485 Stinson Ave W, Saint Paul, MN 55117, US",
             "id": "DAN938",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21490,7 +21490,7 @@
         },
         {
             "name": "Salem, Oregon",
-            "address": "220 Union St NE, Salem, OR 97301",
+            "address": "220 Union St NE, Salem, OR 97301, US",
             "id": "DAN939",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21506,7 +21506,7 @@
         },
         {
             "name": "Bellingham (Cordata Park), Washington Pump Track",
-            "address": "4530 Cordata Pkwy Bellingham, WA 98226",
+            "address": "4530 Cordata Pkwy, Bellingham, WA 98226, US",
             "id": "DAN94",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21522,7 +21522,7 @@
         },
         {
             "name": "Salida (Centennial), Colorado",
-            "address": "1695 Holman Ave, Salida, CO 81201",
+            "address": "1695 Holman Ave, Salida, CO 81201, US",
             "id": "DAN940",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21538,7 +21538,7 @@
         },
         {
             "name": "Salida, Colorado",
-            "address": "200 W 1st St, Salida, CO 81201",
+            "address": "200 W 1st St, Salida, CO 81201, US",
             "id": "DAN941",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21554,7 +21554,7 @@
         },
         {
             "name": "Salt Lake City (Fairmont)",
-            "address": "2333 S 900 E Salt Lake City, UT 84106",
+            "address": "2333 S 900 E, Salt Lake City, UT 84106, US",
             "id": "DAN942",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21570,7 +21570,7 @@
         },
         {
             "name": "Salt Lake City (Jordan), Utah",
-            "address": "1032 S 900 W Salt Lake City, UT 84104",
+            "address": "1032 S 900 W, Salt Lake City, UT 84104, US",
             "id": "DAN943",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21586,7 +21586,7 @@
         },
         {
             "name": "Salt Lake City (Vans, Fairpark), Utah",
-            "address": "1098 W 200 N, Salt Lake City, UT 84116",
+            "address": "1098 W 200 N, Salt Lake City, UT 84116, US",
             "id": "DAN944",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21602,7 +21602,7 @@
         },
         {
             "name": "Sammamish, Washington",
-            "address": "801 228th Ave SE Sammamish, WA 98075",
+            "address": "801 228th Ave SE, Sammamish, WA 98075, US",
             "id": "DAN945",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21618,7 +21618,7 @@
         },
         {
             "name": "San Bernardino, Californa",
-            "address": "1466 W Marshall Blvd, San Bernardino, CA 92405",
+            "address": "1466 W Marshall Blvd, San Bernardino, CA 92405, US",
             "id": "DAN946",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21634,7 +21634,7 @@
         },
         {
             "name": "San Clemente, California",
-            "address": "247 Avenida La Pata San Clemente, CA 92672",
+            "address": "247 Avenida La Pata, San Clemente, CA 92673, US",
             "id": "DAN947",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21650,7 +21650,7 @@
         },
         {
             "name": "San Diego (Carmel Valley), California",
-            "address": "12600 El Camino Real, San Diego, CA 92130",
+            "address": "12600 El Camino Real, San Diego, CA 92130, US",
             "id": "DAN948",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21666,7 +21666,7 @@
         },
         {
             "name": "San Diego (Clairmont), California",
-            "address": "3401 Clairemont Dr, San Diego, CA 92117",
+            "address": "3401 Clairemont Dr, San Diego, CA 92117, US",
             "id": "DAN949",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21682,7 +21682,7 @@
         },
         {
             "name": "Belton",
-            "address": "16400 N Mullen Rd. Belton, MO 64012",
+            "address": "16400 N Mullen Rd, Belton, MO 64012, US",
             "id": "DAN95",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21698,7 +21698,7 @@
         },
         {
             "name": "San Diego (Damato Park), California",
-            "address": "4599 Damato St, San Diego, CA 92124",
+            "address": "4599 Damato St, San Diego, CA 92124, US",
             "id": "DAN950",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21714,7 +21714,7 @@
         },
         {
             "name": "San Diego (Memorial Park), California",
-            "address": "702 S 30th St. San Diego, CA 92113",
+            "address": "702 S 30th St, San Diego, CA 92113, US",
             "id": "DAN951",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21730,7 +21730,7 @@
         },
         {
             "name": "San Diego (Robb Field), California",
-            "address": "2525 Bacon St. San Diego, CA 92107",
+            "address": "2525 Bacon St, San Diego, CA 92107, US",
             "id": "DAN952",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21746,7 +21746,7 @@
         },
         {
             "name": "San Diego (Washington Street), California",
-            "address": "St & Pacific Hwy San Diego, CA, 92140",
+            "address": "Pacific Hwy, San Diego, CA 92140, US",
             "id": "DAN953",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21762,7 +21762,7 @@
         },
         {
             "name": "San Francisco (Potrero Del Sol)",
-            "address": "1365 Potrero Ave San Francisco, CA 94110",
+            "address": "1365 Potrero Ave, San Francisco, CA 94110, US",
             "id": "DAN954",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21778,7 +21778,7 @@
         },
         {
             "name": "San Jose (Lake Cunningham), California",
-            "address": "2305 S White Rd. San Jose, CA 95148",
+            "address": "2305 S White Rd, San Jose, CA 95148, US",
             "id": "DAN955",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21794,7 +21794,7 @@
         },
         {
             "name": "San Jose (Roosevelt)",
-            "address": "901 East Santa Clara Street San Jose, CA 95116",
+            "address": "901 E Santa Clara St, San Jose, CA 95116, US",
             "id": "DAN956",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21810,7 +21810,7 @@
         },
         {
             "name": "San Jose (Stonegate), California",
-            "address": "2645 Gassmann Dr. San Jose, CA 95121",
+            "address": "2645 Gassmann Dr, San Jose, CA 95121, US",
             "id": "DAN957",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21826,7 +21826,7 @@
         },
         {
             "name": "San Jose, California (Arroyo)",
-            "address": "180 N King Rd. San Jose, CA 95116",
+            "address": "180 N King Rd, San Jose, CA 95116, US",
             "id": "DAN958",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21842,7 +21842,7 @@
         },
         {
             "name": "San Luis Obispo",
-            "address": "1050 Oak St. San Luis Obispo, CA 93405",
+            "address": "1050 Oak St, San Luis Obispo, CA 93405, US",
             "id": "DAN959",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21858,7 +21858,7 @@
         },
         {
             "name": "Belvedere",
-            "address": "4914 East Cesar E Chavez Avenue East Los Angeles, CA 90022",
+            "address": "4914 E Cesar E Chavez Ave, East Los Angeles, CA 90022, US",
             "id": "DAN96",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21874,7 +21874,7 @@
         },
         {
             "name": "San Marcos, Texas",
-            "address": "625 E Hopkins St, San Marcos, TX 78666",
+            "address": "625 E Hopkins St, San Marcos, TX 78666, US",
             "id": "DAN960",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21890,7 +21890,7 @@
         },
         {
             "name": "San Pedro (Channel Street)",
-            "address": "610 W Channel St. San Pedro, CA 90731",
+            "address": "610 W Channel St, Los Angeles, CA 90731, US",
             "id": "DAN961",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21906,7 +21906,7 @@
         },
         {
             "name": "San Rafael",
-            "address": "465 Smith Ranch Rd, San Rafael, CA 94903",
+            "address": "465 Smith Ranch Rd, San Rafael, CA 94903, US",
             "id": "DAN962",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21922,7 +21922,7 @@
         },
         {
             "name": "SanDiego (Linda Vista), California",
-            "address": "6893 Osler St San Diego, CA 92111",
+            "address": "6893 Osler St, San Diego, CA 92111, US",
             "id": "DAN963",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21938,7 +21938,7 @@
         },
         {
             "name": "SanDiego (Pacific Highlands Ranch), California",
-            "address": "5977 Village Center Loop Rd San Diego, CA 92130",
+            "address": "5977 Village Center Loop Rd, San Diego, CA 92130, US",
             "id": "DAN964",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21954,7 +21954,7 @@
         },
         {
             "name": "SanDiego (Pacific Highlands Ranch), California Pump Track",
-            "address": "5977 Village Center Loop Rd San Diego, CA 92130",
+            "address": "5977 Village Center Loop Rd, San Diego, CA 92130, US",
             "id": "DAN965",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21970,7 +21970,7 @@
         },
         {
             "name": "Sandpoint, Idaho",
-            "address": "2100 Pine St, Sandpoint, ID 83864",
+            "address": "2100 Pine St, Sandpoint, ID 83864, US",
             "id": "DAN966",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -21986,7 +21986,7 @@
         },
         {
             "name": "Sandy, Utah",
-            "address": "10140 700 E, Sandy, Utah 84070",
+            "address": "10140 S 700 E, Sandy, UT 84070, US",
             "id": "DAN967",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22002,7 +22002,7 @@
         },
         {
             "name": "Santa Ana, California",
-            "address": "3000 W Edinger Ave, Santa Ana, CA 92704",
+            "address": "3000 W Edinger Ave, Santa Ana, CA 92704, US",
             "id": "DAN968",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22018,7 +22018,7 @@
         },
         {
             "name": "Santa Barbara",
-            "address": "110 E Cabrillo Blvd Santa Barbara, CA 93101",
+            "address": "110 E Cabrillo Blvd, Santa Barbara, CA 93101, US",
             "id": "DAN969",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22034,7 +22034,7 @@
         },
         {
             "name": "Bemidji",
-            "address": "1504 23rd St NW Bemidji, MN 56601",
+            "address": "1504 23rd St NW, Bemidji, MN 56601, US",
             "id": "DAN97",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22050,7 +22050,7 @@
         },
         {
             "name": "Santa Clara, Utah",
-            "address": "1241 N Canyon View Dr. Santa Clara, UT 84765",
+            "address": "1241 N Canyon View Dr, Santa Clara, UT 84765, US",
             "id": "DAN970",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22066,7 +22066,7 @@
         },
         {
             "name": "Santa Clarita, California",
-            "address": "20840 Centre Pointe Pkwy, Santa Clarita, CA 91350",
+            "address": "20840 Centre Pointe Pkwy, Santa Clarita, CA 91350, US",
             "id": "DAN971",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22082,7 +22082,7 @@
         },
         {
             "name": "Santa Cruz",
-            "address": "299 San Lorenzo Blvd, Santa Cruz, CA 95060",
+            "address": "299 San Lorenzo Blvd, Santa Cruz, CA 95060, US",
             "id": "DAN972",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22098,7 +22098,7 @@
         },
         {
             "name": "Santa Cruz (Derby)",
-            "address": "508 Woodland Way, Santa Cruz, CA 95060",
+            "address": "508 Woodland Way, Santa Cruz, CA 95060, US",
             "id": "DAN973",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22114,7 +22114,7 @@
         },
         {
             "name": "Santa Fe (De Vargas), New Mexico",
-            "address": "302 W De Vargas St, Santa Fe, NM 87501",
+            "address": "302 W De Vargas St, Santa Fe, NM 87501, US",
             "id": "DAN974",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22130,7 +22130,7 @@
         },
         {
             "name": "Santa Fe (Genoveva), New Mexico",
-            "address": "3221 Rodeo Road, Santa Fe, NM 87507",
+            "address": "3221 Rodeo Rd, Santa Fe, NM 87507, US",
             "id": "DAN975",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22146,7 +22146,7 @@
         },
         {
             "name": "Santa Fe (Ramirez), New Mexico",
-            "address": "1219 Camino Carlos Rey, Santa Fe, NM 87507",
+            "address": "1219 Camino Carlos Rey, Santa Fe, NM 87507, US",
             "id": "DAN976",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22162,7 +22162,7 @@
         },
         {
             "name": "Santa Maria (Fletcher Park)",
-            "address": "2200 S College Dr. Santa Maria, CA 93455",
+            "address": "2200 S College Dr, Santa Maria, CA 93455, US",
             "id": "DAN977",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22178,7 +22178,7 @@
         },
         {
             "name": "Santa Maria (YMCA)",
-            "address": "3400 Skyway Dr. Santa Maria, CA 93455",
+            "address": "3400 Skyway Dr, Orcutt, CA 93455, US",
             "id": "DAN978",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22194,7 +22194,7 @@
         },
         {
             "name": "Santa Monica (The Cove)",
-            "address": "1401 Olympic Blvd, Santa Monica, CA 90404",
+            "address": "1401 Olympic Blvd, Santa Monica, CA 90404, US",
             "id": "DAN979",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22210,7 +22210,7 @@
         },
         {
             "name": "Bend (Old Ponderosa), Oregon",
-            "address": "215 15th St, Bend, OR 97702",
+            "address": "215 15th St, Bend, OR 97702, US",
             "id": "DAN98",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22226,7 +22226,7 @@
         },
         {
             "name": "Santa Paula",
-            "address": "118 S 10th St. Santa Paula, CA 93060",
+            "address": "118 S 10th St, Santa Paula, CA 93060, US",
             "id": "DAN980",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22242,7 +22242,7 @@
         },
         {
             "name": "Santee, California",
-            "address": "10250 Woodglen Vista Dr. Santee, CA 92071",
+            "address": "10250 Woodglen Vista Dr, Santee, CA 92071, US",
             "id": "DAN981",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22258,7 +22258,7 @@
         },
         {
             "name": "Sarasota, Florida",
-            "address": "2110 Adams St, Sarasota, FL 34237",
+            "address": "2110 Adams Ln, Sarasota, FL 34237, US",
             "id": "DAN982",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22274,7 +22274,7 @@
         },
         {
             "name": "Saratoga Springs (Legacy Farms), Utah",
-            "address": "379 E Willowstone Ln, Saratoga Springs, UT 84045",
+            "address": "379 E Willowstone Ln, Saratoga Springs, UT 84045, US",
             "id": "DAN983",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22290,7 +22290,7 @@
         },
         {
             "name": "Scappoose",
-            "address": "E Columbia Ave & NE 1st St. Scappoose, OR 97056",
+            "address": "E Columbia Ave & NE 1st St, Scappoose, OR 97056, US",
             "id": "DAN984",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22306,7 +22306,7 @@
         },
         {
             "name": "Schaumburg",
-            "address": "1675 E. Old Schaumburg rd., Schaumburg, IL 60196",
+            "address": "1675 Old Schaumburg Rd, Schaumburg, IL 60173, US",
             "id": "DAN985",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22322,7 +22322,7 @@
         },
         {
             "name": "Schiller Park",
-            "address": "9620 W Irving Park Rd. Schiller Park, IL 60176",
+            "address": "9620 W Irving Park Rd, Schiller Park, IL 60176, US",
             "id": "DAN986",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22338,7 +22338,7 @@
         },
         {
             "name": "Scotts Valley, California",
-            "address": "361 Kings Village Rd. Scotts Valley, CA 95066",
+            "address": "361 Kings Village Rd, Scotts Valley, CA 95066, US",
             "id": "DAN987",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22354,7 +22354,7 @@
         },
         {
             "name": "Scottsbluff",
-            "address": "801 W 31st St, Scottsbluff, NE 69361",
+            "address": "801 W 31st St, Scottsbluff, NE 69361, US",
             "id": "DAN988",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22370,7 +22370,7 @@
         },
         {
             "name": "Scottsdale (McDowell Mountain Ranch), Arizona",
-            "address": "15525 N Thompson Peak Pkwy., Scottsdale, AZ 85260",
+            "address": "15525 N Thompson Peak Pkwy, Scottsdale, AZ 85260, US",
             "id": "DAN989",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22386,7 +22386,7 @@
         },
         {
             "name": "Bend (Ponderosa), Oregon",
-            "address": "1411 SE Wilson Ave, Bend, OR 97702",
+            "address": "1411 SE Wilson Ave, Bend, OR 97702, US",
             "id": "DAN99",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22402,7 +22402,7 @@
         },
         {
             "name": "Scottsdale (The Wedge), Arizona",
-            "address": "1764 N 77th St., Scottsdale, AZ 85257",
+            "address": "1764 N 77th St, Scottsdale, AZ 85257, US",
             "id": "DAN990",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22418,7 +22418,7 @@
         },
         {
             "name": "Sea Tac, Washington Pump Track",
-            "address": "1855 S 136th St, SeaTac, WA 98168",
+            "address": "1855 S 136th St, SeaTac, WA 98168, US",
             "id": "DAN991",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22434,7 +22434,7 @@
         },
         {
             "name": "Seaside, Oregon",
-            "address": "1140 Broadway St. Seaside, OR 97138",
+            "address": "1140 Broadway St, Seaside, OR 97138, US",
             "id": "DAN992",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22450,7 +22450,7 @@
         },
         {
             "name": "SeaTac, Washington (North Seatac Park)",
-            "address": "13735 24th Ave S, SeaTac, WA 98168",
+            "address": "13735 24th Ave S, SeaTac, WA 98168, US",
             "id": "DAN993",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22466,7 +22466,7 @@
         },
         {
             "name": "SeaTac, Washington (Valley Ridge Park)",
-            "address": "4644 S 188th St SeaTac, WA 98188",
+            "address": "4644 S 188th St, SeaTac, WA 98188, US",
             "id": "DAN994",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22482,7 +22482,7 @@
         },
         {
             "name": "Seattle (Beacon Hill/Jefferson Park), Washington",
-            "address": "3801 Beacon Ave S. Seattle, WA 98108",
+            "address": "3801 Beacon Ave S, Seattle, WA 98108, US",
             "id": "DAN995",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22498,7 +22498,7 @@
         },
         {
             "name": "Seattle (Benefit Park), Washington",
-            "address": "9320 38th Ave S, Seattle, WA 98118",
+            "address": "9320 38th Ave. S, Seattle, WA 98118, US",
             "id": "DAN996",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22514,7 +22514,7 @@
         },
         {
             "name": "Seattle (Crown Hill/Ballard), Washington",
-            "address": "9089 Holman Rd NW, Seattle, WA 98117",
+            "address": "9089 Holman Rd NW, Seattle, WA 98117, US",
             "id": "DAN997",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22530,7 +22530,7 @@
         },
         {
             "name": "Seattle (Dahl Field), Washington",
-            "address": "7700 25th Ave NE, Seattle, WA 98115",
+            "address": "7700 25th Ave NE, Seattle, WA 98115, US",
             "id": "DAN998",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22546,7 +22546,7 @@
         },
         {
             "name": "Seattle (Delridge), Washington",
-            "address": "2414 SW Genesee St, Seattle, WA 98106",
+            "address": "2414 SW Genesee St, Seattle, WA 98106, US",
             "id": "DAN999",
             "builder": "unknown",
             "sqft": "Unknown",
@@ -22562,7 +22562,7 @@
         },
         {
             "name": "DAN DEVER MEMORIAL SKATEPARK",
-            "address": "1025 E Hamlet St, Othello, WA 99344, USA",
+            "address": "1025 E Hamlet St, Othello, WA 99344, US",
             "id": "DANDEVERMEMORIALSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -22578,7 +22578,7 @@
         },
         {
             "name": "DARBY, MONTANA SKATEPARK",
-            "address": "301 Rodeo Rd, Darby, MT 59829, USA",
+            "address": "301 Rodeo Rd, Darby, MT 59829, US",
             "id": "DARBYMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "7,317.53 ft\u00b2",
@@ -22594,7 +22594,7 @@
         },
         {
             "name": "Darby Skatepark",
-            "address": "Rodeo Rd, Darby, MT 59829",
+            "address": "Rodeo Rd, Darby, MT 59829, US",
             "id": "darbyMT",
             "builder": "Evergreen.",
             "sqft": "4,300sqft.",
@@ -22610,7 +22610,7 @@
         },
         {
             "name": "Daug\u00e5rd Skatepark",
-            "address": "Gl Vejlevej 49, 8721, Daug\u00e5rd",
+            "address": "Gl Vejlevej 49, 8721 Daug\u00e5rd, Denmark",
             "id": "Daug\u00e5rd SkateparkDK",
             "builder": "FSR",
             "sqft": "360 m\u00b2",
@@ -22642,7 +22642,7 @@
         },
         {
             "name": "DAYBREAK SCULPTURE GARDEN",
-            "address": "4513 Dorena Ln, South Jordan, UT 84009, USA",
+            "address": "4513 Dorena Ln, South Jordan, UT 84009, US",
             "id": "DAYBREAKSCULPTUREGARDEN",
             "builder": "Spohn Ranch",
             "sqft": "20,000+ ft\u00b2",
@@ -22658,7 +22658,7 @@
         },
         {
             "name": "D-Block",
-            "address": "8921 SE Jannsen Rd.",
+            "address": "8921 SE Jannsen Rd, Clackamas, OR 97015, US",
             "id": "dblockOR",
             "builder": "N/A",
             "sqft": "7,154.56 ft\u00b2",
@@ -22674,7 +22674,7 @@
         },
         {
             "name": "DELEO PARK SKATEPARK",
-            "address": "26020 Almond Ct, Corona, CA 92883, USA",
+            "address": "26020 Almond Ct, Corona, CA 92883, US",
             "id": "DELEOPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -22690,7 +22690,7 @@
         },
         {
             "name": "Delridge Skatepark",
-            "address": "SW Genesee St & Delridge Way SW, Seattle, WA 98106",
+            "address": "SW Genesee St & Delridge Wy SW, Seattle, WA 98106, US",
             "id": "delridge",
             "builder": "Grindline.",
             "sqft": "13,000sqft.",
@@ -22706,7 +22706,7 @@
         },
         {
             "name": "Deltona, FL",
-            "address": "301 Courtland Blvd, Deltona, FL 32738",
+            "address": "301 Courtland Blvd, Deltona, FL 32738, US",
             "id": "deltona",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -22722,7 +22722,7 @@
         },
         {
             "name": "Des Moines Skatepark",
-            "address": "11th Ave S & S 219th St Des Moines, WA 98198",
+            "address": "S 219th St & 11th Ave S, Des Moines, WA 98198, US",
             "id": "desmoines",
             "builder": "N/A",
             "sqft": "6,947.13 ft\u00b2",
@@ -22738,7 +22738,7 @@
         },
         {
             "name": "DevargasPark-SanteFe,NM",
-            "address": "132-198 East Palace Avenue, Santa Fe, NM 87501, USA",
+            "address": "132 E Palace Ave, Santa Fe, NM 87501, US",
             "id": "DevargasPark-SanteFeNM",
             "builder": "Grindline",
             "sqft": "12,000sqft.",
@@ -22754,7 +22754,7 @@
         },
         {
             "name": "Dianalund Skatepark",
-            "address": "S\u00f8mosevej 44, 4293, Dianalund",
+            "address": "S\u00f8mosevej 44, 4293 Dianalund, Denmark",
             "id": "Dianalund SkateparkDK",
             "builder": "FSR",
             "sqft": "330 m\u00b2",
@@ -22770,7 +22770,7 @@
         },
         {
             "name": "DICKSON SKATEPARK",
-            "address": "115 Church St, Dickson, TN 37055, USA",
+            "address": "115 Church St, Dickson, TN 37055, US",
             "id": "DICKSONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7000 ft\u00b2",
@@ -22786,7 +22786,7 @@
         },
         {
             "name": "DIGIORGIO ACTION PARK",
-            "address": "651-699 Haven Dr, Arvin, CA 93203, USA",
+            "address": "651-699 Haven Dr, Arvin, CA 93203, US",
             "id": "DIGIORGIOACTIONPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -22802,7 +22802,7 @@
         },
         {
             "name": "Dillon Skatepark",
-            "address": "655 E Center St Dillon, MT 59725",
+            "address": "655 E Center St, Dillon, MT 59725, US",
             "id": "dillonMT",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -22818,7 +22818,7 @@
         },
         {
             "name": "Domus Vista Skatepark",
-            "address": "Nordens Plads 2000 Frederiksberg",
+            "address": "Nordens Pl., 2000 Frederiksberg, Denmark",
             "id": "domusvistaDK",
             "builder": "N/A",
             "sqft": "2,577.20 ft\u00b2 (239.43 m\u00b2)",
@@ -22834,7 +22834,7 @@
         },
         {
             "name": "Donald Skatepark",
-            "address": "10861 Main St NE, Donald, OR 97020",
+            "address": "10861 Main St NE, Donald, OR 97020, US",
             "id": "donaldOR",
             "builder": "Dreamland.",
             "sqft": "2,500sqft.",
@@ -22850,7 +22850,7 @@
         },
         {
             "name": "DORIS DAVIES SKATEPARK",
-            "address": "16376 Hughes Rd, Victorville, CA 92395, USA",
+            "address": "16376 Hughes Rd, Victorville, CA 92395, US",
             "id": "DORISDAVIESSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15,000 ft\u00b2",
@@ -22866,7 +22866,7 @@
         },
         {
             "name": "DOUGLAS, WYOMING SKATEPARK",
-            "address": "801 Bartling St, Douglas, WY 82633, USA",
+            "address": "801 Bartling St, Douglas, WY 82633, US",
             "id": "DOUGLASWYOMINGSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "6,151.24 ft\u00b2",
@@ -22882,7 +22882,7 @@
         },
         {
             "name": "Drag\u00f8r Skatepark",
-            "address": "Kirkevej 24, 2791 Drag\u00f8r",
+            "address": "Kirkevej 24, 2791 Drag\u00f8r, Denmark",
             "id": "Drag\u00f8r SkateparkDK",
             "builder": "FSR",
             "sqft": "200 m\u00b2",
@@ -22898,7 +22898,7 @@
         },
         {
             "name": "Dreamspot",
-            "address": "Bernstorffsgade 50 1500 K\u00f8benhavn, Denmark",
+            "address": "Bernstorffsgade 50, 1577 K\u00f8benhavn, Denmark",
             "id": "dreamspotDK",
             "builder": "N/A",
             "sqft": "27,992.98 ft\u00b2 (2,600.63 m\u00b2)",
@@ -22914,7 +22914,7 @@
         },
         {
             "name": "Driggs Skatepark",
-            "address": "S Baseline Rd & E Gemstone Ave, Driggs, ID 83422",
+            "address": "S Baseline Rd & E Gemstone Ave, Driggs, ID 83422, US",
             "id": "driggsID",
             "builder": "Dreamland.",
             "sqft": "3,000sqft.",
@@ -22946,7 +22946,7 @@
         },
         {
             "name": "DuckPondPark-SanAntonio,TX",
-            "address": "900 South Ellison Drive, San Antonio, TX, United States",
+            "address": "900 S Ellison Dr, San Antonio, TX 78245, US",
             "id": "DuckPondPark-SanAntonioTX",
             "builder": "Grindline",
             "sqft": "3,600sqft.",
@@ -22962,7 +22962,7 @@
         },
         {
             "name": "DUDLEY SKATEPARK",
-            "address": "11-200-442-00, Macomb, IL 61455, USA",
+            "address": "900 W River Dr, Davenport, IA 52802, US",
             "id": "DUDLEYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,500 ft\u00b2",
@@ -22978,7 +22978,7 @@
         },
         {
             "name": "Dunedin Florida \u2013 Stirling Skatepark",
-            "address": "550 Laura Lane Dunedin Florida 34698",
+            "address": "550 Laura Ln, Dunedin, FL 34698, US",
             "id": "dunedin",
             "builder": "Team Pain",
             "sqft": "10,500sqft.",
@@ -22994,7 +22994,7 @@
         },
         {
             "name": "Durham Skatepark - Durham, NC",
-            "address": "505 Rigsbee Ave, Durham, NC 27701",
+            "address": "505 Rigsbee Ave, Durham, NC 27701, US",
             "id": "Durhamnc",
             "builder": "artisan",
             "sqft": "11,000sqft.",
@@ -23010,7 +23010,7 @@
         },
         {
             "name": "Duvall Skatepark",
-            "address": "28616 NE Big Rock Rd, Duvall, WA 98019",
+            "address": "28616 NE Big Rock Rd, Duvall, WA 98019, US",
             "id": "duvall",
             "builder": "Grindline.",
             "sqft": "6,000sqft.",
@@ -23026,7 +23026,7 @@
         },
         {
             "name": "Eagle Skatepark",
-            "address": "R3610110125, Garden City, ID 83714",
+            "address": "3151 E Greenbrook St, Eagle, ID 83616, US",
             "id": "eagleID",
             "builder": "N/A",
             "sqft": "12,500sqft.",
@@ -23042,7 +23042,7 @@
         },
         {
             "name": "EASTMARK SKATEPARK",
-            "address": "The Deck Skate Park, 9362 E Point Twenty-Two Blvd, Mesa, AZ 85212, USA",
+            "address": "The Deck Skate Park, 9362 E Point Twenty-Two Blvd, Mesa, AZ 85212, US",
             "id": "EASTMARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "20,000 ft\u00b2",
@@ -23058,7 +23058,7 @@
         },
         {
             "name": "EAU CLAIRE, WISCONSIN SKATEPARK",
-            "address": "900 Broadway St, Eau Claire, WI 54703, USA",
+            "address": "900 Broadway St, Eau Claire, WI 54703, US",
             "id": "EAUCLAIREWISCONSINSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "2,361.42 ft\u00b2",
@@ -23074,7 +23074,7 @@
         },
         {
             "name": "Ebeltoft",
-            "address": "Adelgade 39, 8400 Ebeltoft",
+            "address": "Adelgade 39, 8400 Ebeltoft, Denmark",
             "id": "EbeltoftDK",
             "builder": "FSR",
             "sqft": "250 m\u00b2",
@@ -23090,7 +23090,7 @@
         },
         {
             "name": "Echo Park Skate Park",
-            "address": "1632 Bellevue Ave, Los Angeles, CA 90026",
+            "address": "1632 Bellevue Ave, Los Angeles, CA 90026, US",
             "id": "echoparkCA",
             "builder": "N/A",
             "sqft": "7,100sqft.",
@@ -23106,7 +23106,7 @@
         },
         {
             "name": "Ed Austin Skatepark",
-            "address": "11751 McCormick Road Jacksonville, Florida 32225",
+            "address": "11751 McCormick Rd, Jacksonville, FL 32225, US",
             "id": "edaustin",
             "builder": "Team Pain",
             "sqft": "9,000sqft.",
@@ -23122,7 +23122,7 @@
         },
         {
             "name": "Ed Benedict Skate Plaza Portland",
-            "address": "10125 SE Powell Blvd, Portland, OR 97266, USA",
+            "address": "10125 SE Powell Blvd, Portland, OR 97266, US",
             "id": "edbenedictskateplazaportland",
             "builder": "Newline",
             "sqft": "17,602.19 ft\u00b2",
@@ -23138,7 +23138,7 @@
         },
         {
             "name": "ED DAY MEMORIAL SKATEPARK",
-            "address": "Ed Day Memorial Skate Park, 403 W 10th St, Gibson City, IL 60936, USA",
+            "address": "Ed Day Memorial Skate Park, 403 W 10th St, Gibson City, IL 60936, US",
             "id": "EDDAYMEMORIALSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -23154,7 +23154,7 @@
         },
         {
             "name": "EdinaYMCA-Edina,MN",
-            "address": "7355 York Ave. South Edina, Minnesota",
+            "address": "7355 York Ave S, Edina, MN 55435, US",
             "id": "EdinaYMCA-EdinaMN",
             "builder": "Grindline",
             "sqft": "16,000sqft.",
@@ -23170,7 +23170,7 @@
         },
         {
             "name": "EDINBURG SKATEPARK",
-            "address": "Skating park, 501 Tangerine Ave, Edinburg, TX 78539, USA",
+            "address": "501 Tangerine Ave, Edinburg, TX 78539, US",
             "id": "EDINBURGSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -23186,7 +23186,7 @@
         },
         {
             "name": "EdwardsSkatepark-Edwards,CO",
-            "address": "200 Miller Ranch Rd. Edwards, Colorado",
+            "address": "200 Miller Ranch Rd, Edwards, CO 81632, US",
             "id": "EdwardsSkatepark-EdwardsCO",
             "builder": "Grindline",
             "sqft": "4,000sqft.",
@@ -23202,7 +23202,7 @@
         },
         {
             "name": "Enghave Plads Skatepark",
-            "address": "Enghave Plads 1670 K\u00f8benhavn V",
+            "address": "Enghave Pl., 1670 K\u00f8benhavn, Denmark",
             "id": "enghaveDK",
             "builder": "DIY.",
             "sqft": "6,422.04 ft\u00b2 (596.63 m\u00b2)",
@@ -23218,7 +23218,7 @@
         },
         {
             "name": "Englewood, FL",
-            "address": "6831 San Casa Dr, Englewood, FL 34224",
+            "address": "6831 San Casa Dr, Englewood, FL 34224, US",
             "id": "englewood",
             "builder": "Team Pain",
             "sqft": "18,000sqft.",
@@ -23234,7 +23234,7 @@
         },
         {
             "name": "EPWORTH SKATEPARK - REHOBOTH BEACH, DELAWARE",
-            "address": "37003 Turnstone Cir, Rehoboth Beach, DE 19971, USA",
+            "address": "37003 Turnstone Cir, Rehoboth Beach, DE 19971, US",
             "id": "EPWORTHSKATEPARK-REHOBOTHBEACHDELAWARE",
             "builder": "Evergreen.",
             "sqft": "2,390.72 ft\u00b2",
@@ -23250,7 +23250,7 @@
         },
         {
             "name": "ERIC BROWN SKATE PLAZA",
-            "address": "141 Catoctin Cir SE, Leesburg, VA 20175, USA",
+            "address": "141 Catoctin Cir SE, Leesburg, VA 20175, US",
             "id": "ERICBROWNSKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -23266,7 +23266,7 @@
         },
         {
             "name": "ErieSkatepark-Erie,PA",
-            "address": "Columbus Park, West 16th St. Erie, Pennsylvania",
+            "address": "Columbus Park, Erie, PA 16502, US",
             "id": "ErieSkatepark-EriePA",
             "builder": "Grindline",
             "sqft": "10,000sqft.",
@@ -23282,7 +23282,7 @@
         },
         {
             "name": "Ermineskin Cree Nation Skatepark Maskwacis",
-            "address": "RGPW+47 Maskwacis, AB, Canada",
+            "address": "RGPW+47, Maskwacis, AB T0C 1N0, Canada",
             "id": "ermineskincreenationskateparkmaskwacis",
             "builder": "Newline",
             "sqft": "6,440.79 ft\u00b2",
@@ -23298,7 +23298,7 @@
         },
         {
             "name": "Esbjerg Skatepark",
-            "address": "N\u00f8rrebrogade 1C, 6700 Esbjerg",
+            "address": "N\u00f8rrebrogade 1C, 6700 Esbjerg, Denmark",
             "id": "Esbjerg SkateparkDK",
             "builder": "FSR",
             "sqft": "580 m\u00b2",
@@ -23314,7 +23314,7 @@
         },
         {
             "name": "Estacada Skatepark",
-            "address": "677 NW Wade St., Estacada, OR 97023",
+            "address": "677 NW Wade St, Estacada, OR 97023, US",
             "id": "estacadaOR",
             "builder": "Dreamland.",
             "sqft": "10,000sqft.",
@@ -23330,7 +23330,7 @@
         },
         {
             "name": "E STREET SKATEPARK",
-            "address": "900 N E St, San Bernardino, CA 92410, USA",
+            "address": "900 N E St, San Bernardino, CA 92410, US",
             "id": "ESTREETSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -23346,7 +23346,7 @@
         },
         {
             "name": "Eugene Bethel Skatepark",
-            "address": "Jeffrey Way & Haviture Way, Eugene, OR 97402",
+            "address": "Haviture Way & Jeffrey Way, Eugene, OR 97402, US",
             "id": "eugenebethelOR",
             "builder": "N/A",
             "sqft": "8,404.59 ft\u00b2",
@@ -23362,7 +23362,7 @@
         },
         {
             "name": "Eugene Cal Young Skatepark",
-            "address": "2555 Gilham Rd., Eugene, OR 97408",
+            "address": "2555 Gilham Rd, Eugene, OR 97408, US",
             "id": "eugenecalyoungOR",
             "builder": "N/A",
             "sqft": "8,252.54 ft\u00b2",
@@ -23378,7 +23378,7 @@
         },
         {
             "name": "Eugene Churchill Skatepark",
-            "address": "2032 Bailey Hill Rd, Eugene, OR 97405",
+            "address": "2032 Bailey Hill Rd, Eugene, OR 97405, US",
             "id": "eugenechurchillOR",
             "builder": "N/A",
             "sqft": "8,346.33 ft\u00b2",
@@ -23394,7 +23394,7 @@
         },
         {
             "name": "Eugene Emerald Skatepark",
-            "address": "1400 Lake Dr., Eugene, OR 97404",
+            "address": "1400 Lake Dr, Eugene, OR 97404, US",
             "id": "eugeneemeraldOR",
             "builder": "N/A",
             "sqft": "4,895.50 ft\u00b2",
@@ -23410,7 +23410,7 @@
         },
         {
             "name": "Eugene WJ Skatepark",
-            "address": "150 Jefferson St., Eugene, OR 97402",
+            "address": "150 Jefferson St, Eugene, OR 97402, US",
             "id": "eugenewjOR",
             "builder": "Dreamland.",
             "sqft": "23,000sqft.",
@@ -23426,7 +23426,7 @@
         },
         {
             "name": "Eugene Amazon Skatepark",
-            "address": "Amazon Pkwy & E 29th Ave, Eugene, OR 97405",
+            "address": "E 29th Ave & Amazon Pkwy, Eugene, OR 97405, US",
             "id": "euggeneamazonOR",
             "builder": "N/A",
             "sqft": "2,752.49 ft\u00b2",
@@ -23442,7 +23442,7 @@
         },
         {
             "name": "Eureka Springs",
-            "address": "532 Spring St, Eureka Springs, AR 72632",
+            "address": "532 Spring St, Eureka Springs, AR 72632, US",
             "id": "eurekasprings",
             "builder": "Dreamland.",
             "sqft": "3,000 sqft.",
@@ -23458,7 +23458,7 @@
         },
         {
             "name": "Eustis, FL Skate Park",
-            "address": "301 W Ward Ave, Eustis, FL 32726",
+            "address": "Sunset Island Park, 301 W Ward Ave, Eustis, FL 32726, US",
             "id": "eustis",
             "builder": "Team Pain",
             "sqft": "10,000sqft.",
@@ -23474,7 +23474,7 @@
         },
         {
             "name": "Hillsboro",
-            "address": "4046 Silvies Ln, Hillsboro, OR 97123, USA",
+            "address": "4046 SE Silvies Ln, Hillsboro, OR 97123, US",
             "id": "evegreenhillsboro",
             "builder": "Evergreen",
             "sqft": "1,628.37",
@@ -23490,7 +23490,7 @@
         },
         {
             "name": "Everett Skatepark 1",
-            "address": "1226 W. Casino Rd, Everett, WA 98204",
+            "address": "1226 W Casino Rd, Everett, WA 98204, US",
             "id": "everett1",
             "builder": "N/A",
             "sqft": "9,507.23 ft\u00b2",
@@ -23506,7 +23506,7 @@
         },
         {
             "name": "Everett Skatepark 2",
-            "address": "2808 10th St, Everett, WA 98201",
+            "address": "2808 10th St, Everett, WA 98201, US",
             "id": "everett2",
             "builder": "Grindline.",
             "sqft": "7,000sqft.",
@@ -23522,7 +23522,7 @@
         },
         {
             "name": "EVERETT PARK SKATEPARK",
-            "address": "170 Everett Ave, Newark, OH 43055, USA",
+            "address": "170 Everett Ave, Newark, OH 43055, US",
             "id": "EVERETTPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15000 ft\u00b2",
@@ -23538,7 +23538,7 @@
         },
         {
             "name": "EVERGREEN CENTER SKATEPARK",
-            "address": "400 Inman Ave, Colonia, NJ 07067, USA",
+            "address": "400 Inman Ave, Woodbridge Township, NJ 07067, US",
             "id": "EVERGREENCENTERSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -23554,7 +23554,7 @@
         },
         {
             "name": "F\u00e6lledparken",
-            "address": "Edel Sauntes All\u00e9 3 2100 K\u00f8benhavn \u00d8, Denmark",
+            "address": "Edel Sauntes All\u00e9 3, 2100 K\u00f8benhavn, Denmark",
             "id": "faelledparkenDK",
             "builder": "Grindline.",
             "sqft": "50,586.80 ft\u00b2 (4,699.67 m\u00b2)",
@@ -23570,7 +23570,7 @@
         },
         {
             "name": "FairplaySkatepark-Fairplay,CO",
-            "address": "350 5th Street, Fairplay, CO 80440, USA",
+            "address": "350 5th St, Fairplay, CO 80440, US",
             "id": "FairplaySkatepark-FairplayCO",
             "builder": "Grindline",
             "sqft": "7,500sqft.",
@@ -23586,7 +23586,7 @@
         },
         {
             "name": "Falling Creek Skatepark - Bedford, VA",
-            "address": "1120-1176 Falling Creek Rd, Bedford, VA 24523",
+            "address": "1120-1176 Falling Creek Rd, Bedford, VA 24523, US",
             "id": "Fallingcreekva",
             "builder": "artisan",
             "sqft": "17,000sqft.",
@@ -23602,7 +23602,7 @@
         },
         {
             "name": "FarmingtonHillsSkatepark-FarmingtonHills,MI",
-            "address": "Riley Park Farmington Hills, Michigan",
+            "address": "Riley Park, 33113 Grand River Ave, Farmington, MI 48335, US",
             "id": "FarmingtonHillsSkatepark-FarmingtonHillsMI",
             "builder": "Grindline",
             "sqft": "23,000sqft.",
@@ -23618,7 +23618,7 @@
         },
         {
             "name": "Farm Pond Skatepark - Framingham, MA",
-            "address": "110 Dudley Rd, Framingham, MA 01702",
+            "address": "110 Dudley Rd, Framingham, MA 01702, US",
             "id": "farmpond",
             "builder": "artisan",
             "sqft": "10,800sqft.",
@@ -23650,7 +23650,7 @@
         },
         {
             "name": "Fayetteville, NC",
-            "address": "725 W Rowan St,\u00a0Fayetteville,\u00a0NC\u00a028301",
+            "address": "725 W Rowan St, Fayetteville, NC 28301, US",
             "id": "fayetteville",
             "builder": "Team Pain",
             "sqft": "16,000sqft.",
@@ -23666,7 +23666,7 @@
         },
         {
             "name": "FayettevilleSkatepark-Fayetteville,WV",
-            "address": "330 Park Drive, Fayetteville, WV 25840, USA",
+            "address": "330 Park Dr, Fayetteville, WV 25840, US",
             "id": "FayettevilleSkatepark-FayettevilleWV",
             "builder": "Grindline",
             "sqft": "6,500sqft.",
@@ -23682,7 +23682,7 @@
         },
         {
             "name": "Federal Way",
-            "address": "2645 S 312th St, Federal Way, WA 98003",
+            "address": "2645 S 312th St, Federal Way, WA 98003, US",
             "id": "federalway",
             "builder": "N/A",
             "sqft": "8,792.74 ft\u00b2",
@@ -23698,7 +23698,7 @@
         },
         {
             "name": "FERGUSSON PARK SKATEPARK",
-            "address": "2474 W Casa Grande Dr, Rialto, CA 92377, USA",
+            "address": "2474 W Casa Grande Dr, Rialto, CA 92377, US",
             "id": "FERGUSSONPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -23714,7 +23714,7 @@
         },
         {
             "name": "FERNDALE, MICHIGAN SKATEPARK",
-            "address": "2024 Pinecrest Dr, Ferndale, MI 48220, USA",
+            "address": "2024 Pinecrest Dr, Ferndale, MI 48220, US",
             "id": "FERNDALEMICHIGANSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "15,246.21 ft\u00b2",
@@ -23730,7 +23730,7 @@
         },
         {
             "name": "FIREMAN\u2019S SKATE AND BIKE PARK",
-            "address": "161 Library Dr, Houma, LA 70360, USA",
+            "address": "161 Library Dr, Houma, LA 70360, US",
             "id": "FIREMANSSKATEANDBIKEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15,000 ft\u00b2",
@@ -23746,7 +23746,7 @@
         },
         {
             "name": "FISHHAWK RANCH SKATEPARK",
-            "address": "Fishhawk Skate Park, 5720 Osprey Ridge Dr, Lithia, FL 33547, USA",
+            "address": "Fishhawk Skate Park, 5720 Osprey Ridge Dr, Lithia, FL 33547, US",
             "id": "FISHHAWKRANCHSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -23762,7 +23762,7 @@
         },
         {
             "name": "Fjerritslev Skatepark",
-            "address": "Borups Alle 8, 9690, Fjerritslev",
+            "address": "Borups Alle 8, 9690 Fjerritslev, Denmark",
             "id": "Fjerritslev SkateparkDK",
             "builder": "FSR",
             "sqft": "530 m\u00b2",
@@ -23778,7 +23778,7 @@
         },
         {
             "name": "Florence Skatepark",
-            "address": "1300 18th St, Florence, OR 97439",
+            "address": "1300 18th St, Florence, OR 97439, US",
             "id": "florenceOR",
             "builder": "N/A",
             "sqft": "10,544.38 ft\u00b2",
@@ -23794,7 +23794,7 @@
         },
         {
             "name": "Food lion skatepark, NC",
-            "address": "50 Cherry St. N., Asheville, NC 28801",
+            "address": "50 Cherry St N, Asheville, NC 28801, US",
             "id": "foodlion",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -23810,7 +23810,7 @@
         },
         {
             "name": "Forks Skatepark",
-            "address": "411 Tillicum Ln, Forks, WA 98331",
+            "address": "411 Tillicum Ln, Forks, WA 98331, US",
             "id": "forks",
             "builder": "Grindline.",
             "sqft": "4,000sqft.",
@@ -23826,7 +23826,7 @@
         },
         {
             "name": "Boise Skatepark (Fort Boise)",
-            "address": "374-398 E Garrison Rd., Boise, ID 83702",
+            "address": "374 E Garrison Rd, Boise, ID 83702, US",
             "id": "fortboiseID",
             "builder": "N/A",
             "sqft": "11,249.71 ft\u00b2",
@@ -23842,7 +23842,7 @@
         },
         {
             "name": "FORT LEWIS SKATEPARK",
-            "address": "2275 Liggett Ave, Joint Base Lewis-McChord, WA 98433, USA",
+            "address": "2275 Liggett Ave, Fort Lewis, WA 98433, US",
             "id": "FORTLEWISSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -23858,7 +23858,7 @@
         },
         {
             "name": "FORT MORGAN, COLORADO SKATEPARK",
-            "address": "120 Cheyenne St, Fort Morgan, CO 80701, USA",
+            "address": "120 Cheyenne St, Fort Morgan, CO 80701, US",
             "id": "FORTMORGANCOLORADOSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "7,004.17 ft\u00b2",
@@ -23874,7 +23874,7 @@
         },
         {
             "name": "Fort Pierce, FL",
-            "address": "2100 Virginia Ave, Fort Pierce, FL 34982",
+            "address": "2100 Virginia Ave, Fort Pierce, FL 34982, US",
             "id": "fortpierce",
             "builder": "Team Pain",
             "sqft": "13,250sqft.",
@@ -23906,7 +23906,7 @@
         },
         {
             "name": "FRANKFORT, MICHIGAN SKATEPARK",
-            "address": "7th St & Sky Pl, Frankfort, MI 49635, USA",
+            "address": "7th St & Sky Pl, Frankfort, MI 49635, US",
             "id": "FRANKFORTMICHIGANSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "5,192.00 ft\u00b2",
@@ -23922,7 +23922,7 @@
         },
         {
             "name": "Nampa Skatepark (Roosevelt)",
-            "address": "1901 W Roosevelt Ave, Nampa, ID 83686",
+            "address": "1901 W Roosevelt Ave, Nampa, ID 83686, US",
             "id": "franklinID",
             "builder": "N/A",
             "sqft": "4,500sqft.",
@@ -23938,7 +23938,7 @@
         },
         {
             "name": "Frederick, CO",
-            "address": "5659 Godding Hollow Pkwy, Frederick, CO 80504",
+            "address": "5659 Godding Hollow Pkwy, Longmont, CO 80504, US",
             "id": "frederick",
             "builder": "Team Pain",
             "sqft": "30,000sqft.",
@@ -23954,7 +23954,7 @@
         },
         {
             "name": "FREDERICKSBURG SKATEPARK",
-            "address": "Old Fair Park, 412 S Lincoln St, Fredericksburg, TX 78624, USA",
+            "address": "Old Fair Park, 412 S Lincoln St, Fredericksburg, TX 78624, US",
             "id": "FREDERICKSBURGSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "12,900.82 ft\u00b2",
@@ -23970,7 +23970,7 @@
         },
         {
             "name": "Frederikssund",
-            "address": "Kalve\u00f8vej 9, 3600 Frederikssund",
+            "address": "Kalv\u00f8vej 9, 3600 Frederikssund, Denmark",
             "id": "FrederikssundDK",
             "builder": "FSR",
             "sqft": "196.39 m\u00b2",
@@ -23986,7 +23986,7 @@
         },
         {
             "name": "FreedomPark-Medford,NJ",
-            "address": "Freedom Park, Medford, NJ, United States",
+            "address": "Freedom Park, 86 Union St, Medford, NJ 08055, US",
             "id": "FreedomPark-MedfordNJ",
             "builder": "Grindline",
             "sqft": "5,700sqft.",
@@ -24002,7 +24002,7 @@
         },
         {
             "name": "FRISCO, COLORADO SKATEPARK",
-            "address": "729 Recreation Way, Frisco, CO 80443, USA",
+            "address": "729 Recreation Way, Frisco, CO 80443, US",
             "id": "FRISCOCOLORADOSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "28,009.90 ft\u00b2",
@@ -24018,7 +24018,7 @@
         },
         {
             "name": "FRITZ BURNS SKATEPARK",
-            "address": "78100 Francis Hack Ln, La Quinta, CA 92253, USA",
+            "address": "78100 Francis Hack Ln, La Quinta, CA 92253, US",
             "id": "FRITZBURNSSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "2,500 ft\u00b2",
@@ -24034,7 +24034,7 @@
         },
         {
             "name": "Warren County Skatepark - Front Royal, VA",
-            "address": "101 Kerfoot Ave, Front Royal, VA 22630",
+            "address": "101 Kerfoot Ave, Front Royal, VA 22630, US",
             "id": "frontroyal",
             "builder": "artisan",
             "sqft": "18,000sqft.",
@@ -24050,7 +24050,7 @@
         },
         {
             "name": "G.HysmithSkatePark-CollegeStation,TX",
-            "address": "1466-1524 Rock Prairie Road, College Station, TX 77845, USA",
+            "address": "1466 Rock Prairie Rd, College Station, TX 77845, US",
             "id": "G.HysmithSkatePark-CollegeStationTX",
             "builder": "Grindline",
             "sqft": "15,000sqft.",
@@ -24066,7 +24066,7 @@
         },
         {
             "name": "Gabriel Skatepark",
-            "address": "SW 45th Ave & SW Nevada St, Portland, OR 97219",
+            "address": "SW 45th Ave & SW Nevada Ct, Portland, OR 97219, US",
             "id": "gabrielOR",
             "builder": "N/A",
             "sqft": "7,578.31 ft\u00b2",
@@ -24082,7 +24082,7 @@
         },
         {
             "name": "GALLUP SKATEPARK",
-            "address": "321 E Historic Hwy 66, Gallup, NM 87301, USA",
+            "address": "321 E Historic Hwy 66, Gallup, NM 87301, US",
             "id": "GALLUPSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -24098,7 +24098,7 @@
         },
         {
             "name": "GalvestonSkatepark-Galveston,TX",
-            "address": "2325-2399 27th Street, Galveston, TX 77550, USA",
+            "address": "2325 27th St, Galveston, TX 77550, US",
             "id": "GalvestonSkatepark-GalvestonTX",
             "builder": "Grindline",
             "sqft": "8,500sqft.",
@@ -24114,7 +24114,7 @@
         },
         {
             "name": "Gandrup Skatepark",
-            "address": "Bredgade 5, 9362 Gandrup",
+            "address": "Bredgade 5, 9362 Gandrup, Denmark",
             "id": "Gandrup SkateparkDK",
             "builder": "FSR",
             "sqft": "500 m\u00b2",
@@ -24130,7 +24130,7 @@
         },
         {
             "name": "GARDEN CITY SKATEPARK",
-            "address": "8M73+5V Garden City, MI, USA",
+            "address": "8M73+5V, Garden City, MI 48135, US",
             "id": "GARDENCITYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,500 ft\u00b2",
@@ -24146,7 +24146,7 @@
         },
         {
             "name": "Garvanza Skatepark",
-            "address": "6240 Meridian St, Los Angeles, CA 90042",
+            "address": "6240 Meridian St, Los Angeles, CA 90042, US",
             "id": "garvanzaCA",
             "builder": "N/A",
             "sqft": "14,130sqft.",
@@ -24162,7 +24162,7 @@
         },
         {
             "name": "Gateway Skatepark",
-            "address": "NE 106th and Halsey, Portland, OR 97220",
+            "address": "NE 106th Ave & NE Halsey St, Portland, OR 97220, US",
             "id": "gatewayOR",
             "builder": "Evergreen.",
             "sqft": "3,000sqft.",
@@ -24178,7 +24178,7 @@
         },
         {
             "name": "GATEWAY PARK SKATE PATH",
-            "address": "2290 Ford Pkwy, St Paul, MN 55116, USA",
+            "address": "2290 Ford Pkwy, Saint Paul, MN 55105, US",
             "id": "GATEWAYPARKSKATEPATH",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -24210,7 +24210,7 @@
         },
         {
             "name": "Gellert Community Skatepark Halton Hills",
-            "address": "10241 8th Line, Georgetown, ON L7G 4S5, Canada",
+            "address": "10241 8th Line, Halton Hills, ON L7G 4S5, Canada",
             "id": "gellertcommunityskateparkhaltonhills",
             "builder": "Newline",
             "sqft": "11,132.31 ft\u00b2",
@@ -24226,7 +24226,7 @@
         },
         {
             "name": "GENOVEVA CHAVEZ SKATEPARK",
-            "address": "3221 Rodeo Rd, Santa Fe, NM 87507, USA",
+            "address": "3221 Rodeo Rd, Santa Fe, NM 87507, US",
             "id": "GENOVEVACHAVEZSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -24242,7 +24242,7 @@
         },
         {
             "name": "GEORGE LANE SKATEPARK",
-            "address": "5520 W Ave L 8, Lancaster, CA 93536, USA",
+            "address": "5520 W Ave L 8, Lancaster, CA 93536, US",
             "id": "GEORGELANESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15,000 ft\u00b2",
@@ -24274,7 +24274,7 @@
         },
         {
             "name": "GIBSON MARIPOSA SKATEPARK",
-            "address": "10145 Railroad Dr, El Monte, CA 91731, USA",
+            "address": "10145 Railroad Dr, El Monte, CA 91731, US",
             "id": "GIBSONMARIPOSASKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -24290,7 +24290,7 @@
         },
         {
             "name": "Gig Harbor",
-            "address": "3510 Grandview St, Gig Harbor, WA 98335",
+            "address": "3510 Grandview St, Gig Harbor, WA 98335, US",
             "id": "gigharbor",
             "builder": "N/A",
             "sqft": "11,897.95 ft\u00b2",
@@ -24306,7 +24306,7 @@
         },
         {
             "name": "Glendale Skatepark",
-            "address": "1621 Ca\u00f1ada Blvd, Glendale, CA 91208",
+            "address": "1621 Canada Blvd, Glendale, CA 91208, US",
             "id": "glendaleCA",
             "builder": "N/A",
             "sqft": "15,000sqft.",
@@ -24338,7 +24338,7 @@
         },
         {
             "name": "Glendive Skatepark",
-            "address": "1014 W Towne St, Glendive, MT 59330",
+            "address": "1014 W Towne St, Glendive, MT 59330, US",
             "id": "glendiveMT",
             "builder": "Dreamland.",
             "sqft": "14,000sqft.",
@@ -24354,7 +24354,7 @@
         },
         {
             "name": "Glenhaven Skatepark",
-            "address": "2899 NE 82nd Ave, Portland, OR 97220",
+            "address": "2899 NE 82nd Ave, Portland, OR 97213, US",
             "id": "glenhavenOR",
             "builder": "Dreamland.",
             "sqft": "11,200sqft.",
@@ -24370,7 +24370,7 @@
         },
         {
             "name": "Glenns Ferry",
-            "address": "216 E 4th Ave, Glenns Ferry, ID 83623",
+            "address": "216 E 4th Ave, Glenns Ferry, ID 83623, US",
             "id": "Glennsferry",
             "builder": "Dreamland.",
             "sqft": "9,000 sqft.",
@@ -24386,7 +24386,7 @@
         },
         {
             "name": "Glostrup Skatepark",
-            "address": "Stadionvej 80 2600 Glostrup",
+            "address": "Stadionvej 80, 2600 Glostrup, Denmark",
             "id": "glostrupDK",
             "builder": "N/A",
             "sqft": "10,646.21 ft\u00b2\u00a0(989.07 m\u00b2)",
@@ -24402,7 +24402,7 @@
         },
         {
             "name": "GOAT BOWL, SONOMA, CALIFORNIA",
-            "address": "19025 Sonoma Bike Path, Sonoma, CA 95476, USA",
+            "address": "19025 Sonoma Bike Path, Sonoma, CA 95476, US",
             "id": "GOATBOWLSONOMACALIFORNIA",
             "builder": "Evergreen.",
             "sqft": "12,629.46 ft\u00b2",
@@ -24418,7 +24418,7 @@
         },
         {
             "name": "GOETZ PARK SKATEPARK",
-            "address": "PQXG+M9 Perris, CA, USA",
+            "address": "PQXG+M9, Perris, CA , US",
             "id": "GOETZPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -24434,7 +24434,7 @@
         },
         {
             "name": "GOLDEN MEADOW SKATEPARK",
-            "address": "705 N Alex Plaisance Blvd, Golden Meadow, LA 70357, USA",
+            "address": "705 N Alex Plaisance Blvd, Golden Meadow, LA 70357, US",
             "id": "GOLDENMEADOWSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -24450,7 +24450,7 @@
         },
         {
             "name": "Gold Hill Skatepark",
-            "address": "14745 Sams Valley Hwy, Gold Hill, OR 97525",
+            "address": "14745 Sams Valley Hwy, Gold Hill, OR 97525, US",
             "id": "goldhillOR",
             "builder": "Dreamland.",
             "sqft": "4,450sqft.",
@@ -24466,7 +24466,7 @@
         },
         {
             "name": "GOLETA SKATEPARK",
-            "address": "106 S Kellogg Ave, Goleta, CA 93117, USA",
+            "address": "106 S Kellogg Ave, Goleta, CA 93117, US",
             "id": "GOLETASKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -24482,7 +24482,7 @@
         },
         {
             "name": "Gooding Skatepark",
-            "address": "946 4th Ave W, Gooding, ID 83330",
+            "address": "946 W 4th Ave, Gooding, ID 83330, US",
             "id": "goodingID",
             "builder": "Dreamland.",
             "sqft": "7,355.43 ft\u00b2",
@@ -24498,7 +24498,7 @@
         },
         {
             "name": "GORDON PARK SKATE SPOT",
-            "address": "115 Locust Ave, La Grange, IL 60525, USA",
+            "address": "115 Locust Ave, La Grange, IL 60525, US",
             "id": "GORDONPARKSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "2,000 ft\u00b2",
@@ -24514,7 +24514,7 @@
         },
         {
             "name": "Granbury Skate Plaza Granbury",
-            "address": "1081 Crossland Rd, Granbury, TX 76048, USA",
+            "address": "1081 Crossland Rd, Granbury, TX 76048, US",
             "id": "granburyskateplazagranbury",
             "builder": "Newline",
             "sqft": "17,283.18 ft\u00b2",
@@ -24530,7 +24530,7 @@
         },
         {
             "name": "Grants Pass Skatepark",
-            "address": "733 SE M St, Grants Pass, OR 97526",
+            "address": "733 SE M St, Grants Pass, OR 97526, US",
             "id": "grantspassOR",
             "builder": "N/A",
             "sqft": "21,134.95 ft\u00b2",
@@ -24546,7 +24546,7 @@
         },
         {
             "name": "Great Falls Skatepark",
-            "address": "332 River Dr N, Great Falls, Mt 59401",
+            "address": "332 River Dr N, Great Falls, MT 59401, US",
             "id": "greatfallsMT",
             "builder": "Grindline.",
             "sqft": "20,000sqft.",
@@ -24562,7 +24562,7 @@
         },
         {
             "name": "Greeley Skatepark Network Greeley",
-            "address": "2139 23rd Ave, Greeley, CO 80631, USA",
+            "address": "2139 23rd Ave, Greeley, CO 80631, US",
             "id": "greeleyskateparknetworkgreeley",
             "builder": "Newline",
             "sqft": "13,528.32 ft\u00b2",
@@ -24578,7 +24578,7 @@
         },
         {
             "name": "Greenlake Skatepark",
-            "address": "1000 N 50th St, Seattle, WA 98103",
+            "address": "1000 N 50th St, Seattle, WA 98103, US",
             "id": "greenlake",
             "builder": "WallyHollyday.",
             "sqft": "17,328.63 ft\u00b2",
@@ -24594,7 +24594,7 @@
         },
         {
             "name": "Greenwood Village, CO Skate Park",
-            "address": "6000 S Quebec St, Greenwood Village, CO 80111",
+            "address": "6000 S Quebec St, Greenwood Village, CO 80111, US",
             "id": "greenwoodvillage",
             "builder": "Team Pain",
             "sqft": "4,000sqft.",
@@ -24610,7 +24610,7 @@
         },
         {
             "name": "Gresham Skatepark",
-            "address": "219 S Main Ave., Gresham, OR 97080",
+            "address": "219 S Main Ave, Gresham, OR 97030, US",
             "id": "greshamOR",
             "builder": "Dreamland.",
             "sqft": "6,660sqft.",
@@ -24626,7 +24626,7 @@
         },
         {
             "name": "Gr\u00f8ndalsparken",
-            "address": "C.F Richs vej 101, 2000 Frederiksberg",
+            "address": "C. F. Richs Vej 101, 2000 Frederiksberg, Denmark",
             "id": "Gr\u00f8ndalsparkenDK",
             "builder": "FSR",
             "sqft": "250 m\u00b2",
@@ -24642,7 +24642,7 @@
         },
         {
             "name": "GroveCitySkatepark-GroveCity,OH",
-            "address": "3728 Hoover Rd. Grove City, Ohio",
+            "address": "3728 Hoover Rd, Grove City, OH 43123, US",
             "id": "GroveCitySkatepark-GroveCityOH",
             "builder": "Grindline",
             "sqft": "11,000sqft.",
@@ -24658,7 +24658,7 @@
         },
         {
             "name": "Gule Hal Skatepark",
-            "address": "Strandpromenaden 1 4600 K\u00f8ge",
+            "address": "Strandpromenaden 1, 4600 K\u00f8ge, Denmark",
             "id": "guleDK",
             "builder": "N/A",
             "sqft": "17,326.85 ft\u00b2 (1,609.72 m\u00b2)",
@@ -24674,7 +24674,7 @@
         },
         {
             "name": "GUMBINER SKATE SPOT",
-            "address": "601-609 Martin Luther King Jr Ave, Long Beach, CA 90802, USA",
+            "address": "601-609 Martin Luther King Jr Ave, Long Beach, CA 90802, US",
             "id": "GUMBINERSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "3,000 ft\u00b2",
@@ -24690,7 +24690,7 @@
         },
         {
             "name": "Gunnison, Colorado",
-            "address": "E\u00a0Gunnison\u00a0Ave & S Teller St,\u00a0Gunnison,\u00a0CO\u00a081230",
+            "address": "E Gunnison Ave & S Teller St, Gunnison, CO 81230, US",
             "id": "gunnison",
             "builder": "Team Pain",
             "sqft": "12,000sqft.",
@@ -24706,7 +24706,7 @@
         },
         {
             "name": "Hailey Skatepark",
-            "address": "Idaho 75 & Airport Way, Hailey, ID 83333",
+            "address": "ID-75 & Airport Way, Hailey, ID 83333, US",
             "id": "haileyID",
             "builder": "Dreamland.",
             "sqft": "21,000sqft.",
@@ -24722,7 +24722,7 @@
         },
         {
             "name": "Hal12 Skatepark",
-            "address": "Rabalderstr\u00e6de 30 4000 Roskilde",
+            "address": "Rabalderstr\u00e6de 30, 4000 Roskilde, Denmark",
             "id": "hal12DK",
             "builder": "N/A",
             "sqft": "14,028.37 ft\u00b2 (1,303.28 m\u00b2)",
@@ -24738,7 +24738,7 @@
         },
         {
             "name": "HAMILTON, MONTANA SKATEPARK",
-            "address": "280 1 N 10th St #59N, Hamilton, MT 59840, USA",
+            "address": "N 10th St, Hamilton, MT 59840, US",
             "id": "HAMILTONMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "17,608.78 ft\u00b2",
@@ -24754,7 +24754,7 @@
         },
         {
             "name": "Hammond",
-            "address": "299 West Coleman Avenue, Hammond, LA 70403",
+            "address": "299 W Coleman Ave, Hammond, LA 70403, US",
             "id": "Hammondor",
             "builder": "Dreamland.",
             "sqft": "15,000 sqft.",
@@ -24770,7 +24770,7 @@
         },
         {
             "name": "HANSEN DAM SKATEPARK",
-            "address": "12438 Kagel Canyon St, Sylmar, CA 91342, USA",
+            "address": "12438 Kagel Canyon St, Los Angeles, CA 91342, US",
             "id": "HANSENDAMSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -24786,7 +24786,7 @@
         },
         {
             "name": "Happy Valley",
-            "address": "13770 SE Ridgecrest Rd, Happy Valley, OR 97086",
+            "address": "13770 SE Ridgecrest Rd, Happy Valley, OR 97086, US",
             "id": "happyvalleyOR",
             "builder": "Evergreen.",
             "sqft": "6,000sqft.",
@@ -24802,7 +24802,7 @@
         },
         {
             "name": "Harbor City Skatepark",
-            "address": "24901 Frampton Ave, Harbor City, CA 90710",
+            "address": "24901 Frampton Ave, Los Angeles, CA 90710, US",
             "id": "harborcityCA",
             "builder": "N/A",
             "sqft": "11,736sqft.",
@@ -24818,7 +24818,7 @@
         },
         {
             "name": "HARBOR CITY SKATEPARK",
-            "address": "1403 W Lomita Blvd #200, Harbor City, CA 90710, USA",
+            "address": "1403 W Lomita Blvd #200, Los Angeles, CA 90710, US",
             "id": "HARBORCITYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -24834,7 +24834,7 @@
         },
         {
             "name": "Harewood Skatepark Nanaimo",
-            "address": "740 Howard Ave, Nanaimo, BC V9R 3S9, Canada",
+            "address": "740 Howard Ave, Nanaimo, BC V9R, Canada",
             "id": "harewoodskateparknanaimo",
             "builder": "Newline",
             "sqft": "11,290.90 ft\u00b2",
@@ -24850,7 +24850,7 @@
         },
         {
             "name": "Harmon Skatepark Prairie Village",
-            "address": "Harmon Skate Park, 7710 Mission Rd, Prairie Village, KS 66208, USA",
+            "address": "7710 Mission Rd, Prairie Village, KS 66208, US",
             "id": "harmonskateparkprairievillage",
             "builder": "Newline",
             "sqft": "11,464.21 ft\u00b2",
@@ -24866,7 +24866,7 @@
         },
         {
             "name": "Harrisburg Skatepark",
-            "address": "530 Smith St., Harrisburg, OR 97446",
+            "address": "530 Smith St, Harrisburg, OR 97446, US",
             "id": "harrisburgOR",
             "builder": "Dreamland.",
             "sqft": "10,000sqft.",
@@ -24882,7 +24882,7 @@
         },
         {
             "name": "Haslev Skatepark",
-            "address": "Sofiendalsvej 42A, 4690, Haslev",
+            "address": "Sofiendalsvej 42A, 4690 Haslev, Denmark",
             "id": "Haslev SkateparkDK",
             "builder": "FSR",
             "sqft": "350 m\u00b2",
@@ -24898,7 +24898,7 @@
         },
         {
             "name": "HAVRE, MONTANA SKATEPARK",
-            "address": "804 9th St, Havre, MT 59501, USA",
+            "address": "804 9th St, Havre, MT 59501, US",
             "id": "HAVREMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "12,333.04 ft\u00b2",
@@ -24914,7 +24914,7 @@
         },
         {
             "name": "Havre Skatepark",
-            "address": "9th Ave & 9th St, Havre, MT 59501",
+            "address": "9th St & 9th Ave, Havre, MT 59501, US",
             "id": "havreMT",
             "builder": "Evergreen.",
             "sqft": "5,000sqft.",
@@ -24930,7 +24930,7 @@
         },
         {
             "name": "HAYS, MONTANA SKATEPARK",
-            "address": "X8X6+HX Hays, MT, USA",
+            "address": "X8X6+HX, Hays, MT 59527, US",
             "id": "HAYSMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "3,379.25 ft\u00b2",
@@ -24946,7 +24946,7 @@
         },
         {
             "name": "Hays Skatepark",
-            "address": "Hays-Lodge Pole High School, Hays, MT 59527",
+            "address": "1 Hays School Rd, Hays, MT 59527, US",
             "id": "haysMT",
             "builder": "Evergreen.",
             "sqft": "3,800sqft.",
@@ -24962,7 +24962,7 @@
         },
         {
             "name": "Helena Skatepark",
-            "address": "423 5th Ave, Helena, Mt 59601",
+            "address": "423 5th Ave, Helena, MT 59601, US",
             "id": "helenaMT",
             "builder": "Dreamland.",
             "sqft": "7,500sqft.",
@@ -25010,7 +25010,7 @@
         },
         {
             "name": "Heritage Skate Plaza St. Cloud",
-            "address": "333 33rd Ave N, St Cloud, MN 56301, USA",
+            "address": "333 33rd Ave N, St. Cloud, MN 56301, US",
             "id": "heritageskateplazastcloud",
             "builder": "Newline",
             "sqft": "22,795.40 ft\u00b2",
@@ -25026,7 +25026,7 @@
         },
         {
             "name": "Hermiston Skatepark",
-            "address": "595 S 1st Street, Hermiston, OR 97838",
+            "address": "595 S 1st St, Hermiston, OR 97838, US",
             "id": "hermistonOR",
             "builder": "N/A",
             "sqft": "3000sqft.",
@@ -25042,7 +25042,7 @@
         },
         {
             "name": "HERNANDO, MISSISSIPPI SKATEPARK",
-            "address": "3369 Hwy 51 S #3323, Hernando, MS 38632, USA",
+            "address": "3369 Hwy 51 S #3323, Hernando, MS 38632, US",
             "id": "HERNANDOMISSISSIPPISKATEPARK",
             "builder": "Evergreen.",
             "sqft": "6,170.17 ft\u00b2",
@@ -25058,7 +25058,7 @@
         },
         {
             "name": "HESSVILLE PARK SKATEPARK",
-            "address": "2921-2945 173rd St, Hammond, IN 46323, USA",
+            "address": "2921-2945 173rd St, Hammond, IN 46323, US",
             "id": "HESSVILLEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -25074,7 +25074,7 @@
         },
         {
             "name": "HideawayPark-WinterPark,CO",
-            "address": "Winter Park Drive, Winter Park, Colorado, United States",
+            "address": "Winter Park Dr, Winter Park, CO 80482, US",
             "id": "HideawayPark-WinterParkCO",
             "builder": "Grindline",
             "sqft": "8,000sqft.",
@@ -25090,7 +25090,7 @@
         },
         {
             "name": "Bellevue Skate Plaza",
-            "address": "14224 Bel-Red Rd, Bellevue, WA 98007",
+            "address": "14224 Bel-Red Rd, Bellevue, WA 98007, US",
             "id": "highlands",
             "builder": "Grindline.",
             "sqft": "15,000sqft.",
@@ -25106,7 +25106,7 @@
         },
         {
             "name": "HIGHLAND SKATEPARK",
-            "address": "9160 Liable Rd, Highland, IN 46322, USA",
+            "address": "9160 Liable Rd, Highland, IN 46322, US",
             "id": "HIGHLANDSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -25122,7 +25122,7 @@
         },
         {
             "name": "Highvalley Skate World - Stockholm, Sweden",
-            "address": "Magelungsv\u00e4gen 169, 124 58 Bandhagen, Sweden",
+            "address": "Magelungsv\u00e4gen 169, 124 59 Bandhagen, Sweden",
             "id": "highvalleyse",
             "builder": "artisan",
             "sqft": "60,000sqft.",
@@ -25138,7 +25138,7 @@
         },
         {
             "name": "Hiller\u00f8d Skatepark",
-            "address": "Milnersvej 37a, 3400 Hiller\u00f8d",
+            "address": "Milnersvej 37A, 3400 Hiller\u00f8d, Denmark",
             "id": "Hiller\u00f8d SkateparkDK",
             "builder": "FSR",
             "sqft": "80 m\u00b2",
@@ -25154,7 +25154,7 @@
         },
         {
             "name": "HilltopPark-SanFransisco,CA",
-            "address": "198 Whitney Young Circle, San Francisco, CA 94124, USA",
+            "address": "198 Whitney Young Cir, San Francisco, CA 94124, US",
             "id": "HilltopPark-SanFransiscoCA",
             "builder": "Grindline.",
             "sqft": "16,000sqft.",
@@ -25170,7 +25170,7 @@
         },
         {
             "name": "Hillyard Skatepark",
-            "address": "N Market St & Decatur Ave, Spokane, WA 99208",
+            "address": "Decatur Ave & N Market St, Spokane, WA 99208, US",
             "id": "hillyard",
             "builder": "Grindline",
             "sqft": "21,577.28 ft\u00b2",
@@ -25186,7 +25186,7 @@
         },
         {
             "name": "Hirtshals Skatepark",
-            "address": "J\u00f8rgen Fibigersgade 26, 9850 Hirtshals",
+            "address": "J\u00f8rgen Fibigersgade 26, 9850 Hirtshals, Denmark",
             "id": "Hirtshals SkateparkDK",
             "builder": "FSR",
             "sqft": "220 m\u00b2",
@@ -25202,7 +25202,7 @@
         },
         {
             "name": "Historic4thWardPark-Atlanta,GA",
-            "address": "4432 Lexington Road, Athens, GA 30605, USA",
+            "address": "4432 Lexington Rd, Athens, GA 30605, US",
             "id": "Historic4thWardPark-AtlantaGA",
             "builder": "Grindline",
             "sqft": "12,000sqft.",
@@ -25218,7 +25218,7 @@
         },
         {
             "name": "H\u00f8je Taastrup C",
-            "address": "Bornholms Alle, 2630 H\u00f8je-Taastrup",
+            "address": "Bornholms All\u00e9, 2630 Taastrup, Denmark",
             "id": "H\u00f8je Taastrup CDK",
             "builder": "FSR",
             "sqft": "4200 m\u00b2",
@@ -25234,7 +25234,7 @@
         },
         {
             "name": "H\u00f8jme Skatepark",
-            "address": "H\u00f8jmev\u00e6nget 3, 5250 Odense",
+            "address": "H\u00f8jmev\u00e6nget 3, 5250 Odense, Denmark",
             "id": "H\u00f8jme SkateparkDK",
             "builder": "FSR",
             "sqft": "200 m\u00b2",
@@ -25250,7 +25250,7 @@
         },
         {
             "name": "HOLLADAY SKATEPARK",
-            "address": "4621 Holladay Blvd E, Holladay, UT 84117, USA",
+            "address": "4621 Holladay Blvd E, Holladay, UT 84117, US",
             "id": "HOLLADAYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -25266,7 +25266,7 @@
         },
         {
             "name": "HOLLAND SKATE PLAZA",
-            "address": "942 Broadway, Elizabeth, NJ 07201, USA",
+            "address": "942 Broadway, Elizabeth, NJ 07201, US",
             "id": "HOLLANDSKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -25282,7 +25282,7 @@
         },
         {
             "name": "Holly Farm Skatepark",
-            "address": "SW Capitol Hwy & SW Comus St, Portland, OR 97219",
+            "address": "SW Comus St & SW Capitol Hwy, Portland, OR 97219, US",
             "id": "hollyfarmOR",
             "builder": "Dreamland.",
             "sqft": "2,800sqft.",
@@ -25298,7 +25298,7 @@
         },
         {
             "name": "Hood River Skatepark",
-            "address": "2204 Wasco St, Hood River, OR 97031",
+            "address": "2204 Wasco St, Hood River, OR 97031, US",
             "id": "hoodriverOR",
             "builder": "Dreamland.",
             "sqft": "24,663.68 ft\u00b2",
@@ -25314,7 +25314,7 @@
         },
         {
             "name": "Hoquium Bowl",
-            "address": "494 west emerson ave, Hoquiam, WA 98550",
+            "address": "494 W Emerson Ave, Hoquiam, WA 98550, US",
             "id": "hoquiam",
             "builder": "Dreamland.",
             "sqft": "2,500sqft.",
@@ -25330,7 +25330,7 @@
         },
         {
             "name": "HORIZON CITY SKATEPARK",
-            "address": "Rodman St &, Veny Webb St, Horizon City, TX 79928, USA",
+            "address": "Rodman St & Veny Webb St, Horizon City, TX 79928, US",
             "id": "HORIZONCITYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -25346,7 +25346,7 @@
         },
         {
             "name": "Hornsyld Streetpark",
-            "address": "N\u00f8rremarksvej 1, 8783 Hornsyld",
+            "address": "N\u00f8rremarksvej 1, 8783 Hornsyld, Denmark",
             "id": "Hornsyld StreetparkDK",
             "builder": "FSR",
             "sqft": "260 m\u00b2",
@@ -25362,7 +25362,7 @@
         },
         {
             "name": "H\u00f8rsholm Skatepark",
-            "address": "Stadionalle 5 2960 Rungsted Kyst",
+            "address": "Stadionalle 5, 2960 Rungsted Kyst, Denmark",
             "id": "horsholmDK",
             "builder": "N/A",
             "sqft": "6,789.00 ft\u00b2 (630.72 m\u00b2)",
@@ -25378,7 +25378,7 @@
         },
         {
             "name": "H\u00f8rsholm",
-            "address": "Stadionalle 5, 2960, Rungsted Kyst",
+            "address": "Stadionalle 5, 2960 Rungsted Kyst, Denmark",
             "id": "H\u00f8rsholmDK",
             "builder": "FSR",
             "sqft": "750 m\u00b2",
@@ -25394,7 +25394,7 @@
         },
         {
             "name": "HOUGHTON SKATEPARK",
-            "address": "East Houghton Waterfront Park, 1220-1298 E Lakeshore Dr, Houghton, MI 49931, USA",
+            "address": "East Houghton Waterfront Park, 1220-1298 E Lakeshore Dr, Houghton, MI 49931, US",
             "id": "HOUGHTONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -25410,7 +25410,7 @@
         },
         {
             "name": "House Park Plaza \u2013 Downtown Austin Austin",
-            "address": "1213 Shoal Creek Blvd, Austin, TX 78701, USA",
+            "address": "1213 Shoal Creek Blvd, Austin, TX 78701, US",
             "id": "houseparkplazadowntownaustinaustin",
             "builder": "Newline",
             "sqft": "30,791.63 ft\u00b2",
@@ -25426,7 +25426,7 @@
         },
         {
             "name": "Howard Heuston - Boulder, Colorado",
-            "address": "3100 34th St, Boulder, CO 80301, USA",
+            "address": "3100 34th St, Boulder, CO 80301, US",
             "id": "HowardHeuston-BoulderColorado",
             "builder": "Evergreen.",
             "sqft": "3,092.52 ft\u00b2",
@@ -25442,7 +25442,7 @@
         },
         {
             "name": "HUFFMAN PARK SKATEPARK",
-            "address": "811 Tartans Dr, West Dundee, IL 60118, USA",
+            "address": "811 Tartans Dr, West Dundee, IL 60118, US",
             "id": "HUFFMANPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -25458,7 +25458,7 @@
         },
         {
             "name": "Hullet",
-            "address": "Lyngbyvej 97, 2100 K\u00f8benhavn \u00d8, Denmark",
+            "address": "Lyngbyvej 97, 2100 K\u00f8benhavn, Denmark",
             "id": "hulletDK",
             "builder": "DIY.",
             "sqft": "5,000sqft.",
@@ -25474,7 +25474,7 @@
         },
         {
             "name": "HYDE PARK SKATEPARK",
-            "address": "898 Hyde Park Blvd, Niagara Falls, NY 14301, USA",
+            "address": "898 Hyde Park Blvd, Niagara Falls, NY 14305, US",
             "id": "HYDEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -25490,7 +25490,7 @@
         },
         {
             "name": "Hylke Skatepark",
-            "address": "Hylkevej 55, 8660 Skanderborg",
+            "address": "Hylkevej 55, 8660 Skanderborg, Denmark",
             "id": "Hylke SkateparkDK",
             "builder": "FSR",
             "sqft": "430 m\u00b2",
@@ -25506,7 +25506,7 @@
         },
         {
             "name": "IAN CALDERON SKATEPARK",
-            "address": "15600 Temple Ave, La Puente, CA 91744, USA",
+            "address": "15600 Temple Ave, La Puente, CA 91744, US",
             "id": "IANCALDERONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10000 ft\u00b2",
@@ -25522,7 +25522,7 @@
         },
         {
             "name": "Idaho Falls Skatepark",
-            "address": "Picnic Way & Soft Ball Dr., Idaho Falls, ID 83402",
+            "address": "Picnic Way & Soft Ball Dr, Idaho Falls, ID 83402, US",
             "id": "idahofallsID",
             "builder": "Grindline.",
             "sqft": "15,000sqft.",
@@ -25538,7 +25538,7 @@
         },
         {
             "name": "IDALOU, TEXAS SKATEPARK",
-            "address": "802 Walnut St, Idalou, TX 79329, USA",
+            "address": "802 Walnut St, Idalou, TX 79329, US",
             "id": "IDALOUTEXASSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "13,074.62 ft\u00b2",
@@ -25554,7 +25554,7 @@
         },
         {
             "name": "Ikast",
-            "address": "Vestergade 77, 7430, Ikast",
+            "address": "Vestergade 77, 7430 Ikast, Denmark",
             "id": "IkastDK",
             "builder": "FSR",
             "sqft": "1050 m\u00b2",
@@ -25570,7 +25570,7 @@
         },
         {
             "name": "ILES PARK SKATEPARK",
-            "address": "1924 S 8th St, Springfield, IL 62703, USA",
+            "address": "1924 S 8th St, Springfield, IL 62703, US",
             "id": "ILESPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -25586,7 +25586,7 @@
         },
         {
             "name": "ImperialBeachSkatepark\u2013SanDiego,CA",
-            "address": "425 Imperial Beach Blvd, Imperial Beach, CA, United States",
+            "address": "425 Imperial Beach Blvd, Imperial Beach, CA 91932, US",
             "id": "ImperialBeachSkatepark\u2013SanDiegoCA",
             "builder": "Grindline.",
             "sqft": "7,500sqft.",
@@ -25602,7 +25602,7 @@
         },
         {
             "name": "IndiansAcresPark-MariettaOH",
-            "address": "Muskingum River Trail, Marietta, OH 45750, USA",
+            "address": "Muskingum River Rd, Marietta, OH 45750, US",
             "id": "IndiansAcresPark-MariettaOH",
             "builder": "Grindline",
             "sqft": "5,000sqft.",
@@ -25618,7 +25618,7 @@
         },
         {
             "name": "Innisfail Skatepark Innisfail",
-            "address": "42 Street and, 51 Ave, Innisfail, AB T4G, Canada",
+            "address": "51 Ave, Innisfail, AB T4G, Canada",
             "id": "innisfailskateparkinnisfail",
             "builder": "Newline",
             "sqft": "10,888.02 ft\u00b2",
@@ -25634,7 +25634,7 @@
         },
         {
             "name": "Institut for X",
-            "address": "Skovgaardsgade 5C 8000 Aarhus C",
+            "address": "Skovgaardsgade 5c, 8000 Aarhus, Denmark",
             "id": "instututforxDK",
             "builder": "DIY.",
             "sqft": "1,900sqft [176sqm].",
@@ -25650,7 +25650,7 @@
         },
         {
             "name": "Irrigon Skatepark",
-            "address": "N Main Ave & 7th St NE, Irrigon, OR 97844",
+            "address": "7th St NE, Irrigon, OR 97844, US",
             "id": "irrigonOR",
             "builder": "N/A",
             "sqft": "10,262.28 ft\u00b2",
@@ -25682,7 +25682,7 @@
         },
         {
             "name": "Issaquah Skatepark",
-            "address": "1505 Newport Way NW, Issaquah, WA 98027",
+            "address": "1505 Newport Way NW, Issaquah, WA 98027, US",
             "id": "issaquahnew",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -25698,7 +25698,7 @@
         },
         {
             "name": "Jack Block Park",
-            "address": "Jack Block Park, 2130 Harbor Ave SW, Seattle, WA 98126",
+            "address": "Jack Block Park, Jack Block Park, 2130 Harbor Ave SW, Seattle, WA 98126, US",
             "id": "jack",
             "builder": "DIY.",
             "sqft": "13,000sqft.",
@@ -25714,7 +25714,7 @@
         },
         {
             "name": "JACKSON PLAYGROUND SKATEPARK",
-            "address": "1968 Cross St, Gardner, MA 01440, USA",
+            "address": "1968 Cross St, Gardner, MA 01440, US",
             "id": "JACKSONPLAYGROUNDSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -25730,7 +25730,7 @@
         },
         {
             "name": "JacksonSkatepark-Jackson,WY",
-            "address": "1830 Highschool Rd. Jackson, Wyoming",
+            "address": "1830 High School Rd, Jackson, WY 83001, US",
             "id": "JacksonSkatepark-JacksonWY",
             "builder": "Grindline",
             "sqft": "5,000sqft.",
@@ -25746,7 +25746,7 @@
         },
         {
             "name": "Jackson Springs, Fl",
-            "address": "8620 Jackson Springs Rd, Tampa, Fl 33615",
+            "address": "8620 Jackson Springs Rd, Tampa, FL 33615, US",
             "id": "jacksonsprings",
             "builder": "Team Pain",
             "sqft": "16,300sqft.",
@@ -25762,7 +25762,7 @@
         },
         {
             "name": "Jacksonville Beach, FL",
-            "address": "3881 Pullian Ct, Jacksonville Beach, FL 32250",
+            "address": "3881 Pullian Ct, Jacksonville Beach, FL 32250, US",
             "id": "jacksonville",
             "builder": "Team Pain",
             "sqft": "23,500sqft.",
@@ -25778,7 +25778,7 @@
         },
         {
             "name": "Jacksonville Skatepark",
-            "address": "3751 Cemetery Rd, Jacksonville, OR 97530",
+            "address": "3751 Cemetery Rd, Jacksonville, OR 97530, US",
             "id": "jacksonvilleOR",
             "builder": "N/A",
             "sqft": "6,428.41 ft\u00b2",
@@ -25794,7 +25794,7 @@
         },
         {
             "name": "JANE REYNOLDS SKATEPARK",
-            "address": "Ave. J & Fig, Lancaster, CA 93534, USA",
+            "address": "Fig Ave & Avenue J, Lancaster, CA 93534, US",
             "id": "JANEREYNOLDSSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -25810,7 +25810,7 @@
         },
         {
             "name": "Jefferson Skatepark",
-            "address": "3801 Beacon Ave S, Seattle, WA 98108",
+            "address": "3801 Beacon Ave S, Seattle, WA 98108, US",
             "id": "jefferson",
             "builder": "Grindline.",
             "sqft": "14,000sqft.",
@@ -25826,7 +25826,7 @@
         },
         {
             "name": "Jelling Skatepark \u2013 Ragnarok",
-            "address": "S\u00f8ndervang 4, 7300 Jelling",
+            "address": "S\u00f8ndervang 4, 7300 Jelling, Denmark",
             "id": "Jelling Skatepark \u2013 RagnarokDK",
             "builder": "FSR",
             "sqft": "770 m\u00b2",
@@ -25842,7 +25842,7 @@
         },
         {
             "name": "Jerome Skatepark",
-            "address": "N Buchanan St & 1st Ave E., Jerome, ID 83338",
+            "address": "N Buchanan St & 1st Ave W, Jerome, ID 83338, US",
             "id": "jeromeID",
             "builder": "Dreamland.",
             "sqft": "10,212.07 ft\u00b2",
@@ -25858,7 +25858,7 @@
         },
         {
             "name": "Jessheim",
-            "address": "Markavegen 2050 Jessheim \u2013 Norge",
+            "address": "Markavegen, Jessheim, Norway",
             "id": "JessheimDK",
             "builder": "FSR",
             "sqft": "1000 m\u00b2",
@@ -25874,7 +25874,7 @@
         },
         {
             "name": "Jetsmark Skatepark",
-            "address": "Bredgade 140, 9490 Pandrup",
+            "address": "Bredgade 140, 9490 Pandrup, Denmark",
             "id": "Jetsmark SkateparkDK",
             "builder": "FSR",
             "sqft": "450 m\u00b2",
@@ -25890,7 +25890,7 @@
         },
         {
             "name": "JEWETT PARK SKATEPARK",
-            "address": "836 Jewett Park Dr, Deerfield, IL 60015, USA",
+            "address": "836 Jewett Park Dr, Deerfield, IL 60015, US",
             "id": "JEWETTPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -25906,7 +25906,7 @@
         },
         {
             "name": "JOHNSON CITY SKATEPARK",
-            "address": "Johnson City Skate Park, 705 Liberty Bell Blvd, Johnson City, TN 37604, USA",
+            "address": "Johnson City Skate Park, 705 Liberty Bell Blvd, Johnson City, TN 37604, US",
             "id": "JOHNSONCITYSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "11,573.84 ft\u00b2",
@@ -25922,7 +25922,7 @@
         },
         {
             "name": "JonesboroSkatepark-Jonesboro,AR",
-            "address": "3609 Race St. Jonesboro, Arkansas",
+            "address": "3609 Race St, Jonesboro, AR 72401, US",
             "id": "JonesboroSkatepark-JonesboroAR",
             "builder": "Grindline",
             "sqft": "7,200sqft.",
@@ -25938,7 +25938,7 @@
         },
         {
             "name": "JORDAN PARK SKATEPARK",
-            "address": "1141 MacArthur Rd, Whitehall, PA 18052, USA",
+            "address": "1141 MacArthur Rd, Fullerton, PA 18052, US",
             "id": "JORDANPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -25954,7 +25954,7 @@
         },
         {
             "name": "Judkins Skatepark",
-            "address": "2100 S Judkins St, Seattle, WA 98144",
+            "address": "2100 S Judkins St, Seattle, WA 98144, US",
             "id": "judkins",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -25970,7 +25970,7 @@
         },
         {
             "name": "JUNCTION CITY SKATEPARK",
-            "address": "1400-1498 Laurel St, Junction City, OR 97448, USA",
+            "address": "1400 Laurel St, Junction City, OR 97448, US",
             "id": "JUNCTIONCITYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -25986,7 +25986,7 @@
         },
         {
             "name": "Kaitif Skatepark - Barbados",
-            "address": "Sir Garfield Sobers Sports Complex, Saint Michael Barbados",
+            "address": "Wildey, Bridgetown, Saint Michael Barbados",
             "id": "kaitif",
             "builder": "artisan",
             "sqft": "21,000sqft.",
@@ -26002,7 +26002,7 @@
         },
         {
             "name": "Kalispel Skatepark",
-            "address": "Woodland Park Dr & Shady Glen Dr, Kalispell, MT 59901",
+            "address": "Woodland Park Dr & Shady Glen Dr, Kalispell, MT 59901, US",
             "id": "kalispelMT",
             "builder": "Dreamland.",
             "sqft": "7,200sqft.",
@@ -26018,7 +26018,7 @@
         },
         {
             "name": "Kalundborg Skatepark",
-            "address": "J Hagemann-Petersens all\u00e9 20, 4400 Kalundborg",
+            "address": "J Hagemann-Petersens Alle 20, 4400 Kalundborg, Denmark",
             "id": "Kalundborg SkateparkDK",
             "builder": "FSR",
             "sqft": "800 m\u00b2",
@@ -26034,7 +26034,7 @@
         },
         {
             "name": "Kanata / Richcraft Skatepark Ottawa",
-            "address": "4101 Innovation Dr, Ottawa, ON K2K 0J3, Canada",
+            "address": "4101 Innovation Dr, Kanata, ON K2K 0J3, Canada",
             "id": "kanatarichcraftskateparkottawa",
             "builder": "Newline",
             "sqft": "11,147.46 ft\u00b2",
@@ -26050,7 +26050,7 @@
         },
         {
             "name": "Kandle Skatepark",
-            "address": "2323 N Shirley St, Tacoma, WA 98407",
+            "address": "2323 N Shirley St, Tacoma, WA 98407, US",
             "id": "kandle",
             "builder": "Grindline.",
             "sqft": "4,000sqft.",
@@ -26066,7 +26066,7 @@
         },
         {
             "name": "Kasmiersky Park Skate Plaza Conroe",
-            "address": "Kasmiersky Park Skatepark, 1666-1698 Kirk Rd, Conroe, TX 77304, USA",
+            "address": "Kasmiersky Park Skatepark, 1666-1698 Kirk Rd, Conroe, TX 77304, US",
             "id": "kasmierskyparkskateplazaconroe",
             "builder": "Newline",
             "sqft": "12,224.55 ft\u00b2",
@@ -26082,7 +26082,7 @@
         },
         {
             "name": "Apollo Skatepark - Kearney, NE",
-            "address": "507 W 33rd St, Kearney, NE 68845",
+            "address": "507 W 33rd St, Kearney, NE 68845, US",
             "id": "Kearneyne",
             "builder": "artisan",
             "sqft": "12,000sqft.",
@@ -26098,7 +26098,7 @@
         },
         {
             "name": "Keizer Skatepark",
-            "address": "Rickman Rd NE & Hyson Ct NE, Keizer, OR 97303",
+            "address": "Hyson Ct NE & Rickman Rd NE, Keizer, OR 97303, US",
             "id": "keizerOR",
             "builder": "Dreamland.",
             "sqft": "20,673.04 ft\u00b2",
@@ -26114,7 +26114,7 @@
         },
         {
             "name": "KELLY PARK SKATEPARK",
-            "address": "947 Avenue St John, Bronx, NY 10455, USA",
+            "address": "947 Avenue St John, , NY 10455, US",
             "id": "KELLYPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -26130,7 +26130,7 @@
         },
         {
             "name": "Kelso Skatepark",
-            "address": "1400 Burcham Street, Kelso, WA 98626",
+            "address": "1400 Burcham St, Kelso, WA 98626, US",
             "id": "kelso",
             "builder": "Grindline.",
             "sqft": "12,000sqft.",
@@ -26146,7 +26146,7 @@
         },
         {
             "name": "KENDALL INDIAN SKATEPARK",
-            "address": "11395 SW 79th St, Miami, FL 33173, USA",
+            "address": "11395 SW 79th St, Miami, FL 33173, US",
             "id": "KENDALLINDIANSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -26162,7 +26162,7 @@
         },
         {
             "name": "Kenmore Skatepark",
-            "address": "68th Ave NE & NE 182nd St, Kenmore, WA 98028",
+            "address": "68th Ave NE & NE 182nd St, Kenmore, WA 98028, US",
             "id": "kenmore",
             "builder": "Grindline.",
             "sqft": "5,200sqft.",
@@ -26178,7 +26178,7 @@
         },
         {
             "name": "Kennewick Skatepark",
-            "address": "713 S Dayton St, Kennewick, WA 99336",
+            "address": "713 S Dayton St, Kennewick, WA 99336, US",
             "id": "kennewick",
             "builder": "N/A",
             "sqft": "21,602.42 ft\u00b2",
@@ -26210,7 +26210,7 @@
         },
         {
             "name": "Kent 360 Skatepark",
-            "address": "11525 SE 240th St, Kent, WA 98031",
+            "address": "11525 SE 240th St, Kent, WA 98031, US",
             "id": "kent360",
             "builder": "Grindline.",
             "sqft": "17,000sqft.",
@@ -26226,7 +26226,7 @@
         },
         {
             "name": "Kent Clover Bowl",
-            "address": "S Reith Rd and 42nd Ave S., Kent, WA",
+            "address": "S Reith Rd & 42nd Ave S, Kent, WA 98032, US",
             "id": "kentclover",
             "builder": "N/A",
             "sqft": "5,084.86 ft\u00b2",
@@ -26242,7 +26242,7 @@
         },
         {
             "name": "Kent Dent",
-            "address": "W Smith St & N 7th Ave, Kent, WA 98032",
+            "address": "N 7th Ave & W Smith St, Kent, WA 98032, US",
             "id": "kentdent",
             "builder": "N/A",
             "sqft": "5,505.88 ft\u00b2",
@@ -26258,7 +26258,7 @@
         },
         {
             "name": "Ketchum Skatepark",
-            "address": "1178 Warm Springs Rd., Ketchum, ID 83340",
+            "address": "Guy Cole Skate Park, 1178 Warm Springs Rd, Ketchum, ID 83340, US",
             "id": "ketchumID",
             "builder": "Dreamland.",
             "sqft": "10,000sqft.",
@@ -26274,7 +26274,7 @@
         },
         {
             "name": "Kettle Falls",
-            "address": "580 Meyers St, Kettle Falls, WA 99141",
+            "address": "580 Meyers St, Kettle Falls, WA 99141, US",
             "id": "kettlefalls",
             "builder": "Grindline.",
             "sqft": "3,800sqft.",
@@ -26290,7 +26290,7 @@
         },
         {
             "name": "KIMBALL SKATEPARK",
-            "address": "49 E 16th St, National City, CA 91950, USA",
+            "address": "49 E 16th St, National City, CA 91950, US",
             "id": "KIMBALLSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -26338,7 +26338,7 @@
         },
         {
             "name": "Klamath Falls Skatepark",
-            "address": "4500 Foothills Blvd., Klamath Falls, OR 97603",
+            "address": "4500 Foothills Blvd, Klamath Falls, OR 97603, US",
             "id": "klamathfallsOR",
             "builder": "Dreamland.",
             "sqft": "22,500sqft.",
@@ -26354,7 +26354,7 @@
         },
         {
             "name": "Kolbotn",
-            "address": "Kapellveien 1, 1410 Kolbotn, Norge",
+            "address": "Kapellveien 1, 1410 Kolbotn, Norway",
             "id": "KolbotnDK",
             "builder": "FSR",
             "sqft": "200 m\u00b2",
@@ -26370,7 +26370,7 @@
         },
         {
             "name": "Kona Skatepark pool",
-            "address": "8739 Kona Avenue Jacksonville, FL 32211-8043",
+            "address": "8739 Kona Ave, Jacksonville, FL 32211, US",
             "id": "kona",
             "builder": "Team Pain",
             "sqft": "30,000sqft.",
@@ -26386,7 +26386,7 @@
         },
         {
             "name": "Kona Phase 1",
-            "address": "755560 Kuakini Hwy, Kailua-Kona, HI 96740",
+            "address": "755560 Kuakini Hwy, Kailua-Kona, HI 96740, US",
             "id": "Konaor",
             "builder": "Dreamland.",
             "sqft": "6,200 sqft.",
@@ -26418,7 +26418,7 @@
         },
         {
             "name": "KremmlingSkatepark-Kremmling,CO",
-            "address": "304 12th St. Kremmling, Colorado USA",
+            "address": "304 12th St, Kremmling, CO 80459, US",
             "id": "KremmlingSkatepark-KremmlingCO",
             "builder": "Grindline",
             "sqft": "7,000sqft.",
@@ -26434,7 +26434,7 @@
         },
         {
             "name": "Kristopher Campbell Memorial Skate Plaza Brandon",
-            "address": "Kristopher Campbell Memorial Skate Plaza, 908 Princess Ave, Brandon, MB R7A 0P6, Canada",
+            "address": "Kristopher Campbell Memorial Skate Plaza, 908 Princess Ave, Brandon, MB R7A 4E9, Canada",
             "id": "kristophercampbellmemorialskateplazabrandon",
             "builder": "Newline",
             "sqft": "24,055.16 ft\u00b2",
@@ -26450,7 +26450,7 @@
         },
         {
             "name": "Kuna Skatepark",
-            "address": "W 2nd St & Ave C, Kuna, ID 83634",
+            "address": "W 2nd St & N Ave C, Kuna, ID 83634, US",
             "id": "kunaID",
             "builder": "Dreamland.",
             "sqft": "6,500sqft.",
@@ -26482,7 +26482,7 @@
         },
         {
             "name": "La Center",
-            "address": "1000 E 4th Street, La Center, WA 98629",
+            "address": "1000 E 4th St, La Center, WA 98629, US",
             "id": "lacenter",
             "builder": "Dreamland.",
             "sqft": "2,900sqft.",
@@ -26498,7 +26498,7 @@
         },
         {
             "name": "LacklandTerracePark-SanAntonio,TX",
-            "address": "7902 Westshire Dr. San Antonio, Texas",
+            "address": "7902 Westshire Dr, San Antonio, TX 78227, US",
             "id": "LacklandTerracePark-SanAntonioTX",
             "builder": "Grindline",
             "sqft": "6,000sqft.",
@@ -26514,7 +26514,7 @@
         },
         {
             "name": "La Conner Skatepark",
-            "address": "399 N 6th St, La Conner, WA 98257",
+            "address": "399 N 6th St, La Conner, WA 98257, US",
             "id": "laconner",
             "builder": "Grindline.",
             "sqft": "5,000sqft.",
@@ -26530,7 +26530,7 @@
         },
         {
             "name": "L\u00e6ss\u00f8esgade Skole Skatepark",
-            "address": "L\u00e6ss\u00f8esgade 24, 8000 \u00c5rhus",
+            "address": "L\u00e6ss\u00f8esgade 24, 8000 Aarhus, Denmark",
             "id": "L\u00e6ss\u00f8esgade Skole SkateparkDK",
             "builder": "FSR",
             "sqft": "2600 m\u00b2",
@@ -26546,7 +26546,7 @@
         },
         {
             "name": "Lafayette, CO",
-            "address": "111 W. Baseline Rd, Lafayette, CO 80026",
+            "address": "111 W Baseline Rd, Lafayette, CO 80026, US",
             "id": "lafayette",
             "builder": "Team Pain",
             "sqft": "19,000sqft.",
@@ -26562,7 +26562,7 @@
         },
         {
             "name": "Lagrange Skatepark Lagrange",
-            "address": "Southbend Skatepark, 309 Pierce St, LaGrange, GA 30240, USA",
+            "address": "309 Pierce St, LaGrange, GA 30240, US",
             "id": "lagrangeskateparklagrange",
             "builder": "Newline",
             "sqft": "17,908.72 ft\u00b2",
@@ -26578,7 +26578,7 @@
         },
         {
             "name": "Lake Delton",
-            "address": "90 Progressive Dr, Lake Delton, WI 53940",
+            "address": "90 Progressive Dr, Lake Delton, WI 53940, US",
             "id": "LakeDelton",
             "builder": "Dreamland.",
             "sqft": "6,000 sqft.",
@@ -26594,7 +26594,7 @@
         },
         {
             "name": "LAKE FAIRFAX SKATEPARK",
-            "address": "Lake Fairfax Orienteering Course, Lake Fairfax Park, 1400 Lake Fairfax Dr, Reston, VA 20190, USA",
+            "address": "Lake Fairfax Orienteering Course, Lake Fairfax Park, 1400 Lake Fairfax Dr, Reston, VA 20190, US",
             "id": "LAKEFAIRFAXSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -26610,7 +26610,7 @@
         },
         {
             "name": "LAKE HOLIDAY SKATEPARK",
-            "address": "800 Suzy St, Sandwich, IL 60548, USA",
+            "address": "800 Suzy St, Sandwich, IL 60548, US",
             "id": "LAKEHOLIDAYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -26626,7 +26626,7 @@
         },
         {
             "name": "Lakeland, FL",
-            "address": "726 Hollingsworth Rd, Lakeland, FL 33801",
+            "address": "726 Hollingsworth Rd, Lakeland, FL 33801, US",
             "id": "lakeland",
             "builder": "Team Pain",
             "sqft": "24,000sqft.",
@@ -26642,7 +26642,7 @@
         },
         {
             "name": "Lake Mary Skatepark",
-            "address": "550 Rantoul Ln,\u00a0Lake Mary, FL 32746",
+            "address": "550 Rantoul Ln, Lake Mary, FL 32746, US",
             "id": "lakemary",
             "builder": "Team Pain",
             "sqft": "10,000sqft.",
@@ -26658,7 +26658,7 @@
         },
         {
             "name": "Lake Stevens Skatepark",
-            "address": "7708 20th St SE, Lake Stevens, WA 98258",
+            "address": "7708 20th St SE, Lake Stevens, WA 98258, US",
             "id": "lakestevensWA",
             "builder": "Grindline/Evergreen",
             "sqft": "13,000sqft.",
@@ -26674,7 +26674,7 @@
         },
         {
             "name": "LAKE STREET SKATEPARK",
-            "address": "227 N Lake St, Los Angeles, CA 90026, USA",
+            "address": "227 N Lake St, Los Angeles, CA 90026, US",
             "id": "LAKESTREETSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -26690,7 +26690,7 @@
         },
         {
             "name": "Lake Vista Skate Park",
-            "address": "1401 62nd Ave.\u00a0S. St. Petersburg, FL 33705",
+            "address": "1401 62nd Ave S, St. Petersburg, FL 33705, US",
             "id": "lakevista",
             "builder": "Team Pain",
             "sqft": "7,500sqft.",
@@ -26706,7 +26706,7 @@
         },
         {
             "name": "LakewaySkatepark-Lakeway,TX",
-            "address": "3103 Lakeway Blvd. Lakeway, Texas",
+            "address": "3103 Lakeway Blvd, Lakeway, TX 78734, US",
             "id": "LakewaySkatepark-LakewayTX",
             "builder": "Grindline",
             "sqft": "7,500sqft.",
@@ -26738,7 +26738,7 @@
         },
         {
             "name": "Lander",
-            "address": "830 Jefferson St, Lander, WY 82520",
+            "address": "830 Jefferson St, Lander, WY 82520, US",
             "id": "Lander",
             "builder": "Dreamland.",
             "sqft": "8,200 sqft.",
@@ -26754,7 +26754,7 @@
         },
         {
             "name": "LA PINTORESCA SKATEPARK",
-            "address": "45 E Washington Blvd, Pasadena, CA 91103, USA",
+            "address": "45 E Washington Blvd, Pasadena, CA 91103, US",
             "id": "LAPINTORESCASKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -26770,7 +26770,7 @@
         },
         {
             "name": "Laramie Skatepark",
-            "address": "5th Street and Canby Street, Laramie, WY 82072",
+            "address": "E Canby St, Laramie, WY 82072, US",
             "id": "laramie",
             "builder": "Team Pain",
             "sqft": "10,000sqft.",
@@ -26786,7 +26786,7 @@
         },
         {
             "name": "LARAMIE PARK SKATEPARK",
-            "address": "1634 S Laramie Ave, Cicero, IL 60804, USA",
+            "address": "1634 S Laramie Ave, Cicero, IL 60804, US",
             "id": "LARAMIEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -26802,7 +26802,7 @@
         },
         {
             "name": "LA VILLITA PARK SKATEPARK",
-            "address": "2800-58 S Sacramento Ave, Chicago, IL 60623, USA",
+            "address": "2800-58 S Sacramento Ave, Chicago, IL 60623, US",
             "id": "LAVILLITAPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -26818,7 +26818,7 @@
         },
         {
             "name": "LAYTONVILLE, CALIFORNIA",
-            "address": "351 Harwood Rd, Laytonville, CA 95454, USA",
+            "address": "351 Harwood Rd, Laytonville, CA 95454, US",
             "id": "LAYTONVILLECALIFORNIA",
             "builder": "Evergreen.",
             "sqft": "3,735.75 ft\u00b2",
@@ -26834,7 +26834,7 @@
         },
         {
             "name": "Leavenworth Skatepark",
-            "address": "10154 Chumstick Hwy, Leavenworth, WA 98826",
+            "address": "10154 Chumstick Hwy, Leavenworth, WA 98826, US",
             "id": "leavenworth",
             "builder": "Grindline.",
             "sqft": "6,000sqft.",
@@ -26850,7 +26850,7 @@
         },
         {
             "name": "Lebanon",
-            "address": "300 Harrison St, Lebanon, OR 97355",
+            "address": "300 Harrison St, Lebanon, OR 97355, US",
             "id": "Lebanonleb",
             "builder": "Dreamland.",
             "sqft": "18,000sqft.",
@@ -26866,7 +26866,7 @@
         },
         {
             "name": "LeeandJamailPark-Houston,TX",
-            "address": "105 Sabine Street, Houston, TX 77007, USA",
+            "address": "105 Sabine St, Houston, TX 77007, US",
             "id": "LeeandJamailPark-HoustonTX",
             "builder": "Grindline",
             "sqft": "25,000sqft.",
@@ -26882,7 +26882,7 @@
         },
         {
             "name": "LEHI SKATEPARK",
-            "address": "2000 W 2100 N, Lehi, UT 84043, USA",
+            "address": "2000 W 2100 N, Lehi, UT 84043, US",
             "id": "LEHISKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -26898,7 +26898,7 @@
         },
         {
             "name": "Lejre Skatepark",
-            "address": "Bispeg\u00e5rdsvej 2, 4320 Lejre",
+            "address": "Bispeg\u00e5rdsvej 2, 4320 Lejre, Denmark",
             "id": "Lejre SkateparkDK",
             "builder": "FSR",
             "sqft": "440 m\u00b2",
@@ -26946,7 +26946,7 @@
         },
         {
             "name": "Levanger",
-            "address": "Stadionparken, 7600 Levanger Norge",
+            "address": "Stadionparken, Levanger, Norway",
             "id": "LevangerDK",
             "builder": "FSR",
             "sqft": "1200 m\u00b2",
@@ -26962,7 +26962,7 @@
         },
         {
             "name": "Lewiston Skatepark",
-            "address": "Snake River Ave & 11th Ave., Lewiston, ID 83501",
+            "address": "11th Ave & Snake River Ave, Lewiston, ID 83501, US",
             "id": "lewistonID",
             "builder": "Grindline.",
             "sqft": "12,000sqft.",
@@ -26978,7 +26978,7 @@
         },
         {
             "name": "LEWISTOWN, MONTANA",
-            "address": "200 NE Prospect Ave, Lewistown, MT 59457, USA",
+            "address": "200 NE Prospect Ave, Lewistown, MT 59457, US",
             "id": "LEWISTOWNMONTANA",
             "builder": "Evergreen.",
             "sqft": "12,631.75 ft\u00b2",
@@ -26994,7 +26994,7 @@
         },
         {
             "name": "Lexington, NC",
-            "address": "301 W 9th Ave, Lexington, NC 27292",
+            "address": "Radcliff Park, 301 W 9th Ave, Lexington, NC 27292, US",
             "id": "lexington",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -27010,7 +27010,7 @@
         },
         {
             "name": "Lexington Berry Hill",
-            "address": "3489 Buckhorn Dr, Lexington, KY 40515",
+            "address": "3489 Buckhorn Dr, Lexington, KY 40515, US",
             "id": "Lexingtonky",
             "builder": "Dreamland.",
             "sqft": "16,000 sqft.",
@@ -27026,7 +27026,7 @@
         },
         {
             "name": "Lincoln City Skatepark",
-            "address": "NE 22nd St & NE Devils Point Dr, Lincoln City, OR 97367",
+            "address": "NE 22nd St & NE Devil's Point Dr, Lincoln City, OR 97367, US",
             "id": "lincolncityOR",
             "builder": "Dreamland.",
             "sqft": "40,000sqft.",
@@ -27042,7 +27042,7 @@
         },
         {
             "name": "LINCOLN, MONTANA SKATEPARK",
-            "address": "102 9th Ave, Lincoln, MT 59639, USA",
+            "address": "102 9th Ave, Lincoln, MT 59639, US",
             "id": "LINCOLNMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "7,505.48 ft\u00b2",
@@ -27058,7 +27058,7 @@
         },
         {
             "name": "LINCOLN PARK SKATEPARK",
-            "address": "290 Washington St, Somerville, MA 02143, USA",
+            "address": "290 Washington St, Somerville, MA 02143, US",
             "id": "LINCOLNPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -27074,7 +27074,7 @@
         },
         {
             "name": "LINCOLN PARK SKATE SPOT",
-            "address": "103 Pacific Ave, Long Beach, CA 90802, USA",
+            "address": "103 Pacific Ave, Long Beach, CA 90802, US",
             "id": "LINCOLNPARKSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "3,500 ft\u00b2",
@@ -27090,7 +27090,7 @@
         },
         {
             "name": "Linda vista",
-            "address": "6893 Osler St, San Diego, CA 92111",
+            "address": "6893 Osler St, San Diego, CA 92111, US",
             "id": "lindavistaCA",
             "builder": "N/A",
             "sqft": "48,196sqft.",
@@ -27122,7 +27122,7 @@
         },
         {
             "name": "LITTLE SCOBIE SKATE SPOT",
-            "address": "36 Copeland St, Boston, MA 02119, USA",
+            "address": "36 Copeland St, Boston, MA 02119, US",
             "id": "LITTLESCOBIESKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "2,000 ft\u00b2",
@@ -27138,7 +27138,7 @@
         },
         {
             "name": "Roxborough, CO",
-            "address": "7463-7635 N Rampart Range Rd, Littleton, CO 80125",
+            "address": "7463-7635 N Rampart Range Rd, Littleton, CO 80125, US",
             "id": "littleton",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -27154,7 +27154,7 @@
         },
         {
             "name": "LIVINGSTON, MONTANA SKATEPARK",
-            "address": "229 River Dr, Livingston, MT 59047, USA",
+            "address": "229 River Dr, Livingston, MT 59047, US",
             "id": "LIVINGSTONMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "12,127.79 ft\u00b2",
@@ -27170,7 +27170,7 @@
         },
         {
             "name": "Livingston Skatepark",
-            "address": "229 River Dr Livingston, MT 59047",
+            "address": "229 River Dr, Livingston, MT 59047, US",
             "id": "livingstonMT",
             "builder": "Evergreen.",
             "sqft": "14,193sqft.",
@@ -27202,7 +27202,7 @@
         },
         {
             "name": "LOGAN WELLS MEMORIAL SKATEPARK",
-            "address": "8151 E Santa Ana Canyon Rd, Anaheim, CA 92808, USA",
+            "address": "8151 E Santa Ana Canyon Rd, Anaheim, CA 92808, US",
             "id": "LOGANWELLSMEMORIALSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,500 ft\u00b2",
@@ -27218,7 +27218,7 @@
         },
         {
             "name": "LONG BEACH SKATEPARK",
-            "address": "56 W Pine St, Long Beach, NY 11561, USA",
+            "address": "56 W Pine St, Long Beach, NY 11561, US",
             "id": "LONGBEACHSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -27234,7 +27234,7 @@
         },
         {
             "name": "Longview Skatepark",
-            "address": "28th Ave, Longview, WA 98632",
+            "address": "28th Ave, Longview, WA 98632, US",
             "id": "longview",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -27250,7 +27250,7 @@
         },
         {
             "name": "LOS AMIGOS SKATE SPOT",
-            "address": "8651 Madrone Ave, Rancho Cucamonga, CA 91730, USA",
+            "address": "8651 Madrone Ave, Rancho Cucamonga, CA 91730, US",
             "id": "LOSAMIGOSSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "3,500 ft\u00b2",
@@ -27266,7 +27266,7 @@
         },
         {
             "name": "Loveland, CO",
-            "address": "2601 Rio Blanco Ave, Loveland, CO 80538",
+            "address": "2601 Rio Blanco Ave, Loveland, CO 80538, US",
             "id": "loveland",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -27282,7 +27282,7 @@
         },
         {
             "name": "LOYCE E. HARPE SKATEPARK",
-            "address": "W2HM+C6 Mulberry, FL, USA",
+            "address": "W2HM+C6, Mulberry, FL , US",
             "id": "LOYCEEHARPESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6500 ft\u00b2",
@@ -27298,7 +27298,7 @@
         },
         {
             "name": "LUKE NELSON SKATEPARK",
-            "address": "1113 S Main St, Medina, NY 14103, USA",
+            "address": "1113 S Main St, Medina, NY 14103, US",
             "id": "LUKENELSONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -27314,7 +27314,7 @@
         },
         {
             "name": "Luuwit view Skatepark",
-            "address": "NE 129th Ave and NE Fremont St, Portland, OR 97230",
+            "address": "NE 129th Ave & NE Fremont St, Portland, OR 97230, US",
             "id": "luuwitviewOR",
             "builder": "Evergreen.",
             "sqft": "3,000sqft.",
@@ -27330,7 +27330,7 @@
         },
         {
             "name": "Lynnwood Skatepark",
-            "address": "7326 Olympic View Dr, Edmonds, WA 98026",
+            "address": "7326 Olympic View Dr, Lynnwood, WA 98037, US",
             "id": "lynnwood",
             "builder": "N/A",
             "sqft": "4,783.78 ft\u00b2",
@@ -27346,7 +27346,7 @@
         },
         {
             "name": "Lynnwood Martha Lake Skatepark",
-            "address": "200 146th St SW, Lynnwood, WA 98087",
+            "address": "200 146th St SW, Lynnwood, WA 98087, US",
             "id": "lynnwoodmarthalake",
             "builder": "N/A",
             "sqft": "8,899.35 ft\u00b2",
@@ -27362,7 +27362,7 @@
         },
         {
             "name": "Lyons, CO",
-            "address": "199 2nd Ave, Lyons, CO 80540",
+            "address": "199 2nd Ave, Lyons, CO 80540, US",
             "id": "lyons",
             "builder": "Team Pain",
             "sqft": "3,000sqft.",
@@ -27394,7 +27394,7 @@
         },
         {
             "name": "Madras Skatepark",
-            "address": "SW H St & SW Marshall St, Madras, OR 97741",
+            "address": "SW Marshall St & SW H St, Madras, OR 97741, US",
             "id": "madrasOR",
             "builder": "Dreamland.",
             "sqft": "10,000sqft.",
@@ -27410,7 +27410,7 @@
         },
         {
             "name": "Malmo Skatepark",
-            "address": "Kroksb\u00e4cksstigen, 216 25 Malm\u00f6, Sweden",
+            "address": "216 25 Malm\u00f6, Sweden",
             "id": "malmo",
             "builder": "Dreamland/Bryggeriet.",
             "sqft": "10,000sqft.",
@@ -27426,7 +27426,7 @@
         },
         {
             "name": "MALTA, MONTANA SKATEPARK",
-            "address": "20 S 12th St E, Malta, MT 59538, USA",
+            "address": "20 S 12th St E, Malta, MT 59538, US",
             "id": "MALTAMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "4,283.80 ft\u00b2",
@@ -27442,7 +27442,7 @@
         },
         {
             "name": "Malta Skatepark",
-            "address": "S 12th St E & Ruby Ave, Malta, MT 59538",
+            "address": "S 12th St E & Ruby Ave, Malta, MT 59538, US",
             "id": "maltaMT",
             "builder": "Evergreen.",
             "sqft": "4,000sqft.",
@@ -27458,7 +27458,7 @@
         },
         {
             "name": "MANHATTAN BEACH SKATEPARK",
-            "address": "1625 Marine Ave, Manhattan Beach, CA 90266, USA",
+            "address": "1625 Marine Ave, Manhattan Beach, CA 90266, US",
             "id": "MANHATTANBEACHSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -27474,7 +27474,7 @@
         },
         {
             "name": "MANZANITA SKATEPARK",
-            "address": "1258 N Riviera St, Anaheim, CA 92801, USA",
+            "address": "1258 N Riviera St, Anaheim, CA 92801, US",
             "id": "MANZANITASKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -27490,7 +27490,7 @@
         },
         {
             "name": "Maple Skatepark - Currituck, NC",
-            "address": "151 Maple Pkwy, Barco, NC 27917",
+            "address": "151 Maple Pkwy, Barco, NC 27917, US",
             "id": "Maplenc",
             "builder": "artisan",
             "sqft": "6,500sqft.",
@@ -27506,7 +27506,7 @@
         },
         {
             "name": "Marginal Way Skatepark",
-            "address": "1 S Hanford St, Seattle, WA 98134",
+            "address": "1 S Hanford St, Seattle, WA 98134, US",
             "id": "marginal",
             "builder": "DIY.",
             "sqft": "10,651.08 ft\u00b2",
@@ -27538,7 +27538,7 @@
         },
         {
             "name": "MARIPOSA PARK SKATE SPOT",
-            "address": "710 E 6th St, Santa Ana, CA 92701, USA",
+            "address": "710 E 6th St, Santa Ana, CA 92701, US",
             "id": "MARIPOSAPARKSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "2,500 ft\u00b2",
@@ -27554,7 +27554,7 @@
         },
         {
             "name": "MARQUETTE SKATE PLAZA",
-            "address": "301-399 E Fair Ave, Marquette, MI 49855, USA",
+            "address": "301 E Fair Ave, Marquette, MI 49855, US",
             "id": "MARQUETTESKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -27570,7 +27570,7 @@
         },
         {
             "name": "Marsh Creek Skatepark - Raleigh, NC",
-            "address": "3050 N New Hope Rd, Raleigh, NC 27604",
+            "address": "3050 N New Hope Rd, Raleigh, NC 27604, US",
             "id": "marshnc",
             "builder": "artisan",
             "sqft": "11,000sqft.",
@@ -27586,7 +27586,7 @@
         },
         {
             "name": "MARTINEZ PARK SKATE SPOT",
-            "address": "88 Stagg St, Brooklyn, NY 11206, USA",
+            "address": "88 Stagg St, , NY 11206, US",
             "id": "MARTINEZPARKSKATESPOT",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -27602,7 +27602,7 @@
         },
         {
             "name": "MartinRoadPark-Amarillo,TX",
-            "address": "1100 North Mirror Street, Amarillo, TX 79107, USA",
+            "address": "1100 N Mirror St, Amarillo, TX 79107, US",
             "id": "MartinRoadPark-AmarilloTX",
             "builder": "Grindline",
             "sqft": "6,600sqft.",
@@ -27618,7 +27618,7 @@
         },
         {
             "name": "MATTANO PARK SKATEPARK",
-            "address": "412-428 5th Ave, Elizabeth, NJ 07206, USA",
+            "address": "412-428 5th Ave, Elizabeth, NJ 07206, US",
             "id": "MATTANOPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -27650,7 +27650,7 @@
         },
         {
             "name": "MCBRIDE SKATEPARK",
-            "address": "1490 Martin Luther King Jr Ave, Long Beach, CA 90813, USA",
+            "address": "1490 Martin Luther King Jr Ave, Long Beach, CA 90813, US",
             "id": "MCBRIDESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -27666,7 +27666,7 @@
         },
         {
             "name": "Mccall Skatepark",
-            "address": "146-198 Idaho St., McCall, ID 83638",
+            "address": "146 Idaho St, McCall, ID 83638, US",
             "id": "mccallID",
             "builder": "Grindline.",
             "sqft": "15,000sqft.",
@@ -27682,7 +27682,7 @@
         },
         {
             "name": "MCCLATCHY PARK",
-            "address": "3073-3099 33rd St, Sacramento, CA 95817, USA",
+            "address": "3073 33rd St, Sacramento, CA 95817, US",
             "id": "MCCLATCHYPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -27698,7 +27698,7 @@
         },
         {
             "name": "Mccook",
-            "address": "205 E M St, McCook, NE 69001",
+            "address": "205 E M St, McCook, NE 69001, US",
             "id": "Mccook",
             "builder": "Dreamland.",
             "sqft": "5,200 sqft.",
@@ -27730,7 +27730,7 @@
         },
         {
             "name": "Mckinney Skatepark Mckinney",
-            "address": "3151 Alma Rd, McKinney, TX 75070, USA",
+            "address": "3151 Alma Rd, McKinney, TX 75070, US",
             "id": "mckinneyskateparkmckinney",
             "builder": "Newline",
             "sqft": "37,996.06 ft\u00b2",
@@ -27746,7 +27746,7 @@
         },
         {
             "name": "Boise Skatepark (McMillan)",
-            "address": "5101 N Eagle Rd.",
+            "address": "5101 N Eagle Rd, Boise, ID 83713, US",
             "id": "mcmillanID",
             "builder": "N/A",
             "sqft": "8,771sqft.",
@@ -27762,7 +27762,7 @@
         },
         {
             "name": "McMinnville Skatepark",
-            "address": "1650 SE Brooks St, McMinnville, OR 97128",
+            "address": "1650 SE Brooks St, McMinnville, OR 97128, US",
             "id": "mcminnvilleOR",
             "builder": "Dreamland.",
             "sqft": "7,500sqft.",
@@ -27794,7 +27794,7 @@
         },
         {
             "name": "Medford Skatepark",
-            "address": "625 Highland Dr, Medford, OR 97504",
+            "address": "625 Highland Dr, Medford, OR 97504, US",
             "id": "medfordOR",
             "builder": "N/A",
             "sqft": "28,972.57 ft\u00b2",
@@ -27810,7 +27810,7 @@
         },
         {
             "name": "MelbaBishopPark-Oceanside,CA",
-            "address": "5342 Leon Street, Oceanside, CA 92057, USA",
+            "address": "5342 Leon St, Oceanside, CA 92057, US",
             "id": "MelbaBishopPark-OceansideCA",
             "builder": "Grindline.",
             "sqft": "8,000sqft.",
@@ -27842,7 +27842,7 @@
         },
         {
             "name": "Mercer Island Skatepark",
-            "address": "3249 78th Ave SE, Mercer Island, WA 98040",
+            "address": "3249 78th Ave SE, Mercer Island, WA 98040, US",
             "id": "mercerisland",
             "builder": "N/A",
             "sqft": "7,169.80 ft\u00b2",
@@ -27858,7 +27858,7 @@
         },
         {
             "name": "Meridian, ID",
-            "address": "GJVP+63 Meridian, ID, USA",
+            "address": "GJVP+63, Meridian, ID , US",
             "id": "MERIDIANIDEVERGREEN",
             "builder": "Evergreen.",
             "sqft": "20,000 ft\u00b2",
@@ -27890,7 +27890,7 @@
         },
         {
             "name": "Middleton Skatepark",
-            "address": "200 S 4th Ave, Middleton, ID 83644",
+            "address": "200 S 4th Ave N, Middleton, ID 83644, US",
             "id": "middletonID",
             "builder": "Grindline.",
             "sqft": "13,500sqft.",
@@ -27906,7 +27906,7 @@
         },
         {
             "name": "MIDDLETOWN SKATEPARK",
-            "address": "1 Union St, Middletown, NY 10940, USA",
+            "address": "1 Union St, Middletown, NY 10940, US",
             "id": "MIDDLETOWNSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -27922,7 +27922,7 @@
         },
         {
             "name": "MILESTONE PARK SKATEPARK",
-            "address": "1375-, 1399 Castle St, Sandwich, IL 60548, USA",
+            "address": "1399 Castle St #1375, Sandwich, IL 60548, US",
             "id": "MILESTONEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -27938,7 +27938,7 @@
         },
         {
             "name": "MILFORD SKATEPARK",
-            "address": "Fairgrounds Park, J D Caswell Dr, Milford, MI 48381, USA",
+            "address": "Fairgrounds Park, J D Caswell Dr, Milford, MI 48381, US",
             "id": "MILFORDSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -27954,7 +27954,7 @@
         },
         {
             "name": "MilfordSkatepark\u2013Milford,CT",
-            "address": "163 Boston Post Road, Milford, CT 06460, USA",
+            "address": "163 Boston Post Rd, Milford, CT 06460, US",
             "id": "MilfordSkatepark\u2013MilfordCT",
             "builder": "Grindline",
             "sqft": "2,000sqft.",
@@ -27970,7 +27970,7 @@
         },
         {
             "name": "Mill Creek Skatepark",
-            "address": "13903 N Creek Dr, Bothell, WA 98012",
+            "address": "13903 N Creek Dr, Bothell, WA 98012, US",
             "id": "millcreek",
             "builder": "N/A",
             "sqft": "10,387.27 ft\u00b2",
@@ -27986,7 +27986,7 @@
         },
         {
             "name": "MILLIKEN, COLORADO SKATEPARK",
-            "address": "1015 Elm St, Milliken, CO 80543, USA",
+            "address": "1015 Elm St, Milliken, CO 80543, US",
             "id": "MILLIKENCOLORADOSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "12,735.34 ft\u00b2",
@@ -28002,7 +28002,7 @@
         },
         {
             "name": "Milton Skatepark",
-            "address": "1031 23rd Ave, Milton, WA 98354",
+            "address": "1031 23rd Ave, Milton, WA 98354, US",
             "id": "milton",
             "builder": "Grindline.",
             "sqft": "11,000sqft.",
@@ -28018,7 +28018,7 @@
         },
         {
             "name": "Milton Skate Park",
-            "address": "5629 Byrom St, Milton, FL 32570",
+            "address": "5629 Byrom St, Milton, FL 32570, US",
             "id": "miltonfl",
             "builder": "Team Pain",
             "sqft": "8,000sqft.",
@@ -28034,7 +28034,7 @@
         },
         {
             "name": "Milton Freewater Skatepark",
-            "address": "N.E. 8th Avenue and Robbins ST, Milton-Freewater, OR 97862",
+            "address": "Robbins St & NE 8th Ave, Milton-Freewater, OR 97862, US",
             "id": "miltonfreewaterOR",
             "builder": "Dreamland.",
             "sqft": "1,900sqft.",
@@ -28050,7 +28050,7 @@
         },
         {
             "name": "Mingo Skatepark",
-            "address": "500 E Lincoln Ave Delaware Ohio 43015",
+            "address": "500 E Lincoln Ave, Delaware, OH 43015, US",
             "id": "mingo",
             "builder": "Team Pain",
             "sqft": "13,000sqft.",
@@ -28066,7 +28066,7 @@
         },
         {
             "name": "Minneola, FL",
-            "address": "315 Madison St, Minneola, FL 34715",
+            "address": "315 Madison St, Minneola, FL 34715, US",
             "id": "minneola",
             "builder": "Team Pain",
             "sqft": "9,600sqft.",
@@ -28082,7 +28082,7 @@
         },
         {
             "name": "Mission Skatepark Mission",
-            "address": "7575 Taulbut St, Mission, BC V2V 2K4, Canada",
+            "address": "7575 Taulbut St, Mission 1, BC V2V 2K4, Canada",
             "id": "missionskateparkmission",
             "builder": "Newline",
             "sqft": "9,846.39 ft\u00b2",
@@ -28114,7 +28114,7 @@
         },
         {
             "name": "Missoula Skatepark",
-            "address": "Cregg Ln & S Orange St, Missoula, MT 59801",
+            "address": "Cregg Ln & S Orange St, Missoula, MT 59801, US",
             "id": "missoulaMT",
             "builder": "Grindline.",
             "sqft": "16,000sqft.",
@@ -28130,7 +28130,7 @@
         },
         {
             "name": "MISSOURI CITY, TEXAS SKATEPARK",
-            "address": "1700 Glenn Lakes Ln, Missouri City, TX 77459, USA",
+            "address": "1700 Glenn Lakes Ln, Missouri City, TX 77459, US",
             "id": "MISSOURICITYTEXASSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "4,972.21 ft\u00b2",
@@ -28146,7 +28146,7 @@
         },
         {
             "name": "MLKPark-Oceanside,CA",
-            "address": "4300 Mesa Dr. Oceanside, California",
+            "address": "4300 Mesa Dr, Oceanside, CA 92057, US",
             "id": "MLKPark-OceansideCA",
             "builder": "Grindline.",
             "sqft": "6,000sqft.",
@@ -28162,7 +28162,7 @@
         },
         {
             "name": "Modern Skatepark",
-            "address": "3665 28th St SE, Grand Rapids, MI 49512",
+            "address": "3665 28th St SE, Grand Rapids, MI 49512, US",
             "id": "modern",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -28178,7 +28178,7 @@
         },
         {
             "name": "Molenaar",
-            "address": "2815 S Maple Grove Rd, Boise, ID 83709",
+            "address": "2815 S Maple Grove Rd, Boise, ID 83709, US",
             "id": "molenaarID",
             "builder": "Grindline.",
             "sqft": "16,559.43 ft\u00b2",
@@ -28194,7 +28194,7 @@
         },
         {
             "name": "MONITOR PARK SKATEPARK",
-            "address": "1815 E 114th St, Los Angeles, CA 90059, USA",
+            "address": "1815 E 114th St, Los Angeles, CA 90059, US",
             "id": "MONITORPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -28210,7 +28210,7 @@
         },
         {
             "name": "Montez Skatepark - Monte Vista, CO",
-            "address": "1475 Park Ave #1401, Monte Vista, CO 81144",
+            "address": "1475 Park Ave #1401, Monte Vista, CO 81144, US",
             "id": "Montevistaco",
             "builder": "artisan",
             "sqft": "18,000sqft.",
@@ -28226,7 +28226,7 @@
         },
         {
             "name": "MORENCI SKATEPARK",
-            "address": "401 Desert Sage Ln, Morenci, AZ 85540, USA",
+            "address": "401 Desert Sage Ln, Morenci, AZ 85540, US",
             "id": "MORENCISKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -28242,7 +28242,7 @@
         },
         {
             "name": "MORENO VALLEY SKATEPARK",
-            "address": "13380 Frederick St, Moreno Valley, CA 92553, USA",
+            "address": "13380 Frederick St, Moreno Valley, CA 92553, US",
             "id": "MORENOVALLEYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -28258,7 +28258,7 @@
         },
         {
             "name": "Morgan Junction RIP",
-            "address": "6413 California Ave SW, Seattle, WA 98136",
+            "address": "6413 California Ave SW, Seattle, WA 98136, US",
             "id": "morgan",
             "builder": "DIY.",
             "sqft": "2,000 sqft.",
@@ -28274,7 +28274,7 @@
         },
         {
             "name": "Morganton Skatepark - Morganton, NC",
-            "address": "300 Collett St, Morganton, NC 28655",
+            "address": "300 Collett St, Morganton, NC 28655, US",
             "id": "morgantonnc",
             "builder": "artisan",
             "sqft": "8,500sqft.",
@@ -28306,7 +28306,7 @@
         },
         {
             "name": "Mountain home skatepark",
-            "address": "15 E 10th N, Mountain Home, ID 83647",
+            "address": "15 E 10th St N, Mountain Home, ID 83647, US",
             "id": "mountainhomeID",
             "builder": "Dreamland.",
             "sqft": "12,898.71 ft\u00b2",
@@ -28338,7 +28338,7 @@
         },
         {
             "name": "Mt.ViewSkatepark-ElPaso,TX",
-            "address": "8501 Diana Dr. El Paso, TX USA",
+            "address": "8501 Diana Dr, El Paso, TX 79904, US",
             "id": "Mt.ViewSkatepark-ElPasoTX",
             "builder": "Grindline",
             "sqft": "15,000sqft.",
@@ -28354,7 +28354,7 @@
         },
         {
             "name": "Muckleshoot Skatepark",
-            "address": "39015 172nd Ave SE, Auburn, WA 98092",
+            "address": "39015 172nd Ave SE, Auburn, WA 98092, US",
             "id": "muckelshoot",
             "builder": "Grindline.",
             "sqft": "7,000sqft.",
@@ -28370,7 +28370,7 @@
         },
         {
             "name": "Mud Skatepark Wells Branch",
-            "address": "3000 Shoreline Dr, Austin, TX 78728, USA",
+            "address": "3000 Shoreline Dr, Austin, TX 78728, US",
             "id": "mudskateparkwellsbranch",
             "builder": "Newline",
             "sqft": "7,889.50 ft\u00b2",
@@ -28386,7 +28386,7 @@
         },
         {
             "name": "Mueller Skatepark + Pump Track Austin",
-            "address": "Gaylord Sackler Memorial Skate Park, 3730 Manor Rd, Austin, TX 78723, USA",
+            "address": "Gaylord Sackler Memorial Skate Park, 3730 Manor Rd, Austin, TX 78723, US",
             "id": "muellerskateparkpumptrackaustin",
             "builder": "Newline",
             "sqft": "44,046.34 ft\u00b2",
@@ -28402,7 +28402,7 @@
         },
         {
             "name": "Mukilteo Skatepark",
-            "address": "10601 47th Pl W, Mukilteo, WA 98275",
+            "address": "10601 47th Pl W, Mukilteo, WA 98275, US",
             "id": "mukilteo",
             "builder": "Grindline.",
             "sqft": "20,000sqft.",
@@ -28418,7 +28418,7 @@
         },
         {
             "name": "Munkebo Skatepark",
-            "address": "Mosevangen 2, 5330 Munkebo",
+            "address": "Mosevangen 2, 5330 Munkebo, Denmark",
             "id": "Munkebo SkateparkDK",
             "builder": "FSR",
             "sqft": "1000 m\u00b2",
@@ -28434,7 +28434,7 @@
         },
         {
             "name": "Myrtle Creek Skatepark",
-            "address": "205 NE Rice ST, Myrtle Creek, OR 97457",
+            "address": "205 NE Rice St, Myrtle Creek, OR 97457, US",
             "id": "myrtlecreekOR",
             "builder": "N/A",
             "sqft": "8,921.75 ft\u00b2",
@@ -28450,7 +28450,7 @@
         },
         {
             "name": "N\u00e6stved Skatepark",
-            "address": "Bataljonsvej 7 4700 N\u00e6stved",
+            "address": "Bataljonsvej 7, 4700 N\u00e6stved, Denmark",
             "id": "naestvedDK",
             "builder": "N/A",
             "sqft": "11,376.59 ft\u00b2 (1,056.92 m\u00b2)",
@@ -28466,7 +28466,7 @@
         },
         {
             "name": "NagsHeadSkatePark\u2013NagsHead,NC",
-            "address": "3000 S Croatan Hwy, Nags Head, NC 27959, United States",
+            "address": "3000 S Croatan Hwy, Nags Head, NC 27959, US",
             "id": "NagsHeadSkatePark\u2013NagsHeadNC",
             "builder": "Grindline",
             "sqft": "15,000sqft.",
@@ -28482,7 +28482,7 @@
         },
         {
             "name": "NaniFalconePark-SanAntonio,TX",
-            "address": "8701 Mystic Park San Antonio, Texas",
+            "address": "8701 Mystic Park, San Antonio, TX 78254, US",
             "id": "NaniFalconePark-SanAntonioTX",
             "builder": "Grindline",
             "sqft": "5,000sqft.",
@@ -28498,7 +28498,7 @@
         },
         {
             "name": "Nansensgade Skatepark",
-            "address": "Charlotte Ammundsens Plads 1359 K\u00f8benhavn K",
+            "address": "Charlotte Ammundsens Pl., 1359 K\u00f8benhavn K, Denmark",
             "id": "nansensgadeDK",
             "builder": "N/A",
             "sqft": "4,891.75 ft\u00b2 (454.46 m\u00b2)",
@@ -28514,7 +28514,7 @@
         },
         {
             "name": "Naples, FL",
-            "address": "1600 Fleischmann Blvd, Naples, FL 34102",
+            "address": "1600 Fleischmann Blvd, Naples, FL 34102, US",
             "id": "naples",
             "builder": "Team Pain",
             "sqft": "13,500sqft.",
@@ -28530,7 +28530,7 @@
         },
         {
             "name": "Nashua, NH",
-            "address": "80 Bridge St, Nashua, NH 03060",
+            "address": "80 Bridge St, Nashua, NH 03060, US",
             "id": "nashua",
             "builder": "Team Pain",
             "sqft": "10,000sqft.",
@@ -28546,7 +28546,7 @@
         },
         {
             "name": "David Deane Skatepark - Nashua, NH",
-            "address": "7 Stadium Drive, Nashua, NH 03062",
+            "address": "7 Stadium Drive, Nashua, NH 03062, US",
             "id": "nashua",
             "builder": "artisan",
             "sqft": "17,800sqft.",
@@ -28562,7 +28562,7 @@
         },
         {
             "name": "Ne Community Skatepark Frisco",
-            "address": "2895 Honey Grove Dr, Frisco, TX 75035, USA",
+            "address": "2895 Honey Grove Dr, Frisco, TX 75035, US",
             "id": "necommunityskateparkfrisco",
             "builder": "Newline",
             "sqft": "40,726.04 ft\u00b2",
@@ -28594,7 +28594,7 @@
         },
         {
             "name": "Ne Metro Skatepark Pflugerville",
-            "address": "15500 Sun Light Near Way, Pflugerville, TX 78660, USA",
+            "address": "15500 Sun Light Near Way, Pflugerville, TX 78660, US",
             "id": "nemetroskateparkpflugerville",
             "builder": "Newline",
             "sqft": "42,772.30 ft\u00b2",
@@ -28610,7 +28610,7 @@
         },
         {
             "name": "NEPTUNE SKATEPARK",
-            "address": "304 Monmouth Ave, Neptune City, NJ 07753, USA",
+            "address": "304 Monmouth Ave, Spring Lake, NJ 07762, US",
             "id": "NEPTUNESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -28626,7 +28626,7 @@
         },
         {
             "name": "Newberg Skatepark",
-            "address": "1201 S. Blaine St Newberg, OR 97132",
+            "address": "1201 S Blaine St, Newberg, OR 97132, US",
             "id": "newbergOR",
             "builder": "Dreamland.",
             "sqft": "29,000sqft.",
@@ -28642,7 +28642,7 @@
         },
         {
             "name": "NewburghSkatepark-Newburgh,NY",
-            "address": "4 Washington Terrace, Newburgh, NY 12550, United States",
+            "address": "4 Washington Terrace, Newburgh, NY 12550, US",
             "id": "NewburghSkatepark-NewburghNY",
             "builder": "Grindline",
             "sqft": "6,000sqft.",
@@ -28658,7 +28658,7 @@
         },
         {
             "name": "Newport Skatepark",
-            "address": "742 NW High ST, Newport, OR 97365",
+            "address": "742 NW High St, Newport, OR 97365, US",
             "id": "newportOR",
             "builder": "N/A",
             "sqft": "5,948.07 ft\u00b2",
@@ -28674,7 +28674,7 @@
         },
         {
             "name": "New Smyrna Beach Skatepark",
-            "address": "254 Industrial Park Ave. New Smyrna Beach, FL 32168",
+            "address": "254 Industrial Park Ave, New Smyrna Beach, FL 32168, US",
             "id": "newsmyrna",
             "builder": "Team Pain",
             "sqft": "8,500sqft.",
@@ -28690,7 +28690,7 @@
         },
         {
             "name": "New Tampa Skatepark",
-            "address": "17302 Commerce Park Blvd, Tampa, FL 33647",
+            "address": "17302 Commerce Park Blvd, Tampa, FL 33647, US",
             "id": "newtampa",
             "builder": "Team Pain",
             "sqft": "14,200sqft.",
@@ -28706,7 +28706,7 @@
         },
         {
             "name": "Nibe Skatepark",
-            "address": "Hobrovej 38b, 9240, Nibe",
+            "address": "Hobrovej 38B, 9240 Nibe, Denmark",
             "id": "Nibe SkateparkDK",
             "builder": "FSR",
             "sqft": "450 m\u00b2",
@@ -28722,7 +28722,7 @@
         },
         {
             "name": "NobleYoung-Tyler,TX",
-            "address": "3125 Seaton St, Tyler, Texas, United States",
+            "address": "3125 Seaton St., Tyler, TX 75701, US",
             "id": "NobleYoung-TylerTX",
             "builder": "Grindline",
             "sqft": "2,300sqft.",
@@ -28738,7 +28738,7 @@
         },
         {
             "name": "Nordhavn",
-            "address": "Levantkaj, 2150, Kbh \u00d8",
+            "address": "Levantkaj, 2150 K\u00f8benhavn, Denmark",
             "id": "NordhavnDK",
             "builder": "FSR",
             "sqft": "30 m\u00b2",
@@ -28754,7 +28754,7 @@
         },
         {
             "name": "NORFOLK SKATEPARK",
-            "address": "901 Blaine St, Norfolk, NE 68701, USA",
+            "address": "901 Blaine St, Norfolk, NE 68701, US",
             "id": "NORFOLKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -28770,7 +28770,7 @@
         },
         {
             "name": "Norpoint Skatepark",
-            "address": "4818 Nassau Avenue Northeast, Tacoma, WA",
+            "address": "Centre at Norpoint, 4818 Nassau Ave NE, Tacoma, WA 98422, US",
             "id": "norpoint",
             "builder": "Grindline.",
             "sqft": "4,500sqft.",
@@ -28786,7 +28786,7 @@
         },
         {
             "name": "N\u00f8rrebro Skatepark",
-            "address": "Farumgade 6 2200 K\u00f8benhavn N",
+            "address": "Farumgade 6, 2200 K\u00f8benhavn, Denmark",
             "id": "norrebroDK",
             "builder": "N/A",
             "sqft": "16,975.76 ft\u00b2 (1,577.10 m\u00b2)",
@@ -28802,7 +28802,7 @@
         },
         {
             "name": "NORTH ADAMS SKATEPARK",
-            "address": "298 State St, North Adams, MA 01247, USA",
+            "address": "298 State St, North Adams, MA 01247, US",
             "id": "NORTHADAMSSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -28818,7 +28818,7 @@
         },
         {
             "name": "NORTH BEARDSLEY SKATEPARK",
-            "address": "901 Airport Dr, Bakersfield, CA 93308, USA",
+            "address": "901 Airport Dr, Bakersfield, CA 93308, US",
             "id": "NORTHBEARDSLEYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -28834,7 +28834,7 @@
         },
         {
             "name": "Northbend Skatepark (Torguson)",
-            "address": "750 E North Bend Way, North Bend, WA 98045",
+            "address": "750 E North Bend Way, North Bend, WA 98045, US",
             "id": "northbend",
             "builder": "Grindline.",
             "sqft": "13,000sqft.",
@@ -28850,7 +28850,7 @@
         },
         {
             "name": "Northgate Skatepark",
-            "address": "3rd Ave NE & NE 112th St, Seattle, WA 98125",
+            "address": "NE 112th St & 3rd Ave NE, Seattle, WA 98125, US",
             "id": "northgate",
             "builder": "Newline.",
             "sqft": "6,628.83 ft\u00b2",
@@ -28866,7 +28866,7 @@
         },
         {
             "name": "Northglenn, CO",
-            "address": "11801 Community Center Dr, Northglenn, CO 80233",
+            "address": "11801 Community Center Dr, Northglenn, CO 80233, US",
             "id": "northglenn",
             "builder": "Team Pain",
             "sqft": "16,000sqft.",
@@ -28882,7 +28882,7 @@
         },
         {
             "name": "NORTH LAUREL SKATEPARK",
-            "address": "North Laurel Community Center, North Laurel, MD 20723, USA",
+            "address": "9411 Whiskey Bottom Rd, Laurel, MD 20723, US",
             "id": "NORTHLAURELSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "13,000 ft\u00b2",
@@ -28898,7 +28898,7 @@
         },
         {
             "name": "North Little Rock Riverview Skatepark",
-            "address": "Paul Duke Dr & River Rd, North Little Rock, AR 72114",
+            "address": "River Rd & Paul Duke Dr, North Little Rock, AR 72114, US",
             "id": "northlittlerock",
             "builder": "Dreamland.",
             "sqft": "16,000 sqft.",
@@ -28914,7 +28914,7 @@
         },
         {
             "name": "North Port, FL",
-            "address": "5651 North Port Boulevard, North Port, FL 34287",
+            "address": "5651 N Port Blvd, North Port, FL 34287, US",
             "id": "northport",
             "builder": "Team Pain",
             "sqft": "14,500sqft.",
@@ -28930,7 +28930,7 @@
         },
         {
             "name": "North Seatac Skatepark",
-            "address": "13735 24th Ave S, SeaTac, WA 98168",
+            "address": "13735 24th Ave S, SeaTac, WA 98168, US",
             "id": "northseatac",
             "builder": "Grindline.",
             "sqft": "5,372.75 ft\u00b2",
@@ -28946,7 +28946,7 @@
         },
         {
             "name": "NORTH TRAIL SKATEPARK",
-            "address": "780 NW 127th Ave, Miami, FL 33182, USA",
+            "address": "780 NW 127th Ave, Miami, FL 33182, US",
             "id": "NORTHTRAILSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -28962,7 +28962,7 @@
         },
         {
             "name": "Norton Skate Plaza Burlington",
-            "address": "dr 0m3, 3040 Tim Dobbie Dr, Burlington, ON L7M 0M3, Canada",
+            "address": "3040 Tim Dobbie Dr, Burlington, ON L7M 0M3, Canada",
             "id": "nortonskateplazaburlington",
             "builder": "Newline",
             "sqft": "14,545.32 ft\u00b2",
@@ -28994,7 +28994,7 @@
         },
         {
             "name": "Oak Harbor 1",
-            "address": "224 SE Jerome Street, Oak Harbor, WA 98277",
+            "address": "224 SE Jerome St, Oak Harbor, WA 98277, US",
             "id": "oakharbor1",
             "builder": "N/A",
             "sqft": "17,210.77 ft\u00b2",
@@ -29010,7 +29010,7 @@
         },
         {
             "name": "Oak Harbor 2",
-            "address": "Quartz Dr, Oak Harbor, WA 98277",
+            "address": "Quartz Dr, Oak Harbor, WA 98277, US",
             "id": "oakharbor2",
             "builder": "Dreamland.",
             "sqft": "8,000sqft.",
@@ -29026,7 +29026,7 @@
         },
         {
             "name": "OB NELSON PARK SKATEPARK",
-            "address": "202 W Fillmore Ave, Fairfield, IA 52556, USA",
+            "address": "202 W Fillmore Ave, Fairfield, IA 52556, US",
             "id": "OBNELSONPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -29042,7 +29042,7 @@
         },
         {
             "name": "Ocala, FL",
-            "address": "828 NE 8th Avenue Ocala, FL 34470",
+            "address": "828 NE 8th Ave, Ocala, FL 34470, US",
             "id": "ocala",
             "builder": "Team Pain",
             "sqft": "10,000sqft.",
@@ -29058,7 +29058,7 @@
         },
         {
             "name": "Ocean Bowl Skatepark",
-            "address": "300 St Louis Ave, Ocean City, MD 21842",
+            "address": "300 St Louis Ave, Ocean City, MD 21842, US",
             "id": "oceanbowl",
             "builder": "Team Pain",
             "sqft": "17,000sqft.",
@@ -29074,7 +29074,7 @@
         },
         {
             "name": "Oceanside Prince Park",
-            "address": "Alex Rd &, Foussat Rd, Oceanside, CA 92058",
+            "address": "Alex Rd & Foussat Rd, Oceanside, CA 92058, US",
             "id": "oceansideCA",
             "builder": "Grindline",
             "sqft": "22,000sqft.",
@@ -29090,7 +29090,7 @@
         },
         {
             "name": "OceansideRotarySkatepark-AtlanticBeach,FL",
-            "address": "513 Vikings Lane, Atlantic Beach, FL 32233, USA",
+            "address": "513 Vikings Ln, Atlantic Beach, FL 32233, US",
             "id": "OceansideRotarySkatepark-AtlanticBeachFL",
             "builder": "Grindline",
             "sqft": "7,500sqft.",
@@ -29122,7 +29122,7 @@
         },
         {
             "name": "\u00d8lsted Skatepark",
-            "address": "Pr\u00e6stebrovej 20 3310 \u00d8lsted",
+            "address": "Pr\u00e6stebrovej 20, 3310 \u00d8lsted, Denmark",
             "id": "olstedDK",
             "builder": "N/A",
             "sqft": "6,728.99 ft\u00b2 (625.14 m\u00b2)",
@@ -29138,7 +29138,7 @@
         },
         {
             "name": "Olympia Skatepark",
-            "address": "587 cooper point rd sw, Olympia, WA",
+            "address": "587 Cooper Point Rd SW, Olympia, WA 98502, US",
             "id": "olympia",
             "builder": "N/A",
             "sqft": "11,821.88 ft\u00b2",
@@ -29154,7 +29154,7 @@
         },
         {
             "name": "Orcas Island Skatepark",
-            "address": "301-699 Mt Baker Rd, Eastsound, WA 98245",
+            "address": "Parking lot, 301-699 Mt Baker Rd, Eastsound, WA 98245, US",
             "id": "orcas",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -29170,7 +29170,7 @@
         },
         {
             "name": "Oregon City Skatepark",
-            "address": "1955 Clackamette DR, Oregon City, OR 97045",
+            "address": "1955 Clackamette Dr, Oregon City, OR 97045, US",
             "id": "oregoncityOR",
             "builder": "N/A",
             "sqft": "8,342.00 ft\u00b2",
@@ -29186,7 +29186,7 @@
         },
         {
             "name": "ORIZABA PARK SKATEPARK",
-            "address": "2937 E 14th St, Long Beach, CA 90804, USA",
+            "address": "2937 E 14th St, Long Beach, CA 90804, US",
             "id": "ORIZABAPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "3,500 ft\u00b2",
@@ -29202,7 +29202,7 @@
         },
         {
             "name": "OSKALOOSA SKATEPARK",
-            "address": "259-299 High Ave W, Oskaloosa, IA 52577, USA",
+            "address": "259 High Ave W, Oskaloosa, IA 52577, US",
             "id": "OSKALOOSASKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -29218,7 +29218,7 @@
         },
         {
             "name": "OxfordSkatepark-Oxford,MS",
-            "address": "Old Dizzie Dean Field, Bramlett Blvd. Oxford, Mississippi",
+            "address": "Bramlett Blvd, Oxford, MS 38655, US",
             "id": "OxfordSkatepark-OxfordMS",
             "builder": "Grindline",
             "sqft": "10,000sqft.",
@@ -29234,7 +29234,7 @@
         },
         {
             "name": "Pacific City",
-            "address": "6295 Dory Pointe Loop, Pacific City, OR 97135",
+            "address": "6295 Dory Pointe Loop, Pacific City, OR 97135, US",
             "id": "Pachivficcity",
             "builder": "Dreamland.",
             "sqft": "4,700sqft.",
@@ -29250,7 +29250,7 @@
         },
         {
             "name": "PACIFIC HIGHLAND RANCH \u2013 SKATEPARK",
-            "address": "Pacific Highlands Ranch Pump Track, 5977 Village Center Loop Rd, San Diego, CA 92130, USA",
+            "address": "Pacific Highlands Ranch Pump Track, 5977 Village Center Loop Rd, San Diego, CA 92130, US",
             "id": "PACIFICHIGHLANDRANCH\u2013SKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6000 ft\u00b2",
@@ -29266,7 +29266,7 @@
         },
         {
             "name": "PAGE SKATEPARK",
-            "address": "148 6th Ave, Page, AZ 86040, USA",
+            "address": "148 6th Ave, Page, AZ 86040, US",
             "id": "PAGESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -29282,7 +29282,7 @@
         },
         {
             "name": "PaiAniMaiSkatepark-Hana,HI",
-            "address": "4800 Hana Hwy. Hana, HI USA",
+            "address": "4800 Hana Hwy, Hana, HI 96708, US",
             "id": "PaiAniMaiSkatepark-HanaHI",
             "builder": "Grindline",
             "sqft": "8,000sqft.",
@@ -29298,7 +29298,7 @@
         },
         {
             "name": "PALM LANE SKATEPARK",
-            "address": "1595 W Palais Rd, Anaheim, CA 92802, USA",
+            "address": "1595 W Palais Rd, Anaheim, CA 92802, US",
             "id": "PALMLANESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -29330,7 +29330,7 @@
         },
         {
             "name": "PARISITE SKATEPARK",
-            "address": "1606 Pleasure St, New Orleans, LA 70122, USA",
+            "address": "1606 Pleasure St, New Orleans, LA 70122, US",
             "id": "PARISITESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -29394,7 +29394,7 @@
         },
         {
             "name": "PEACOCK PARK SKATE PATH",
-            "address": "220 E Bryn Mawr Ave, Itasca, IL 60143, USA",
+            "address": "220 E Bryn Mawr Ave, Itasca, IL 60143, US",
             "id": "PEACOCKPARKSKATEPATH",
             "builder": "Spohn Ranch",
             "sqft": "ft\u00b2",
@@ -29410,7 +29410,7 @@
         },
         {
             "name": "PEAK PARK SKATEPARK RENOVATION",
-            "address": "7225 El Dorado Dr, Buena Park, CA 90620, USA",
+            "address": "7225 El Dorado Dr, Buena Park, CA 90620, US",
             "id": "PEAKPARKSKATEPARKRENOVATION",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -29426,7 +29426,7 @@
         },
         {
             "name": "Pearsall Skatepark - San Antonio, TX",
-            "address": "5108-5344 Old Pearsall Rd, San Antonio, TX 78242",
+            "address": "5108 Old Pearsall Rd, San Antonio, TX 78242, US",
             "id": "pearsalltx",
             "builder": "artisan",
             "sqft": "12,000sqft.",
@@ -29442,7 +29442,7 @@
         },
         {
             "name": "Pedlow Skatepark",
-            "address": "17328 Victory Blvd, Lake Balboa, CA 91406",
+            "address": "17328 Victory Blvd, Los Angeles, CA 91406, US",
             "id": "pedlowca",
             "builder": "N/A",
             "sqft": "48,000sqft.",
@@ -29458,7 +29458,7 @@
         },
         {
             "name": "Pendleton Skatepark",
-            "address": "Westgate & Northgate, Pendleton, OR 97801",
+            "address": "Northgate & Westgate, Pendleton, OR 97801, US",
             "id": "pendletonOR",
             "builder": "Dreamland.",
             "sqft": "11,500sqft.",
@@ -29490,7 +29490,7 @@
         },
         {
             "name": "Philomath Skatepark",
-            "address": "Applegate St & S 23rd St., Philomath, OR 97370",
+            "address": "Applegate St & S 23rd St, Philomath, OR 97370, US",
             "id": "philomathOR",
             "builder": "N/A",
             "sqft": "3,929.18 ft\u00b2",
@@ -29506,7 +29506,7 @@
         },
         {
             "name": "Pier Park Skatepark",
-            "address": "N Hudson St & N Bruce Ave, Portland, OR 97203",
+            "address": "N Hudson St & N Bruce Ave, Portland, OR 97203, US",
             "id": "pierparkOR",
             "builder": "Dreamland.",
             "sqft": "11,070sqft.",
@@ -29522,7 +29522,7 @@
         },
         {
             "name": "Pinedale",
-            "address": "154 S Tyler Ave, Pinedale, WY 82941",
+            "address": "154 S Tyler Ave, Pinedale, WY 82941, US",
             "id": "Pinedale",
             "builder": "Dreamland.",
             "sqft": "7,200 sqft.",
@@ -29538,7 +29538,7 @@
         },
         {
             "name": "Pine Ridge Skate Plaza Winkler",
-            "address": "15th St & Grandeur Ave, Winkler, MB R6W 0G7, Canada",
+            "address": "Fifteenth St & Grandeur Ave, Winkler, MB R6W 0G7, Canada",
             "id": "pineridgeskateplazawinkler",
             "builder": "Newline",
             "sqft": "14,434.46 ft\u00b2",
@@ -29554,7 +29554,7 @@
         },
         {
             "name": "PipelineSkatepark-Kokomo,IN",
-            "address": "West Pipeline Way, Kokomo, IN 46902, USA",
+            "address": "W Pipeline Way, Kokomo, IN 46902, US",
             "id": "PipelineSkatepark-KokomoIN",
             "builder": "Grindline",
             "sqft": "10,000sqft.",
@@ -29570,7 +29570,7 @@
         },
         {
             "name": "PitcherPark-Carnegie,PA",
-            "address": "Carnegie Park, Carnegie, PA, United States",
+            "address": "Carnegie Park, Carnegie, PA 15106, US",
             "id": "PitcherPark-CarnegiePA",
             "builder": "Grindline",
             "sqft": "15,000sqft.",
@@ -29586,7 +29586,7 @@
         },
         {
             "name": "Plano Skatepark Plano",
-            "address": "6701 Coit Rd, Plano, TX 75024, USA",
+            "address": "6701 Coit Rd, Plano, TX 75024, US",
             "id": "planoskateparkplano",
             "builder": "Newline",
             "sqft": "20,598.80 ft\u00b2",
@@ -29602,7 +29602,7 @@
         },
         {
             "name": "PLANZ PARK SKATEPARK",
-            "address": "1543-1657 Planz Rd, Bakersfield, CA 93304, USA",
+            "address": "1543 Planz Rd, Bakersfield, CA 93304, US",
             "id": "PLANZPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -29618,7 +29618,7 @@
         },
         {
             "name": "POINT PLEASANT BEACH SKATEPARK",
-            "address": "434 Arnold Ave, Point Pleasant Beach, NJ 08742, USA",
+            "address": "434 Arnold Ave, Point Pleasant Beach, NJ 08742, US",
             "id": "POINTPLEASANTBEACHSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -29634,7 +29634,7 @@
         },
         {
             "name": "Polo Birdland",
-            "address": "116 E Mason St, Polo, IL 61064",
+            "address": "116 E Mason St, Polo, IL 61064, US",
             "id": "polobirdland",
             "builder": "Dreamland.",
             "sqft": "3,000 sqft.",
@@ -29650,7 +29650,7 @@
         },
         {
             "name": "Polson Skatepark",
-            "address": "613 7th Ave W Polson, MT 59860",
+            "address": "613 7th Ave W, Polson, MT 59860, US",
             "id": "polsonMT",
             "builder": "Dreamland.",
             "sqft": "12,000sqft.",
@@ -29666,7 +29666,7 @@
         },
         {
             "name": "PONDEROSA PARK SKATEPARK",
-            "address": "1411 SE Wilson Ave, Bend, OR 97702, USA",
+            "address": "1411 SE Wilson Ave, Bend, OR 97702, US",
             "id": "PONDEROSAPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -29682,7 +29682,7 @@
         },
         {
             "name": "Portage",
-            "address": "920 DeWitt St, Portage, WI 53901",
+            "address": "920 DeWitt St, Portage, WI 53901, US",
             "id": "Portage",
             "builder": "Dreamland.",
             "sqft": "6,200 sqft.",
@@ -29698,7 +29698,7 @@
         },
         {
             "name": "PortageSkatepark-Portage,MI",
-            "address": "9190 Portage Creek Bicentennial Park Trail (Celery Flats), Portage, MI 49024, USA",
+            "address": "9190 Portage Creek Bicentennial Park Trail (Celery Flats), Portage, MI 49024, US",
             "id": "PortageSkatepark-PortageMI",
             "builder": "Grindline",
             "sqft": "9,000sqft.",
@@ -29714,7 +29714,7 @@
         },
         {
             "name": "Port Angeles Skatepark",
-            "address": "E 4th St & S Race St, Port Angeles, WA 98362",
+            "address": "S Race St & E 4th St, Port Angeles, WA 98362, US",
             "id": "portangeles",
             "builder": "Dreamland.",
             "sqft": "10,000sqft.",
@@ -29730,7 +29730,7 @@
         },
         {
             "name": "Port Orange, FL",
-            "address": "4655 City Center Circle, Port Orange, FL 32129",
+            "address": "4655 City Center Cir, Port Orange, FL 32129, US",
             "id": "portorange",
             "builder": "Team Pain",
             "sqft": "13,000sqft.",
@@ -29746,7 +29746,7 @@
         },
         {
             "name": "Port Orchard Skatepark",
-            "address": "2779-2845 Southeast Lund Avenue, Port Orchard, WA 98366",
+            "address": "2779 SE Lund Ave, Port Orchard, WA 98366, US",
             "id": "portorchard",
             "builder": "Grindline.",
             "sqft": "15,000sqft.",
@@ -29762,7 +29762,7 @@
         },
         {
             "name": "Port Orford Skatepark",
-            "address": "Arizona St & 13th St, Port Orford, OR 97465",
+            "address": "Arizona St & 13th St, Port Orford, OR 97465, US",
             "id": "portorfordOR",
             "builder": "Dreamland.",
             "sqft": "6,200sqft.",
@@ -29778,7 +29778,7 @@
         },
         {
             "name": "Port Townsend Skatepark",
-            "address": "350 Monroe St, Port Townsend, WA 98368",
+            "address": "350 Monroe St, Port Townsend, WA 98368, US",
             "id": "porttownsend",
             "builder": "Dreamland.",
             "sqft": "11,000sqft.",
@@ -29794,7 +29794,7 @@
         },
         {
             "name": "POSSUM CREEK SKATEPARK",
-            "address": "Possum Creek Park, 4009 NW 53rd Ave, Gainesville, FL 32653, USA",
+            "address": "Possum Creek Park, 4009 NW 53rd Ave, Gainesville, FL 32653, US",
             "id": "POSSUMCREEKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "18,000 ft\u00b2",
@@ -29810,7 +29810,7 @@
         },
         {
             "name": "Potrero Skatepark",
-            "address": "1443-1473 Potrero Ave, San Francisco, CA 94110",
+            "address": "1443-1473 Potrero Ave, San Francisco, CA 94110, US",
             "id": "potrero",
             "builder": "Dreamland.",
             "sqft": "16,000sqft.",
@@ -29826,7 +29826,7 @@
         },
         {
             "name": "Potrero Del Sol Skatepark",
-            "address": "1361 Potrero Ave, San Francisco, CA 94110",
+            "address": "1361 Potrero Ave, San Francisco, CA 94110, US",
             "id": "potrerodelsol",
             "builder": "Dreamland.",
             "sqft": "16,000 sqft.",
@@ -29842,7 +29842,7 @@
         },
         {
             "name": "PotreroDelSolSkatepark\u2013SanFransisco,CA(DesignOnly)",
-            "address": "1443-1473 Potrero Avenue, San Francisco, CA 94110, USA",
+            "address": "1443-1473 Potrero Ave, San Francisco, CA 94110, US",
             "id": "PotreroDelSolSkatepark\u2013SanFransiscoCA(DesignOnly)",
             "builder": "Grindline.",
             "sqft": "15,000sqft.",
@@ -29858,7 +29858,7 @@
         },
         {
             "name": "Powell Skatepark",
-            "address": "47 Hall St, Powell, OH 43065",
+            "address": "47 Hall St, Powell, OH 43065, US",
             "id": "powell",
             "builder": "Team Pain",
             "sqft": "15,000sqft.",
@@ -29874,7 +29874,7 @@
         },
         {
             "name": "Prags Boulevard",
-            "address": "Prags Boulevard 80 2300",
+            "address": "Prags Blvd. 80, 2300 K\u00f8benhavn, Denmark",
             "id": "pragsDK",
             "builder": "N/A",
             "sqft": "5,329.88 ft\u00b2 (495.16 m\u00b2)",
@@ -29890,7 +29890,7 @@
         },
         {
             "name": "PRAIRIE POINT SKATEPARK",
-            "address": "MMC5+G5 Oswego, IL, USA",
+            "address": "MMC5+G5, Oswego, IL , US",
             "id": "PRAIRIEPOINTSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -29906,7 +29906,7 @@
         },
         {
             "name": "PRAIRIE SIDE SKATE PLAZA",
-            "address": "1100 Jefferson St, Oregon, IL 61061, USA",
+            "address": "1100 Jefferson St, Oregon, IL 61061, US",
             "id": "PRAIRIESIDESKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -29922,7 +29922,7 @@
         },
         {
             "name": "PrairieVillageSkatepark-PrairieVillage,KS",
-            "address": "7801 Delmar Street, Prairie Village, KS 66208, USA",
+            "address": "7801 Delmar St, Prairie Village, KS 66208, US",
             "id": "PrairieVillageSkatepark-PrairieVillageKS",
             "builder": "Grindline",
             "sqft": "11,000sqft.",
@@ -29938,7 +29938,7 @@
         },
         {
             "name": "PRESCOTT LEE GOODMAN SKATE & BIKE PARK",
-            "address": "Mount Washington City Park Skate Park, 266 Duane Way, Mt Washington, KY 40047, USA",
+            "address": "Mount Washington City Park Skate Park, 266 Duane Way, Mount Washington, KY 40047, US",
             "id": "PRESCOTTLEEGOODMANSKATE&BIKEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -29970,7 +29970,7 @@
         },
         {
             "name": "Prineville",
-            "address": "440 NE Juniper St, Prineville, OR 97754",
+            "address": "440 NE Juniper St, Prineville, OR 97754, US",
             "id": "prinevillevilleor",
             "builder": "Dreamland.",
             "sqft": "13,000 sqft.",
@@ -29986,7 +29986,7 @@
         },
         {
             "name": "Prosser Skatepark",
-            "address": "926 S Kinney Way Prosser, WA 99350",
+            "address": "926 S Kinney Way, Prosser, WA 99350, US",
             "id": "prosser",
             "builder": "Grindline.",
             "sqft": "3,600sqft.",
@@ -30002,7 +30002,7 @@
         },
         {
             "name": "PROVO SKATE PLAZA",
-            "address": "630 Freedom Blvd 200 W, Provo, UT 84601, USA",
+            "address": "630 S Freedom Blvd, Provo, UT 84601, US",
             "id": "PROVOSKATEPLAZA",
             "builder": "Spohn Ranch",
             "sqft": "24,000 ft\u00b2",
@@ -30050,7 +30050,7 @@
         },
         {
             "name": "Queen's County Skatepark Liverpool",
-            "address": "372H+6V Bristol, NS, Canada",
+            "address": "372H+6V, Bristol, NS B0J 1H0, Canada",
             "id": "queenscountyskateparkliverpool",
             "builder": "Newline",
             "sqft": "16,165.00 ft\u00b2",
@@ -30066,7 +30066,7 @@
         },
         {
             "name": "El Centro del Qunito Skate Park",
-            "address": "609 N Erie Ave, Pueblo, CO 81001",
+            "address": "609 N Erie Ave, Pueblo, CO 81001, US",
             "id": "quinito",
             "builder": "Team Pain",
             "sqft": "23,000sqft.",
@@ -30082,7 +30082,7 @@
         },
         {
             "name": "Rabalder Parken",
-            "address": "Rabalderstr\u00e6de 30 4000 Roskilde",
+            "address": "Rabalderstr\u00e6de 30, 4000 Roskilde, Denmark",
             "id": "rabalderDK",
             "builder": "SNEArchitects.",
             "sqft": "23,769.66 ft\u00b2 (2,208.27 m\u00b2)",
@@ -30098,7 +30098,7 @@
         },
         {
             "name": "RADTKE PARK SKATEPARK",
-            "address": "8338 W National Ave, West Allis, WI 53214, USA",
+            "address": "8338 W National Ave, West Allis, WI 53214, US",
             "id": "RADTKEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -30114,7 +30114,7 @@
         },
         {
             "name": "Railway City Skatepark St. Thomas",
-            "address": "1010 Talbot St, St Thomas, ON N5P 4N2, Canada",
+            "address": "Parking lot, 1010 Talbot St, St Thomas, ON N5P 4N2, Canada",
             "id": "railwaycityskateparkstthomas",
             "builder": "Newline",
             "sqft": "11,915.56 ft\u00b2",
@@ -30130,7 +30130,7 @@
         },
         {
             "name": "Rampen \u2013 Ebeltoft",
-            "address": "Adelgade 39, 8400 Ebeltoft",
+            "address": "Adelgade 39, 8400 Ebeltoft, Denmark",
             "id": "Rampen \u2013 EbeltoftDK",
             "builder": "FSR",
             "sqft": "250 m\u00b2",
@@ -30146,7 +30146,7 @@
         },
         {
             "name": "Ranney Skatepark",
-            "address": "3201 E Michigan Ave, Lansing, MI 48912",
+            "address": "3201 E Michigan Ave, Lansing, MI 48912, US",
             "id": "ranney",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -30162,7 +30162,7 @@
         },
         {
             "name": "Rask M\u00f8lle Skatepark",
-            "address": "Kildevej 11, 8763, Rask M\u00f8lle",
+            "address": "Kildevej 11, 8763 Rask M\u00f8lle, Denmark",
             "id": "Rask M\u00f8lle SkateparkDK",
             "builder": "FSR",
             "sqft": "300 m\u00b2",
@@ -30178,7 +30178,7 @@
         },
         {
             "name": "Rathdrum skatepark",
-            "address": "7851 main street, Rathdrum, ID 83858",
+            "address": "7851 Main St, Rathdrum, ID 83858, US",
             "id": "rathdrumID",
             "builder": "N/A",
             "sqft": "4,600sqft.",
@@ -30210,7 +30210,7 @@
         },
         {
             "name": "RedLakeSkatepark-RedLake,MN",
-            "address": "23990 Minnesota 1, Red Lake, MN 56671, United States",
+            "address": "23990 State Hwy 1, Red Lake, MN 56671, US",
             "id": "RedLakeSkatepark-RedLakeMN",
             "builder": "Grindline",
             "sqft": "7,000sqft.",
@@ -30226,7 +30226,7 @@
         },
         {
             "name": "Redmond Skatepark",
-            "address": "8420 161st Avenue NE, Redmond, WA 98052",
+            "address": "8420 161st Avenue Northeast, Redmond, WA 98052, US",
             "id": "redmond",
             "builder": "N/A",
             "sqft": "13,106.77 ft\u00b2",
@@ -30242,7 +30242,7 @@
         },
         {
             "name": "Redmond Skatepark",
-            "address": "W Antler Ave & SW 15th St., Redmond, OR 97756",
+            "address": "W Antler Ave & SW 15th St, Redmond, OR 97756, US",
             "id": "redmondOR",
             "builder": "Dreamland.",
             "sqft": "8,000sqft.",
@@ -30258,7 +30258,7 @@
         },
         {
             "name": "RED MOUNTAIN ADVENTURE PARK",
-            "address": "641 Northwoods Pl, Woodland Park, CO 80863, USA",
+            "address": "641 Northwoods Pl, Woodland Park, CO 80863, US",
             "id": "REDMOUNTAINADVENTUREPARK",
             "builder": "Spohn Ranch",
             "sqft": "24,000 ft\u00b2",
@@ -30274,7 +30274,7 @@
         },
         {
             "name": "REDONDO BEACH PIER SKATEPARK",
-            "address": "500, Fishermans Wharf, Redondo Beach, CA 90277, USA",
+            "address": "500 Fishermans Wharf, Redondo Beach, CA 90277, US",
             "id": "REDONDOBEACHPIERSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9000 ft\u00b2",
@@ -30290,7 +30290,7 @@
         },
         {
             "name": "Red Square Garage Level C5",
-            "address": "4063 Spokane Ln, Seattle, WA 98105",
+            "address": "4063 Spokane Ln, Seattle, WA 98105, US",
             "id": "redsquare",
             "builder": "UW.",
             "sqft": "191,868.64 ft\u00b2",
@@ -30306,7 +30306,7 @@
         },
         {
             "name": "Reedsport Skatepark",
-            "address": "HWY 101 & 21st ST, Reedsport, OR 97467",
+            "address": "US-101 & 21st St, Reedsport, OR 97467, US",
             "id": "reedsportOR",
             "builder": "N/A",
             "sqft": "12,297.20 ft\u00b2",
@@ -30322,7 +30322,7 @@
         },
         {
             "name": "Reedville Skatepark",
-            "address": "1647-1781 SW Cornelius Pass Rd Hillsboro, OR 97123",
+            "address": "1647 NE Cornelius Pass Rd, Hillsboro, OR 97124, US",
             "id": "reedvilleOR",
             "builder": "N/A",
             "sqft": "19,794.15 ft\u00b2",
@@ -30338,7 +30338,7 @@
         },
         {
             "name": "Refshale\u00f8en Skatepark",
-            "address": "Refshalevej 169K, 2300 Kbh s.",
+            "address": "Refshalevej 169k, 2300 K\u00f8benhavn, Denmark",
             "id": "Refshale\u00f8en SkateparkDK",
             "builder": "FSR",
             "sqft": "200 m\u00b2",
@@ -30370,7 +30370,7 @@
         },
         {
             "name": "Remiseparken",
-            "address": "Peder lykkes vej 73, 2300 Kbh S",
+            "address": "Peder Lykkes Vej 73, 2300 K\u00f8benhavn, Denmark",
             "id": "RemiseparkenDK",
             "builder": "FSR",
             "sqft": "600 m\u00b2",
@@ -30386,7 +30386,7 @@
         },
         {
             "name": "RENAISSANCE PARK SKATEPARK",
-            "address": "5130 Parkway Plaza Blvd, Charlotte, NC 28217, USA",
+            "address": "5130 Parkway Plaza Blvd, Charlotte, NC 28217, US",
             "id": "RENAISSANCEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -30402,7 +30402,7 @@
         },
         {
             "name": "Renton Skatepark",
-            "address": "100 Houser Way N, Renton, WA 98057",
+            "address": "100 Houser Way N, Renton, WA 98057, US",
             "id": "renton",
             "builder": "N/A",
             "sqft": "11,251.89 ft\u00b2",
@@ -30434,7 +30434,7 @@
         },
         {
             "name": "Boise Skatepark (Rhodes)",
-            "address": "1555 W Front St, Boise, ID 83702",
+            "address": "1555 W Front St, Boise, ID 83702, US",
             "id": "rhodesID",
             "builder": "Grindline.",
             "sqft": "32,750sqft.",
@@ -30450,7 +30450,7 @@
         },
         {
             "name": "Ribe Skatepark",
-            "address": "Sportsvej 8, 6760 Ribe",
+            "address": "Sportsvej 8, 6760 Ribe, Denmark",
             "id": "Ribe SkateparkDK",
             "builder": "FSR",
             "sqft": "600 m\u00b2",
@@ -30466,7 +30466,7 @@
         },
         {
             "name": "Richland Skatepark",
-            "address": "1185 Carondelet Dr Richland, WA 99354",
+            "address": "1185 Carondelet Dr, Richland, WA 99352, US",
             "id": "richland",
             "builder": "Grindline.",
             "sqft": "15,000sqft.",
@@ -30482,7 +30482,7 @@
         },
         {
             "name": "RIDE IT SCULPTURE PARK PHASE #3, DETROIT MICHIGAN",
-            "address": "3360 E Davison St, Hamtramck, MI 48212, USA",
+            "address": "3360 E Davison St, Hamtramck, MI 48212, US",
             "id": "RIDEITSCULPTUREPARKPHASE#3DETROITMICHIGAN",
             "builder": "Evergreen.",
             "sqft": "8,782.00 ft\u00b2",
@@ -30498,7 +30498,7 @@
         },
         {
             "name": "RidgwaySkatepark-Ridgway,CO",
-            "address": "Chepeta Dr. and Country Rd. 23 Ridgway, Colorado",
+            "address": "Co Rd 23, Ridgway, CO 81432, US",
             "id": "RidgwaySkatepark-RidgwayCO",
             "builder": "Grindline",
             "sqft": "5,000sqft.",
@@ -30514,7 +30514,7 @@
         },
         {
             "name": "Ripon, CA",
-            "address": "1250 Hughes Ln, Ripon, CA 95366",
+            "address": "1250 Hughes Ln, Ripon, CA 95366, US",
             "id": "ripon",
             "builder": "Team Pain",
             "sqft": "27,000sqft.",
@@ -30530,7 +30530,7 @@
         },
         {
             "name": "RIVERDALE SKATEPARK",
-            "address": "Riverdale Regional Park, 904 Wilson Rd, Riverdale, GA 30296, USA",
+            "address": "Riverdale Regional Park, 904 Wilson Rd, Riverdale, GA 30296, US",
             "id": "RIVERDALESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -30546,7 +30546,7 @@
         },
         {
             "name": "Riverside Skatepark",
-            "address": "1608 Lockwood Blvd, Oviedo, FL 32765",
+            "address": "1608 Lockwood Blvd, Oviedo, FL 32765, US",
             "id": "riversidesp",
             "builder": "Team Pain",
             "sqft": "30,000sqft.",
@@ -30562,7 +30562,7 @@
         },
         {
             "name": "Riverton",
-            "address": "901 E Fremont Ave, Riverton, WY 82501",
+            "address": "901 E Fremont Ave, Riverton, WY 82501, US",
             "id": "Riverton",
             "builder": "Dreamland.",
             "sqft": "9,000 sqft.",
@@ -30578,7 +30578,7 @@
         },
         {
             "name": "RIYADH BLVD SKATEPARK",
-            "address": "3403 Wadi Al Ain, Hittin, Riyadh 13516, Saudi Arabia",
+            "address": "3403 Wadi Al Ain, 6803, Hittin, Riyadh 13516, Saudi Arabia",
             "id": "RIYADHBLVDSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15,000 ft\u00b2",
@@ -30594,7 +30594,7 @@
         },
         {
             "name": "Roanoke Skatepark Roanoke",
-            "address": "700 Cannon Pkwy, Roanoke, TX 76262, USA",
+            "address": "700 Cannon Pkwy, Roanoke, TX 76262, US",
             "id": "roanokeskateparkroanoke",
             "builder": "Newline",
             "sqft": "21,510.18 ft\u00b2",
@@ -30610,7 +30610,7 @@
         },
         {
             "name": "Robbie Spot",
-            "address": "P. Hiort-Lorenzens Vej Under Ringgadebroen, 8000 Aarhus (500m / 1500ft southwest down the bike path, on the right).",
+            "address": "Thomas Koppels Gade, 8000 Aarhus, Denmark",
             "id": "robbiespotDK",
             "builder": "DIY.",
             "sqft": "6,300sqft [588sqm].",
@@ -30626,7 +30626,7 @@
         },
         {
             "name": "ROCKAWAY BEACH SKATEPARK",
-            "address": "8601 Shore Front Pkwy, Far Rockaway, NY 11693, USA",
+            "address": "8601 Shore Front Pkwy, , NY 11693, US",
             "id": "ROCKAWAYBEACHSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -30642,7 +30642,7 @@
         },
         {
             "name": "Rockridge Skatepark",
-            "address": "NE 18th St & Egypt Drive, OR",
+            "address": "215 15th St, Bend, OR 97702, US",
             "id": "rockridgeOR",
             "builder": "Evergreen.",
             "sqft": "10,252sqft.",
@@ -30658,7 +30658,7 @@
         },
         {
             "name": "RocktonSkatepark-Rockton,IL",
-            "address": "12801 Old River Rd, Rockton, IL 61072, United States",
+            "address": "12801 Old River Rd, Rockton, IL 61072, US",
             "id": "RocktonSkatepark-RocktonIL",
             "builder": "Grindline",
             "sqft": "13,200sqft.",
@@ -30674,7 +30674,7 @@
         },
         {
             "name": "ROCKVILLE SKATEPARK",
-            "address": "355 Martins Ln, Rockville, MD 20850, USA",
+            "address": "355 Martins Ln, Rockville, MD 20850, US",
             "id": "ROCKVILLESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "15,000 ft\u00b2",
@@ -30690,7 +30690,7 @@
         },
         {
             "name": "Roseburg Skatepark",
-            "address": "929 NW Garden Valley Blvd, Roseburg, OR 97471",
+            "address": "929 NW Garden Valley Blvd, Roseburg, OR 97471, US",
             "id": "roseburgOR",
             "builder": "N/A",
             "sqft": "20,501.04 ft\u00b2",
@@ -30706,7 +30706,7 @@
         },
         {
             "name": "RosedalePark-SanAntonio,TX",
-            "address": "2900 Ruiz St. San Antonio, TX San Antonio, Texas",
+            "address": "2900 Ruiz St, San Antonio, TX 78228, US",
             "id": "RosedalePark-SanAntonioTX",
             "builder": "Grindline",
             "sqft": "6,000sqft.",
@@ -30722,7 +30722,7 @@
         },
         {
             "name": "ROSEMEAD SKATEPARK",
-            "address": "9155 Mission Dr, Rosemead, CA 91770, USA",
+            "address": "9155 Mission Dr, Rosemead, CA 91770, US",
             "id": "ROSEMEADSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -30754,7 +30754,7 @@
         },
         {
             "name": "Roskilde Eventcirkel",
-            "address": "Helligkorsvej 5c, 4000 Roskilde",
+            "address": "Helligkorsvej 5C, 4000 Roskilde, Denmark",
             "id": "Roskilde EventcirkelDK",
             "builder": "FSR",
             "sqft": "620 m\u00b2",
@@ -30770,7 +30770,7 @@
         },
         {
             "name": "Roskilde Event Cirkel Skatepark",
-            "address": "Helligkorsvej 5c, 4000 Roskilde",
+            "address": "Helligkorsvej 5C, 4000 Roskilde, Denmark",
             "id": "roskildeeventcirkelDK",
             "builder": "FSRBeton",
             "sqft": "2034sqft",
@@ -30786,7 +30786,7 @@
         },
         {
             "name": "Roskilde Skatepark",
-            "address": "Darupvej 48 4000 Roskilde",
+            "address": "Darupvej 48, 4000 Roskilde, Denmark",
             "id": "rosklideDK",
             "builder": "N/A",
             "sqft": "36,880.46 ft\u00b2\u00a0(3,426.31 m\u00b2)",
@@ -30802,7 +30802,7 @@
         },
         {
             "name": "RoundRockSkatepark-RoundRock,TX",
-            "address": "1600 Gattis School Rd. Round Rock, Texas",
+            "address": "1600 Gattis School Rd, Round Rock, TX 78664, US",
             "id": "RoundRockSkatepark-RoundRockTX",
             "builder": "Grindline",
             "sqft": "7,000sqft.",
@@ -30818,7 +30818,7 @@
         },
         {
             "name": "ROWLEY PARK SKATEPARK",
-            "address": "Rowley Park Skate Plaza, 13220 Van Ness Ave, Gardena, CA 90249, USA",
+            "address": "Rowley Park Skate Plaza, 13220 Van Ness Ave, Gardena, CA 90249, US",
             "id": "ROWLEYPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -30834,7 +30834,7 @@
         },
         {
             "name": "Roxhill Skatepark",
-            "address": "2850 SW Roxbury St, Seattle, WA 98126",
+            "address": "2850 SW Roxbury St, Seattle, WA 98126, US",
             "id": "roxhill",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -30850,7 +30850,7 @@
         },
         {
             "name": "Ruben Pier Skate Plaza Odessa",
-            "address": "Dixie & 49th, Odessa, TX 79762, USA",
+            "address": "N Dixie Blvd & E 49th St, Odessa, TX 79762, US",
             "id": "rubenpierskatepalzaodessa",
             "builder": "Newline",
             "sqft": "19,809.28 ft\u00b2",
@@ -30866,7 +30866,7 @@
         },
         {
             "name": "RYDELL SKATEPARK",
-            "address": "701 S 4th St, Grand Forks, ND 58201, USA",
+            "address": "701 S 4th St, Grand Forks, ND 58201, US",
             "id": "RYDELLSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -30882,7 +30882,7 @@
         },
         {
             "name": "Saffron Walden, UK",
-            "address": "Peaslands Rd, Saffron Walden CB11 3EG, United Kingdom",
+            "address": "Peaslands Rd, Saffron Walden CB11 3EG, UK",
             "id": "Saffron",
             "builder": "Dreamland",
             "sqft": "6,000sqft.",
@@ -30898,7 +30898,7 @@
         },
         {
             "name": "Saint Leonard Skatepark Saint Leonard",
-            "address": "6060 Rue de Honfleur, Montr\u00e9al, QC H1P 1N5, Canada",
+            "address": "6060 Rue de Honfleur, Saint-L\u00e9onard, QC H1P 1N1, Canada",
             "id": "saintleonardskateparksaintleonard",
             "builder": "Newline",
             "sqft": "9,829.22 ft\u00b2",
@@ -30914,7 +30914,7 @@
         },
         {
             "name": "Salida, Co",
-            "address": "200 W 1st St, Salida, CO 81201",
+            "address": "200 W 1st St, Salida, CO 81201, US",
             "id": "salida",
             "builder": "Team Pain",
             "sqft": "6,100sqft.",
@@ -30930,7 +30930,7 @@
         },
         {
             "name": "Samammish Skatepark",
-            "address": "801 228th Ave SE, Sammamish, WA 98075",
+            "address": "801 228th Ave SE, Sammamish, WA 98075, US",
             "id": "sammamish",
             "builder": "N/A",
             "sqft": "9,511.25 ft\u00b2",
@@ -30946,7 +30946,7 @@
         },
         {
             "name": "Sams\u00f8 Skatepark",
-            "address": "Pillemarksvej 1, 8305 Tranebjerg",
+            "address": "Pillemarksvej 1, 8305 Sams\u00f8, Denmark",
             "id": "Sams\u00f8 SkateparkDK",
             "builder": "FSR",
             "sqft": "500 m\u00b2",
@@ -30962,7 +30962,7 @@
         },
         {
             "name": "SanAngeloSkatepark-SanAngeloTX",
-            "address": "1405 Edmund Boulevard, San Angelo, TX 76901, USA",
+            "address": "1405 Edmund Blvd, San Angelo, TX 76901, US",
             "id": "SanAngeloSkatepark-SanAngeloTX",
             "builder": "Grindline",
             "sqft": "8,000sqft.",
@@ -30978,7 +30978,7 @@
         },
         {
             "name": "SAN CARLOS SKATEPARK",
-            "address": "4630 San Carlos Ave, San Carlos, AZ 85550, USA",
+            "address": "4630 San Carlos Ave, San Carlos, AZ 85550, US",
             "id": "SANCARLOSSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -30994,7 +30994,7 @@
         },
         {
             "name": "Sandpoint Skatepark",
-            "address": "2102 Pine St, Sandpoint, ID 83864",
+            "address": "2102 Pine St, Sandpoint, ID 83864, US",
             "id": "sandpointID",
             "builder": "Dreamland.",
             "sqft": "6,500sqft.",
@@ -31010,7 +31010,7 @@
         },
         {
             "name": "Sankt J\u00f8rgens Parken",
-            "address": "Jomsborgvej 20, 5000 Odense C",
+            "address": "Jomsborgvej 20, 5000 Odense, Denmark",
             "id": "Sankt J\u00f8rgens ParkenDK",
             "builder": "FSR",
             "sqft": "280 m\u00b2",
@@ -31026,7 +31026,7 @@
         },
         {
             "name": "SanMarcosSkatepark-SanMarcos,TX",
-            "address": "119-154 City Park Street, Texas State University San Marcos, San Marcos, TX 78666, USA",
+            "address": "601 University Dr, San Marcos, TX 78666, US",
             "id": "SanMarcosSkatepark-SanMarcosTX",
             "builder": "Grindline",
             "sqft": "7,500sqft.",
@@ -31042,7 +31042,7 @@
         },
         {
             "name": "San Pedro Peck Park",
-            "address": "29601 S Western Ave, Rancho Palos Verdes, CA 90275",
+            "address": "29601 S Western Ave, Rancho Palos Verdes, CA 90275, US",
             "id": "sanpedroCA",
             "builder": "CaliforniaSkateparks.",
             "sqft": "10,500sqft.",
@@ -31058,7 +31058,7 @@
         },
         {
             "name": "Saranac Lake Skatepark - Saranac Lake, NY",
-            "address": "155 Church St, Saranac Lake, NY 12983",
+            "address": "155 Church St, Saranac Lake, NY 12983, US",
             "id": "Saranacny",
             "builder": "artisan",
             "sqft": "5,000sqft.",
@@ -31074,7 +31074,7 @@
         },
         {
             "name": "Sarasota, FL",
-            "address": "2050 Adams Ln, Sarasota, FL 34237",
+            "address": "2050 Adams Ln, Sarasota, FL 34237, US",
             "id": "sarasota",
             "builder": "Team Pain",
             "sqft": "25,000sqft.",
@@ -31090,7 +31090,7 @@
         },
         {
             "name": "Satellite Beach Skatepark",
-            "address": "750 Jamaica Blvd, Satellite Beach, FL 32937",
+            "address": "750 Jamaica Blvd, Satellite Beach, FL 32937, US",
             "id": "satellitebeach",
             "builder": "Team Pain",
             "sqft": "13,500sqft.",
@@ -31106,7 +31106,7 @@
         },
         {
             "name": "ScalziPark-Stamford,CT",
-            "address": "1902-2190 Washington Boulevard, Stamford, CT 06902, USA",
+            "address": "1902-2190 Washington Blvd, Stamford, CT 06902, US",
             "id": "ScalziPark-StamfordCT",
             "builder": "Grindline",
             "sqft": "10,000sqft.",
@@ -31122,7 +31122,7 @@
         },
         {
             "name": "Schiffler Skatepark",
-            "address": "SW Erickson Ave, Portland, OR 97005",
+            "address": "SW Erickson Ave, Beaverton, OR 97005, US",
             "id": "schifflerOR",
             "builder": "N/A",
             "sqft": "4,653.84 ft\u00b2",
@@ -31138,7 +31138,7 @@
         },
         {
             "name": "SCHWEITZER SKATEPARK",
-            "address": "218 S Bel Air St, Anaheim, CA 92804, USA",
+            "address": "218 S Bel Air St, Anaheim, CA 92804, US",
             "id": "SCHWEITZERSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -31154,7 +31154,7 @@
         },
         {
             "name": "Scott Adams Memorial Skatepark Kingsport",
-            "address": "2016 Brickyard Park Dr, Kingsport, TN 37660, USA",
+            "address": "2016 Brickyard Park Dr, Kingsport, TN 37660, US",
             "id": "scottadamsmemorialskateparkkingsport",
             "builder": "Newline",
             "sqft": "36,590.66 ft\u00b2",
@@ -31170,7 +31170,7 @@
         },
         {
             "name": "SCOTT CARPENTER",
-            "address": "1505 30th St, Boulder, CO 80303, USA",
+            "address": "1505 30th St, Boulder, CO 80303, US",
             "id": "SCOTTCARPENTER",
             "builder": "Evergreen.",
             "sqft": "22,160.94 ft\u00b2",
@@ -31186,7 +31186,7 @@
         },
         {
             "name": "SEA ISLE CITY SKATEPARK",
-            "address": "Sea Isle City Skatepark, 5926 Sounds Ave, Sea Isle City, NJ 08243, USA",
+            "address": "Sea Isle City Skatepark, 5926 Sounds Ave, Sea Isle City, NJ 08243, US",
             "id": "SEAISLECITYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -31202,7 +31202,7 @@
         },
         {
             "name": "Seaside Skatepark",
-            "address": "1140 Broadway St., Seaside, OR 97138",
+            "address": "1140 Broadway St, Seaside, OR 97138, US",
             "id": "seasideOR",
             "builder": "N/A",
             "sqft": "9,875.10 ft\u00b2",
@@ -31218,7 +31218,7 @@
         },
         {
             "name": "Seattle Center Skatepark",
-            "address": "516 Broad St, Seattle, WA 98109",
+            "address": "290 5th Ave N, Seattle, WA 98109, US",
             "id": "seaskate",
             "builder": "Grindline.",
             "sqft": "10,000sqft.",
@@ -31234,7 +31234,7 @@
         },
         {
             "name": "Seatac Skatepark",
-            "address": "4600-4842 S 187th Pl, SeaTac, WA 98188",
+            "address": "4600 S 187th Pl, SeaTac, WA 98188, US",
             "id": "seatac",
             "builder": "N/A",
             "sqft": "6,110.88 ft\u00b2",
@@ -31250,7 +31250,7 @@
         },
         {
             "name": "Seattle Spot 6877",
-            "address": "6877 37th Ave S, Seattle, WA 98118",
+            "address": "6877 37th Ave S, Seattle, WA 98118, US",
             "id": "seattlespot1",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31266,7 +31266,7 @@
         },
         {
             "name": "Seattle Spot 1000",
-            "address": "1000 4th Ave, Seattle, WA 98104",
+            "address": "1000 4th Ave, Seattle, WA 98164, US",
             "id": "seattlespot2",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31282,7 +31282,7 @@
         },
         {
             "name": "Seattle Spot 1531",
-            "address": "1531 Western Ave, Seattle, WA 98101",
+            "address": "1531 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot3",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31298,7 +31298,7 @@
         },
         {
             "name": "Seattle Spot 1501",
-            "address": "1501 Western Ave, Seattle, WA 98101",
+            "address": "1501 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot4",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31314,7 +31314,7 @@
         },
         {
             "name": "Seattle Spot 1521",
-            "address": "1521 Western Ave, Seattle, WA 98101",
+            "address": "1521 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot5",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31330,7 +31330,7 @@
         },
         {
             "name": "Seattle Spot 7400",
-            "address": "7400 Sand Point Way NE, Seattle, WA 98115",
+            "address": "7400 Sand Point Way NE, Seattle, WA 98115, US",
             "id": "seattlespot6",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31346,7 +31346,7 @@
         },
         {
             "name": "Seattle Spot 1415",
-            "address": "1415 Western Ave, Seattle, WA 98101",
+            "address": "1415 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot7",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31362,7 +31362,7 @@
         },
         {
             "name": "Seattle Spot 1501",
-            "address": "1501 Western Ave, Seattle, WA 98101",
+            "address": "1501 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot8",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31378,7 +31378,7 @@
         },
         {
             "name": "Seattle Spot 1201",
-            "address": "1201 3rd Ave, Seattle, WA 98101",
+            "address": "1201 Third Avenue, Seattle, WA 98101, US",
             "id": "seattlespot9",
             "builder": "N/A",
             "sqft": "100 ft\u00b2",
@@ -31394,7 +31394,7 @@
         },
         {
             "name": "Sedro Wooley Skatepark",
-            "address": "325 Metcalf St, Sedro-Woolley, WA 98284",
+            "address": "325 Metcalf St, Sedro-Woolley, WA 98284, US",
             "id": "sedrowooley",
             "builder": "N/A",
             "sqft": "12,211.20 ft\u00b2",
@@ -31410,7 +31410,7 @@
         },
         {
             "name": "Sequim Skatepark",
-            "address": "E Cedar St & N Blake Ave, Sequim, WA",
+            "address": "E Cedar St & N Blake Ave, Sequim, WA 98382, US",
             "id": "sequim",
             "builder": "N/A",
             "sqft": "19,480.13 ft\u00b2",
@@ -31426,7 +31426,7 @@
         },
         {
             "name": "SERENITY PARK SKATEPARK",
-            "address": "32400 Cape Cod Dr, Lake Elsinore, CA 92530, USA",
+            "address": "32400 Cape Cod Dr, Lake Elsinore, CA 92530, US",
             "id": "SERENITYPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -31442,7 +31442,7 @@
         },
         {
             "name": "ShawneeSkatepark-Shawnee,KS",
-            "address": "Swarner Park, Shawnee, Kansas, United States",
+            "address": "Swarner Skate Park, 6220 Lackman Rd, Shawnee, KS 66216, US",
             "id": "ShawneeSkatepark-ShawneeKS",
             "builder": "Grindline",
             "sqft": "11,000sqft.",
@@ -31458,7 +31458,7 @@
         },
         {
             "name": "Sheridan Skatepark",
-            "address": "NE Yamhill St & NE Elm St., Sheridan, OR 97378",
+            "address": "NE Yamhill St & NE Elm St, Sheridan, OR 97378, US",
             "id": "sheridanOR",
             "builder": "N/A",
             "sqft": "5,193.27 ft\u00b2",
@@ -31474,7 +31474,7 @@
         },
         {
             "name": "Sherwood Skatepark",
-            "address": "23000 SW Pacific Hwy Sherwood, OR 97140",
+            "address": "23000 SW Pacific Hwy, Sherwood, OR 97140, US",
             "id": "sherwoodOR",
             "builder": "Dreamland.",
             "sqft": "11,367sqft.",
@@ -31506,7 +31506,7 @@
         },
         {
             "name": "Shoreline Skatepark",
-            "address": "901 NE 155th St Shoreline, WA 98155",
+            "address": "901 NE 155th St, Shoreline, WA 98155, US",
             "id": "shoreline",
             "builder": "N/A",
             "sqft": "8,259.43 ft\u00b2",
@@ -31522,7 +31522,7 @@
         },
         {
             "name": "SHOREVIEW SKATEPARK",
-            "address": "4600 Victoria St N, Shoreview, MN 55126, USA",
+            "address": "4600 Victoria St N, Shoreview, MN 55126, US",
             "id": "SHOREVIEWSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,500 ft\u00b2",
@@ -31538,7 +31538,7 @@
         },
         {
             "name": "Silkeborg Skatepark",
-            "address": "S\u00f8holt Parkvej 4, 8600 Silkeborg",
+            "address": "S\u00f8holt Parkvej 4, 8600 Silkeborg, Denmark",
             "id": "Silkeborg SkateparkDK",
             "builder": "FSR",
             "sqft": "1200 m\u00b2",
@@ -31554,7 +31554,7 @@
         },
         {
             "name": "Silkeborg Skatepark",
-            "address": "Buskelundh\u00f8jen 231 8600 Silkeborg",
+            "address": "Buskelundh\u00f8jen 231, 8600 Silkeborg, Denmark",
             "id": "silkeborkDK",
             "builder": "N/A",
             "sqft": "6,623.83 ft\u00b2 (615.37 m\u00b2)",
@@ -31570,7 +31570,7 @@
         },
         {
             "name": "SilverCitySkatepark-SilverCityNM",
-            "address": "Little Walnut Road, Silver City, NM 88061, USA",
+            "address": "Little Walnut Rd, Silver City, NM 88061, US",
             "id": "SilverCitySkatepark-SilverCityNM",
             "builder": "Grindline",
             "sqft": "15,000sqft.",
@@ -31602,7 +31602,7 @@
         },
         {
             "name": "Silverthorne, CO",
-            "address": "430 Rainbow Dr, Silverthorne, CO 80498",
+            "address": "430 Rainbow Dr, Silverthorne, CO 80498, US",
             "id": "silverthorne",
             "builder": "Team Pain",
             "sqft": "11,300sqft.",
@@ -31618,7 +31618,7 @@
         },
         {
             "name": "Silverton Skatepark",
-            "address": "758-800 W Main St, Silverton, OR 97381",
+            "address": "758 W Main St, Silverton, OR 97381, US",
             "id": "silvertonOR",
             "builder": "Dreamland.",
             "sqft": "8,500sqft.",
@@ -31634,7 +31634,7 @@
         },
         {
             "name": "Sisters Skatepark",
-            "address": "1750 McKinney Butte Road, Sisters, OR 97759",
+            "address": "1750 McKinney Butte Rd, Sisters, OR 97759, US",
             "id": "sistersOR",
             "builder": "N/A",
             "sqft": "12,957.33 ft\u00b2",
@@ -31650,7 +31650,7 @@
         },
         {
             "name": "SitkaSkatepark-Sitka,AK",
-            "address": "801 A Halibut Point Road, Sitka, Alaska, United States",
+            "address": "801 Halibut Point Rd, Sitka, AK 99835, US",
             "id": "SitkaSkatepark-SitkaAK",
             "builder": "Grindline",
             "sqft": "6,500sqft.",
@@ -31682,7 +31682,7 @@
         },
         {
             "name": "SkateparkofAthens-Athens,GA",
-            "address": "4432 Lexington Road, Athens, GA 30605, USA",
+            "address": "4432 Lexington Rd, Athens, GA 30605, US",
             "id": "SkateparkofAthens-AthensGA",
             "builder": "Grindline",
             "sqft": "12,000sqft.",
@@ -31698,7 +31698,7 @@
         },
         {
             "name": "SKATE PLAZA DE PONCE",
-            "address": "XCX5+992, Avenida, Ponce, 00716, Puerto Rico",
+            "address": "XCX5+992, Ponce, 00716, Puerto Rico",
             "id": "SKATEPLAZADEPONCE",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -31714,7 +31714,7 @@
         },
         {
             "name": "Slagelse Skatepark",
-            "address": "Korsh\u00f8jvej 2 4200 Slagelse",
+            "address": "Korsh\u00f8jvej 2, 4200 Slagelse, Denmark",
             "id": "slagelseDK",
             "builder": "N/A",
             "sqft": "16,335.57 ft\u00b2 (1,517.62 m\u00b2)",
@@ -31730,7 +31730,7 @@
         },
         {
             "name": "SMALLENBURG SKATEPARK",
-            "address": "325 Fairbanks Ave, Holland, MI 49423, USA",
+            "address": "325 Fairbanks Ave, Holland, MI 49423, US",
             "id": "SMALLENBURGSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "10,000 ft\u00b2",
@@ -31746,7 +31746,7 @@
         },
         {
             "name": "Snowmass Village",
-            "address": "2835 Brush Creek Rd, Snowmass Village, CO 81615",
+            "address": "2835 Brush Creek Rd, Aspen, CO 81611, US",
             "id": "snowmass",
             "builder": "Dreamland.",
             "sqft": "10,000 sqft.",
@@ -31762,7 +31762,7 @@
         },
         {
             "name": "Soma Skate Plaza San Francisco",
-            "address": "SoMa West Skatepark, 1712 Duboce Ave, San Francisco, CA 94103, USA",
+            "address": "SoMa West Skatepark, 1712 Duboce Ave, San Francisco, CA 94103, US",
             "id": "somaskateplazasanfrancisco",
             "builder": "Newline",
             "sqft": "24,923.31 ft\u00b2",
@@ -31778,7 +31778,7 @@
         },
         {
             "name": "S\u00f8nderborg Skatehal",
-            "address": "Ringriderpladsen 9, 6400 S\u00f8nderborg",
+            "address": "Ringriderpladsen 9, 6400 S\u00f8nderborg, Denmark",
             "id": "S\u00f8nderborg SkatehalDK",
             "builder": "FSR",
             "sqft": "500 m\u00b2",
@@ -31794,7 +31794,7 @@
         },
         {
             "name": "S\u00f8nderborg Skatepark",
-            "address": "Ringriderpladsen 9, 6400 S\u00f8nderborg",
+            "address": "Ringriderpladsen 9, 6400 S\u00f8nderborg, Denmark",
             "id": "S\u00f8nderborg SkateparkDK",
             "builder": "FSR",
             "sqft": "280 m\u00b2",
@@ -31810,7 +31810,7 @@
         },
         {
             "name": "S\u00f8nders\u00f8 Bypark",
-            "address": "Toftek\u00e6r 5, 5471 S\u00f8nders\u00f8",
+            "address": "Toftek\u00e6r 5, 5471 S\u00f8nders\u00f8, Denmark",
             "id": "S\u00f8nders\u00f8 ByparkDK",
             "builder": "FSR",
             "sqft": "300 m\u00b2",
@@ -31826,7 +31826,7 @@
         },
         {
             "name": "Sor\u00f8 Skatepark",
-            "address": "F\u00e6gangen 5, 4180 Sor\u00f8",
+            "address": "F\u00e6gangen 5, 4180 Sor\u00f8, Denmark",
             "id": "Sor\u00f8 SkateparkDK",
             "builder": "FSR",
             "sqft": "240 m\u00b2",
@@ -31842,7 +31842,7 @@
         },
         {
             "name": "SOUTH BRANCH SKATEPARK",
-            "address": "307 W Friendship Rd, Sykesville, MD 21784, USA",
+            "address": "307 W Friendship Rd, Sykesville, MD 21784, US",
             "id": "SOUTHBRANCHSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "13,000 ft\u00b2",
@@ -31858,7 +31858,7 @@
         },
         {
             "name": "SouthJordanSkatepark-SouthJordan,UT",
-            "address": "109 Redwood Rd. South Jordan, Utah",
+            "address": "109 Redwood Rd, Salt Lake City, UT 84116, US",
             "id": "SouthJordanSkatepark-SouthJordanUT",
             "builder": "Grindline",
             "sqft": "15,000sqft.",
@@ -31874,7 +31874,7 @@
         },
         {
             "name": "South Kitsap Skatepark Port Orchard",
-            "address": "2655 SE Marbeth Ln, Port Orchard, WA 98366, USA",
+            "address": "2655 SE Marbeth Ln, Port Orchard, WA 98366, US",
             "id": "southkitsapskateparkportorchard",
             "builder": "Newline",
             "sqft": "25,972.89 ft\u00b2",
@@ -31890,7 +31890,7 @@
         },
         {
             "name": "SOUTH PADRE ISLAND SKATEPARK",
-            "address": "John L Tompkins Park, 67-8378-0010-0010-00, South Padre Island, TX 78597, USA",
+            "address": "John L Tompkins Park, 67-8378-0010-0010-00, South Padre Island, TX 78597, US",
             "id": "SOUTHPADREISLANDSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8000 ft\u00b2",
@@ -31906,7 +31906,7 @@
         },
         {
             "name": "South Park Skatepark",
-            "address": "736 S Cloverdale St Seattle, WA 98108",
+            "address": "736 S Cloverdale St, Seattle, WA 98108, US",
             "id": "southpark",
             "builder": "Grindline.",
             "sqft": "4,000sqft.",
@@ -31938,7 +31938,7 @@
         },
         {
             "name": "Spokane Valley Ymca Skatepark",
-            "address": "2421 North Discovery Place, Spokane Valley, WA 99216",
+            "address": "2421 N Discovery Pl, Spokane Valley, WA 99216, US",
             "id": "spokanevalley",
             "builder": "Grindline.",
             "sqft": "8,500sqft.",
@@ -31954,7 +31954,7 @@
         },
         {
             "name": "Springfield, MS bowl",
-            "address": "945 W. Meadowmere, Springfield, MO 65807",
+            "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "springfield",
             "builder": "Team Pain",
             "sqft": "35,000sqft.",
@@ -31970,7 +31970,7 @@
         },
         {
             "name": "Springfield Skatepark",
-            "address": "1276 G St, Springfield, OR 97477",
+            "address": "1276 G St, Springfield, OR 97477, US",
             "id": "springfieldOR",
             "builder": "N/A",
             "sqft": "15,124.29 ft\u00b2",
@@ -31986,7 +31986,7 @@
         },
         {
             "name": "SpringPark-Houston,TX",
-            "address": "12399-12409 Kuykendahl Road, Houston, TX 77090, USA",
+            "address": "12399 Kuykendahl Rd, Houston, TX 77090, US",
             "id": "SpringPark-HoustonTX",
             "builder": "Grindline",
             "sqft": "75,000sqft.",
@@ -32002,7 +32002,7 @@
         },
         {
             "name": "Sprinker Skatepark",
-            "address": "14824 C St S, Tacoma, WA 98444",
+            "address": "14824 C St S, Parkland, WA 98444, US",
             "id": "sprinker",
             "builder": "N/A",
             "sqft": "28,382.62 ft\u00b2",
@@ -32018,7 +32018,7 @@
         },
         {
             "name": "St.HelenaSkatepark-St.Helena,CA",
-            "address": "360 Crane Avenue, Saint Helena, CA 94574, USA",
+            "address": "360 Crane Ave, St. Helena, CA 94574, US",
             "id": "St.HelenaSkatepark-St.HelenaCA",
             "builder": "Grindline.",
             "sqft": "17,000sqft.",
@@ -32034,7 +32034,7 @@
         },
         {
             "name": "Nampa Skatepark (Stampede)",
-            "address": "Stampede Dr. and 11th Ave. N., Nampa, ID 83687",
+            "address": "Stampede Dr & 11th Ave N, Nampa, ID 83687, US",
             "id": "stampedeID",
             "builder": "N/A",
             "sqft": "14,000sqft.",
@@ -32050,7 +32050,7 @@
         },
         {
             "name": "STANTON SKATEPARK",
-            "address": "Stanton Skatepark, 10660 Western Ave, Stanton, CA 90680, USA",
+            "address": "Stanton Skatepark, 10660 Western Ave, Stanton, CA 90680, US",
             "id": "STANTONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -32066,7 +32066,7 @@
         },
         {
             "name": "Star Skatepark (Tom Erlebach)",
-            "address": "1500 N Star Rd, Star, ID 83669",
+            "address": "1500 N Star Rd, Star, ID 83669, US",
             "id": "starID",
             "builder": "Grindline.",
             "sqft": "16,000sqft.",
@@ -32098,7 +32098,7 @@
         },
         {
             "name": "St. Augustine Skatepark",
-            "address": "1595 Wildwood Dr, St. Augustine, FL 32086",
+            "address": "1595 Wildwood Dr, St. Augustine, FL 32086, US",
             "id": "staugustine",
             "builder": "Team Pain",
             "sqft": "25,000sqft.",
@@ -32114,7 +32114,7 @@
         },
         {
             "name": "Steamboat springs Skatepark",
-            "address": "1800 Lagoon Ct, Steamboat Springs, CO 80487",
+            "address": "1800 Lagoon Ct, Steamboat Springs, CO 80487, US",
             "id": "steamboat",
             "builder": "Team Pain",
             "sqft": "9,600sqft.",
@@ -32146,7 +32146,7 @@
         },
         {
             "name": "STERLING HEIGHTS, MICHIGAN SKATEPARK",
-            "address": "40111 Dodge Park Rd, Sterling Heights, MI 48313, USA",
+            "address": "40111 Dodge Park Rd, Sterling Heights, MI 48313, US",
             "id": "STERLINGHEIGHTSMICHIGANSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "14,751.00 ft\u00b2",
@@ -32162,7 +32162,7 @@
         },
         {
             "name": "STEVENSVILLE, MONTANA SKATEPARK",
-            "address": "Pickleball Courts, Lewis and Clark Park, Stevensville, MT 59870, USA",
+            "address": "Pickleball Courts, Lewis & Clark Park, Stevensville, MT 59870, US",
             "id": "STEVENSVILLEMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "9,087.35 ft\u00b2",
@@ -32178,7 +32178,7 @@
         },
         {
             "name": "Stevensville, Montana Skatepark - Evergreen Skateparks",
-            "address": "306 W 2nd St, Stevensville, MT 59870",
+            "address": "Lewis & Clark Park, 306 W 2nd St, Stevensville, MT 59870, US",
             "id": "stevensvilleOR",
             "builder": "Evergreen.",
             "sqft": "9,993sqft.",
@@ -32194,7 +32194,7 @@
         },
         {
             "name": "St Ignatius Skatepark",
-            "address": "360 Mission Dr St Ignatius, MT 59865",
+            "address": "360 Mission Dr, Saint Ignatius, MT 59865, US",
             "id": "stignatiusMT",
             "builder": "Dreamland.",
             "sqft": "10,500sqft.",
@@ -32242,7 +32242,7 @@
         },
         {
             "name": "St. Pete, FL",
-            "address": "600 12th St S, St. Petersburg, FL 33705",
+            "address": "600 12th St S, St. Petersburg, FL 33705, US",
             "id": "stpete",
             "builder": "Team Pain",
             "sqft": "21,500sqft.",
@@ -32274,7 +32274,7 @@
         },
         {
             "name": "STRICKLAND PARK SKATEPARK",
-            "address": "423 N Main St, Stillwater, OK 74075, USA",
+            "address": "423 N Main St, Stillwater, OK 74075, US",
             "id": "STRICKLANDPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -32290,7 +32290,7 @@
         },
         {
             "name": "Struer Skatepark",
-            "address": "Ringgade 84, 7600, Struer",
+            "address": "Ringgade 84, 7600 Struer, Denmark",
             "id": "Struer SkateparkDK",
             "builder": "FSR",
             "sqft": "480 m\u00b2",
@@ -32306,7 +32306,7 @@
         },
         {
             "name": "SturgeonBaySkatepark,SturgeonBay,WI",
-            "address": "835 N 14th Ave, Sturgeon Bay, WI 54235, United States",
+            "address": "835 N 14th Ave, Sturgeon Bay, WI 54235, US",
             "id": "SturgeonBaySkateparkSturgeonBayWI",
             "builder": "Grindline",
             "sqft": "10,250sqft.",
@@ -32322,7 +32322,7 @@
         },
         {
             "name": "STURTEVANT, WISCONSIN SKATEPARK",
-            "address": "East Park, 2845 87th St, Sturtevant, WI 53177, USA",
+            "address": "East Park, 2845 87th St, Sturtevant, WI 53177, US",
             "id": "STURTEVANTWISCONSINSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "9,714.89 ft\u00b2",
@@ -32338,7 +32338,7 @@
         },
         {
             "name": "Sumner Skatepark",
-            "address": "15200 Washington St, Sumner, WA 98390",
+            "address": "15200 Washington St, Sumner, WA 98390, US",
             "id": "sumner",
             "builder": "Grindline.",
             "sqft": "12,500sqft.",
@@ -32354,7 +32354,7 @@
         },
         {
             "name": "Sundsvall",
-            "address": "Skepparegatan , 852 30 Sundsvall, Sverige",
+            "address": "Skepparegatan, 852 34 Sundsvall, Sweden",
             "id": "SundsvallDK",
             "builder": "FSR",
             "sqft": "1100 m\u00b2",
@@ -32370,7 +32370,7 @@
         },
         {
             "name": "Sunny Isles Skatepark",
-            "address": "17200 Collins Ave, Sunny Isles Beach, FL 33160",
+            "address": "17200 Collins Ave, Sunny Isles Beach, FL 33160, US",
             "id": "sunnyisles",
             "builder": "Team Pain",
             "sqft": "7,000sqft.",
@@ -32386,7 +32386,7 @@
         },
         {
             "name": "SunnysideNeighborhoodPark-CollegePark,MD",
-            "address": "10110 Rhode Island Ave. Beltsville, Maryland USA",
+            "address": "10110 Rhode Island Ave, College Park, MD 20740, US",
             "id": "SunnysideNeighborhoodPark-CollegeParkMD",
             "builder": "Grindline",
             "sqft": "5,000sqft.",
@@ -32402,7 +32402,7 @@
         },
         {
             "name": "Sunnyside, Washington",
-            "address": "Central Park Skatepark, 719 E Edison Ave, Sunnyside, WA 98944, USA",
+            "address": "719 E Edison Ave, Sunnyside, WA 98944, US",
             "id": "SunnysideWashington",
             "builder": "Evergreen.",
             "sqft": "10,996.35 ft\u00b2",
@@ -32418,7 +32418,7 @@
         },
         {
             "name": "SUPERIOR, MONTANA SKATEPARK",
-            "address": "Eva Horning Park, 409 5th Ave E, Superior, MT 59872, USA",
+            "address": "Eva Horning Park, 409 5th Ave E, Superior, MT 59872, US",
             "id": "SUPERIORMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "12,539.83 ft\u00b2",
@@ -32434,7 +32434,7 @@
         },
         {
             "name": "Svendborg Skatepark",
-            "address": "Frederiks\u00f8 18, 5700 Svendborg",
+            "address": "Frederiks\u00f8 18, 5700 Svendborg, Denmark",
             "id": "Svendborg SkateparkDK",
             "builder": "FSR",
             "sqft": "130 m\u00b2",
@@ -32498,7 +32498,7 @@
         },
         {
             "name": "Talent Skatepark",
-            "address": "135 John St, Talent, OR 97540",
+            "address": "135 John St, Talent, OR 97540, US",
             "id": "talentOR",
             "builder": "N/A",
             "sqft": "11,627.09 ft\u00b2",
@@ -32514,7 +32514,7 @@
         },
         {
             "name": "Tallahassee Skatepark",
-            "address": "2604 Jackson Bluff Rd, Tallahassee, FL 32304",
+            "address": "2604 Jackson Bluff Rd, Tallahassee, FL 32304, US",
             "id": "tallahassee",
             "builder": "Team Pain",
             "sqft": "24,500sqft.",
@@ -32530,7 +32530,7 @@
         },
         {
             "name": "Tallahassee, FL",
-            "address": "810 Famu Way, Tallahassee, FL 32310",
+            "address": "810 Famu Wy, Tallahassee, FL 32310, US",
             "id": "tallahassee2",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -32546,7 +32546,7 @@
         },
         {
             "name": "Tampa, Fl \u2013 Perry Harvey Park",
-            "address": "1210 E Kay St, Tampa, FL 33602",
+            "address": "1210 E Kay St, Tampa, FL 33602, US",
             "id": "tampafl",
             "builder": "Team Pain",
             "sqft": "17,000sqft.",
@@ -32562,7 +32562,7 @@
         },
         {
             "name": "T\u00e5rnby Skatepark",
-            "address": "Gemmas Alle 41 2770 Kastrup",
+            "address": "Gemmas Alle 41, 2770 Kastrup, Denmark",
             "id": "T\u00e5rnby SkateparkDK",
             "builder": "FSR",
             "sqft": "1250 m\u00b2",
@@ -32578,7 +32578,7 @@
         },
         {
             "name": "TAYLOR, TEXAS SKATEPARK",
-            "address": "326 Porter St, Taylor, TX 76574, USA",
+            "address": "326 Porter St, Taylor, TX 76574, US",
             "id": "TAYLORTEXASSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "15,076.88 ft\u00b2",
@@ -32610,7 +32610,7 @@
         },
         {
             "name": "Theas Park",
-            "address": "417-535 Dock St Tacoma, WA 98402",
+            "address": "417 Dock St, Tacoma, WA 98402, US",
             "id": "theas",
             "builder": "N/A",
             "sqft": "8,315.03 ft\u00b2",
@@ -32626,7 +32626,7 @@
         },
         {
             "name": "The Library, Boulder",
-            "address": "Valmont Rd &, Sterling Cir, Boulder, CO 80301, USA",
+            "address": "Sterling Cir & Valmont Rd, Boulder, CO 80301, US",
             "id": "TheLibraryBoulder",
             "builder": "Evergreen.",
             "sqft": "12,105.54 ft\u00b2",
@@ -32642,7 +32642,7 @@
         },
         {
             "name": "The Pit RIP",
-            "address": "1003 S 11th St, Tacoma, WA 98405",
+            "address": "1003 S 11th St, Tacoma, WA 98405, US",
             "id": "thepitWA",
             "builder": "DIY.",
             "sqft": "3,491sqft.",
@@ -32674,7 +32674,7 @@
         },
         {
             "name": "THE SUMMIT BECHTEL RESERVE",
-            "address": "WV92+CX Glen Jean, WV, USA",
+            "address": "WV92+CX, Glen Jean, WV 25901, US",
             "id": "THESUMMITBECHTELRESERVE",
             "builder": "Spohn Ranch",
             "sqft": "400,000+ ft\u00b2",
@@ -32706,7 +32706,7 @@
         },
         {
             "name": "THOMPSON PARK SKATEPARK",
-            "address": "Thompson City Park, 602 W 2nd St, The Dalles, OR 97058, USA",
+            "address": "Thompson City Park, 602 W 2nd St, The Dalles, OR 97058, US",
             "id": "THOMPSONPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,500 ft\u00b2",
@@ -32722,7 +32722,7 @@
         },
         {
             "name": "Thornton, CO",
-            "address": "2211 Eppinger Blvd, Thornton, CO 80229",
+            "address": "2211 Eppinger Blvd, Thornton, CO 80229, US",
             "id": "thornton",
             "builder": "Team Pain",
             "sqft": "22,000sqft.",
@@ -32754,7 +32754,7 @@
         },
         {
             "name": "8Th Street Skatepark Toronto",
-            "address": "160 Eighth St, Toronto, ON M8V 3C6, Canada",
+            "address": "Eighth Street Park, 160 Eighth St, Toronto, ON M8V, Canada",
             "id": "thstreetskateparktoronto",
             "builder": "Newline",
             "sqft": "14,831.58 ft\u00b2",
@@ -32770,7 +32770,7 @@
         },
         {
             "name": "Thunder Park, Blackfeet Reservation",
-            "address": "7-23 Starr School Rd, Browning, MT 59417",
+            "address": "7 Starr School Rd, Browning, MT 59417, US",
             "id": "thunderMT",
             "builder": "Evergreen.",
             "sqft": "18,083.11 ft\u00b2",
@@ -32786,7 +32786,7 @@
         },
         {
             "name": "THUNDER PARK - BROWNING, MONTANA",
-            "address": "4 Henry Rd, Browning, MT 59417, USA",
+            "address": "4 Henry Rd, Browning, MT 59417, US",
             "id": "THUNDERPARK-BROWNINGMONTANA",
             "builder": "Evergreen.",
             "sqft": "17,947.86 ft\u00b2",
@@ -32802,7 +32802,7 @@
         },
         {
             "name": "Thybor\u00f8n Skatepark",
-            "address": "Vesterhavsgade 96, 7680 Thybor\u00f8n",
+            "address": "Vesterhavsgade 96, 7680 Thybor\u00f8n, Denmark",
             "id": "Thybor\u00f8n SkateparkDK",
             "builder": "FSR",
             "sqft": "1100 m\u00b2",
@@ -32818,7 +32818,7 @@
         },
         {
             "name": "Tigard Skatepark",
-            "address": "13125 SW Hall Blvd, Portland, OR 97223",
+            "address": "13125 SW Hall Blvd, Portland, OR 97223, US",
             "id": "tigardOR",
             "builder": "Dreamland.",
             "sqft": "15,000sqft.",
@@ -32834,7 +32834,7 @@
         },
         {
             "name": "TILLAMOOK SKATEPARK",
-            "address": "2800 3rd St, Tillamook, OR 97141, USA",
+            "address": "Goodspeed Park, 2800 3rd St, Tillamook, OR 97141, US",
             "id": "TILLAMOOKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,500 ft\u00b2",
@@ -32866,7 +32866,7 @@
         },
         {
             "name": "Toledo Skatepark",
-            "address": "598 S 6th St, Toledo, WA 98591",
+            "address": "598 S 6th St, Toledo, WA 98591, US",
             "id": "toledo",
             "builder": "Grindline.",
             "sqft": "7,300sqft.",
@@ -32882,7 +32882,7 @@
         },
         {
             "name": "Toledo Skatepark",
-            "address": "835 NW A St, Toledo, OR 97391",
+            "address": "835 NW A St, Toledo, OR 97391, US",
             "id": "toledoOR",
             "builder": "N/A",
             "sqft": "10,284.71 ft\u00b2",
@@ -32898,7 +32898,7 @@
         },
         {
             "name": "TOMS RIVER SKATEPARK",
-            "address": "1545 N Bay Ave, Toms River, NJ 08753, USA",
+            "address": "1545 N Bay Ave, Toms River, NJ 08753, US",
             "id": "TOMSRIVERSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -32914,7 +32914,7 @@
         },
         {
             "name": "Tonasket Skatepark",
-            "address": "98 5 West Railroad Ave, Tonasket, WA 98855",
+            "address": "98 5 W Railroad Ave, Tonasket, WA 98855, US",
             "id": "tonasket",
             "builder": "N/A",
             "sqft": "3,901.76 ft\u00b2",
@@ -32930,7 +32930,7 @@
         },
         {
             "name": "T\u00f8nder Skatepark",
-            "address": "S\u00f8nder Landevej 4, 6270, T\u00f8nder",
+            "address": "S\u00f8nderlandevej 4, 6270 T\u00f8nder, Denmark",
             "id": "T\u00f8nder SkateparkDK",
             "builder": "FSR",
             "sqft": "620 m\u00b2",
@@ -32946,7 +32946,7 @@
         },
         {
             "name": "TownPark-Telluride,CO",
-            "address": "500 East Colorado Telluride, Colorado",
+            "address": "500 E Colorado Ave, Telluride, CO 81435, US",
             "id": "TownPark-TellurideCO",
             "builder": "Grindline",
             "sqft": "10,000sqft.",
@@ -32978,7 +32978,7 @@
         },
         {
             "name": "TrinidadSkatepark-Trinidad,CO",
-            "address": "Beshore Drive, Trinidad, CO 81082, USA",
+            "address": "Beshoar Ave, Trinidad, CO 81082, US",
             "id": "TrinidadSkatepark-TrinidadCO",
             "builder": "Grindline",
             "sqft": "14,000sqft.",
@@ -33010,7 +33010,7 @@
         },
         {
             "name": "Tualatin Skatepark",
-            "address": "8515 SW Tualatin Rd., Tualatin, OR 97062",
+            "address": "8515 SW Tualatin Rd, Tualatin, OR 97062, US",
             "id": "tualatinOR",
             "builder": "N/A",
             "sqft": "9,982.41 ft\u00b2",
@@ -33026,7 +33026,7 @@
         },
         {
             "name": "TubaCitySkatepark-TubaCity,AZ",
-            "address": "1535-1537 Tuba City Spur, Tuba City, AZ 86045, USA",
+            "address": "1535 Tuba City Spur, Tuba City, AZ 86045, US",
             "id": "TubaCitySkatepark-TubaCityAZ",
             "builder": "Grindline",
             "sqft": "11,000sqft.",
@@ -33042,7 +33042,7 @@
         },
         {
             "name": "Tulalip Skatepark",
-            "address": "6710 Totem Beach Rd, Marysville, WA 98271",
+            "address": "6710 Totem Beach Rd, Marysville, WA 98271, US",
             "id": "tulalip",
             "builder": "Grindline.",
             "sqft": "15,637.10 ft\u00b2",
@@ -33058,7 +33058,7 @@
         },
         {
             "name": "TUSTIN SKATEPARK",
-            "address": "42 Lansdowne Rd, Tustin, CA 92780, USA",
+            "address": "42 Lansdowne Rd, Tustin, CA 92780, US",
             "id": "TUSTINSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -33074,7 +33074,7 @@
         },
         {
             "name": "Tversted Skatepark",
-            "address": "\u00d8stervej 8, 9881, Tversted",
+            "address": "\u00d8stervej 8, 9881 Bindslev, Denmark",
             "id": "Tversted SkateparkDK",
             "builder": "FSR",
             "sqft": "260 m\u00b2",
@@ -33090,7 +33090,7 @@
         },
         {
             "name": "Twin Falls Skatepark",
-            "address": "1545 Harmon Park Ave., Twin Falls, ID 83301",
+            "address": "1545 Harmon Park Ave, Twin Falls, ID 83301, US",
             "id": "twinfallsID",
             "builder": "N/A",
             "sqft": "9,018.27 ft\u00b2",
@@ -33138,7 +33138,7 @@
         },
         {
             "name": "Ullerslev Skatepark",
-            "address": "Skolevej 2, 5540 Ullerslev",
+            "address": "Skolevej 2, 5540 Ullerslev, Denmark",
             "id": "Ullerslev SkateparkDK",
             "builder": "FSR",
             "sqft": "360 m\u00b2",
@@ -33154,7 +33154,7 @@
         },
         {
             "name": "Ulysses Skate Park",
-            "address": "1181 Ulysses St, Golden, CO 80401",
+            "address": "1181 Ulysses St, Golden, CO 80401, US",
             "id": "ulysses",
             "builder": "Team Pain",
             "sqft": "21,500sqft.",
@@ -33186,7 +33186,7 @@
         },
         {
             "name": "Under Broen Skatepark",
-            "address": "Banevingen 14, 2200 K\u00f8benhavn N",
+            "address": "Banevingen 14B, 2200 K\u00f8benhavn, Denmark",
             "id": "Under Broen SkateparkDK",
             "builder": "FSR",
             "sqft": "450 m\u00b2",
@@ -33202,7 +33202,7 @@
         },
         {
             "name": "UNION CITY SKATEPARK",
-            "address": "Union City Ballpark, Roosevelt Hwy @, Dixie Lake Rd, Union City, GA 30291, USA",
+            "address": "Union City Ballpark, Roosevelt Hwy @, Dixie Lake Rd, Union City, GA 30291, US",
             "id": "UNIONCITYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -33218,7 +33218,7 @@
         },
         {
             "name": "UNITY PARK SKATEPARK",
-            "address": "246 Peaceful Ln, Ivins, UT 84738, USA",
+            "address": "246 Peaceful Ln, Ivins, UT 84738, US",
             "id": "UNITYPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -33234,7 +33234,7 @@
         },
         {
             "name": "University Place Skatepark",
-            "address": "7250 Cirque Dr W University Place, WA 98467",
+            "address": "7250 Cirque Dr W, Tacoma, WA 98467, US",
             "id": "universityplace",
             "builder": "N/A",
             "sqft": "22,605.49 ft\u00b2",
@@ -33250,7 +33250,7 @@
         },
         {
             "name": "UTERO INDIAN SKATEPARK",
-            "address": "Skatepark, 7123 E 450 N, Fort Duchesne, UT 84026, USA",
+            "address": "Skatepark, 7123 E 450 N, Fort Duchesne, UT 84026, US",
             "id": "UTEROINDIANSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -33266,7 +33266,7 @@
         },
         {
             "name": "UVALDE SKATEPARK",
-            "address": "407 E Garden St, Uvalde, TX 78801, USA",
+            "address": "407 E Garden St, Uvalde, TX 78801, US",
             "id": "UVALDESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -33298,7 +33298,7 @@
         },
         {
             "name": "VALMONT, BOULDER, COLORADO",
-            "address": "Valmont Rd &, Sterling Cir, Boulder, CO 80301, USA",
+            "address": "Sterling Cir & Valmont Rd, Boulder, CO 80301, US",
             "id": "VALMONTBOULDERCOLORADO",
             "builder": "Evergreen.",
             "sqft": "12,897.06 ft\u00b2",
@@ -33314,7 +33314,7 @@
         },
         {
             "name": "Vancouver Skatepark",
-            "address": "NE 18th St & NE 164th Ave, Vancouver, WA 98684",
+            "address": "NE 18th St & NE 164th Ave, Vancouver, WA 98684, US",
             "id": "vancouver",
             "builder": "Grindline",
             "sqft": "12,117.73 ft\u00b2",
@@ -33330,7 +33330,7 @@
         },
         {
             "name": "Vancouver Downtown Skatepark",
-            "address": "2401 E 4th Plain BlvdVancouver, WA 98661",
+            "address": "2401 E 4th Plain Blvd, Vancouver, WA 98661, US",
             "id": "vancouverdowntown",
             "builder": "N/A",
             "sqft": "10,623.87 ft\u00b2",
@@ -33346,7 +33346,7 @@
         },
         {
             "name": "Vancouver Skate Plaza Vancvouver",
-            "address": "Quebec St & Union St, Vancouver, BC V6A, Canada",
+            "address": "Union St & Quebec St, Vancouver, BC V6A 4E7, Canada",
             "id": "vancouverskateplazavancvouver",
             "builder": "Newline",
             "sqft": "17,479.56 ft\u00b2",
@@ -33362,7 +33362,7 @@
         },
         {
             "name": "Vandergriff Skatepark Arlington",
-            "address": "2800 S Center St, Arlington, TX 76014, USA",
+            "address": "2800 S Center St, Arlington, TX 76014, US",
             "id": "vandergriffskateparkarlington",
             "builder": "Newline",
             "sqft": "20,171.23 ft\u00b2",
@@ -33394,7 +33394,7 @@
         },
         {
             "name": "Vanl\u00f8se Skatepark",
-            "address": "Jyllingevej 38 2720 Vanl\u00f8se",
+            "address": "Jyllingevej 38, 2720 K\u00f8benhavn, Denmark",
             "id": "vanloseDK",
             "builder": "N/A",
             "sqft": "4,558.91 ft\u00b2 (423.54 m\u00b2)",
@@ -33410,7 +33410,7 @@
         },
         {
             "name": "Varde Skatepark",
-            "address": "St\u00e5lv\u00e6rksvej 13A, 6800 Varde",
+            "address": "St\u00e5lv\u00e6rksvej 13A, 6800 Varde, Denmark",
             "id": "Varde SkateparkDK",
             "builder": "FSR",
             "sqft": "450 m\u00b2",
@@ -33426,7 +33426,7 @@
         },
         {
             "name": "Vashon Island Skatepark - bowl",
-            "address": "10500 SW 228th St, Vashon, WA 98070",
+            "address": "10500 SW 228th St, Vashon, WA 98070, US",
             "id": "vashonisland",
             "builder": "Grindline.",
             "sqft": "3,000sqft.",
@@ -33442,7 +33442,7 @@
         },
         {
             "name": "Vashon Island Skatepark - indoor",
-            "address": "10500 SW 228th St, Vashon, WA 98070",
+            "address": "10500 SW 228th St, Vashon, WA 98070, US",
             "id": "vashonislandindoor",
             "builder": "N/A",
             "sqft": "2,639.02 ft\u00b2",
@@ -33458,7 +33458,7 @@
         },
         {
             "name": "Vashon Island Skatepark - pump track",
-            "address": "10500 SW 228th St, Vashon, WA 98070",
+            "address": "10500 SW 228th St, Vashon, WA 98070, US",
             "id": "Vashonislandpump",
             "builder": "Grindline.",
             "sqft": "7,000sqft.",
@@ -33490,7 +33490,7 @@
         },
         {
             "name": "Veneta Skatepark",
-            "address": "Territorial Hwy & E Hunter Rd, Veneta, OR 97487",
+            "address": "Territorial Hwy & E Hunter Rd, Veneta, OR 97487, US",
             "id": "venetaOR",
             "builder": "N/A",
             "sqft": "9,484.74 ft\u00b2",
@@ -33506,7 +33506,7 @@
         },
         {
             "name": "Venice Beach Skatepark",
-            "address": "Market St and Ocean Front Walk, Venice, CA 90291",
+            "address": "Ocean Front Walk, Los Angeles, CA 90291, US",
             "id": "veniceCA",
             "builder": "N/A",
             "sqft": "25,338sqft.",
@@ -33522,7 +33522,7 @@
         },
         {
             "name": "VERNON HILLS, ILLINOIS SKATEPARK",
-            "address": "Skate park, 538 Atrium Dr, Vernon Hills, IL 60061, USA",
+            "address": "538 Atrium Dr, Vernon Hills, IL 60061, US",
             "id": "VERNONHILLSILLINOISSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "6,655.62 ft\u00b2",
@@ -33538,7 +33538,7 @@
         },
         {
             "name": "Veterans Skatepark - Manassas, VA",
-            "address": "14300 Veterans Dr, Woodbridge, VA 22191",
+            "address": "14300 Veterans Dr, Woodbridge, VA 22191, US",
             "id": "verteransva",
             "builder": "artisan",
             "sqft": "17,000sqft.",
@@ -33570,7 +33570,7 @@
         },
         {
             "name": "VILLA PARK, ILLINOIS SKATEPARK",
-            "address": "331 N Addison Rd, Villa Park, IL 60181, USA",
+            "address": "331 N Addison Rd, Villa Park, IL 60181, US",
             "id": "VILLAPARKILLINOISSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "7,401.19 ft\u00b2",
@@ -33586,7 +33586,7 @@
         },
         {
             "name": "Virginia Beach, VA",
-            "address": "5709 Providence Rd, Virginia Beach, VA 23464",
+            "address": "5709 Providence Rd, Virginia Beach, VA 23464, US",
             "id": "virginabeach",
             "builder": "Team Pain",
             "sqft": "30,000sqft.",
@@ -33602,7 +33602,7 @@
         },
         {
             "name": "Vogel Creek Skate Spot Houston",
-            "address": "7419 Crisp Wood Ln, Houston, TX 77086, USA",
+            "address": "7419 Crisp Wood Ln, Houston, TX 77086, US",
             "id": "vogelcreekskatespothouston",
             "builder": "Newline",
             "sqft": "2,542.29 ft\u00b2",
@@ -33618,7 +33618,7 @@
         },
         {
             "name": "Waldport Skatepark",
-            "address": "S Crestline Dr & SE Salmon St, Waldport, OR 97394",
+            "address": "S Crestline Dr & SE Salmon St, Waldport, OR 97394, US",
             "id": "waldportOR",
             "builder": "N/A",
             "sqft": "5,800.44 ft\u00b2",
@@ -33634,7 +33634,7 @@
         },
         {
             "name": "WALKER MILL SKATEPARK",
-            "address": "7857 Walker Mill Rd, District Heights, MD 20747, USA",
+            "address": "7857 Walker Mill Rd, District Heights, MD 20747, US",
             "id": "WALKERMILLSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "12,000 ft\u00b2",
@@ -33650,7 +33650,7 @@
         },
         {
             "name": "Walla Walla 1",
-            "address": "1713-1899 Dalles Military Rd., Walla Walla , WA 99362",
+            "address": "1713 Dalles Military Rd, Walla Walla, WA 99362, US",
             "id": "wallawalla1",
             "builder": "N/A",
             "sqft": "10,391.56 ft\u00b2",
@@ -33666,7 +33666,7 @@
         },
         {
             "name": "Walla Walla 2",
-            "address": "N Tausick Way & Reservoir Rd, Walla Walla, WA 99362",
+            "address": "Reservoir Rd & Tausick Way, Walla Walla, WA 99362, US",
             "id": "wallawalla2",
             "builder": "Dreamland.",
             "sqft": "6,300sqft.",
@@ -33682,7 +33682,7 @@
         },
         {
             "name": "WALTON COUNTY SKATEPARK",
-            "address": "324 Moll Dr, Santa Rosa Beach, FL 32459, USA",
+            "address": "324 Moll Dr, Santa Rosa Beach, FL 32459, US",
             "id": "WALTONCOUNTYSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -33698,7 +33698,7 @@
         },
         {
             "name": "Walton County Skatepark Walton County",
-            "address": "324 Moll Dr, Santa Rosa Beach, FL 32459, USA",
+            "address": "324 Moll Dr, Santa Rosa Beach, FL 32459, US",
             "id": "waltoncountyskateparkwaltoncounty",
             "builder": "Newline",
             "sqft": "18,731.54 ft\u00b2",
@@ -33714,7 +33714,7 @@
         },
         {
             "name": "Warman Skatepark Warman",
-            "address": "501 S Railway St W, Warman, SK S0K 4S0, Canada",
+            "address": "501 S Railway St, Warman, SK S0K 0A1, Canada",
             "id": "warmanskateparkwarman",
             "builder": "Newline",
             "sqft": "13,052.57 ft\u00b2",
@@ -33730,7 +33730,7 @@
         },
         {
             "name": "Washington Street",
-            "address": "Washington St & Pacific Hwy San Diego, CA, 92140",
+            "address": "Washington St & Pacific Hwy, San Diego, CA 92101, US",
             "id": "washingtonstCA",
             "builder": "DIY.",
             "sqft": "10,000sqft.",
@@ -33746,7 +33746,7 @@
         },
         {
             "name": "WASHINGTON TERRACE PARK SKATEPARK",
-            "address": "8812-8884 Washington St, Niles, IL 60714, USA",
+            "address": "8812-8884 Washington St, Niles, IL 60714, US",
             "id": "WASHINGTONTERRACEPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "8,000 ft\u00b2",
@@ -33762,7 +33762,7 @@
         },
         {
             "name": "WATERTOWN SKATEPARK",
-            "address": "903 Oak St, Watertown, WI 53098, USA",
+            "address": "903 Oak St, Watertown, WI 53098, US",
             "id": "WATERTOWNSKATEPARK",
             "builder": "Evergreen.",
             "sqft": "11,423.22 ft\u00b2",
@@ -33778,7 +33778,7 @@
         },
         {
             "name": "Waynesville Skatepark - Waynesville, NC",
-            "address": "285 Vance St, Waynesville, NC 28786",
+            "address": "285 Vance St, Waynesville, NC 28786, US",
             "id": "waynesvillenc",
             "builder": "artisan",
             "sqft": "13,000sqft.",
@@ -33794,7 +33794,7 @@
         },
         {
             "name": "WEGHORST SKATEPARK",
-            "address": "29-1189, #000, Portsmouth, OH 45662, USA",
+            "address": "1189 29th St, Portsmouth, OH 45662, US",
             "id": "WEGHORSTSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "7,000 ft\u00b2",
@@ -33810,7 +33810,7 @@
         },
         {
             "name": "WEIRDO BOWL, HAYWARD CALIFORNIA",
-            "address": "2718 Kelly St, Hayward, CA 94541, USA",
+            "address": "2718 Kelly St, Hayward, CA 94541, US",
             "id": "WEIRDOBOWLHAYWARDCALIFORNIA",
             "builder": "Evergreen.",
             "sqft": "1,648.00 ft\u00b2",
@@ -33842,7 +33842,7 @@
         },
         {
             "name": "Wenatchee Skatepark",
-            "address": "349 Fuller St, Wenatchee, WA 98801",
+            "address": "349 Fuller St, Wenatchee, WA 98801, US",
             "id": "wenatchee",
             "builder": "N/A",
             "sqft": "11,254.72 ft\u00b2",
@@ -33874,7 +33874,7 @@
         },
         {
             "name": "WEST DES MOINES SKATEPARK",
-            "address": "301 Vine St, West Des Moines, IA 50265, USA",
+            "address": "301 Vine St, West Des Moines, IA 50265, US",
             "id": "WESTDESMOINESSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "5,000 ft\u00b2",
@@ -33906,7 +33906,7 @@
         },
         {
             "name": "Westlake Center",
-            "address": "400 Pine St, Seattle, WA 98101",
+            "address": "400 Pine St, Seattle, WA 98101, US",
             "id": "westlakecenter",
             "builder": "N/A",
             "sqft": "2,719.70 ft\u00b2",
@@ -33922,7 +33922,7 @@
         },
         {
             "name": "WESTLAKE SKATEPARK",
-            "address": "31107 Thousand Oaks Blvd, Westlake Village, CA 91362, USA",
+            "address": "31107 Thousand Oaks Blvd, Westlake Village, CA 91362, US",
             "id": "WESTLAKESKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,500 ft\u00b2",
@@ -33938,7 +33938,7 @@
         },
         {
             "name": "West Lincoln Skatepark West Lincoln",
-            "address": "Smithville Skatepark, 177 West St, Smithville, ON L0R 2A0, Canada",
+            "address": "177 West St, Smithville, ON L0R 2A0, Canada",
             "id": "westlincolnskateparkwestlincoln",
             "builder": "Newline",
             "sqft": "7,877.09 ft\u00b2",
@@ -33954,7 +33954,7 @@
         },
         {
             "name": "West Linn Skatepark",
-            "address": "3182-3344 Parker Rd, West Linn, OR 97068",
+            "address": "3182 Parker Rd, West Linn, OR 97068, US",
             "id": "westlinnOR",
             "builder": "N/A",
             "sqft": "10,131.53 ft\u00b2",
@@ -33970,7 +33970,7 @@
         },
         {
             "name": "West Linn Robinwood Skatepark",
-            "address": "3600 Fairview Way, West Linn, OR 97068",
+            "address": "3600 Fairview Way, West Linn, OR 97068, US",
             "id": "westlinnrobinwoodOR",
             "builder": "N/A",
             "sqft": "3,786.27 ft\u00b2",
@@ -33986,7 +33986,7 @@
         },
         {
             "name": "WestMauiSkatepark-Lahaina,HI",
-            "address": "245 Shaw St, Lahaina, HI, USA",
+            "address": "245 Shaw St, Lahaina, HI 96761, US",
             "id": "WestMauiSkatepark-LahainaHI",
             "builder": "Grindline",
             "sqft": "24,000sqft.",
@@ -34002,7 +34002,7 @@
         },
         {
             "name": "West Melbourne, FL",
-            "address": "2240 Minton Road West Melbourne, FL 32904",
+            "address": "2240 Minton Rd, West Melbourne, FL 32904, US",
             "id": "westmelbourne",
             "builder": "Team Pain",
             "sqft": "22,000sqft.",
@@ -34018,7 +34018,7 @@
         },
         {
             "name": "WEST NEW YORK SKATEPARK",
-            "address": "6140 JFK Blvd E, West New York, NJ 07093, USA",
+            "address": "6140 JFK Blvd E, West New York, NJ 07093, US",
             "id": "WESTNEWYORKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -34034,7 +34034,7 @@
         },
         {
             "name": "Weston",
-            "address": "6001 Alderson St, Schofield, WI 54476",
+            "address": "6001 Alderson St, Schofield, WI 54476, US",
             "id": "Weston",
             "builder": "Dreamland.",
             "sqft": "8,000 sqft.",
@@ -34050,7 +34050,7 @@
         },
         {
             "name": "WestPointSkatePark\u2013WestPoint,MS",
-            "address": "Catherine Kitty Bryan Dill Memorial Parkway, West Point, MS 39773, USA",
+            "address": "Catherine \"Kitty\" Bryan Dill Memorial Pkwy, West Point, MS 39773, US",
             "id": "WestPointSkatePark\u2013WestPointMS",
             "builder": "Grindline",
             "sqft": "3,000sqft.",
@@ -34066,7 +34066,7 @@
         },
         {
             "name": "WHEATON SKATEPARK",
-            "address": "315 E Liberty Dr, Wheaton, IL 60187, USA",
+            "address": "315 E Liberty Dr, Wheaton, IL 60187, US",
             "id": "WHEATONSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "11,000 ft\u00b2",
@@ -34082,7 +34082,7 @@
         },
         {
             "name": "Wheat Ridge, Colorado",
-            "address": "W.38th and Kipling St. Wheat Ridge, CO 80033",
+            "address": "W 38th Ave & Kipling St, Wheat Ridge, CO 80033, US",
             "id": "wheatridge",
             "builder": "Team Pain",
             "sqft": "12,000sqft.",
@@ -34098,7 +34098,7 @@
         },
         {
             "name": "Whitefish Skatepark",
-            "address": "150 Dodger Ln, Whitefish, Mt 59937",
+            "address": "150 Dodger Ln, Whitefish, MT 59937, US",
             "id": "whitefishMT",
             "builder": "Dreamland.",
             "sqft": "15,000sqft.",
@@ -34114,7 +34114,7 @@
         },
         {
             "name": "Wilkeson Skatepark",
-            "address": "398 Carbonado South Prairie Rd, Buckley, WA 98321",
+            "address": "398 Carbonado South Prairie Rd, Buckley, WA 98321, US",
             "id": "wilkeson",
             "builder": "Grindline.",
             "sqft": "2,500sqft.",
@@ -34130,7 +34130,7 @@
         },
         {
             "name": "Williams Farm Skatepark",
-            "address": "5252 Learning Cir, Virginia Beach, VA 23462",
+            "address": "5252 Learning Cir, Virginia Beach, VA 23462, US",
             "id": "williamsfarm",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -34146,7 +34146,7 @@
         },
         {
             "name": "Wilsonville Skatepark",
-            "address": "8100 SW Wilsonville Rd, Wilsonville, OR 97070",
+            "address": "8100 SW Wilsonville Rd, Wilsonville, OR 97070, US",
             "id": "WilsonvilleOR",
             "builder": "Dreamland.",
             "sqft": "6,000sqft.",
@@ -34162,7 +34162,7 @@
         },
         {
             "name": "Windells Skatepark, Mt. Hood OR - Evergreen Skateparks",
-            "address": "59550 US-26, Sandy, OR 97055",
+            "address": "59550 US-26, Sandy, OR 97055, US",
             "id": "windellsOR",
             "builder": "Evergreen.",
             "sqft": "61,120sqft.",
@@ -34178,7 +34178,7 @@
         },
         {
             "name": "Winston Skatepark",
-            "address": "245 Thompson Ave, Winston, OR 97496",
+            "address": "245 Thompson Ave, Winston, OR 97496, US",
             "id": "winstonOR",
             "builder": "Dreamland.",
             "sqft": "11,000sqft.",
@@ -34194,7 +34194,7 @@
         },
         {
             "name": "Winston Riverband Skatepark",
-            "address": "245 Thompson Ave, Winston, OR 97496",
+            "address": "245 Thompson Ave, Winston, OR 97496, US",
             "id": "winstonriverband",
             "builder": "Dreamland.",
             "sqft": "11,000 sqft.",
@@ -34210,7 +34210,7 @@
         },
         {
             "name": "Winter Haven, FL",
-            "address": "275 Lake Silver, Dr NW Winter Haven, FL 33881",
+            "address": "275 S Lake Silver Dr, Winter Haven, FL 33881, US",
             "id": "winterhaven",
             "builder": "Team Pain",
             "sqft": "17,500sqft.",
@@ -34226,7 +34226,7 @@
         },
         {
             "name": "WINTERSET SKATEPARK",
-            "address": "517 S 4th Ave, Winterset, IA 50273, USA",
+            "address": "517 S 4th Ave, Winterset, IA 50273, US",
             "id": "WINTERSETSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "6,000 ft\u00b2",
@@ -34242,7 +34242,7 @@
         },
         {
             "name": "WLCAC SKATEPARK",
-            "address": "10920 Hooper Ave, Los Angeles, CA 90059, USA",
+            "address": "10920 Hooper Ave, Los Angeles, CA 90059, US",
             "id": "WLCACSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "4,000 ft\u00b2",
@@ -34258,7 +34258,7 @@
         },
         {
             "name": "WOLF POINT, MONTANA SKATEPARK",
-            "address": "219 E Blaine St, Wolf Point, MT 59201, USA",
+            "address": "219 E Blaine St, Wolf Point, MT 59201, US",
             "id": "WOLFPOINTMONTANASKATEPARK",
             "builder": "Evergreen.",
             "sqft": "5,761.92 ft\u00b2",
@@ -34274,7 +34274,7 @@
         },
         {
             "name": "Wolf Point Skatepark",
-            "address": "219 E Blaine St., Wolf Point, MT 59201",
+            "address": "219 E Blaine St, Wolf Point, MT 59201, US",
             "id": "wolfpointMT",
             "builder": "Evergreen.",
             "sqft": "5,000sqft.",
@@ -34290,7 +34290,7 @@
         },
         {
             "name": "Wonderland Concrete",
-            "address": "Sydomr\u00e5det 30 1440 K\u00f8benhavn K",
+            "address": "Sydomr\u00e5det 30, 1440 K\u00f8benhavn, Denmark",
             "id": "wonderlandconcreteDK",
             "builder": "DIY.",
             "sqft": "3,224.50 ft\u00b2 (299.57 m\u00b2)",
@@ -34306,7 +34306,7 @@
         },
         {
             "name": "Wonderland",
-            "address": "Sydomr\u00e5det 30 1440 K\u00f8benhavn K",
+            "address": "Sydomr\u00e5det 30, 1440 K\u00f8benhavn, Denmark",
             "id": "wonderlandDK",
             "builder": "DIY.",
             "sqft": "1,524.13 ft\u00b2 (141.60 m\u00b2)",
@@ -34322,7 +34322,7 @@
         },
         {
             "name": "Woodburn Skatepark",
-            "address": "400 S Settlemier Ave, Woodburn, OR 97071",
+            "address": "400 S Settlemier Ave, Woodburn, OR 97071, US",
             "id": "woodburnOR",
             "builder": "N/A",
             "sqft": "9,651.66 ft\u00b2",
@@ -34338,7 +34338,7 @@
         },
         {
             "name": "Woodinville Skatepark",
-            "address": "19518 136th Ave NE, Woodinville, WA 98072",
+            "address": "19518 136th Ave NE, Woodinville, WA 98072, US",
             "id": "woodinville",
             "builder": "N/A",
             "sqft": "8,912.71 ft\u00b2",
@@ -34354,7 +34354,7 @@
         },
         {
             "name": "Woodland Skatepark",
-            "address": "785 Lakeshore Dr Woodland, WA 98674",
+            "address": "785 Lakeshore Dr, Woodland, WA 98674, US",
             "id": "woodland",
             "builder": "Dreamland.",
             "sqft": "5,160sqft.",
@@ -34370,7 +34370,7 @@
         },
         {
             "name": "Woodward camp West",
-            "address": "28400 Stallion Springs Dr. Tehachapi, CA 93561",
+            "address": "28400 Stallion Springs Dr, Tehachapi, CA 93561, US",
             "id": "woodward",
             "builder": "Team Pain",
             "sqft": "20,000sqft.",
@@ -34386,7 +34386,7 @@
         },
         {
             "name": "WOODWARD TAHOE SKATEPARK",
-            "address": "19659 Boreal Ridge Rd, Truckee, CA 96161, USA",
+            "address": "19659 Boreal Ridge Rd, Truckee, CA 96161, US",
             "id": "WOODWARDTAHOESKATEPARK",
             "builder": "Evergreen.",
             "sqft": "11,232.79 ft\u00b2",
@@ -34402,7 +34402,7 @@
         },
         {
             "name": "WORTHBROOK PARK SKATEPARK",
-            "address": "6330 89th Pl, Oak Lawn, IL 60453, USA",
+            "address": "6330 89th Pl, Oak Lawn, IL 60453, US",
             "id": "WORTHBROOKPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "16,000 ft\u00b2",
@@ -34418,7 +34418,7 @@
         },
         {
             "name": "X PARK",
-            "address": "46176 Dune Palms Rd, La Quinta, CA 92253, USA",
+            "address": "46176 Dune Palms Rd, La Quinta, CA 92253, US",
             "id": "XPARK",
             "builder": "Spohn Ranch",
             "sqft": "40,000 ft\u00b2",
@@ -34434,7 +34434,7 @@
         },
         {
             "name": "Yakima Skatepark 1",
-            "address": "N 40th Ave and River Rd, Yakima, WA 98908",
+            "address": "River Rd & N 40th Ave, Yakima, WA 98902, US",
             "id": "yakima1",
             "builder": "N/A",
             "sqft": "11,333.24 ft\u00b2",
@@ -34450,7 +34450,7 @@
         },
         {
             "name": "Yakima Skatepark 2",
-            "address": "1101-1153 East Maple Street, Yakima, WA 98901",
+            "address": "1101 E Maple St, Yakima, WA 98901, US",
             "id": "yakima2",
             "builder": "Grindline.",
             "sqft": "12,000sqft.",
@@ -34466,7 +34466,7 @@
         },
         {
             "name": "YAL SKATEPARK",
-            "address": "1015 W 119th St, Los Angeles, CA 90044, USA",
+            "address": "1015 W 119th St, Los Angeles, CA 90044, US",
             "id": "YALSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "2,500 ft\u00b2",
@@ -34482,7 +34482,7 @@
         },
         {
             "name": "Yelm Skatepark",
-            "address": "201 First Ave. NE, Yelm, WA 98597",
+            "address": "Washington St SE & Washington Ave SE, Yelm, WA 98597, US",
             "id": "yelm",
             "builder": "Dreamland.",
             "sqft": "7,000sqft.",
@@ -34498,7 +34498,7 @@
         },
         {
             "name": "Yfc The Edge Indoor Park Winnipeg",
-            "address": "333 King St, Winnipeg, MB R3B 0N1, Canada",
+            "address": "333 King St, Winnipeg, MB R3B 0C4, Canada",
             "id": "yfctheedgeindoorparkwinnipeg",
             "builder": "Newline",
             "sqft": "675.27 ft\u00b2",
@@ -34530,7 +34530,7 @@
         },
         {
             "name": "YOUNGS PARK SKATEPARK",
-            "address": "Young's Park, IA-14, Knoxville, IA 50138, USA",
+            "address": "Young's Park, IA-14, Knoxville, IA 50138, US",
             "id": "YOUNGSPARKSKATEPARK",
             "builder": "Spohn Ranch",
             "sqft": "9,000 ft\u00b2",
@@ -34546,7 +34546,7 @@
         },
         {
             "name": "Zephyrhills, FL",
-            "address": "20th St. & Alston Ave, Zephyrhills, FL 33542",
+            "address": "Alston Ave & 20th St, , FL 33542, US",
             "id": "zephyrhills",
             "builder": "Team Pain",
             "sqft": "8,000sqft.",
