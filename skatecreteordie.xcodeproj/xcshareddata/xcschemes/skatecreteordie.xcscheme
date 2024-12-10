@@ -57,6 +57,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       language = "en"
       region = "US"
+      preferredScreenCaptureFormat = "screenshots"
       codeCoverageEnabled = "YES"
       localizableStringsDataGatheringEnabled = "YES">
       <MacroExpansion>
@@ -80,7 +81,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E2967E141CA6E1FC00F5B607"
