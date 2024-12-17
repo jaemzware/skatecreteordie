@@ -82,11 +82,23 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         )
         
         let hostingController = UIHostingController(rootView: filterView)
-        hostingController.modalPresentationStyle = .pageSheet
-        if let sheet = hostingController.sheetPresentationController {
-            sheet.detents = [.medium()]
-            sheet.prefersGrabberVisible = true
+        
+        // Use popover on iPad, sheet on iPhone
+        if UIDevice.current.userInterfaceIdiom == .pad {
+            hostingController.modalPresentationStyle = .popover
+            if let popover = hostingController.popoverPresentationController {
+                popover.sourceView = filterButton
+                popover.sourceRect = filterButton.bounds
+                popover.permittedArrowDirections = .any
+            }
+        } else {
+            hostingController.modalPresentationStyle = .pageSheet
+            if let sheet = hostingController.sheetPresentationController {
+                sheet.detents = [.medium()]
+                sheet.prefersGrabberVisible = true
+            }
         }
+        
         present(hostingController, animated: true)
     }
     @objc func buttonAction(sender: UIButton!) {
