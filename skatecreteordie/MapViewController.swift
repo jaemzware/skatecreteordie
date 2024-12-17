@@ -71,9 +71,8 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         UIPasteboard.general.string = self.maptextview.text
     }
     @IBAction func filterButtonTapped(_ sender: Any) {
-        // Get unique pin images from skateParks array
         let uniquePinImages = Array(Set(skateParks.compactMap { $0.pinimage }))
-                .sorted { $0.localizedCaseInsensitiveCompare($1) == .orderedAscending }
+            .sorted { $0.localizedCaseInsensitiveCompare($1) == .orderedAscending }
         
         let filterView = PinFilterView(
             onSelection: { [weak self] selectedPinImage in
@@ -84,12 +83,10 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         
         let hostingController = UIHostingController(rootView: filterView)
         hostingController.modalPresentationStyle = .pageSheet
-        
         if let sheet = hostingController.sheetPresentationController {
             sheet.detents = [.medium()]
             sheet.prefersGrabberVisible = true
         }
-        
         present(hostingController, animated: true)
     }
     @objc func buttonAction(sender: UIButton!) {

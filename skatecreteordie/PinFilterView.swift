@@ -10,27 +10,43 @@ import SwiftUI
 
 struct PinFilterView: View {
     @Environment(\.dismiss) private var dismiss
-    let onSelection: (String) -> Void
+    let onSelection: (String?) -> Void  // Changed to accept optional String
     let pinImages: [String]
     
     var body: some View {
         NavigationView {
-            List(pinImages, id: \.self) { pinImage in
+            List {
+                // "All Skateparks" as first item
                 Button(action: {
-                    onSelection(pinImage)
+                    onSelection(nil)
                     dismiss()
                 }) {
                     HStack {
-                        Image(pinImage)
-                            .resizable()
-                            .scaledToFit()
-                            .frame(width: 30, height: 30)
-                        Text(pinImage)
+                        Image(systemName: "map")  // Using map icon instead of filter icon
+                            .foregroundColor(.blue)
+                        Text("All Skateparks")
                         Spacer()
                     }
                 }
+                
+                // Rest of pin images
+                ForEach(pinImages, id: \.self) { pinImage in
+                    Button(action: {
+                        onSelection(pinImage)
+                        dismiss()
+                    }) {
+                        HStack {
+                            Image(pinImage)
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 30, height: 30)
+                            Text(pinImage)
+                            Spacer()
+                        }
+                    }
+                }
             }
-            .navigationTitle("Select Pin Image")
+            .navigationTitle("Filter Skateparks")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
