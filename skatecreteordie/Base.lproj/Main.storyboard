@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="49e-Tb-3d3">
     <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -113,6 +114,15 @@
                                 <color key="textColor" red="0.47282520280000001" green="1" blue="0.16614874360000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="contactAdd" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ee4-KY-61D">
+                                <rect key="frame" x="143.5" y="28" width="88" height="34.5"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Filter">
+                                    <color key="baseForegroundColor" systemColor="systemBackgroundColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="filterButtonTapped:" destination="9pv-A4-QxB" eventType="touchUpInside" id="pX4-km-Gm4"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -120,6 +130,7 @@
                             <constraint firstItem="9hu-sc-jn9" firstAttribute="trailing" secondItem="qg5-fS-6LI" secondAttribute="trailing" constant="-16" id="1h2-55-Spp"/>
                             <constraint firstItem="9hu-sc-jn9" firstAttribute="leading" secondItem="tsR-hK-woN" secondAttribute="leadingMargin" id="3JV-Bu-TIt"/>
                             <constraint firstItem="yS7-Yx-ZVd" firstAttribute="top" secondItem="fRO-0e-5Ic" secondAttribute="top" id="5Te-Pc-25q"/>
+                            <constraint firstItem="ee4-KY-61D" firstAttribute="centerX" secondItem="tsR-hK-woN" secondAttribute="centerX" id="6Zr-nW-ixq"/>
                             <constraint firstItem="qg5-fS-6LI" firstAttribute="centerY" secondItem="fRO-0e-5Ic" secondAttribute="centerY" id="6mx-Ag-Ngr"/>
                             <constraint firstItem="qg5-fS-6LI" firstAttribute="centerY" secondItem="yS7-Yx-ZVd" secondAttribute="centerY" id="AIM-Ce-aDL"/>
                             <constraint firstItem="5Rg-DH-L9b" firstAttribute="top" secondItem="gWa-sR-C7l" secondAttribute="bottom" constant="-2.5" id="Bx4-63-rWg"/>
@@ -136,6 +147,7 @@
                             <constraint firstItem="fRO-0e-5Ic" firstAttribute="leading" secondItem="yS7-Yx-ZVd" secondAttribute="trailing" constant="8" symbolic="YES" id="cP7-5S-FgJ"/>
                             <constraint firstItem="yS7-Yx-ZVd" firstAttribute="leading" secondItem="tsR-hK-woN" secondAttribute="leading" constant="126" id="cZa-Ii-Hca"/>
                             <constraint firstAttribute="trailing" secondItem="5Rg-DH-L9b" secondAttribute="trailing" constant="16" id="dfw-jS-IzW"/>
+                            <constraint firstItem="ee4-KY-61D" firstAttribute="top" secondItem="Ia1-K6-d13" secondAttribute="bottom" constant="8" symbolic="YES" id="eDF-0W-9C9"/>
                             <constraint firstItem="9hu-sc-jn9" firstAttribute="trailing" secondItem="5Rg-DH-L9b" secondAttribute="trailing" id="gUW-es-Bhj"/>
                             <constraint firstItem="qg5-fS-6LI" firstAttribute="top" secondItem="TiJ-vF-BND" secondAttribute="top" constant="-1" id="igS-3p-f7m"/>
                             <constraint firstItem="qg5-fS-6LI" firstAttribute="top" secondItem="9hu-sc-jn9" secondAttribute="bottom" constant="8" symbolic="YES" id="rkO-rE-dLc"/>
@@ -148,6 +160,7 @@
                     <connections>
                         <outlet property="copyButton" destination="fRO-0e-5Ic" id="Xqh-9E-IfA"/>
                         <outlet property="dropCurrentLocationPinButton" destination="yS7-Yx-ZVd" id="KYd-0z-KCX"/>
+                        <outlet property="filterButton" destination="ee4-KY-61D" id="sIT-FC-uoS"/>
                         <outlet property="maptextview" destination="qg5-fS-6LI" id="DG4-7J-hv2"/>
                         <outlet property="milesLabel" destination="5Rg-DH-L9b" id="gda-nT-qxO"/>
                         <outlet property="onOffSwitch" destination="TiJ-vF-BND" id="OXK-xM-fJb"/>

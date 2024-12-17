@@ -14,6 +14,7 @@
 		7D1647892D02A4EE001A95B5 /* DetailsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D1647882D02A4EC001A95B5 /* DetailsScreen.swift */; };
 		7D16478B2D02A512001A95B5 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16478A2D02A510001A95B5 /* ListScreen.swift */; };
 		7D16478D2D02A538001A95B5 /* SkateCreteOrDieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16478C2D02A536001A95B5 /* SkateCreteOrDieTests.swift */; };
+		7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7837372D113FC300C6B285 /* PinFilterView.swift */; };
 		7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8CD51926F21AE800A49D15 /* ListViewController.swift */; };
 		7D8F21222CF0186700877F77 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7D8F21212CF0186700877F77 /* README.md */; };
 		7DADFFB22CEAB1F700933EB5 /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7DADFFB12CEAB1F700933EB5 /* Configuration.plist */; };
@@ -55,6 +56,7 @@
 		7D1647882D02A4EC001A95B5 /* DetailsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsScreen.swift; sourceTree = "<group>"; };
 		7D16478A2D02A510001A95B5 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
 		7D16478C2D02A536001A95B5 /* SkateCreteOrDieTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkateCreteOrDieTests.swift; sourceTree = "<group>"; };
+		7D7837372D113FC300C6B285 /* PinFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinFilterView.swift; sourceTree = "<group>"; };
 		7D8CD51926F21AE800A49D15 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		7D8F21212CF0186700877F77 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7DADFFB12CEAB1F700933EB5 /* Configuration.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Configuration.plist; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				E2967E101CA6E1FC00F5B607 /* Info.plist */,
 				7D8CD51926F21AE800A49D15 /* ListViewController.swift */,
 				1E94D42C2BB3CE72005C6EF9 /* skateparkdata.json */,
+				7D7837372D113FC300C6B285 /* PinFilterView.swift */,
 			);
 			path = skatecreteordie;
 			sourceTree = "<group>";
@@ -318,6 +321,7 @@
 				7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */,
 				E2967E071CA6E1FC00F5B607 /* DetailsViewController.swift in Sources */,
 				E2967E031CA6E1FC00F5B607 /* AppDelegate.swift in Sources */,
+				7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */,
 				E2967E051CA6E1FC00F5B607 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -510,7 +514,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 8.0;
+				MARKETING_VERSION = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jaemzware.skatecreteordie;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
@@ -536,7 +540,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 8.0;
+				MARKETING_VERSION = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jaemzware.skatecreteordie;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
