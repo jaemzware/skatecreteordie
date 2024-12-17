@@ -9,6 +9,7 @@
 import UIKit
 import MapKit
 import CoreLocation
+import SwiftUI
 
 extension Date {
     func string(format: String) -> String {
@@ -19,6 +20,7 @@ extension Date {
 }
 
 class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDelegate, UITabBarDelegate  {
+    @IBOutlet weak var filterButton: UIButton!
     @IBOutlet weak var dropCurrentLocationPinButton: UIButton!
     @IBOutlet weak var copyButton: UIButton!
     @IBOutlet weak var skateParkMapView: MKMapView!
@@ -67,6 +69,27 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     }
     @IBAction func copyTextButton(_ sender: AnyObject) {
         UIPasteboard.general.string = self.maptextview.text
+    }
+    @IBAction func filterButtonTapped(_ sender: Any) {
+        // Get unique pin images from skateParks array
+        let uniquePinImages = Array(Set(skateParks.compactMap { $0.pinimage }))
+        
+        let filterView = PinFilterView(
+            onSelection: { [weak self] selectedPinImage in
+                self?.refreshAnnotations(filterPinImage: selectedPinImage)
+            },
+            pinImages: uniquePinImages
+        )
+        
+        let hostingController = UIHostingController(rootView: filterView)
+        hostingController.modalPresentationStyle = .pageSheet
+        
+        if let sheet = hostingController.sheetPresentationController {
+            sheet.detents = [.medium()]
+            sheet.prefersGrabberVisible = true
+        }
+        
+        present(hostingController, animated: true)
     }
     @objc func buttonAction(sender: UIButton!) {
         tabBarController?.selectedIndex = 1
@@ -243,18 +266,29 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
             self.maptextview.text = "Latest skatepark data loaded"
         }
     }
-    func refreshAnnotations() {
-        let annotationsToRemove = self.skateParkMapView.annotations.filter { $0 !== self.skateParkMapView.userLocation }
-        self.skateParkMapView.removeAnnotations(annotationsToRemove)
-        for aPark in self.skateParks{
+    func refreshAnnotations(filterPinImage: String? = nil) {
+        let annotationsToRemove = skateParkMapView.annotations.filter { $0 !== skateParkMapView.userLocation }
+        skateParkMapView.removeAnnotations(annotationsToRemove)
+        
+        let filteredParks = filterPinImage == nil ?
+            skateParks :
+            skateParks.filter { $0.pinimage == filterPinImage }
+            
+        for aPark in filteredParks {
             let aSkateparkAnnotation = CustomPointAnnotation()
             aSkateparkAnnotation.skatepark = aPark
-            aSkateparkAnnotation.imageName=aPark.pinimage
-            aSkateparkAnnotation.annotationId=aPark.id
+            aSkateparkAnnotation.imageName = aPark.pinimage
+            aSkateparkAnnotation.annotationId = aPark.id
             aSkateparkAnnotation.title = aSkateparkAnnotation.skatepark.name
             aSkateparkAnnotation.subtitle = aSkateparkAnnotation.skatepark.address
             aSkateparkAnnotation.accessibilityLabel = aPark.id
-            self.pinCoordinatesForDestinationAddress(aSkateparkAnnotation)
+            pinCoordinatesForDestinationAddress(aSkateparkAnnotation)
+        }
+        
+        if let filterPinImage = filterPinImage {
+            maptextview.text = "Showing parks with pin image: \(filterPinImage)"
+        } else {
+            maptextview.text = "Showing all parks"
         }
     }
     fileprivate func dropPinToStaticLocalSkateParks() {
