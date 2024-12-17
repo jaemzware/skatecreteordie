@@ -73,6 +73,7 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     @IBAction func filterButtonTapped(_ sender: Any) {
         // Get unique pin images from skateParks array
         let uniquePinImages = Array(Set(skateParks.compactMap { $0.pinimage }))
+                .sorted { $0.localizedCaseInsensitiveCompare($1) == .orderedAscending }
         
         let filterView = PinFilterView(
             onSelection: { [weak self] selectedPinImage in
