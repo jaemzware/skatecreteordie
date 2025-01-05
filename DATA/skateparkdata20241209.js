@@ -1115,7 +1115,7 @@
             "url": "http://evergreenskateparks.com/big-sandy-montana-phase-2",
             "elements": "Two large adjacent bowls.",
             "pinimage": "evergreenpin",
-            "photos": "bigsandyMT01.jpegbigsandyMT02.jpegbigsandyMT03.jpeg",
+            "photos": "bigsandyMT01.jpg bigsandyMT02.jpg bigsandyMT03.jpg",
             "latitude": "48.1735925346579",
             "longitude": "-110.111531077831",
             "group": "MT"
@@ -2619,7 +2619,7 @@
             "url": "https://www.dreamlandskateparks.com/california",
             "elements": "Shallow snake-run bowl. Street section is a creative mix of banks and transition blended with ledges, hubbas, rails, and hips. Photos: Dreamland skateparks.",
             "pinimage": "dreamlandpin",
-            "photos": "CAcorning01.jpeg CAcorning02.jpeg CAcorning03.jpeg CAcorning04.jpeg CAcorning05.jpeg CAcorning06.jpeg CAcorning07.jpeg CAcorning08.jpeg",
+            "photos": "CAcorning01.jpg CAcorning02.jpg CAcorning03.jpg CAcorning04.jpg CAcorning05.jpg CAcorning06.jpg CAcorning07.jpg CAcorning08.jpg",
             "latitude": "39.9213564923265",
             "longitude": "-122.192024832817",
             "group": "CA"
@@ -24299,7 +24299,7 @@
             "url": "http://www.northwestskater.com/gigharbor.html",
             "elements": "Concrete Skatepark",
             "pinimage": "skateparkpin",
-            "photos": "gigharbor.jpg gigharbor2.jpeg",
+            "photos": "gigharbor.jpg gigharbor2.jpg",
             "latitude": "47.321935",
             "longitude": "-122.586691",
             "group": "WA"
@@ -24795,7 +24795,7 @@
             "url": "http://evergreenskateparks.com/happy-valley-oregon-",
             "elements": "Street park bordered with small transition. Pyramid in the middle.",
             "pinimage": "evergreenpin",
-            "photos": "happyvalleyOR01.jpeghappyvalleyOR02.jpeghappyvalleyOR03.png",
+            "photos": "happyvalleyOR01.jpg happyvalleyOR02.jpg happyvalleyOR03.png",
             "latitude": "45.4538897073329",
             "longitude": "-122.522377804892",
             "group": "OR"
@@ -27099,7 +27099,7 @@
             "url": "https://www.sandiego.gov/park-and-recreation/centers/skateparks/lindavista",
             "elements": "Everything. Huge. 48k sq ft / half of North Houston",
             "pinimage": "othergoodparklightspin",
-            "photos": "lindavista01.jpeg lindavista02.jpeg lindavista03.jpeg",
+            "photos": "lindavista01.jpg lindavista02.jpg lindavista03.jpg",
             "latitude": "32.7928261818672",
             "longitude": "-117.170893999473",
             "group": "CA"
@@ -29451,7 +29451,7 @@
             "url": "https://northwestskater.com/pedlow.html\\nhttps://www.laparks.org/skatepark/pedlow-skate",
             "elements": "Fun Box, Half Pipe, Snake Run, 8,500 Square Foot Skate Bowl With Rails, Steps, Walls, Pyramid, Waterfall",
             "pinimage": "othergoodparkpin",
-            "photos": "pedlowca01.png pedlowca02.jpeg pedlowca03.jpeg pedlowca04.jpeg",
+            "photos": "pedlowca01.png pedlowca02.jpg pedlowca03.jpg pedlowca04.jpg",
             "latitude": "34.185935711983",
             "longitude": "-118.51167738529",
             "group": "CA"
@@ -31403,7 +31403,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3692.jpeg",
+            "photos": "isaac_IMG_3692.jpg",
             "latitude": "47.5700804976897",
             "longitude": "-122.33451460745",
             "group": "WA"
@@ -31419,7 +31419,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3699.jpeg",
+            "photos": "isaac_IMG_3699.jpg",
             "latitude": "47.568281809716",
             "longitude": "-122.333588921468",
             "group": "WA"
@@ -31435,7 +31435,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3713.jpeg",
+            "photos": "isaac_IMG_3713.jpg",
             "latitude": "47.6217063275446",
             "longitude": "-122.344778542389",
             "group": "WA"
@@ -31451,7 +31451,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3762.jpeg",
+            "photos": "isaac_IMG_3762.jpg",
             "latitude": "47.6524013551059",
             "longitude": "-122.310934635583",
             "group": "WA"
@@ -31467,7 +31467,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3763.jpeg",
+            "photos": "isaac_IMG_3763.jpg",
             "latitude": "47.6523472897858",
             "longitude": "-122.310814635582",
             "group": "WA"
@@ -31483,7 +31483,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3764.jpeg",
+            "photos": "isaac_IMG_3764.jpg",
             "latitude": "47.6549772899223",
             "longitude": "-122.309155364418",
             "group": "WA"
@@ -31499,7 +31499,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_3765.jpeg",
+            "photos": "isaac_IMG_3765.jpg",
             "latitude": "47.6549790966407",
             "longitude": "-122.309186093314",
             "group": "WA"
@@ -31515,7 +31515,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_4033.jpeg",
+            "photos": "isaac_IMG_4033.jpg",
             "latitude": "47.6132237265442",
             "longitude": "-122.333413003698",
             "group": "WA"
@@ -31531,7 +31531,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_4036.jpeg",
+            "photos": "isaac_IMG_4036.jpg",
             "latitude": "47.6129148439877",
             "longitude": "-122.333463045523",
             "group": "WA"
@@ -31547,7 +31547,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_IMG_4205.jpeg",
+            "photos": "isaac_IMG_4205.jpg",
             "latitude": "47.5137252900246",
             "longitude": "-122.339860029448",
             "group": "WA"
@@ -31563,7 +31563,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_dt01IMG_4039.jpeg isaac_dt02IMG_4040.jpeg",
+            "photos": "isaac_dt01IMG_4039.jpg isaac_dt02IMG_4040.jpg",
             "latitude": "47.613746606495",
             "longitude": "-122.332040238122",
             "group": "WA"
@@ -31579,7 +31579,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_pk01IMG_4105.jpeg isaac_pk02IMG_4109.jpeg",
+            "photos": "isaac_pk01IMG_4105.jpg isaac_pk02IMG_4109.jpg",
             "latitude": "47.6495059344577",
             "longitude": "-122.338869825201",
             "group": "WA"
@@ -31595,7 +31595,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Seattle street spot",
             "pinimage": "spotpin",
-            "photos": "isaac_we01IMG_3878.jpeg isaac_we02IMG_3880.jpeg",
+            "photos": "isaac_we01IMG_3878.jpg isaac_we02IMG_3880.jpg",
             "latitude": "47.5709665037046",
             "longitude": "-122.370880437466",
             "group": "WA"
@@ -33723,7 +33723,7 @@
             "url": "https://northwestskater.com/venice.html",
             "elements": "Two big bowls with pool coping, a street section, and a snake run/flow bowl.",
             "pinimage": "othergoodparkpin",
-            "photos": "veniceca01.jpeg veniceca02.jpeg veniceca03.jpeg veniceca04.jpeg veniceca05.jpeg",
+            "photos": "veniceca01.jpg veniceca02.jpg veniceca03.jpg veniceca04.jpg veniceca05.jpg",
             "latitude": "33.9871641975942",
             "longitude": "-118.475517789802",
             "group": "CA"
@@ -34363,7 +34363,7 @@
             "url": "https://www.dreamlandskateparks.com/current-projects",
             "elements": "Concrete Skatepark.",
             "pinimage": "dreamlandpin",
-            "photos": "wilsonville01.jpeg wilsonville02.jpeg wilsonville03.jpeg",
+            "photos": "wilsonville01.jpg wilsonville02.jpg wilsonville03.jpg",
             "latitude": "45.2986378321913",
             "longitude": "-122.760135498379",
             "group": "OR"
@@ -34379,7 +34379,7 @@
             "url": "http://evergreenskateparks.com/windells-skatepark-mt-hood-or",
             "elements": "Massiveconrete park with over 60,000 square feet of bowls and street.",
             "pinimage": "evergreenpin",
-            "photos": "84e9ecaf887b2e87-10150659_619728404768966_8182949957226100017_n.jpegBob_EvanPierce_190718_09.jpegPageImage-496145-2386047-309309_168645236543954_168640233211121_353107_7701145_n.jpegc7d017077d72b75c-307447_168645263210618_168640233211121_353109_6413423_n1.jpegc91474d3e00d71d8-375144_459606520781156_597275307_n.jpeg",
+            "photos": "84e9ecaf887b2e87-10150659_619728404768966_8182949957226100017_n.jpg Bob_EvanPierce_190718_09.jpg PageImage-496145-2386047-309309_168645236543954_168640233211121_353107_7701145_n.jpg c7d017077d72b75c-307447_168645263210618_168640233211121_353109_6413423_n1.jpg c91474d3e00d71d8-375144_459606520781156_597275307_n.jpg",
             "latitude": "45.3785962667031",
             "longitude": "-122.052303251688",
             "group": "OR"
