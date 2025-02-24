@@ -10,13 +10,6 @@ import UIKit
 
 extension UIImageView {
     func load(link: String, contentMode mode: UIView.ContentMode) {
-            //load loading image while we wait for download
-            var imagesListArray = [UIImage]()
-//            imagesListArray.append(UIImage(named: "deck")!)
-            imagesListArray.append(UIImage(named: "deckblur")!)
-            self.animationImages = imagesListArray
-            self.animationDuration = 1.0
-            self.startAnimating()
             //async download image. when it is downloaded, kill the animation and splash
             guard
                 let url = URL(string: SkatePark.imageHostUrl+link)
@@ -26,8 +19,6 @@ extension UIImageView {
                 if let data = try? Data(contentsOf: url) {
                     if let image = UIImage(data: data) {
                         DispatchQueue.main.async {
-                            self?.stopAnimating()
-                            self?.animationImages = nil
                             self?.image = image
                         }
                     }
