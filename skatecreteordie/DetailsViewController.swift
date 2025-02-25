@@ -10,30 +10,30 @@ import UIKit
 
 extension UIImageView {
     func load(link: String, contentMode mode: UIView.ContentMode) {
-            //load loading image while we wait for download
-            var imagesListArray = [UIImage]()
-//            imagesListArray.append(UIImage(named: "deck")!)
-            imagesListArray.append(UIImage(named: "deckblur")!)
-            self.animationImages = imagesListArray
-            self.animationDuration = 1.0
-            self.startAnimating()
-            //async download image. when it is downloaded, kill the animation and splash
-            guard
-                let url = URL(string: SkatePark.imageHostUrl+link)
-                else {return}
-            contentMode = mode
-            DispatchQueue.global().async { [weak self] in
-                if let data = try? Data(contentsOf: url) {
-                    if let image = UIImage(data: data) {
-                        DispatchQueue.main.async {
-                            self?.stopAnimating()
-                            self?.animationImages = nil
-                            self?.image = image
-                        }
+        
+        //prepend default location to the filename if it's not already a url
+        let finalUrlString: String
+        if link.hasPrefix("https://") || link.hasPrefix("http://") {
+            finalUrlString = link
+        } else {
+            finalUrlString = SkatePark.imageHostUrl + link
+        }
+        
+        //async download image.
+        guard
+            let url = URL(string: finalUrlString)
+            else {return}
+        contentMode = mode
+        DispatchQueue.global().async { [weak self] in
+            if let data = try? Data(contentsOf: url) {
+                if let image = UIImage(data: data) {
+                    DispatchQueue.main.async {
+                        self?.image = image
                     }
                 }
             }
         }
+    }
 }
 
 class DetailsViewController: UIViewController, UIScrollViewDelegate {

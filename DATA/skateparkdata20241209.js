@@ -14699,7 +14699,7 @@
             "url": "https://www.northwestskater.com/kirkland.html",
             "elements": "tbd",
             "pinimage": "dansparkpin",
-            "photos": "dansskatepage.jpg https://www.northwestskater.com/kirklandpano8306.jpg",
+            "photos": "https://www.northwestskater.com/kirklandpano8306.jpg dansskatepage.jpg",
             "latitude": "47.67746235",
             "longitude": "-122.2009731",
             "group": "WA"
