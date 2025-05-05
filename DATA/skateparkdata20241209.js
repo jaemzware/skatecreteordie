@@ -31249,7 +31249,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 6877",
+            "name": "Seattle Spot 0001",
             "address": "6877 37th Ave S, Seattle, WA 98118, US",
             "id": "seattlespot1",
             "builder": "N/A",
@@ -31265,7 +31265,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 10023",
+            "name": "Seattle Spot 0002",
             "address": "10023 64th Ave S, Seattle, WA 98178, USA",
             "id": "seattlespot10",
             "builder": "N/A",
@@ -31281,7 +31281,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 10120",
+            "name": "Seattle Spot 0003",
             "address": "10120 64th Ave S, Seattle, WA 98178, USA",
             "id": "seattlespot11",
             "builder": "N/A",
@@ -31297,7 +31297,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 320",
+            "name": "Seattle Spot 0004",
             "address": "320 NW 85th St, Seattle, WA 98117, USA",
             "id": "seattlespot12",
             "builder": "N/A",
@@ -31313,7 +31313,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1301a",
+            "name": "Seattle Spot 0005",
             "address": "1301 NW 105th St, Seattle, WA 98177, USA",
             "id": "seattlespot13",
             "builder": "N/A",
@@ -31329,7 +31329,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1301b",
+            "name": "Seattle Spot 0006",
             "address": "1301 NW 105th St, Seattle, WA 98177, USA",
             "id": "seattlespot14",
             "builder": "N/A",
@@ -31345,7 +31345,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1400a",
+            "name": "Seattle Spot 0007",
             "address": "1400 NW 107th St, Seattle, WA 98177, USA",
             "id": "seattlespot15",
             "builder": "N/A",
@@ -31361,7 +31361,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1400b",
+            "name": "Seattle Spot 0008",
             "address": "1400 NW 107th St, Seattle, WA 98177, USA",
             "id": "seattlespot16",
             "builder": "N/A",
@@ -31377,7 +31377,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 201a",
+            "name": "Seattle Spot 0009",
             "address": "201 NW 80th St, Seattle, WA 98117, USA",
             "id": "seattlespot17",
             "builder": "N/A",
@@ -31393,7 +31393,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 201b",
+            "name": "Seattle Spot 0010",
             "address": "201 NW 80th St, Seattle, WA 98117, USA",
             "id": "seattlespot18",
             "builder": "N/A",
@@ -31409,7 +31409,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 4860",
+            "name": "Seattle Spot 0011",
             "address": "4860 S Graham St, Seattle, WA 98118, USA",
             "id": "seattlespot19",
             "builder": "N/A",
@@ -31425,7 +31425,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1000",
+            "name": "Seattle Spot 0012",
             "address": "1000 4th Ave, Seattle, WA 98164, US",
             "id": "seattlespot2",
             "builder": "N/A",
@@ -31441,7 +31441,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 8512",
+            "name": "Seattle Spot 0013",
             "address": "8512 Palatine Ave N, Seattle, WA 98103, USA",
             "id": "seattlespot20",
             "builder": "N/A",
@@ -31457,7 +31457,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 301",
+            "name": "Seattle Spot 0014",
             "address": "301 NW 98th St, Seattle, WA 98117, USA",
             "id": "seattlespot21",
             "builder": "N/A",
@@ -31473,7 +31473,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 9722",
+            "name": "Seattle Spot 0015",
             "address": "9722 48th Ave S, Seattle, WA 98118, USA",
             "id": "seattlespot22",
             "builder": "N/A",
@@ -31489,7 +31489,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 515",
+            "name": "Seattle Spot 0016",
             "address": "515 2nd Ave, Seattle, WA 98104 USA",
             "id": "seattlespot23",
             "builder": "N/A",
@@ -31505,7 +31505,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1400c",
+            "name": "Seattle Spot 0017",
             "address": "1400 Alaskan Wy, Seattle, WA 98101, US",
             "id": "seattlespot24",
             "builder": "N/A",
@@ -31521,7 +31521,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1100",
+            "name": "Seattle Spot 0018",
             "address": "1100 SW Cloverdale St, Seattle, WA 98106, US",
             "id": "seattlespot25",
             "builder": "N/A",
@@ -31537,7 +31537,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1531",
+            "name": "Seattle Spot 0019",
             "address": "1531 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot3",
             "builder": "N/A",
@@ -31553,7 +31553,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1501",
+            "name": "Seattle Spot 0020",
             "address": "1501 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot4",
             "builder": "N/A",
@@ -31569,7 +31569,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1521",
+            "name": "Seattle Spot 0021",
             "address": "1521 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot5",
             "builder": "N/A",
@@ -31585,7 +31585,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 7400",
+            "name": "Seattle Spot 0022",
             "address": "7400 Sand Point Way NE, Seattle, WA 98115, US",
             "id": "seattlespot6",
             "builder": "N/A",
@@ -31601,7 +31601,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1415",
+            "name": "Seattle Spot 0023",
             "address": "1415 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot7",
             "builder": "N/A",
@@ -31617,7 +31617,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1501",
+            "name": "Seattle Spot 0024",
             "address": "1501 Western Ave, Seattle, WA 98101, US",
             "id": "seattlespot8",
             "builder": "N/A",
@@ -31633,7 +31633,7 @@
             "group": "WA"
         },
         {
-            "name": "Seattle Spot 1201",
+            "name": "Seattle Spot 0025",
             "address": "1201 Third Avenue, Seattle, WA 98101, US",
             "id": "seattlespot9",
             "builder": "N/A",
@@ -31646,6 +31646,278 @@
             "photos": "isaac_IMG_3189.jpg",
             "latitude": "47.60456111",
             "longitude": "-122.3351056",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0026",
+            "address": "398 Madison St, Seattle, WA 98154",
+            "id": "Seattlespot26",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4863.jpeg",
+            "latitude": "47.606022",
+            "longitude": "-122.333206",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0027",
+            "address": "516 3rd Ave, Seattle, WA 98104",
+            "id": "Seattlespot29",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4864.jpeg",
+            "latitude": "47.602811",
+            "longitude": "-122.330719",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0028",
+            "address": "423 Maynard Ave S, Seattle, WA 98104",
+            "id": "Seattlespot32",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4865.jpeg",
+            "latitude": "47.598606",
+            "longitude": "-122.325950",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0029",
+            "address": "423 Maynard Ave S, Seattle, WA 98104",
+            "id": "Seattlespot34",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4866.jpeg",
+            "latitude": "47.598603",
+            "longitude": "-122.325958",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0030",
+            "address": "3239 Harbor Ave SW, Seattle, WA 98126",
+            "id": "Seattlespot42",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4899.jpeg",
+            "latitude": "47.574647",
+            "longitude": "-122.370881",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0031",
+            "address": "3239 Harbor Ave SW, Seattle, WA 98126",
+            "id": "Seattlespot31",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4900.jpeg",
+            "latitude": "47.574792",
+            "longitude": "-122.370894",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0032",
+            "address": "500 23rd Ave, Seattle, WA 98122",
+            "id": "Seattlespot40",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4934.jpeg",
+            "latitude": "47.606756",
+            "longitude": "-122.302239",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0033",
+            "address": "500 23rd Ave, Seattle, WA 98122",
+            "id": "Seattlespot35",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4935.jpeg",
+            "latitude": "47.606572",
+            "longitude": "-122.302253",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0034",
+            "address": "500 23rd Ave, Seattle, WA 98122",
+            "id": "Seattlespot33",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4936.jpeg",
+            "latitude": "47.606425",
+            "longitude": "-122.302300",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0035",
+            "address": "500 23rd Ave, Seattle, WA 98122",
+            "id": "Seattlespot28",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4937.jpeg",
+            "latitude": "47.606419",
+            "longitude": "-122.302308",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0036",
+            "address": "500 23rd Ave, Seattle, WA 98122",
+            "id": "Seattlespot39",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4938.jpeg",
+            "latitude": "47.606797",
+            "longitude": "-122.302536",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0037",
+            "address": "401 Pine St, Seattle, WA 98101",
+            "id": "Seattlespot37",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4942.jpeg",
+            "latitude": "47.611122",
+            "longitude": "-122.337425",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0038",
+            "address": "401 Pine St, Seattle, WA 98101",
+            "id": "Seattlespot38",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4943.jpeg",
+            "latitude": "47.611356",
+            "longitude": "-122.337594",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0039",
+            "address": "401 Pine St, Seattle, WA 98101",
+            "id": "Seattlespot41",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4944.jpeg",
+            "latitude": "47.611400",
+            "longitude": "-122.337372",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0040",
+            "address": "1801 Westlake Ave, Seattle, WA 98109",
+            "id": "Seattlespot27",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4947.jpeg",
+            "latitude": "47.612942",
+            "longitude": "-122.337533",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0041",
+            "address": "4526 15th Ave NE, Seattle, WA 98105",
+            "id": "Seattlespot30",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4957.jpeg",
+            "latitude": "47.662231",
+            "longitude": "-122.311967",
+            "group": "WA"
+        },
+        {
+            "name": "Seattle Spot 0042",
+            "address": "4756 15th Ave NE, Seattle, WA 98105",
+            "id": "Seattlespot36",
+            "builder": "N/A",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Seattle street spot",
+            "pinimage": "spotpin",
+            "photos": "isaac_IMG_4958.jpeg",
+            "latitude": "47.664744",
+            "longitude": "-122.311853",
             "group": "WA"
         },
         {
