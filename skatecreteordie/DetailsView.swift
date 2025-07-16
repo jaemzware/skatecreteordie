@@ -48,7 +48,7 @@ struct DetailsView: View {
                         .font(.system(size: 15, weight: .bold))
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity, alignment: .leading)
-                        .onTapGesture {
+                        .onLongPressGesture {
                             copyAddress()
                         }
                 }
