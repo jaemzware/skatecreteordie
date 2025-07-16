@@ -13,7 +13,8 @@ class SwiftUIDetailsViewController: UIHostingController<DetailsView> {
             return
         }
         
-        // Update the hosted SwiftUI view with the current skate park
+        // Create a fresh DetailsView with the current skate park
+        // This ensures zoom is reset when switching parks
         let detailsView = DetailsView(skatePark: lastSkatepark)
         self.rootView = detailsView
     }

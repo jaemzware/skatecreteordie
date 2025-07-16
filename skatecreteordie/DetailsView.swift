@@ -6,6 +6,8 @@ struct DetailsView: View {
     @State private var scale: CGFloat = 1.0
     @State private var offset: CGSize = .zero
     @State private var lastOffset: CGSize = .zero
+    @State private var lastScale: CGFloat = 1.0
+    @State private var previousParkId: String? = nil
     
     var body: some View {
         GeometryReader { geometry in
@@ -55,13 +57,39 @@ struct DetailsView: View {
                 // Zoomable Image
                 ZoomableImageView(
                     photos: skatePark.photos ?? ["loading"],
-                    currentIndex: $currentPhotoIndex
+                    currentIndex: $currentPhotoIndex,
+                    scale: $scale,
+                    offset: $offset,
+                    lastOffset: $lastOffset,
+                    lastScale: $lastScale
                 )
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .padding(.horizontal, 3)
             }
         }
         .background(Color(red: 0.33, green: 0.33, blue: 0.33))
+        .onAppear {
+            // Reset zoom when park changes
+            if previousParkId != skatePark.id {
+                resetZoom()
+                previousParkId = skatePark.id
+            }
+        }
+        .onChange(of: skatePark.id) { newParkId in
+            // Reset zoom when park changes
+            if previousParkId != newParkId {
+                resetZoom()
+                previousParkId = newParkId
+            }
+        }
+    }
+    
+    private func resetZoom() {
+        scale = 1.0
+        offset = .zero
+        lastOffset = .zero
+        lastScale = 1.0
+        currentPhotoIndex = 0
     }
     
     private func buildLineOneText() -> String {
@@ -97,10 +125,10 @@ struct DetailsView: View {
 struct ZoomableImageView: View {
     let photos: [String]
     @Binding var currentIndex: Int
-    @State private var scale: CGFloat = 1.0
-    @State private var offset: CGSize = .zero
-    @State private var lastOffset: CGSize = .zero
-    @State private var lastScale: CGFloat = 1.0
+    @Binding var scale: CGFloat
+    @Binding var offset: CGSize
+    @Binding var lastOffset: CGSize
+    @Binding var lastScale: CGFloat
     @State private var image: UIImage?
     
     var body: some View {
