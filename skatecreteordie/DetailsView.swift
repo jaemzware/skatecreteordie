@@ -97,7 +97,7 @@ struct DetailsView: View {
         let sqft = skatePark.sqft ?? "n/a"
         let lights = skatePark.lights ?? "n/a"
         let covered = skatePark.covered ?? "n/a"
-        return "\(builder) Sz:\(sqft) Lt:\(lights) Cv:\(covered)"
+        return "\(builder) \(sqft) lights:\(lights) cover:\(covered)"
     }
     
     private func openDirections() {
