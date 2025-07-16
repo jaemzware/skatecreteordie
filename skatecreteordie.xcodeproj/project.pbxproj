@@ -14,6 +14,8 @@
 		7D1647892D02A4EE001A95B5 /* DetailsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D1647882D02A4EC001A95B5 /* DetailsScreen.swift */; };
 		7D16478B2D02A512001A95B5 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16478A2D02A510001A95B5 /* ListScreen.swift */; };
 		7D16478D2D02A538001A95B5 /* SkateCreteOrDieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16478C2D02A536001A95B5 /* SkateCreteOrDieTests.swift */; };
+		7D22934B2E273724008744C3 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D22934A2E273724008744C3 /* DetailsView.swift */; };
+		7D22934D2E273757008744C3 /* SwiftUIDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D22934C2E273757008744C3 /* SwiftUIDetailsViewController.swift */; };
 		7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7837372D113FC300C6B285 /* PinFilterView.swift */; };
 		7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8CD51926F21AE800A49D15 /* ListViewController.swift */; };
 		7D8F21222CF0186700877F77 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7D8F21212CF0186700877F77 /* README.md */; };
@@ -56,6 +58,8 @@
 		7D1647882D02A4EC001A95B5 /* DetailsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsScreen.swift; sourceTree = "<group>"; };
 		7D16478A2D02A510001A95B5 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
 		7D16478C2D02A536001A95B5 /* SkateCreteOrDieTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkateCreteOrDieTests.swift; sourceTree = "<group>"; };
+		7D22934A2E273724008744C3 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		7D22934C2E273757008744C3 /* SwiftUIDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDetailsViewController.swift; sourceTree = "<group>"; };
 		7D7837372D113FC300C6B285 /* PinFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinFilterView.swift; sourceTree = "<group>"; };
 		7D8CD51926F21AE800A49D15 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		7D8F21212CF0186700877F77 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -132,6 +136,8 @@
 		E2967E011CA6E1FC00F5B607 /* skatecreteordie */ = {
 			isa = PBXGroup;
 			children = (
+				7D22934C2E273757008744C3 /* SwiftUIDetailsViewController.swift */,
+				7D22934A2E273724008744C3 /* DetailsView.swift */,
 				7DADFFB32CEAB34500933EB5 /* ConfigurationManager.swift */,
 				7DADFFB12CEAB1F700933EB5 /* Configuration.plist */,
 				E20104A21CA786A800B807CB /* CustomPointAnnotation.swift */,
@@ -317,12 +323,14 @@
 			files = (
 				7DADFFB42CEAB35A00933EB5 /* ConfigurationManager.swift in Sources */,
 				E2967E371CA6E44900F5B607 /* SkatePark.swift in Sources */,
+				7D22934B2E273724008744C3 /* DetailsView.swift in Sources */,
 				E20104A31CA786A800B807CB /* CustomPointAnnotation.swift in Sources */,
 				7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */,
 				E2967E071CA6E1FC00F5B607 /* DetailsViewController.swift in Sources */,
 				E2967E031CA6E1FC00F5B607 /* AppDelegate.swift in Sources */,
 				7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */,
 				E2967E051CA6E1FC00F5B607 /* MapViewController.swift in Sources */,
+				7D22934D2E273757008744C3 /* SwiftUIDetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,7 +522,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 10.0;
+				MARKETING_VERSION = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jaemzware.skatecreteordie;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
@@ -540,7 +548,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 10.0;
+				MARKETING_VERSION = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = jaemzware.skatecreteordie;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
