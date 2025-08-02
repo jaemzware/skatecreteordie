@@ -18721,7 +18721,7 @@
             "group": "OR"
         },
         {
-            "name": "City of Parkersburg Skate Park",
+            "name": "Parkersburg, WV",
             "address": "2000 1st Ave, Parkersburg, WV 26101",
             "id": "Grindlineimport103",
             "builder": "Grindline",
@@ -18731,7 +18731,7 @@
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "parkersburgwv01.jpeg parkersburgwv02.jpeg parkersburgwv03.jpeg parkersburgwv04.jpeg parkersburgwv05.jpeg parkersburgwv06.jpeg parkersburgwv07.jpeg parkersburgwv08.jpeg parkersburgwv09.jpeg parkersburgwv10.jpeg",
+            "photos": "parkersburgwv01.jpeg parkersburgwv02.jpeg parkersburgwv03.jpeg parkersburgwv04.jpeg parkersburgwv05.jpeg parkersburgwv06.jpeg parkersburgwv07.jpeg parkersburgwv08.jpeg parkersburgwv09.jpeg parkersburgwv10.jpeg parkersburgwv11.jpg",
             "latitude": "39.2590752",
             "longitude": "-81.554266",
             "group": "WV"
