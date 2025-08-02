@@ -18725,7 +18725,7 @@
             "address": "2000 1st Ave, Parkersburg, WV 26101",
             "id": "Grindlineimport103",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "10,982.44 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
@@ -18737,20 +18737,20 @@
             "group": "WV"
         },
         {
-            "name": "Campland on the Bay",
-            "address": "DESIGN/BUILD NEW",
+            "name": "San Diego, CA - Campland on the Bay",
+            "address": "2211 Pacific Beach Dr, San Diego, CA 92109",
             "id": "Grindlineimport108",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "2,304.88 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
-            "latitude": "32.7960391",
-            "longitude": "-117.2245988",
-            "group": "TD"
+            "photos": "camplandca01.jpeg camplandca02.jpeg camplandca03.jpeg camplandca04.jpeg camplandca05.jpeg",
+            "latitude": "32.7966021",
+            "longitude": "-117.223101",
+            "group": "CA"
         },
         {
             "name": "Wichita Falls Skate Park",
