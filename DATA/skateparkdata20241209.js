@@ -18734,7 +18734,7 @@
             "photos": "parkersburgwv01.jpeg parkersburgwv02.jpeg parkersburgwv03.jpeg parkersburgwv04.jpeg parkersburgwv05.jpeg parkersburgwv06.jpeg parkersburgwv07.jpeg parkersburgwv08.jpeg parkersburgwv09.jpeg parkersburgwv10.jpeg",
             "latitude": "39.2590752",
             "longitude": "-81.554266",
-            "group": "TD"
+            "group": "WV"
         },
         {
             "name": "Campland on the Bay",
