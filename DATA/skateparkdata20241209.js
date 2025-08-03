@@ -18753,20 +18753,20 @@
             "group": "CA"
         },
         {
-            "name": "Wichita Falls Skate Park",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Wichita Falls, TX",
+            "address": "1719 Maurine St, Wichita Falls, TX 76306",
             "id": "Grindlineimport122",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "19,734.63 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "witchitafallstx01.jpeg witchitafallstx02.jpeg witchitafallstx03.jpeg witchitafallstx04.jpeg witchitafallstx05.jpeg witchitafallstx06.jpeg",
             "latitude": "33.9362646",
             "longitude": "-98.5135902",
-            "group": "TD"
+            "group": "TX"
         },
         {
             "name": "Maple Park & Maple Dog Park",
