@@ -5201,22 +5201,6 @@
             "group": "MT"
         },
         {
-            "name": "Wichita Falls, Texas",
-            "address": "1721 Maurine St, Wichita Falls, TX 76306, US",
-            "id": "DAN1198",
-            "builder": "unknown",
-            "sqft": "Unknown",
-            "lights": "N/A",
-            "covered": "N/A",
-            "url": "https://www.northwestskater.com/WichitaFallsTX.html",
-            "elements": "tbd",
-            "pinimage": "dansparkpin",
-            "photos": "https://www.northwestskater.com/WichitaFallsTX3038Title53023.jpg https://www.northwestskater.com/WichitaFallsTX3041A53023.jpg https://www.northwestskater.com/WichitaFallsTX3044B53023.jpg https://www.northwestskater.com/WichitaFallsTX3045C53023.jpg https://www.northwestskater.com/WichitaFallsTX3032D53023.jpg https://www.northwestskater.com/WichitaFallsTX3034E53023.jpg https://www.northwestskater.com/WichitaFallsTX3036F53023.jpg https://www.northwestskater.com/WichitaFallsTX3029Dedicated53023.jpg https://www.northwestskater.com/WichitaFallsTX3023Rules53023.jpg https://www.northwestskater.com/WichitaFallsTX3070DHfsaS53023.jpg https://www.northwestskater.com/WichitaFallsTX3072DHfsaS53023.jpg",
-            "latitude": "33.93598211",
-            "longitude": "-98.51375073",
-            "group": "TX"
-        },
-        {
             "name": "Wichita, Kansas",
             "address": "645 St Francis, Wichita, KS 67202, US",
             "id": "DAN1199",
@@ -18763,7 +18747,7 @@
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "witchitafallstx01.jpeg witchitafallstx02.jpeg witchitafallstx03.jpeg witchitafallstx04.jpeg witchitafallstx05.jpeg witchitafallstx06.jpeg",
+            "photos": "witchitafallstx01.jpeg witchitafallstx02.jpeg witchitafallstx03.jpeg witchitafallstx04.jpeg witchitafallstx05.jpeg witchitafallstx06.jpeg https://www.northwestskater.com/WichitaFallsTX3038Title53023.jpg https://www.northwestskater.com/WichitaFallsTX3041A53023.jpg https://www.northwestskater.com/WichitaFallsTX3044B53023.jpg https://www.northwestskater.com/WichitaFallsTX3045C53023.jpg https://www.northwestskater.com/WichitaFallsTX3032D53023.jpg https://www.northwestskater.com/WichitaFallsTX3034E53023.jpg https://www.northwestskater.com/WichitaFallsTX3036F53023.jpg https://www.northwestskater.com/WichitaFallsTX3029Dedicated53023.jpg https://www.northwestskater.com/WichitaFallsTX3023Rules53023.jpg https://www.northwestskater.com/WichitaFallsTX3070DHfsaS53023.jpg https://www.northwestskater.com/WichitaFallsTX3072DHfsaS53023.jpg",
             "latitude": "33.9362646",
             "longitude": "-98.5135902",
             "group": "TX"
