@@ -18785,22 +18785,6 @@
             "group": "IL"
         },
         {
-            "name": "Cody City Park",
-            "address": "DESIGN/BUILD NEW",
-            "id": "Grindlineimport152",
-            "builder": "Grindline",
-            "sqft": "",
-            "lights": "N/A",
-            "covered": "N/A",
-            "url": "https://www.grindline.com/map/",
-            "elements": "Concrete Skatepark.",
-            "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
-            "latitude": "44.5254181",
-            "longitude": "-109.0686929",
-            "group": "TD"
-        },
-        {
             "name": "Eastside Park",
             "address": "DESIGN/BUILD NEW",
             "id": "Grindlineimport168",
@@ -27342,6 +27326,22 @@
             "photos": "isaac_IMG_3189.jpg",
             "latitude": "47.60456111",
             "longitude": "-122.3351056",
+            "group": "WA"
+        },
+        {
+            "name": "Des Moines, WA - Spot",
+            "address": "22047 Cliff Ave S, Des Moines, WA 98198",
+            "id": "desmoinesspot1",
+            "builder": "unknown",
+            "sqft": "100 ft\u00b2",
+            "lights": "No",
+            "covered": "No",
+            "url": "https://maps.app.goo.gl/agJm453dh9WBwjS77",
+            "elements": "Street spot",
+            "pinimage": "spotpin",
+            "photos": "maxineIMG_0525.JPEG maxineIMG_0528.JPEG maxineIMG_0527.JPEG",
+            "latitude": "47.402222",
+            "longitude": "-122.331238",
             "group": "WA"
         },
         {
