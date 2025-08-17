@@ -18769,20 +18769,20 @@
             "group": "PA"
         },
         {
-            "name": "Indiana Skate Park",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Indiana, IL",
+            "address": "443 Illinois St, Park Forest, IL 60466",
             "id": "Grindlineimport147",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "16,506.21 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "indianail01.jpeg indianail02.jpeg indianail03.jpeg",
             "latitude": "41.5028202",
             "longitude": "-87.6932577",
-            "group": "TD"
+            "group": "IL"
         },
         {
             "name": "Cody City Park",
