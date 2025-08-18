@@ -18785,20 +18785,20 @@
             "group": "IL"
         },
         {
-            "name": "Eastside Park",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Omak, WA - Eastside Park",
+            "address": "401 Omak Ave, Omak, WA 98841",
             "id": "Grindlineimport168",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "10,997.96 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "omakwa01.jpeg omakwa02.jpeg omakwa03.jpeg omakwa04.jpeg omakwa05.jpeg omakwa06.jpeg omakwa07.jpeg omakwa08.jpeg",
             "latitude": "48.4101709",
             "longitude": "-119.5236289",
-            "group": "TD"
+            "group": "WA"
         },
         {
             "name": "Portage Skatepark",
