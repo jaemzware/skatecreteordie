@@ -18865,20 +18865,20 @@
             "group": "WA"
         },
         {
-            "name": "Skate Odyssey of Meridian Inc",
-            "address": "DESIGN NEW",
+            "name": "Meridian, MS - Skate Odyssey",
+            "address": "3435 N Hills St, Meridian, MS 39305",
             "id": "Grindlineimport184",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "56,563.75 ft\u00b2 ",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "meridianms01.jpeg meridianms02.jpeg",
             "latitude": "32.4071417",
             "longitude": "-88.711741",
-            "group": "TD"
+            "group": "MS"
         },
         {
             "name": "Oroville Skate Park",
