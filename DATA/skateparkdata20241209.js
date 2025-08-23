@@ -18812,8 +18812,8 @@
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
             "photos": "portageswestnege.jpg",
-            "latitude": "42.2009945",
-            "longitude": "-85.591613",
+            "latitude": "42.200401",
+            "longitude": "-85.559526",
             "group": "MI"
         },
         {
