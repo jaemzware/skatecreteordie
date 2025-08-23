@@ -18833,36 +18833,36 @@
             "group": "MD"
         },
         {
-            "name": "Skate Park in Ashdod Yam",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Ashdod, IL",
+            "address": "Sderot Moshe Dayan, Ashdod, Israel",
             "id": "Grindlineimport177",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "48,886.64 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "ashdodyam01.jpeg ashdodyam02.jpeg ashdodyam03.jpeg",
             "latitude": "31.7953637",
             "longitude": "34.6368123",
-            "group": "TD"
+            "group": "IL"
         },
         {
-            "name": "Ridgefield Skate Park",
-            "address": "DESIGN NEW",
+            "name": "Ridgefield, WA",
+            "address": "117 N 3rd Ave, Ridgefield, WA 98642",
             "id": "Grindlineimport182",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "7,573.98 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "ridgefieldwa01.jpeg ridgefieldwa02.jpeg",
             "latitude": "45.8161446",
             "longitude": "-122.7453307",
-            "group": "TD"
+            "group": "WA"
         },
         {
             "name": "Skate Odyssey of Meridian Inc",
