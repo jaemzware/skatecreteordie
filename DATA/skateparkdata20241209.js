@@ -18801,36 +18801,36 @@
             "group": "WA"
         },
         {
-            "name": "Portage Skatepark",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Portage, MI - South Westnedge Skatepark",
+            "address": "8015 Portage Rd, Portage, MI 49002",
             "id": "Grindlineimport173",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "53,154.08 ft\u00b2 ",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "portageswestnege.jpg",
             "latitude": "42.2009945",
             "longitude": "-85.591613",
-            "group": "TD"
+            "group": "MI"
         },
         {
-            "name": "Rash Field Park",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Baltimore, MD - Jake\u2019s Skatepark",
+            "address": "300 Key Hwy, Baltimore, MD 21230",
             "id": "Grindlineimport175",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "7,981.74 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
-            "latitude": "39.2812881",
-            "longitude": "-76.6094012",
-            "group": "TD"
+            "photos": "baltimoremdjakes01.jpeg baltimoremdjakes02.jpeg",
+            "latitude": "39.281384",
+            "longitude": "-76.610917",
+            "group": "MD"
         },
         {
             "name": "Skate Park in Ashdod Yam",
