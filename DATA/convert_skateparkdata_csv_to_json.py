@@ -20,7 +20,7 @@ def convert_csv_to_json(csv_file, json_file):
 
 if __name__ == "__main__":
     try:
-        convert_csv_to_json('skateparkdata.csv', 'skateparks.json')
+        convert_csv_to_json('skateparkdata.csv', 'skateparkdata20241209.js')
         print("Successfully converted CSV to JSON!")
     except Exception as e:
         print(f"An error occurred: {e}")
