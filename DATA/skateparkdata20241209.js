@@ -107,7 +107,7 @@
             "url": "http://www.northwestskater.com/adams.html",
             "elements": "Concrete Skatepark.",
             "pinimage": "skateparkpin",
-            "photos": "OREGONadams1.jpg OREGONadams2.jpg OREGONadams3.jpg OREGONadams4.jpg https://www.northwestskater.com/adamsor3707title6317.jpg https://www.northwestskater.com/adamsor3705A6317.jpg https://www.northwestskater.com/adamsor3704B6317.jpg https://www.northwestskater.com/adamsor3703C6317.jpg https://www.northwestskater.com/adamsign2506.jpg adams01.jpg  adams02.jpg",
+            "photos": "OREGONadams1.jpg OREGONadams2.jpg OREGONadams3.jpg OREGONadams4.jpg https://www.northwestskater.com/adamsor3707title6317.jpg https://www.northwestskater.com/adamsor3705A6317.jpg https://www.northwestskater.com/adamsor3704B6317.jpg https://www.northwestskater.com/adamsor3703C6317.jpg https://www.northwestskater.com/adamsign2506.jpg adams01.jpg adams02.jpg",
             "latitude": "45.768467",
             "longitude": "-118.564015",
             "group": "OR"
