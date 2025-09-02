@@ -18866,19 +18866,19 @@
         },
         {
             "name": "Oroville Skate Park",
-            "address": "DESIGN NEW",
+            "address": "1165 Feather River Blvd, Oroville, CA 95965",
             "id": "Grindlineimport185",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "17,851.91 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "oroville01.jpeg oroville02.jpeg oroville03.jpeg",
             "latitude": "39.5110069",
             "longitude": "-121.5691103",
-            "group": "TD"
+            "group": "CA"
         },
         {
             "name": "Schutte Park",
