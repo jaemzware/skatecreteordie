@@ -18930,7 +18930,7 @@
         },
         {
             "name": "Taku Lake Skate Park",
-            "address": "DESIGN/BUILD NEW",
+            "address": "8200 Stormy Pl, Anchorage, AK 99518",
             "id": "Grindlineimport19",
             "builder": "Grindline",
             "sqft": "",
