@@ -18897,20 +18897,20 @@
             "group": "DE"
         },
         {
-            "name": "Sun Prairie Skate Park",
-            "address": "DESIGN NEW",
+            "name": "Sun Prairie, WI",
+            "address": "600 S Bird St, Sun Prairie, WI 53590",
             "id": "Grindlineimport187",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "10,718.95 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "sunprarie01.jpeg sunprarie02.jpeg sunprarie03.jpeg",
             "latitude": "43.171938",
             "longitude": "-89.2289286",
-            "group": "TD"
+            "group": "WI"
         },
         {
             "name": "Spenard Community Recreation Center Skate Park",
