@@ -18881,20 +18881,20 @@
             "group": "CA"
         },
         {
-            "name": "Schutte Park",
-            "address": "DESIGN NEW",
+            "name": "Dover, DE - Schutte Park",
+            "address": "10 Electric Ave, Dover, DE 19904",
             "id": "Grindlineimport186",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "9,999 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
-            "elements": "Concrete Skatepark.",
+            "elements": "Concrete Skatepark still in the design phase, with a diy section open during construction.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "dover01.jpeg dover02.jpeg",
             "latitude": "39.1471751",
             "longitude": "-75.5545989",
-            "group": "TD"
+            "group": "DE"
         },
         {
             "name": "Sun Prairie Skate Park",
