@@ -18913,20 +18913,20 @@
             "group": "WI"
         },
         {
-            "name": "Spenard Community Recreation Center Skate Park",
-            "address": "DESIGN NEW",
+            "name": "Anchorage, AK - Spenard Community Recreation Center",
+            "address": "2020 W 48th Ave, Anchorage, AK 99517",
             "id": "Grindlineimport189",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "10,615.17 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "spenard01.jpeg spenard02.jpeg spenard03.jpeg",
             "latitude": "61.1765096",
             "longitude": "-149.9199154",
-            "group": "TD"
+            "group": "AK"
         },
         {
             "name": "Taku Lake Skate Park",
