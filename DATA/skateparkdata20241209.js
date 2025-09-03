@@ -18929,7 +18929,7 @@
             "group": "AK"
         },
         {
-            "name": "Taku Lake Skate Park",
+            "name": "Anchorage, AK - Taku Lake Skatepark",
             "address": "8200 Stormy Pl, Anchorage, AK 99518",
             "id": "Grindlineimport19",
             "builder": "Grindline",
@@ -18939,10 +18939,10 @@
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "taku01.jpg taku02.jpg taku03.jpg taku04.jpg",
             "latitude": "61.1466405",
             "longitude": "-149.8855335",
-            "group": "TD"
+            "group": "AK"
         },
         {
             "name": "Plymouth Skatepark",
