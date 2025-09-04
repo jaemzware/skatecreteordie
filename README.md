@@ -302,5 +302,5 @@ This project celebrates:
 
 *The entire project is independently funded, developed, and maintained as a contribution to skateboarding culture.*
 
-Want to help? Visit the [Submission page](https://skatecreteordie.com/submission) to contribute park data or corrections.
+Want to help? Visit the [Submission page](https://skatecreteordie.com) to contribute park data or corrections.
 
