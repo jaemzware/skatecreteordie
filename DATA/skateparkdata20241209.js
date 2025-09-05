@@ -18990,7 +18990,7 @@
             "photos": "colfax01.jpg",
             "latitude": "39.1015954",
             "longitude": "-120.958321",
-            "group": "CA"
+            "group": "WA"
         },
         {
             "name": "Wilmington, NC - Greenfield Grind Skatepark",
