@@ -18977,8 +18977,8 @@
             "group": "NY"
         },
         {
-            "name": "Colfax, WA",
-            "address": "1408 N Parkview Dr, Colfax, WA 99111",
+            "name": "Colfax, CA",
+            "address": "1408 N Parkview Dr, Colfax, CA 99111",
             "id": "Grindlineimport198",
             "builder": "Grindline",
             "sqft": "",
@@ -18990,7 +18990,7 @@
             "photos": "colfax01.jpg",
             "latitude": "39.1015954",
             "longitude": "-120.958321",
-            "group": "WA"
+            "group": "CA"
         },
         {
             "name": "Wilmington, NC - Greenfield Grind Skatepark",
