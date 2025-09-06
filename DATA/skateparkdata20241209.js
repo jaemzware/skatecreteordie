@@ -19441,20 +19441,20 @@
             "group": "TD"
         },
         {
-            "name": "Republic Park",
-            "address": "DESIGN/BUILD NEW",
+            "name": "Republic, WA - Republic Park",
+            "address": "16 N Kean St, Republic, WA 99166",
             "id": "Grindlineimport35",
             "builder": "Grindline",
-            "sqft": "",
+            "sqft": "3,689.16 ft\u00b2",
             "lights": "N/A",
             "covered": "N/A",
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "republic01.jpg republic02.jpg",
             "latitude": "48.6482924",
             "longitude": "-118.7390079",
-            "group": "TD"
+            "group": "WA"
         },
         {
             "name": "Ellicottville Skatepark",
