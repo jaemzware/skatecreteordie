@@ -350,10 +350,9 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
                         
                         self.skateParks.append(skatePark)
                         
-                        if name == "Mccook" {
-                            self.lastSkatepark = skatePark
-                            self.defaultSkateparkEntry = skatePark
-                        }
+                        // Set the last park loaded as the default
+                        self.lastSkatepark = skatePark
+                        self.defaultSkateparkEntry = skatePark
                     }
                 }
                 
@@ -372,18 +371,25 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
             print("Error loading skateparks: \(error)")
         }
     }
-    func pinCoordinatesForDestinationAddress(_ annotation:CustomPointAnnotation)->Void{
+    func pinCoordinatesForDestinationAddress(_ annotation: CustomPointAnnotation) -> Void {
         let destinationLocation = CLLocationCoordinate2D(
             latitude: CLLocationDegrees(annotation.skatepark.latitude!)!,
             longitude: CLLocationDegrees(annotation.skatepark.longitude!)!
         )
         
         annotation.coordinate = destinationLocation
+        
+        // If this is being called from dynamic loading (not static), update the default
+        if self.pinsHaveBeenDropped {
+            self.lastSkatepark = annotation.skatepark
+            self.defaultSkateparkEntry = annotation.skatepark
+        }
+        
         //run add annotation from main thread instead of the background process that calls this
         DispatchQueue.main.async {
             self.skateParkMapView.addAnnotation(annotation)
         }
-        self.pinsHaveBeenDropped = true;
+        self.pinsHaveBeenDropped = true
     }
     func clearOverlay(){
         let overlays = self.skateParkMapView.overlays
