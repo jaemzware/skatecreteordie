@@ -19057,7 +19057,7 @@
             "group": "DE"
         },
         {
-            "name": "Metalworks Skate Park",
+            "name": "Ferndale, WA - Metalworks Skate Park",
             "address": "5532 2nd Ave, Ferndale, WA 98248",
             "id": "Grindlineimport206",
             "builder": "Grindline",
@@ -19073,7 +19073,7 @@
             "group": "WA"
         },
         {
-            "name": "Kamiah City Skate Park",
+            "name": "Kamiah, ID",
             "address": "801 2nd St, Kamiah, ID 83536",
             "id": "Grindlineimport211",
             "builder": "Grindline",
@@ -19089,7 +19089,7 @@
             "group": "ID"
         },
         {
-            "name": "Shaw Skate Park",
+            "name": "Washington, DC - Shaw Skatepark",
             "address": "1528-1530 11th St NW, Washington, DC 20001",
             "id": "Grindlineimport212",
             "builder": "Grindline",
@@ -19105,8 +19105,8 @@
             "group": "DC"
         },
         {
-            "name": "Ryan Brennan Memorial Skate Park",
-            "address": "Mansell Pkwy, Salem, MA 01970",
+            "name": "Salem, MA - Ryan Brennan Memorial Skate Park",
+            "address": "Gallows Hill Park, Mansell Pkwy, Salem, MA 01970",
             "id": "Grindlineimport215",
             "builder": "Grindline",
             "sqft": "",
@@ -19121,7 +19121,7 @@
             "group": "MA"
         },
         {
-            "name": "Unity Skatepark",
+            "name": "Turners Falls, MA - Unity Skatepark",
             "address": "Unity Park, 56 1st St, Turners Falls, MA 01376",
             "id": "Grindlineimport217",
             "builder": "Grindline",
@@ -19137,7 +19137,7 @@
             "group": "MA"
         },
         {
-            "name": "Bridgeland Skateboard Park",
+            "name": "Cypress, TX - Bridgeland Skateboard Park",
             "address": "17330 E Creekside Bend Dr, Cypress, TX 77433",
             "id": "Grindlineimport218",
             "builder": "Grindline",
@@ -19153,7 +19153,7 @@
             "group": "TX"
         },
         {
-            "name": "Netanya",
+            "name": "Netanya, Israel",
             "address": "Yitskhak Moda'i St 7, Netanya, Israel",
             "id": "Grindlineimport219",
             "builder": "Grindline",
@@ -19169,7 +19169,7 @@
             "group": "NA"
         },
         {
-            "name": "Allegany Skate Park and Bicycle shop",
+            "name": "Allegany, NY - Skate Park and Bicycle shop",
             "address": "4122 NY-417, Allegany, NY 14706",
             "id": "Grindlineimport22",
             "builder": "Allegany",
