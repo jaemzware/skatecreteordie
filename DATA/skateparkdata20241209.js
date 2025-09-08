@@ -19166,7 +19166,7 @@
             "photos": "netanya01.jpg",
             "latitude": "32.291765",
             "longitude": "34.847825",
-            "group": "NA"
+            "group": "IL"
         },
         {
             "name": "Allegany, NY - Skate Park and Bicycle shop",
