@@ -19163,7 +19163,7 @@
             "url": "https://www.grindline.com/map/",
             "elements": "Concrete Skatepark.",
             "pinimage": "grindlinepin",
-            "photos": "ballardbowlskatecreteordie.jpg",
+            "photos": "netanya01.jpg",
             "latitude": "32.291765",
             "longitude": "34.847825",
             "group": "NA"
