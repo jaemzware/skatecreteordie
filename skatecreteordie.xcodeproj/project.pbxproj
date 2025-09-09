@@ -66,7 +66,7 @@
 		7DADFFB12CEAB1F700933EB5 /* Configuration.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Configuration.plist; sourceTree = "<group>"; };
 		7DADFFB32CEAB34500933EB5 /* ConfigurationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigurationManager.swift; sourceTree = "<group>"; };
 		E20104A21CA786A800B807CB /* CustomPointAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomPointAnnotation.swift; sourceTree = "<group>"; };
-		E2967DFF1CA6E1FC00F5B607 /* skatecreteordie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = skatecreteordie.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2967DFF1CA6E1FC00F5B607 /* Skatepark Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Skatepark Map.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2967E021CA6E1FC00F5B607 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2967E041CA6E1FC00F5B607 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		E2967E061CA6E1FC00F5B607 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
@@ -126,7 +126,7 @@
 		E2967E001CA6E1FC00F5B607 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E2967DFF1CA6E1FC00F5B607 /* skatecreteordie.app */,
+				E2967DFF1CA6E1FC00F5B607 /* Skatepark Map.app */,
 				E2967E151CA6E1FC00F5B607 /* skatecreteordieTests.xctest */,
 				E2967E201CA6E1FC00F5B607 /* skatecreteordieUITests.xctest */,
 			);
@@ -195,7 +195,7 @@
 			);
 			name = skatecreteordie;
 			productName = skatecreteordie;
-			productReference = E2967DFF1CA6E1FC00F5B607 /* skatecreteordie.app */;
+			productReference = E2967DFF1CA6E1FC00F5B607 /* Skatepark Map.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E2967E141CA6E1FC00F5B607 /* skatecreteordieTests */ = {
@@ -522,9 +522,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 13.0;
+				MARKETING_VERSION = 13.5;
 				PRODUCT_BUNDLE_IDENTIFIER = jaemzware.skatecreteordie;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Skatepark Map";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
@@ -548,9 +548,9 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 13.0;
+				MARKETING_VERSION = 13.5;
 				PRODUCT_BUNDLE_IDENTIFIER = jaemzware.skatecreteordie;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Skatepark Map";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
