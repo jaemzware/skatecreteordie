@@ -2785,22 +2785,6 @@
             "group": "NM"
         },
         {
-            "name": "Seattle (Roxhill Park)",
-            "address": "9208 29th Ave SW, Seattle, WA 98126, US",
-            "id": "DAN1004",
-            "builder": "unknown",
-            "sqft": "Unknown",
-            "lights": "N/A",
-            "covered": "N/A",
-            "url": "https://www.northwestskater.com/seattleroxhillwa.html",
-            "elements": "tbd",
-            "pinimage": "dansparkpin",
-            "photos": "https://www.northwestskater.com/seattleroxhillwa3677title53017.jpg https://www.northwestskater.com/seattleroxhillwa3676A53017.jpg https://www.northwestskater.com/seattleroxhillwa3681B53017.jpg https://www.northwestskater.com/seattleroxhillwa3678C53017.jpg https://www.northwestskater.com/seattleroxhillwa3682sign53017.jpg",
-            "latitude": "47.5207679",
-            "longitude": "-122.3702075",
-            "group": "WA"
-        },
-        {
             "name": "Sedona, Arizona",
             "address": "434 Posse Ground Rd, Sedona, AZ 86336, US",
             "id": "DAN1006",
