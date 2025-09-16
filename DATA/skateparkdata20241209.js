@@ -27969,6 +27969,22 @@
             "group": "WA"
         },
         {
+            "name": "Trinity 9-Set",
+            "address": "7551 35th Ave SW, Seattle, WA 98126",
+            "id": "spot000000063",
+            "builder": "church construction",
+            "sqft": "50sqft",
+            "lights": "partial",
+            "covered": "partial",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "A spot in the wild",
+            "pinimage": "spotpin",
+            "photos": "spot0063.jpg",
+            "latitude": "47.534205",
+            "longitude": "-122.376877",
+            "group": "WA"
+        },
+        {
             "name": "Springfield, MS",
             "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "springfield",
