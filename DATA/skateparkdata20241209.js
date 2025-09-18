@@ -27985,6 +27985,22 @@
             "group": "WA"
         },
         {
+            "name": "Mason Ledges",
+            "address": "1100 9th Ave, Seattle, WA 98101",
+            "id": "spot000000064",
+            "builder": "Hospital construction",
+            "sqft": "100 ft\u00b2",
+            "lights": "Yes",
+            "covered": "Yes",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "A spot in the wild",
+            "pinimage": "spotlightspin",
+            "photos": "masonledges01.jpg",
+            "latitude": "47.609302",
+            "longitude": "-122.327513",
+            "group": "WA"
+        },
+        {
             "name": "Springfield, MS",
             "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "springfield",
