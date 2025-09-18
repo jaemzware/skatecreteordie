@@ -26977,7 +26977,7 @@
             "group": "WA"
         },
         {
-            "name": "Spot 1",
+            "name": "DIY Jersey",
             "address": "6877 37th Ave S, Seattle, WA 98118, US",
             "id": "spot000000001",
             "builder": "unknown",
@@ -26993,7 +26993,7 @@
             "group": "WA"
         },
         {
-            "name": "Spot 2",
+            "name": "Fat Silver Rail",
             "address": "820 Lenora St, Seattle, WA 98121",
             "id": "spot000000002",
             "builder": "unknown",
@@ -27009,7 +27009,7 @@
             "group": "WA"
         },
         {
-            "name": "Spot 3",
+            "name": "Fat Mini Corner Curb",
             "address": "1301 NW 105th St, Seattle, WA 98177, USA",
             "id": "spot000000003",
             "builder": "unknown",
@@ -27025,7 +27025,7 @@
             "group": "WA"
         },
         {
-            "name": "Spot 4",
+            "name": "Dirt Bed Ledge",
             "address": "820 Lenora St, Seattle, WA 98121",
             "id": "spot000000004",
             "builder": "unknown",
@@ -27041,7 +27041,7 @@
             "group": "WA"
         },
         {
-            "name": "Spot 5",
+            "name": "Brick to Ledge",
             "address": "1400 NW 107th St, Seattle, WA 98177, USA",
             "id": "spot000000005",
             "builder": "unknown",
@@ -27569,7 +27569,7 @@
             "group": "WA"
         },
         {
-            "name": "Spot 38",
+            "name": "Toasted Rubba",
             "address": "4756 15th Ave NE, Seattle, WA 98105",
             "id": "spot000000038",
             "builder": "unknown",
