@@ -8,6 +8,25 @@ struct DetailsView: View {
     @State private var lastOffset: CGSize = .zero
     @State private var lastScale: CGFloat = 1.0
     @State private var previousParkId: String? = nil
+    @Environment(\.horizontalSizeClass) var horizontalSizeClass
+    @Environment(\.verticalSizeClass) var verticalSizeClass
+    
+    var isIPad: Bool {
+        // iPad typically has regular width AND regular height
+        horizontalSizeClass == .regular && verticalSizeClass == .regular
+    }
+    
+    var textFontSize: CGFloat {
+        isIPad ? 20 : 11 // Much more dramatic difference
+    }
+    
+    var buttonFontSize: CGFloat {
+        isIPad ? 18 : 11 // Much more dramatic difference
+    }
+    
+    var buttonWidth: CGFloat {
+        isIPad ? 150 : 100 // Wider buttons on iPad to fit larger text
+    }
     
     var body: some View {
         GeometryReader { geometry in
@@ -24,19 +43,22 @@ struct DetailsView: View {
                 // Info labels
                 VStack(alignment: .leading, spacing: 6) {
                     Text(buildLineOneText())
-                        .font(.system(size: 11, weight: .medium))
+                        .font(.system(size: textFontSize, weight: .bold))
                         .foregroundColor(.white)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
                         .background(Color.black)
                         .cornerRadius(4)
                         .frame(maxWidth: .infinity, alignment: .leading)
+                        .onAppear {
+                            print("Text font size: \(textFontSize), isIPad: \(isIPad)")
+                        }
                     
                     Button(action: {
                         copyAddress()
                     }) {
                         Text(skatePark.address ?? "")
-                            .font(.system(size: 11, weight: .medium))
+                            .font(.system(size: textFontSize, weight: .bold))
                             .foregroundColor(.white)
                             .padding(.horizontal, 8)
                             .padding(.vertical, 4)
@@ -49,7 +71,7 @@ struct DetailsView: View {
                     // Skatepark elements field with 2-3 lines reserved
                     if let elements = skatePark.elements, !elements.isEmpty {
                         Text("Elements: \(elements)")
-                            .font(.system(size: 11, weight: .medium))
+                            .font(.system(size: textFontSize, weight: .bold))
                             .foregroundColor(.white)
                             .padding(.horizontal, 8)
                             .padding(.vertical, 4)
@@ -72,17 +94,17 @@ struct DetailsView: View {
                         openDirections()
                     }
                     .buttonStyle(.borderedProminent)
-                    .font(.system(size: 11, weight: .medium))
+                    .font(.system(size: buttonFontSize, weight: .bold))
                     .frame(height: 28)
-                    .frame(maxWidth: 100)
+                    .frame(maxWidth: buttonWidth)
                     
                     Button("WEBSITE") {
                         openWebsite()
                     }
                     .buttonStyle(.borderedProminent)
-                    .font(.system(size: 11, weight: .medium))
+                    .font(.system(size: buttonFontSize, weight: .bold))
                     .frame(height: 28)
-                    .frame(maxWidth: 100)
+                    .frame(maxWidth: buttonWidth)
                 }
                 .padding(.horizontal, 16)
                 
