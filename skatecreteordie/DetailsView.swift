@@ -21,36 +21,68 @@ struct DetailsView: View {
                     .background(Color.white)
                     .padding(.horizontal, 16)
                 
-                // Buttons
-                HStack(spacing: 16) {
-                    Button("Directions") {
-                        openDirections()
-                    }
-                    .buttonStyle(.borderedProminent)
-                    .frame(height: 35)
+                // Info labels
+                VStack(alignment: .leading, spacing: 6) {
+                    Text(buildLineOneText())
+                        .font(.system(size: 11, weight: .medium))
+                        .foregroundColor(Color(red: 0.196, green: 0.804, blue: 0.196)) // Lime green
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 4)
+                        .background(Color.black)
+                        .cornerRadius(4)
+                        .frame(maxWidth: .infinity, alignment: .leading)
                     
-                    Button("Website") {
-                        openWebsite()
+                    Button(action: {
+                        copyAddress()
+                    }) {
+                        Text(skatePark.address ?? "")
+                            .font(.system(size: 11, weight: .medium))
+                            .foregroundColor(Color(red: 0.196, green: 0.804, blue: 0.196)) // Lime green
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 4)
+                            .background(Color.black)
+                            .cornerRadius(4)
+                            .frame(maxWidth: .infinity, alignment: .leading)
                     }
-                    .buttonStyle(.borderedProminent)
-                    .frame(height: 35)
+                    .buttonStyle(PlainButtonStyle())
+                    
+                    // Skatepark elements field with 2-3 lines reserved
+                    if let elements = skatePark.elements, !elements.isEmpty {
+                        Text("Elements: \(elements)")
+                            .font(.system(size: 11, weight: .medium))
+                            .foregroundColor(Color(red: 0.196, green: 0.804, blue: 0.196)) // Lime green
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 4)
+                            .background(Color.black)
+                            .cornerRadius(4)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .lineLimit(2)
+                    } else {
+                        // Empty space placeholder to maintain consistent button placement
+                        Text("")
+                            .font(.system(size: 11, weight: .medium))
+                            .frame(height: 40) // Reserve space for 2 lines
+                    }
                 }
                 .padding(.horizontal, 16)
                 
-                // Info labels
-                VStack(alignment: .leading, spacing: 8) {
-                    Text(buildLineOneText())
-                        .font(.system(size: 15, weight: .bold))
-                        .foregroundColor(.white)
-                        .frame(maxWidth: .infinity, alignment: .leading)
+                // Buttons moved here
+                HStack(spacing: 12) {
+                    Button("DIRECTIONS") {
+                        openDirections()
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .font(.system(size: 11, weight: .medium))
+                    .frame(height: 28)
+                    .frame(maxWidth: 100)
                     
-                    Text(skatePark.address ?? "")
-                        .font(.system(size: 15, weight: .bold))
-                        .foregroundColor(.white)
-                        .frame(maxWidth: .infinity, alignment: .leading)
-                        .onLongPressGesture {
-                            copyAddress()
-                        }
+                    Button("WEBSITE") {
+                        openWebsite()
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .font(.system(size: 11, weight: .medium))
+                    .frame(height: 28)
+                    .frame(maxWidth: 100)
                 }
                 .padding(.horizontal, 16)
                 
@@ -97,7 +129,7 @@ struct DetailsView: View {
         let sqft = skatePark.sqft ?? "n/a"
         let lights = skatePark.lights ?? "n/a"
         let covered = skatePark.covered ?? "n/a"
-        return "\(builder) \(sqft) lights:\(lights) cover:\(covered)"
+        return "Builder: \(builder) | SqFt: \(sqft) | Lights: \(lights) | Covered: \(covered)"
     }
     
     private func openDirections() {
