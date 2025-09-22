@@ -197,6 +197,43 @@ struct ZoomableImageView: View {
                             .aspectRatio(contentMode: .fit)
                             .scaleEffect(scale, anchor: .center)
                             .offset(x: offset.width, y: offset.height)
+                        
+                        // Navigation buttons overlay
+                        if photos.count > 1 {
+                            HStack {
+                                // Left button
+                                Button(action: previousPhoto) {
+                                    Image(systemName: "chevron.left")
+                                        .font(.system(size: 20, weight: .bold))
+                                        .foregroundColor(.white)
+                                        .background(
+                                            Circle()
+                                                .fill(Color.black.opacity(0.6))
+                                                .frame(width: 40, height: 40)
+                                        )
+                                }
+                                .frame(width: 40, height: 40)
+                                .opacity(currentIndex > 0 ? 1.0 : 0.3)
+                                
+                                Spacer()
+                                
+                                // Right button
+                                Button(action: nextPhoto) {
+                                    Image(systemName: "chevron.right")
+                                        .font(.system(size: 20, weight: .bold))
+                                        .foregroundColor(.white)
+                                        .background(
+                                            Circle()
+                                                .fill(Color.black.opacity(0.6))
+                                                .frame(width: 40, height: 40)
+                                        )
+                                }
+                                .frame(width: 40, height: 40)
+                                .opacity(currentIndex < photos.count - 1 ? 1.0 : 0.3)
+                            }
+                            .padding(.horizontal, 16)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
+                        }
                     }
                     .clipped()
                     .gesture(
@@ -253,10 +290,6 @@ struct ZoomableImageView: View {
                             lastOffset = .zero
                         }
                     }
-                    .onTapGesture(count: 1) {
-                        // Single tap to cycle photos
-                        nextPhoto()
-                    }
                     .onAppear {
                         loadImage()
                     }
@@ -300,7 +333,15 @@ struct ZoomableImageView: View {
     }
     
     private func nextPhoto() {
-        currentIndex = (currentIndex + 1) % photos.count
+        if currentIndex < photos.count - 1 {
+            currentIndex += 1
+        }
+    }
+    
+    private func previousPhoto() {
+        if currentIndex > 0 {
+            currentIndex -= 1
+        }
     }
     
     private func loadImage() {
