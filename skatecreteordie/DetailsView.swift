@@ -25,7 +25,7 @@ struct DetailsView: View {
                 VStack(alignment: .leading, spacing: 6) {
                     Text(buildLineOneText())
                         .font(.system(size: 11, weight: .medium))
-                        .foregroundColor(Color(red: 0.196, green: 0.804, blue: 0.196)) // Lime green
+                        .foregroundColor(.white)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 4)
                         .background(Color.black)
@@ -37,7 +37,7 @@ struct DetailsView: View {
                     }) {
                         Text(skatePark.address ?? "")
                             .font(.system(size: 11, weight: .medium))
-                            .foregroundColor(Color(red: 0.196, green: 0.804, blue: 0.196)) // Lime green
+                            .foregroundColor(.white)
                             .padding(.horizontal, 8)
                             .padding(.vertical, 4)
                             .background(Color.black)
@@ -50,7 +50,7 @@ struct DetailsView: View {
                     if let elements = skatePark.elements, !elements.isEmpty {
                         Text("Elements: \(elements)")
                             .font(.system(size: 11, weight: .medium))
-                            .foregroundColor(Color(red: 0.196, green: 0.804, blue: 0.196)) // Lime green
+                            .foregroundColor(.white)
                             .padding(.horizontal, 8)
                             .padding(.vertical, 4)
                             .background(Color.black)
