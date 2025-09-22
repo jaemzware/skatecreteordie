@@ -11,7 +11,7 @@
         <!--map-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
-                <viewController definesPresentationContext="YES" id="9pv-A4-QxB" customClass="MapViewController" customModule="skatecreteordie" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController definesPresentationContext="YES" id="9pv-A4-QxB" customClass="MapViewController" customModule="Skatepark_Map" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Ia1-K6-d13"/>
                         <viewControllerLayoutGuide type="bottom" id="4ug-Mw-9AY"/>
@@ -115,8 +115,8 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="contactAdd" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ee4-KY-61D">
-                                <rect key="frame" x="143.5" y="28" width="88" height="34.5"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Filter">
+                                <rect key="frame" x="136.5" y="28" width="102" height="34.5"/>
+                                <buttonConfiguration key="configuration" style="plain" title="FILTER">
                                     <color key="baseForegroundColor" systemColor="systemBackgroundColor"/>
                                 </buttonConfiguration>
                                 <connections>
@@ -177,7 +177,7 @@
         <!--list-->
         <scene sceneID="5ne-MP-toD">
             <objects>
-                <viewController id="IOM-vB-4rI" customClass="ListViewController" customModule="skatecreteordie" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="IOM-vB-4rI" customClass="ListViewController" customModule="Skatepark_Map" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="S2J-lk-Vcu">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -224,7 +224,7 @@
         <!--details-->
         <scene sceneID="wg7-f3-ORb">
             <objects>
-                <viewController id="8rJ-Kc-sve" customClass="SwiftUIDetailsViewController" customModule="skatecreteordie" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8rJ-Kc-sve" customClass="SwiftUIDetailsViewController" customModule="Skatepark_Map" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="L7p-HK-0SC"/>
                         <viewControllerLayoutGuide type="bottom" id="Djb-ko-YwX"/>
