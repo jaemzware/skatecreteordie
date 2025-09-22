@@ -107,6 +107,10 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // Set button background colors
+        filterButton.backgroundColor = UIColor.systemBlue
+        filterButton.layer.cornerRadius = 8.0
+        
         //INITIALIZE MAP VIEW PROPERTIES
         initializeMapViewProperties(skateParkMapView: self.skateParkMapView)
         
