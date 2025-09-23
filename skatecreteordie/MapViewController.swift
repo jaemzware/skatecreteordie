@@ -626,17 +626,8 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         return from.distance(from: to)
     }
     func zoomToAnnotation(withId id: String) {
-        // First, check if we need to clear the filter to show the selected park
-        if let currentFilter = currentFilterPinImage {
-            // Find the park with the given id
-            if let selectedPark = skateParks.first(where: { $0.id == id }) {
-                // Check if the selected park's pinimage matches the current filter
-                if selectedPark.pinimage != currentFilter {
-                    // Clear the filter to show all parks including the selected one
-                    refreshAnnotations(filterPinImage: nil)
-                }
-            }
-        }
+        // Since ListView only shows parks matching the current filter,
+        // we don't need to clear filters anymore!
         
         // Find the annotation with matching id
         if let annotation = skateParkMapView.annotations.first(where: { annotation in
