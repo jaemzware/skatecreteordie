@@ -47,6 +47,7 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     var startTime: TimeInterval = 0.0
     var elapsedTime: TimeInterval = 0.0
     var isTimerRunning = false
+    var currentFilterPinImage: String? = nil
     var skateParks:[SkatePark] = {() -> [SkatePark] in
         var skateParkArray:[SkatePark] = Array<SkatePark>()
         return skateParkArray
@@ -281,6 +282,20 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         }
     }
     func refreshAnnotations(filterPinImage: String? = nil) {
+        // Update the current filter state
+        currentFilterPinImage = filterPinImage
+        
+        // Update button title and color to reflect current filter
+        DispatchQueue.main.async {
+            if let filterName = filterPinImage {
+                self.filterButton.setTitle("Filter: \(filterName)", for: .normal)
+                self.filterButton.backgroundColor = UIColor.systemOrange // Orange when filtered
+            } else {
+                self.filterButton.setTitle("Filter", for: .normal)
+                self.filterButton.backgroundColor = UIColor.systemBlue // Blue when not filtered
+            }
+        }
+        
         let annotationsToRemove = skateParkMapView.annotations.filter { $0 !== skateParkMapView.userLocation }
         skateParkMapView.removeAnnotations(annotationsToRemove)
         
@@ -611,6 +626,18 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         return from.distance(from: to)
     }
     func zoomToAnnotation(withId id: String) {
+        // First, check if we need to clear the filter to show the selected park
+        if let currentFilter = currentFilterPinImage {
+            // Find the park with the given id
+            if let selectedPark = skateParks.first(where: { $0.id == id }) {
+                // Check if the selected park's pinimage matches the current filter
+                if selectedPark.pinimage != currentFilter {
+                    // Clear the filter to show all parks including the selected one
+                    refreshAnnotations(filterPinImage: nil)
+                }
+            }
+        }
+        
         // Find the annotation with matching id
         if let annotation = skateParkMapView.annotations.first(where: { annotation in
             if let customAnnotation = annotation as? CustomPointAnnotation {
