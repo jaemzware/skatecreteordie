@@ -50,9 +50,6 @@ struct DetailsView: View {
                         .background(Color.black)
                         .cornerRadius(4)
                         .frame(maxWidth: .infinity, alignment: .leading)
-                        .onAppear {
-                            print("Text font size: \(textFontSize), isIPad: \(isIPad)")
-                        }
                     
                     Button(action: {
                         copyAddress()
