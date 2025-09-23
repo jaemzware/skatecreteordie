@@ -86,7 +86,7 @@ struct DetailsView: View {
                 .padding(.horizontal, 16)
                 
                 // Buttons moved here
-                HStack(spacing: 12) {
+                HStack(spacing: 8) { // Reduced spacing since we have 3 buttons now
                     Button("DIRECTIONS") {
                         openDirections()
                     }
@@ -97,6 +97,14 @@ struct DetailsView: View {
                     
                     Button("WEBSITE") {
                         openWebsite()
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .font(.system(size: buttonFontSize, weight: .bold))
+                    .frame(height: 28)
+                    .frame(maxWidth: buttonWidth)
+                    
+                    Button("SUBMISSION") {
+                        openSubmission()
                     }
                     .buttonStyle(.borderedProminent)
                     .font(.system(size: buttonFontSize, weight: .bold))
@@ -162,6 +170,15 @@ struct DetailsView: View {
         guard let urlString = skatePark.url,
               let range = urlString.range(of: "http[^\\s]*", options: .regularExpression),
               let url = URL(string: String(urlString[range])) else { return }
+        UIApplication.shared.open(url)
+    }
+    
+    private func openSubmission() {
+        guard let path = Bundle.main.path(forResource: "Configuration", ofType: "plist"),
+              let config = NSDictionary(contentsOfFile: path),
+              let endpoints = config["APIEndpoints"] as? NSDictionary,
+              let submissionUrlString = endpoints["SubmissionURL"] as? String,
+              let url = URL(string: submissionUrlString) else { return }
         UIApplication.shared.open(url)
     }
     
