@@ -2,6 +2,7 @@ import SwiftUI
 
 struct ListView: View {
     let skateParks: [SkatePark]
+    let currentFilter: String?
     let onParkSelected: (SkatePark) -> Void
     
     @State private var searchText = ""
@@ -10,6 +11,14 @@ struct ListView: View {
     
     var isIPad: Bool {
         horizontalSizeClass == .regular && verticalSizeClass == .regular
+    }
+    
+    var navigationTitle: String {
+        if let filter = currentFilter {
+            return "Skate Parks - \(filter)"
+        } else {
+            return "Skate Parks"
+        }
     }
     
     // Group skate parks by group, then sort by name within each group
@@ -95,7 +104,7 @@ struct ListView: View {
                 }
                 .listStyle(PlainListStyle())
             }
-            .navigationTitle("Skate Parks")
+            .navigationTitle(navigationTitle)
             .navigationBarTitleDisplayMode(.large)
         }
         .navigationViewStyle(StackNavigationViewStyle()) // Ensures proper behavior on iPad
@@ -231,7 +240,7 @@ struct ListView_Previews: PreviewProvider {
             )
         ]
         
-        ListView(skateParks: sampleParks) { park in
+        ListView(skateParks: sampleParks, currentFilter: nil) { park in
             print("Selected park: \(park.name ?? "Unknown")")
         }
     }

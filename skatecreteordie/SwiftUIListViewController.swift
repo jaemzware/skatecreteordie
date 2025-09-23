@@ -23,6 +23,7 @@ class SwiftUIListViewController: UIHostingController<ListView> {
         // Create a fresh ListView with the filtered skate parks
         let listView = ListView(
             skateParks: parksToShow,
+            currentFilter: mapViewController.currentFilterPinImage,
             onParkSelected: { [weak self] selectedPark in
                 // Set the selected park in MapViewController
                 mapViewController.lastSkatepark = selectedPark
@@ -41,12 +42,12 @@ class SwiftUIListViewController: UIHostingController<ListView> {
     
     // Initialize with a placeholder view
     init() {
-        let listView = ListView(skateParks: [], onParkSelected: { _ in })
+        let listView = ListView(skateParks: [], currentFilter: nil, onParkSelected: { _ in })
         super.init(rootView: listView)
     }
     
     @MainActor required dynamic init?(coder aDecoder: NSCoder) {
-        let listView = ListView(skateParks: [], onParkSelected: { _ in })
+        let listView = ListView(skateParks: [], currentFilter: nil, onParkSelected: { _ in })
         super.init(coder: aDecoder, rootView: listView)
     }
 }
