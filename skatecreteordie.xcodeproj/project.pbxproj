@@ -24,7 +24,6 @@
 		E20104A31CA786A800B807CB /* CustomPointAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E20104A21CA786A800B807CB /* CustomPointAnnotation.swift */; };
 		E2967E031CA6E1FC00F5B607 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2967E021CA6E1FC00F5B607 /* AppDelegate.swift */; };
 		E2967E051CA6E1FC00F5B607 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2967E041CA6E1FC00F5B607 /* MapViewController.swift */; };
-		E2967E071CA6E1FC00F5B607 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2967E061CA6E1FC00F5B607 /* DetailsViewController.swift */; };
 		E2967E0A1CA6E1FC00F5B607 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2967E081CA6E1FC00F5B607 /* Main.storyboard */; };
 		E2967E0C1CA6E1FC00F5B607 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2967E0B1CA6E1FC00F5B607 /* Assets.xcassets */; };
 		E2967E0F1CA6E1FC00F5B607 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2967E0D1CA6E1FC00F5B607 /* LaunchScreen.storyboard */; };
@@ -69,7 +68,6 @@
 		E2967DFF1CA6E1FC00F5B607 /* Skatepark Map.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Skatepark Map.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2967E021CA6E1FC00F5B607 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2967E041CA6E1FC00F5B607 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
-		E2967E061CA6E1FC00F5B607 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		E2967E091CA6E1FC00F5B607 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E2967E0B1CA6E1FC00F5B607 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E2967E0E1CA6E1FC00F5B607 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -144,7 +142,6 @@
 				E2967E361CA6E44900F5B607 /* SkatePark.swift */,
 				E2967E021CA6E1FC00F5B607 /* AppDelegate.swift */,
 				E2967E041CA6E1FC00F5B607 /* MapViewController.swift */,
-				E2967E061CA6E1FC00F5B607 /* DetailsViewController.swift */,
 				E2967E0B1CA6E1FC00F5B607 /* Assets.xcassets */,
 				E2967E0D1CA6E1FC00F5B607 /* LaunchScreen.storyboard */,
 				E2967E081CA6E1FC00F5B607 /* Main.storyboard */,
@@ -326,7 +323,6 @@
 				7D22934B2E273724008744C3 /* DetailsView.swift in Sources */,
 				E20104A31CA786A800B807CB /* CustomPointAnnotation.swift in Sources */,
 				7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */,
-				E2967E071CA6E1FC00F5B607 /* DetailsViewController.swift in Sources */,
 				E2967E031CA6E1FC00F5B607 /* AppDelegate.swift in Sources */,
 				7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */,
 				E2967E051CA6E1FC00F5B607 /* MapViewController.swift in Sources */,
