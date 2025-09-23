@@ -13,6 +13,7 @@ struct ListView: View {
         horizontalSizeClass == .regular && verticalSizeClass == .regular
     }
     
+    // Computed property for navigation title
     var navigationTitle: String {
         if let filter = currentFilter {
             return "Skate Parks - \(filter)"
@@ -105,7 +106,7 @@ struct ListView: View {
                 .listStyle(PlainListStyle())
             }
             .navigationTitle(navigationTitle)
-            .navigationBarTitleDisplayMode(.large)
+            .navigationBarTitleDisplayMode(.inline)
         }
         .navigationViewStyle(StackNavigationViewStyle()) // Ensures proper behavior on iPad
     }
