@@ -16,8 +16,9 @@
 		7D16478D2D02A538001A95B5 /* SkateCreteOrDieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D16478C2D02A536001A95B5 /* SkateCreteOrDieTests.swift */; };
 		7D22934B2E273724008744C3 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D22934A2E273724008744C3 /* DetailsView.swift */; };
 		7D22934D2E273757008744C3 /* SwiftUIDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D22934C2E273757008744C3 /* SwiftUIDetailsViewController.swift */; };
+		7D57E72D2E82482C003537F1 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D57E72C2E82481B003537F1 /* ListView.swift */; };
+		7D57E72F2E824835003537F1 /* SwiftUIListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D57E72E2E824834003537F1 /* SwiftUIListViewController.swift */; };
 		7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7837372D113FC300C6B285 /* PinFilterView.swift */; };
-		7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D8CD51926F21AE800A49D15 /* ListViewController.swift */; };
 		7D8F21222CF0186700877F77 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7D8F21212CF0186700877F77 /* README.md */; };
 		7DADFFB22CEAB1F700933EB5 /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7DADFFB12CEAB1F700933EB5 /* Configuration.plist */; };
 		7DADFFB42CEAB35A00933EB5 /* ConfigurationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DADFFB32CEAB34500933EB5 /* ConfigurationManager.swift */; };
@@ -59,8 +60,9 @@
 		7D16478C2D02A536001A95B5 /* SkateCreteOrDieTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkateCreteOrDieTests.swift; sourceTree = "<group>"; };
 		7D22934A2E273724008744C3 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
 		7D22934C2E273757008744C3 /* SwiftUIDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDetailsViewController.swift; sourceTree = "<group>"; };
+		7D57E72C2E82481B003537F1 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		7D57E72E2E824834003537F1 /* SwiftUIListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIListViewController.swift; sourceTree = "<group>"; };
 		7D7837372D113FC300C6B285 /* PinFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinFilterView.swift; sourceTree = "<group>"; };
-		7D8CD51926F21AE800A49D15 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		7D8F21212CF0186700877F77 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7DADFFB12CEAB1F700933EB5 /* Configuration.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Configuration.plist; sourceTree = "<group>"; };
 		7DADFFB32CEAB34500933EB5 /* ConfigurationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigurationManager.swift; sourceTree = "<group>"; };
@@ -134,6 +136,8 @@
 		E2967E011CA6E1FC00F5B607 /* skatecreteordie */ = {
 			isa = PBXGroup;
 			children = (
+				7D57E72E2E824834003537F1 /* SwiftUIListViewController.swift */,
+				7D57E72C2E82481B003537F1 /* ListView.swift */,
 				7D22934C2E273757008744C3 /* SwiftUIDetailsViewController.swift */,
 				7D22934A2E273724008744C3 /* DetailsView.swift */,
 				7DADFFB32CEAB34500933EB5 /* ConfigurationManager.swift */,
@@ -146,7 +150,6 @@
 				E2967E0D1CA6E1FC00F5B607 /* LaunchScreen.storyboard */,
 				E2967E081CA6E1FC00F5B607 /* Main.storyboard */,
 				E2967E101CA6E1FC00F5B607 /* Info.plist */,
-				7D8CD51926F21AE800A49D15 /* ListViewController.swift */,
 				1E94D42C2BB3CE72005C6EF9 /* skateparkdata.json */,
 				7D7837372D113FC300C6B285 /* PinFilterView.swift */,
 			);
@@ -320,9 +323,10 @@
 			files = (
 				7DADFFB42CEAB35A00933EB5 /* ConfigurationManager.swift in Sources */,
 				E2967E371CA6E44900F5B607 /* SkatePark.swift in Sources */,
+				7D57E72F2E824835003537F1 /* SwiftUIListViewController.swift in Sources */,
 				7D22934B2E273724008744C3 /* DetailsView.swift in Sources */,
+				7D57E72D2E82482C003537F1 /* ListView.swift in Sources */,
 				E20104A31CA786A800B807CB /* CustomPointAnnotation.swift in Sources */,
-				7D8CD51A26F21AE800A49D15 /* ListViewController.swift in Sources */,
 				E2967E031CA6E1FC00F5B607 /* AppDelegate.swift in Sources */,
 				7D7837382D113FC300C6B285 /* PinFilterView.swift in Sources */,
 				E2967E051CA6E1FC00F5B607 /* MapViewController.swift in Sources */,
