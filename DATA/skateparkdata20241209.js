@@ -23761,9 +23761,9 @@
             "group": "FL"
         },
         {
-            "name": "David Deane Skatepark - Nashua, NH",
+            "name": "Nashua, NH - David Deane Skatepark",
             "address": "7 Stadium Drive, Nashua, NH 03062, US",
-            "id": "nashua",
+            "id": "nashuaartisan",
             "builder": "artisan",
             "sqft": "17,800sqft.",
             "lights": "no",
@@ -23779,7 +23779,7 @@
         {
             "name": "Nashua, NH",
             "address": "80 Bridge St, Nashua, NH 03060, US",
-            "id": "nashua",
+            "id": "nashuateampain",
             "builder": "Team Pain",
             "sqft": "10,000sqft.",
             "lights": "N/A",

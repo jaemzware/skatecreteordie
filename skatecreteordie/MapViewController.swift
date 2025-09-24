@@ -47,6 +47,7 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     var startTime: TimeInterval = 0.0
     var elapsedTime: TimeInterval = 0.0
     var isTimerRunning = false
+    var currentFilterPinImage: String? = nil
     var skateParks:[SkatePark] = {() -> [SkatePark] in
         var skateParkArray:[SkatePark] = Array<SkatePark>()
         return skateParkArray
@@ -106,6 +107,10 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
     }
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Set button background colors
+        filterButton.backgroundColor = UIColor.systemBlue
+        filterButton.layer.cornerRadius = 8.0
         
         //INITIALIZE MAP VIEW PROPERTIES
         initializeMapViewProperties(skateParkMapView: self.skateParkMapView)
@@ -277,6 +282,20 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         }
     }
     func refreshAnnotations(filterPinImage: String? = nil) {
+        // Update the current filter state
+        currentFilterPinImage = filterPinImage
+        
+        // Update button title and color to reflect current filter
+        DispatchQueue.main.async {
+            if let filterName = filterPinImage {
+                self.filterButton.setTitle("Filter: \(filterName)", for: .normal)
+                self.filterButton.backgroundColor = UIColor.systemOrange // Orange when filtered
+            } else {
+                self.filterButton.setTitle("Filter", for: .normal)
+                self.filterButton.backgroundColor = UIColor.systemBlue // Blue when not filtered
+            }
+        }
+        
         let annotationsToRemove = skateParkMapView.annotations.filter { $0 !== skateParkMapView.userLocation }
         skateParkMapView.removeAnnotations(annotationsToRemove)
         
@@ -607,6 +626,9 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
         return from.distance(from: to)
     }
     func zoomToAnnotation(withId id: String) {
+        // Since ListView only shows parks matching the current filter,
+        // we don't need to clear filters anymore!
+        
         // Find the annotation with matching id
         if let annotation = skateParkMapView.annotations.first(where: { annotation in
             if let customAnnotation = annotation as? CustomPointAnnotation {

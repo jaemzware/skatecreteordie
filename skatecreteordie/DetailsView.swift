@@ -8,6 +8,25 @@ struct DetailsView: View {
     @State private var lastOffset: CGSize = .zero
     @State private var lastScale: CGFloat = 1.0
     @State private var previousParkId: String? = nil
+    @Environment(\.horizontalSizeClass) var horizontalSizeClass
+    @Environment(\.verticalSizeClass) var verticalSizeClass
+    
+    var isIPad: Bool {
+        // iPad typically has regular width AND regular height
+        horizontalSizeClass == .regular && verticalSizeClass == .regular
+    }
+    
+    var textFontSize: CGFloat {
+        isIPad ? 20 : 11 // Much more dramatic difference
+    }
+    
+    var buttonFontSize: CGFloat {
+        isIPad ? 18 : 11 // Much more dramatic difference
+    }
+    
+    var buttonWidth: CGFloat {
+        isIPad ? 150 : 100 // Wider buttons on iPad to fit larger text
+    }
     
     var body: some View {
         GeometryReader { geometry in
@@ -21,36 +40,76 @@ struct DetailsView: View {
                     .background(Color.white)
                     .padding(.horizontal, 16)
                 
-                // Buttons
-                HStack(spacing: 16) {
-                    Button("Directions") {
-                        openDirections()
-                    }
-                    .buttonStyle(.borderedProminent)
-                    .frame(height: 35)
+                // Info labels
+                VStack(alignment: .leading, spacing: 6) {
+                    Text(buildLineOneText())
+                        .font(.system(size: textFontSize, weight: .bold))
+                        .foregroundColor(.white)
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 4)
+                        .background(Color.black)
+                        .cornerRadius(4)
+                        .frame(maxWidth: .infinity, alignment: .leading)
                     
-                    Button("Website") {
-                        openWebsite()
+                    Button(action: {
+                        copyAddress()
+                    }) {
+                        Text(skatePark.address ?? "")
+                            .font(.system(size: textFontSize, weight: .bold))
+                            .foregroundColor(.white)
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 4)
+                            .background(Color.black)
+                            .cornerRadius(4)
+                            .frame(maxWidth: .infinity, alignment: .leading)
                     }
-                    .buttonStyle(.borderedProminent)
-                    .frame(height: 35)
+                    .buttonStyle(PlainButtonStyle())
+                    
+                    // Skatepark elements field with 2-3 lines reserved
+                    if let elements = skatePark.elements, !elements.isEmpty {
+                        Text("Elements: \(elements)")
+                            .font(.system(size: textFontSize, weight: .bold))
+                            .foregroundColor(.white)
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 4)
+                            .background(Color.black)
+                            .cornerRadius(4)
+                            .frame(maxWidth: .infinity, alignment: .leading)
+                            .lineLimit(2)
+                    } else {
+                        // Empty space placeholder to maintain consistent button placement
+                        Text("")
+                            .font(.system(size: 11, weight: .medium))
+                            .frame(height: 40) // Reserve space for 2 lines
+                    }
                 }
                 .padding(.horizontal, 16)
                 
-                // Info labels
-                VStack(alignment: .leading, spacing: 8) {
-                    Text(buildLineOneText())
-                        .font(.system(size: 15, weight: .bold))
-                        .foregroundColor(.white)
-                        .frame(maxWidth: .infinity, alignment: .leading)
+                // Buttons moved here
+                HStack(spacing: 8) { // Reduced spacing since we have 3 buttons now
+                    Button("DIRECTIONS") {
+                        openDirections()
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .font(.system(size: buttonFontSize, weight: .bold))
+                    .frame(height: 28)
+                    .frame(maxWidth: buttonWidth)
                     
-                    Text(skatePark.address ?? "")
-                        .font(.system(size: 15, weight: .bold))
-                        .foregroundColor(.white)
-                        .frame(maxWidth: .infinity, alignment: .leading)
-                        .onLongPressGesture {
-                            copyAddress()
-                        }
+                    Button("WEBSITE") {
+                        openWebsite()
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .font(.system(size: buttonFontSize, weight: .bold))
+                    .frame(height: 28)
+                    .frame(maxWidth: buttonWidth)
+                    
+                    Button("SUBMISSION") {
+                        openSubmission()
+                    }
+                    .buttonStyle(.borderedProminent)
+                    .font(.system(size: buttonFontSize, weight: .bold))
+                    .frame(height: 28)
+                    .frame(maxWidth: buttonWidth)
                 }
                 .padding(.horizontal, 16)
                 
@@ -97,7 +156,7 @@ struct DetailsView: View {
         let sqft = skatePark.sqft ?? "n/a"
         let lights = skatePark.lights ?? "n/a"
         let covered = skatePark.covered ?? "n/a"
-        return "\(builder) \(sqft) lights:\(lights) cover:\(covered)"
+        return "Builder: \(builder) | SqFt: \(sqft) | Lights: \(lights) | Covered: \(covered)"
     }
     
     private func openDirections() {
@@ -111,6 +170,15 @@ struct DetailsView: View {
         guard let urlString = skatePark.url,
               let range = urlString.range(of: "http[^\\s]*", options: .regularExpression),
               let url = URL(string: String(urlString[range])) else { return }
+        UIApplication.shared.open(url)
+    }
+    
+    private func openSubmission() {
+        guard let path = Bundle.main.path(forResource: "Configuration", ofType: "plist"),
+              let config = NSDictionary(contentsOfFile: path),
+              let endpoints = config["APIEndpoints"] as? NSDictionary,
+              let submissionUrlString = endpoints["SubmissionURL"] as? String,
+              let url = URL(string: submissionUrlString) else { return }
         UIApplication.shared.open(url)
     }
     
@@ -143,6 +211,43 @@ struct ZoomableImageView: View {
                             .aspectRatio(contentMode: .fit)
                             .scaleEffect(scale, anchor: .center)
                             .offset(x: offset.width, y: offset.height)
+                        
+                        // Navigation buttons overlay
+                        if photos.count > 1 {
+                            HStack {
+                                // Left button
+                                Button(action: previousPhoto) {
+                                    Image(systemName: "chevron.left")
+                                        .font(.system(size: 20, weight: .bold))
+                                        .foregroundColor(.white)
+                                        .background(
+                                            Circle()
+                                                .fill(Color.black.opacity(0.6))
+                                                .frame(width: 40, height: 40)
+                                        )
+                                }
+                                .frame(width: 40, height: 40)
+                                .opacity(currentIndex > 0 ? 1.0 : 0.3)
+                                
+                                Spacer()
+                                
+                                // Right button
+                                Button(action: nextPhoto) {
+                                    Image(systemName: "chevron.right")
+                                        .font(.system(size: 20, weight: .bold))
+                                        .foregroundColor(.white)
+                                        .background(
+                                            Circle()
+                                                .fill(Color.black.opacity(0.6))
+                                                .frame(width: 40, height: 40)
+                                        )
+                                }
+                                .frame(width: 40, height: 40)
+                                .opacity(currentIndex < photos.count - 1 ? 1.0 : 0.3)
+                            }
+                            .padding(.horizontal, 16)
+                            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
+                        }
                     }
                     .clipped()
                     .gesture(
@@ -199,10 +304,6 @@ struct ZoomableImageView: View {
                             lastOffset = .zero
                         }
                     }
-                    .onTapGesture(count: 1) {
-                        // Single tap to cycle photos
-                        nextPhoto()
-                    }
                     .onAppear {
                         loadImage()
                     }
@@ -246,7 +347,15 @@ struct ZoomableImageView: View {
     }
     
     private func nextPhoto() {
-        currentIndex = (currentIndex + 1) % photos.count
+        if currentIndex < photos.count - 1 {
+            currentIndex += 1
+        }
+    }
+    
+    private func previousPhoto() {
+        if currentIndex > 0 {
+            currentIndex -= 1
+        }
     }
     
     private func loadImage() {
