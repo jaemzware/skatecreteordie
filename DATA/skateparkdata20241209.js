@@ -169,9 +169,9 @@
             "lights": "No",
             "covered": "No",
             "url": "https://www.evergreenskateparks.com/alberton-montana-skatepark",
-            "elements": "N/A",
+            "elements": "Classic Evergreen moonscape flow bowl. Separate square shaped bowl with pump bump waterfall. Small street section with rail. ",
             "pinimage": "evergreenpin",
-            "photos": "alberton01.jpg alberton02.jpg alberton03.jpg alberton04.jpg alberton05.jpg https://www.northwestskater.com/AlbertonMT1624Title82221.jpg https://www.northwestskater.com/AlbertonMT1627A82221.jpg https://www.northwestskater.com/AlbertonMT1629B82221.jpg https://www.northwestskater.com/AlbertonMT1632C82221.jpg https://www.northwestskater.com/AlbertonMT7651Rules82221.jpg https://www.northwestskater.com/AlbertonMT7653Smoke82221.jpg https://www.northwestskater.com/AlbertonMT1625Evergreen82221.jpg",
+            "photos": "albertonmt01.JPG albertonmt02.JPG albertonmt03.JPG albertonmt04.JPG alberton01.jpg alberton02.jpg alberton03.jpg alberton04.jpg alberton05.jpg https://www.northwestskater.com/AlbertonMT1624Title82221.jpg https://www.northwestskater.com/AlbertonMT1627A82221.jpg https://www.northwestskater.com/AlbertonMT1629B82221.jpg https://www.northwestskater.com/AlbertonMT1632C82221.jpg https://www.northwestskater.com/AlbertonMT7651Rules82221.jpg https://www.northwestskater.com/AlbertonMT7653Smoke82221.jpg https://www.northwestskater.com/AlbertonMT1625Evergreen82221.jpg",
             "latitude": "47.0018113",
             "longitude": "-114.4743964",
             "group": "MT"
