@@ -28505,11 +28505,11 @@
             "lights": "No",
             "covered": "No",
             "url": "https://www.evergreenskateparks.com/superior-montana-skatepark",
-            "elements": "N/A",
+            "elements": "Midsize peanut bowl with pump bump waterfall. Surrounded by a mote of small transition with a volcano and street elements.",
             "pinimage": "evergreenpin",
-            "photos": "superiormteg01.jpg https://www.northwestskater.com/SuperiorMT3204Title61623.jpg https://www.northwestskater.com/SuperiorMT3197A61623.jpg https://www.northwestskater.com/SuperiorMT3195B61623.jpg https://www.northwestskater.com/SuperiorMT3209C61623.jpg https://www.northwestskater.com/SuperiorMT3182ParkSign61623.jpg https://www.northwestskater.com/SuperiorMT3184Sign61623.jpg https://www.northwestskater.com/SuperiorMT3180Rules61623.jpg https://www.northwestskater.com/SuperiorMT3181Funding61623.jpg https://www.northwestskater.com/SuperiorMT3189ParkRules61623.jpg https://www.northwestskater.com/SuperiorMT3193Tile61623.jpg https://www.northwestskater.com/SuperiorMT3201Tile61623.jpg",
-            "latitude": "47.19075202",
-            "longitude": "-114.8849076",
+            "photos": "superiormt01.JPG superiormt02.JPG superiormt03.JPG superiormt04.JPG superiormt05.JPG superiormt06.JPG superiormt07.JPG superiormt08.JPG superiormt09.JPG superiormt10.JPG superiormteg01.jpg https://www.northwestskater.com/SuperiorMT3204Title61623.jpg https://www.northwestskater.com/SuperiorMT3197A61623.jpg https://www.northwestskater.com/SuperiorMT3195B61623.jpg https://www.northwestskater.com/SuperiorMT3209C61623.jpg https://www.northwestskater.com/SuperiorMT3182ParkSign61623.jpg https://www.northwestskater.com/SuperiorMT3184Sign61623.jpg https://www.northwestskater.com/SuperiorMT3180Rules61623.jpg https://www.northwestskater.com/SuperiorMT3181Funding61623.jpg https://www.northwestskater.com/SuperiorMT3189ParkRules61623.jpg https://www.northwestskater.com/SuperiorMT3193Tile61623.jpg https://www.northwestskater.com/SuperiorMT3201Tile61623.jpg",
+            "latitude": "47.191116666666700",
+            "longitude": "-114.88609444444400",
             "group": "MT"
         },
         {
