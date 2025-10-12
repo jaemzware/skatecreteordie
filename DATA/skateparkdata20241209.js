@@ -28097,6 +28097,38 @@
             "group": "WA"
         },
         {
+            "name": "Roll on Grind Rail",
+            "address": "1201 2nd Ave, Seattle, WA 98101",
+            "id": "Spot000000071",
+            "builder": "DIY.",
+            "sqft": "100 ft\u00b2",
+            "lights": "Partial",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Skinny metal roll on grind across dirt",
+            "pinimage": "spotlightspin",
+            "photos": "skinnyMetalRail.jpg",
+            "latitude": "47.60631111",
+            "longitude": "-122.3372194",
+            "group": "WA"
+        },
+        {
+            "name": "Concrete Ledge",
+            "address": "1505 Alaskan Wy, Seattle, WA 98101",
+            "id": "Spot000000072",
+            "builder": "DIY.",
+            "sqft": "100 ft\u00b2",
+            "lights": "Yes",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Chill concrete ledge, long",
+            "pinimage": "spotpin",
+            "photos": "concreteLedge01.jpg concreteLedge02.jpg",
+            "latitude": "47.60848889",
+            "longitude": "-122.34285",
+            "group": "WA"
+        },
+        {
             "name": "Springfield, MS",
             "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "springfield",
