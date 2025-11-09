@@ -28129,6 +28129,22 @@
             "group": "WA"
         },
         {
+            "name": "UW Padelford Garage",
+            "address": "4110 E Stevens Way NE, Seattle, WA 98195",
+            "id": "Spot000000073",
+            "builder": "uw construction",
+            "sqft": "100sqft",
+            "lights": "yes",
+            "covered": "yes",
+            "url": "https://maps.app.goo.gl/Chi5aHCLKT5VNT4z9?g_st=ipc",
+            "elements": "large bank bordered by curb",
+            "pinimage": "spotlightspin",
+            "photos": "IMG_6467.jpeg IMG_6466.jpeg IMG_6465.jpeg",
+            "latitude": "47.657144",
+            "longitude": "-122.303658",
+            "group": "WA"
+        },
+        {
             "name": "Springfield, MS",
             "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "springfield",
