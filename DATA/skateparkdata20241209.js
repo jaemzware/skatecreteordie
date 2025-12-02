@@ -28145,6 +28145,38 @@
             "group": "WA"
         },
         {
+            "name": "Down ledge on sloped sidewalk",
+            "address": "2134 Western Ave, Seattle, WA 98121",
+            "id": "Spot000000074",
+            "builder": "City of Seattle",
+            "sqft": "50sqft",
+            "lights": "partial",
+            "covered": "no",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Ledge",
+            "pinimage": "spotpin",
+            "photos": "https://f005.backblazeb2.com/file/skatecreteordie/submission/2025-11-13T04-28-35-546Z_0ef02874.jpeg",
+            "latitude": "47.61196388888890",
+            "longitude": "-122.34593333333300",
+            "group": "WA"
+        },
+        {
+            "name": "Short down ledge on flat sidewalk",
+            "address": "Near 3544 W Marginal Wy SW, Seattle, WA 98106",
+            "id": "Spot000000075",
+            "builder": "City of Seattle",
+            "sqft": "50sqft",
+            "lights": "no",
+            "covered": "No",
+            "url": "https://en.wikipedia.org/wiki/Seattle",
+            "elements": "Angle Ledge",
+            "pinimage": "spotpin",
+            "photos": "https://f005.backblazeb2.com/file/skatecreteordie/submission/2025-11-13T04-27-09-342Z_2f94e07f.jpeg",
+            "latitude": "47.57127777777780",
+            "longitude": "-122.35734",
+            "group": "WA"
+        },
+        {
             "name": "Springfield, MS",
             "address": "945 W Meadowmere St, Springfield, MO 65807, US",
             "id": "springfield",
