@@ -28155,7 +28155,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Ledge",
             "pinimage": "spotpin",
-            "photos": "https://f005.backblazeb2.com/file/skatecreteordie/submission/2025-11-13T04-28-35-546Z_0ef02874.jpeg",
+            "photos": "downdown.jpeg",
             "latitude": "47.61196388888890",
             "longitude": "-122.34593333333300",
             "group": "WA"
@@ -28171,7 +28171,7 @@
             "url": "https://en.wikipedia.org/wiki/Seattle",
             "elements": "Angle Ledge",
             "pinimage": "spotpin",
-            "photos": "https://f005.backblazeb2.com/file/skatecreteordie/submission/2025-11-13T04-27-09-342Z_2f94e07f.jpeg",
+            "photos": "flatdown.jpeg",
             "latitude": "47.57127777777780",
             "longitude": "-122.35734",
             "group": "WA"
