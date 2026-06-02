@@ -257,7 +257,7 @@ class MapViewController: UIViewController, MKMapViewDelegate, CLLocationManagerD
                     //DISPLAY COORDINATES IN STATUS OUTPUT
                     if let lat = lastSkatepark!.latitude{
                         if let lon = lastSkatepark!.longitude {
-                            maptextview.text = "\(lat),\(lon)"
+                            maptextview.text = "\(lat), \(lon)"
                         }
                 }
                         
