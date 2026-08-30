@@ -277,7 +277,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Acknowledgments
 
 ### Dedication 💫
-This project is dedicated to the memory and spirit of Mark "Monk" Hubbard (1970-2018), founder of Grindline Skateparks. His dedication, grit, skill, and heart for skateparks and the skateboarding community inspired the creation of skatecreteordie when I had no idea how to build an app. Monk's masterful craft of building skateparks is the primary driving force behind this project. Thank you, Monk, for showing us all what passion truly means.
+This project is dedicated to Women and children having fun while easily catching any abusers.
 
 ### About the Project 🛹
 skatecreteordie is a DIY passion project born from 37 years of skateboarding experience. The project spans multiple platforms:
